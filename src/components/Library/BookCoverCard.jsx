@@ -1,10 +1,12 @@
+import { publicUrl } from '../../utils/publicUrl'
+
 export default function BookCoverCard({ book, onClick }) {
   return (
     <button className="book-cover-card" onClick={onClick}>
       <div className="book-cover-card__image-wrap">
         {book.cover ? (
           <img
-            src={book.cover}
+            src={publicUrl(book.cover)}
             alt={book.title}
             className="book-cover-card__image"
           />
@@ -21,5 +23,5 @@ export default function BookCoverCard({ book, onClick }) {
         </div>
       </div>
     </button>
-  );
+  )
 }

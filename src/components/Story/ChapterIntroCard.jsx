@@ -1,3 +1,5 @@
+import { publicUrl } from '../../utils/publicUrl'
+
 export default function ChapterIntroCard({ chapterMeta, chapterIndex }) {
   const title = chapterMeta?.title ?? `Chapter ${chapterIndex}`
   const mood = chapterMeta?.mood ?? null
@@ -7,7 +9,7 @@ export default function ChapterIntroCard({ chapterMeta, chapterIndex }) {
     <div className="chapter-intro">
       {image && (
         <div className="chapter-intro__image-wrap">
-          <img src={image} alt={title} className="chapter-intro__image" />
+          <img src={publicUrl(image)} alt={title} className="chapter-intro__image" />
           <div className="chapter-intro__image-fade" />
         </div>
       )}

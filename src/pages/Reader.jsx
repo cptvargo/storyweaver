@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/useLocalStorage'
 import { loadPage } from '../utils/storyEngine'
+import { publicUrl } from '../utils/publicUrl'
 import SceneRenderer from '../components/Story/SceneRenderer'
 import ChapterIntroCard from '../components/Story/ChapterIntroCard'
 import PageShell from '../components/Layout/PageShell'
@@ -142,7 +143,7 @@ export default function Reader() {
           <div className="reader__book-info">
             {selectedBook.cover && (
               <img
-                src={selectedBook.cover}
+                src={publicUrl(selectedBook.cover)}
                 alt={selectedBook.title}
                 className="reader__cover-thumb"
               />

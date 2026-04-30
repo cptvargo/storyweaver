@@ -1,5 +1,7 @@
+import { publicUrl } from '../../utils/publicUrl'
+
 export default function BookDetail({ book, onClose, onRead }) {
-  if (!book) return null;
+  if (!book) return null
 
   return (
     <div className="book-detail">
@@ -13,7 +15,7 @@ export default function BookDetail({ book, onClose, onRead }) {
         <div className="book-detail__cover-wrap">
           {book.cover ? (
             <img
-              src={book.cover}
+              src={publicUrl(book.cover)}
               alt={book.title}
               className="book-detail__cover"
             />
@@ -39,5 +41,5 @@ export default function BookDetail({ book, onClose, onRead }) {
         </div>
       </div>
     </div>
-  );
+  )
 }
