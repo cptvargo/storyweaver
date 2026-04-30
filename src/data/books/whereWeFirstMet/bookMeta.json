@@ -1,0 +1,79 @@
+{
+  "id": "whereWeFirstMet",
+  "title": "Where We First Met",
+  "subtitle": "Just Long Enough to Matter",
+  "genre": "Romance",
+  "subgenre": "Clean Romance / Tear-Jerker",
+  "tags": [
+    "romance",
+    "clean-romance",
+    "emotional",
+    "tearjerker",
+    "love",
+    "loss",
+    "bittersweet",
+    "heartfelt",
+    "slow-burn",
+    "literary",
+    "terminal-illness",
+    "coming-of-age",
+    "first-love"
+  ],
+  "description": "Ethan Carter is a quiet nineteen-year-old artist who notices the world in details most people miss. Cassandra Hale is a bright, spontaneous redhead who lives like every moment matters. When their paths cross near a small town park, an ordinary day becomes the beginning of something neither of them expected. But Cassandra is carrying a secret that will slowly change the meaning of every moment they share.",
+  "shortDescription": "A clean, emotional romance about first love, hidden pain, and the moments that matter most.",
+  "mainCharacters": [
+    {
+      "name": "Ethan Carter",
+      "age": 19,
+      "role": "Male lead",
+      "description": "A freelance artist with a quiet soul, awkward charm, and a habit of seeing beauty where others rush past it."
+    },
+    {
+      "name": "Cassandra Hale",
+      "age": 19,
+      "role": "Female lead",
+      "description": "A playful, red-haired girl who loves arcades, iced coffee, and spontaneous moments, while quietly carrying a life-altering secret."
+    }
+  ],
+  "supportingCharacters": [
+    "Lena",
+    "Maya Hale",
+    "Noah",
+    "Mr. Alvarez",
+    "Ethan's Mom"
+  ],
+  "setting": [
+    "The Copper Mug",
+    "Town arcade",
+    "Small town park",
+    "Ethan's bedroom",
+    "Cassandra's bedroom"
+  ],
+  "totalChapters": 14,
+  "chapterCountPlanned": 14,
+  "status": "in-progress",
+  "author": "StoryWeaver",
+  "readingTime": "~3.5–4.5 hours",
+  "contentRating": "Clean",
+  "cover": "/where_we_first_met.png",
+  "coverTone": "warm, bittersweet, emotional, hopeful",
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "title": "Passing Lines",
+      "image": "/covers/where-we-first-met-ch1.jpg",
+      "mood": "Where an ordinary morning quietly changes everything.",
+      "totalPages": 12
+    }
+  ],
+  "themes": [
+    "time",
+    "love",
+    "hope",
+    "loss",
+    "ordinary moments",
+    "hidden suffering",
+    "learning to be seen",
+    "loving without certainty"
+  ]
+}
