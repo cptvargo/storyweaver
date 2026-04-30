@@ -4,7 +4,23 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>storyweaver</title>
+    <title>StoryWeaver</title>
+    <script>
+      // Restore path encoded by 404.html redirect
+      (function () {
+        var p = window.location.search.match(/[?&]p=([^&]*)/);
+        if (p) {
+          var q = window.location.search.match(/[?&]q=([^&]*)/);
+          window.history.replaceState(
+            null, null,
+            window.location.pathname +
+            '/' + p[1].replace(/~and~/g, '&') +
+            (q ? '?' + q[1].replace(/~and~/g, '&') : '') +
+            window.location.hash
+          );
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
