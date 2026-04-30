@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 import { ALL_BOOKS } from "../utils/storyEngine";
+import logo from '/storyweaver_logo.png'
 import BookCoverCard from "../components/Library/BookCoverCard";
 import BookDetail from "../components/Library/BookDetail";
 
@@ -34,7 +35,7 @@ export default function Library() {
         </button>
 
         <img
-          src="/storyweaver_logo.png"
+          src={logo}
           alt="StoryWeaver"
           className="library__logo"
         />

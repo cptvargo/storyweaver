@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/useLocalStorage'
+import logo from '/storyweaver_logo.png'
 
 export default function Home() {
   const navigate = useNavigate()
@@ -19,7 +20,7 @@ export default function Home() {
       <div className="home__hero">
         <div className="home__halo" aria-hidden="true" />
         <img
-          src="/storyweaver_logo.png"
+          src={logo}
           alt="StoryWeaver — Weaving stories from moments that matter."
           className="home__logo-img"
         />
