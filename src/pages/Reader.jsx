@@ -117,7 +117,6 @@ export default function Reader() {
   }
 
   const isFinished = chapterIndex >= totalChapters && pageIndex >= totalPages
-  const canGoBack = chapterIndex > 1 || pageIndex > 0
 
   const pov =
     page?.pov ??
@@ -161,37 +160,18 @@ export default function Reader() {
         {loading ? (
           <div className="reader__loading">
             <div className="loading-spinner" />
-            <p>Opening page…</p>
           </div>
         ) : isIntroCard ? (
           /* Chapter intro card — pageIndex 0 */
-          <>
+          <div key={pageState.key} className="reader__page-content">
             <ChapterIntroCard
               chapterMeta={chapterMeta}
               chapterIndex={chapterIndex}
             />
-            <div className="reader__nav reader__nav--intro">
-              {canGoBack && (
-                <button
-                  className="reader__nav-arrow"
-                  onClick={handlePrevPage}
-                  aria-label="Previous"
-                >
-                  ←
-                </button>
-              )}
-              <button
-                className="reader__nav-arrow reader__nav-arrow--primary"
-                onClick={handleNextPage}
-                aria-label="Begin chapter"
-              >
-                →
-              </button>
-            </div>
-          </>
+          </div>
         ) : page ? (
           /* Story pages */
-          <>
+          <div key={pageState.key} className="reader__page-content">
             <div className="reader__chapter-header">
               {pageIndex === 1 && (
                 <div className="chapter-number">Chapter {chapterIndex}</div>
@@ -211,39 +191,20 @@ export default function Reader() {
               <span className="reader__page-label">{pageLabel}</span>
             </div>
 
-            <div className="reader__nav">
-              {canGoBack && (
+            {isFinished && (
+              <div className="reader__finished">
+                <div className="finished__mark">✦</div>
+                <p className="finished__text">The End</p>
+                <p className="finished__sub">{selectedBook.title}</p>
                 <button
-                  className="reader__nav-arrow"
-                  onClick={handlePrevPage}
-                  aria-label="Previous page"
+                  className="btn btn--ghost"
+                  onClick={() => navigate('/')}
                 >
-                  ←
+                  Return Home
                 </button>
-              )}
-              {!isFinished ? (
-                <button
-                  className="reader__nav-arrow reader__nav-arrow--primary"
-                  onClick={handleNextPage}
-                  aria-label="Next page"
-                >
-                  →
-                </button>
-              ) : (
-                <div className="reader__finished">
-                  <div className="finished__mark">✦</div>
-                  <p className="finished__text">The End</p>
-                  <p className="finished__sub">{selectedBook.title}</p>
-                  <button
-                    className="btn btn--ghost"
-                    onClick={() => navigate('/')}
-                  >
-                    Return Home
-                  </button>
-                </div>
-              )}
-            </div>
-          </>
+              </div>
+            )}
+          </div>
         ) : (
           <div className="reader-empty">
             <p>Page not found.</p>
