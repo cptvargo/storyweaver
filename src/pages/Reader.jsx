@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/useLocalStorage'
-import { loadPage } from '../utils/storyEngine'
+import { loadPage, ALL_BOOKS } from '../utils/storyEngine'
 import { publicUrl } from '../utils/publicUrl'
 import SceneRenderer from '../components/Story/SceneRenderer'
 import ChapterIntroCard from '../components/Story/ChapterIntroCard'
@@ -16,7 +16,11 @@ function makeKey(chapterIndex, pageIndex) {
 
 export default function Reader() {
   const navigate = useNavigate()
-  const [selectedBook] = useLocalStorage('sw_selectedBook', null)
+  const [storedBook] = useLocalStorage('sw_selectedBook', null)
+  // Always resolve against live imports so stale localStorage never misses new fields
+  const selectedBook = storedBook
+    ? (ALL_BOOKS.find((b) => b.id === storedBook.id) ?? storedBook)
+    : null
   const [progress, setProgress] = useLocalStorage('sw_progress', {
     chapterIndex: 1,
     pageIndex: 0,
