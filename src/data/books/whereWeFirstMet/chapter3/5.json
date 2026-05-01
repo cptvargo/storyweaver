@@ -1,0 +1,94 @@
+{
+  "chapterIndex": 3,
+  "pageIndex": 5,
+  "blocks": [
+    {
+      "type": "narration",
+      "content": "Cassandra sat on the edge of her bed, one leg tucked beneath her, Harold resting loosely against her side.\n\nHer phone lit up again."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Lena", "content": "You’re quiet." }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra stared at the message for a second before unlocking her screen."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Cassandra", "content": "I’m thinking." },
+        { "sender": "Lena", "content": "That’s dangerous." }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra smiled faintly."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Cassandra", "content": "He asked if he’d see me again." },
+        { "sender": "Lena", "content": "And?" },
+        { "sender": "Cassandra", "content": "I said yes." }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Three dots appeared immediately.\n\nStayed longer this time.\n\nThen:"
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Lena", "content": "Cass…" }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra’s thumb hovered over the screen.\n\nShe knew that tone.\n\nEven in text."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Cassandra", "content": "Don’t." },
+        { "sender": "Lena", "content": "I’m not trying to ruin anything." },
+        { "sender": "Cassandra", "content": "It feels like you are." },
+        { "sender": "Lena", "content": "I’m trying to protect you." }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra looked down at Harold, adjusting him slightly in her arms.\n\nSoft.\n\nSteady.\n\nSimple.\n\n“I don’t need protection,” she muttered under her breath.\n\nThen typed:"
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Cassandra", "content": "I don’t want to be protected from everything." },
+        { "sender": "Lena", "content": "That’s not what this is." },
+        { "sender": "Cassandra", "content": "Then what is it?" }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "The reply took longer this time.\n\nWhen it came—\n\nit was quieter."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Lena", "content": "It’s about what happens after." }
+      ]
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra’s chest tightened slightly.\n\nNot enough to stop her.\n\nEnough to notice.\n\nShe leaned back slowly against the headboard, eyes drifting toward the ceiling.\n\nAfter.\n\nShe didn’t like that word.\n\nIt implied something finished.\n\nSomething final.\n\nSomething she wasn’t ready to name.\n\nHer fingers moved again."
+    },
+    {
+      "type": "textMessage",
+      "messages": [
+        { "sender": "Cassandra", "content": "I’m not there yet." }
+      ]
+    }
+  ]
+}

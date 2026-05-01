@@ -71,6 +71,13 @@
       "image": "/pull_between_moments.png",
       "mood": "The kind of day that doesn't ask permission before becoming important.",
       "totalPages": 12
+    },
+    {
+      "chapterIndex": 3,
+      "title": "Choosing Tomorrow",
+      "image": "/choosing_tomorrow.png",
+      "mood": "The night after, and the choice it quietly becomes.",
+      "totalPages": 12
     }
   ],
   "themes": [
