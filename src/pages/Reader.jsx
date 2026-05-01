@@ -138,27 +138,29 @@ export default function Reader() {
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >
-        {/* Header */}
-        <div className="reader__header">
-          <button className="back-btn" onClick={() => navigate('/')}>
-            ← Home
-          </button>
-          <div className="reader__book-info">
-            {selectedBook.cover && (
-              <img
-                src={publicUrl(selectedBook.cover)}
-                alt={selectedBook.title}
-                className="reader__cover-thumb"
-              />
-            )}
-            <div className="reader__book-text">
-              <span className="reader__book-title">{selectedBook.title}</span>
-              <span className="reader__chapter-count">
-                Chapter {chapterIndex} · {pageLabel}
-              </span>
+        {/* Header — hidden on full-screen intro card */}
+        {!isIntroCard && (
+          <div className="reader__header">
+            <button className="back-btn" onClick={() => navigate('/')}>
+              ← Home
+            </button>
+            <div className="reader__book-info">
+              {selectedBook.cover && (
+                <img
+                  src={publicUrl(selectedBook.cover)}
+                  alt={selectedBook.title}
+                  className="reader__cover-thumb"
+                />
+              )}
+              <div className="reader__book-text">
+                <span className="reader__book-title">{selectedBook.title}</span>
+                <span className="reader__chapter-count">
+                  Chapter {chapterIndex} · {pageLabel}
+                </span>
+              </div>
             </div>
           </div>
-        </div>
+        )}
 
         {/* Loading */}
         {loading ? (
