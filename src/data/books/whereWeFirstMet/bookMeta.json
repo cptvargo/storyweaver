@@ -64,6 +64,13 @@
       "image": "/passing_lines.png",
       "mood": "Where an ordinary morning quietly changes everything.",
       "totalPages": 12
+    },
+    {
+      "chapterIndex": 2,
+      "title": "The Pull Between Moments",
+      "image": "/pull_between_moments.png",
+      "mood": "The kind of day that doesn't ask permission before becoming important.",
+      "totalPages": 12
     }
   ],
   "themes": [
