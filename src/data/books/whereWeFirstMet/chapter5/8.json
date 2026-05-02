@@ -1,0 +1,27 @@
+{
+  "page": 8,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "She set the brush down." },
+    { "type": "narration", "content": "Not because she was done — the painting wasn't done — but because there was something she seemed to need to say while standing still." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I need to tell you something." },
+    { "type": "narration", "content": "He waited." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know I'm not easy. To be around. Not in the way you'd think — I'm not dramatic, I don't create problems — but there's a version of me that comes with things attached. And I'm aware of that. And I don't want to—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't want you to get into something without knowing that." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not looking for easy." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You say that." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I mean it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You don't know what you mean yet. You don't know—" },
+    { "type": "narration", "content": "She caught herself. Something moved across her expression — close, and then carefully put away." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're exactly enough." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You don't know that yet." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No. But I know what I see." },
+    { "type": "narration", "content": "She looked at him for a long moment. The apartment was very quiet. The rain was nearly gone." },
+    { "type": "narration", "content": "She nodded, very small. Not agreement exactly — something closer to the word enough." }
+  ]
+}

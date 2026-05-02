@@ -1,0 +1,26 @@
+{
+  "page": 10,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "She closed the distance." },
+    { "type": "narration", "content": "Her hand came up, brush still in it, and found the front of his jacket. Not pulling — just placed there, like an anchor." },
+    { "type": "narration", "content": "He kissed her." },
+    { "type": "narration", "content": "Or she kissed him. The distinction disappeared almost immediately. It was quiet and brief and exact — the kind of kiss that isn't an experiment or a question but a statement made carefully, once, and understood completely." },
+    { "type": "narration", "content": "When they stopped, she didn't move back. He didn't either." },
+    { "type": "narration", "content": "She looked up at him. Her brush had left a small streak of cerulean on the left side of his jaw — she saw it and didn't say anything about it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You have paint on your hand." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You have paint on your face." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "Neither of them moved." },
+    { "type": "narration", "content": "Outside, the rain had stopped. The light through the window had shifted — later afternoon, something gold beginning in it, the clouds breaking somewhere offstage." },
+    { "type": "narration", "content": "He thought about Mr. Alvarez and the open door." },
+    { "type": "narration", "content": "He thought: I would do this again. All of it. Every uncertain step of it, every small decision he'd made to get here." },
+    { "type": "narration", "content": "He thought: exactly what it needed to be." },
+    { "type": "narration", "content": "She leaned her forehead against his." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." }
+  ]
+}

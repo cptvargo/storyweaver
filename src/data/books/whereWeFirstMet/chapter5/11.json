@@ -1,0 +1,27 @@
+{
+  "page": 11,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She had left her jacket." },
+    { "type": "narration", "content": "Not on purpose — she'd been thinking about other things when she left — but she realized it two blocks away and turned back. Ethan buzzed her up without asking why. There was a small, particular awkwardness that came from returning to a moment you'd already left, which was somehow both less and more than the moment itself." },
+    { "type": "narration", "content": "He had already found the jacket. He held it out. She took it. He kissed her again — brief, and entirely without question — and she was back on the street two minutes later." },
+    { "type": "narration", "content": "Lena was walking the other direction, three buildings down. Their eyes met. Lena took a slow look at Cassandra's hair, at whatever her face was doing, and kept walking without a word." },
+    { "type": "narration", "content": "She made it home." },
+    { "type": "narration", "content": "Her phone lit up as she was taking off her shoes." },
+    { "type": "message", "sender": "Lena", "content": "I'm not going to say anything." },
+    { "type": "message", "sender": "Cassandra", "content": "Thank you." },
+    { "type": "message", "sender": "Lena", "content": "But your hair had paint in it." },
+    { "type": "message", "sender": "Cassandra", "content": "I know." },
+    { "type": "message", "sender": "Lena", "content": "Like. A lot of paint." },
+    { "type": "message", "sender": "Cassandra", "content": "I was aware." },
+    { "type": "message", "sender": "Lena", "content": "He has a very good jaw." },
+    { "type": "message", "sender": "Cassandra", "content": "Lena." },
+    { "type": "message", "sender": "Lena", "content": "I'm just saying. Objectively. As someone who is not saying anything." },
+    { "type": "narration", "content": "Cassandra set her phone face-down on the nightstand and lay back on her bed." },
+    { "type": "narration", "content": "She looked at her hand, where the blue paint had dried to a faint shadow between her fingers." },
+    { "type": "internalThought", "content": "Okay." }
+  ]
+}

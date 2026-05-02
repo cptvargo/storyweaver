@@ -1,0 +1,26 @@
+{
+  "page": 9,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "She picked up her brush again but didn't paint." },
+    { "type": "narration", "content": "He was still sitting on the edge of the paint table. The distance between them was about two feet — not far, not near, the particular middle distance that had become something charged without either of them deciding it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're still watching." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What are you drawing in your head?" },
+    { "type": "narration", "content": "He considered the honest answer." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You. The way you look right now." },
+    { "type": "narration", "content": "She turned fully to face him." },
+    { "type": "narration", "content": "She was still holding the brush. There was a small smudge of blue on her left index finger from when she'd touched the wet canvas." },
+    { "type": "narration", "content": "He had been painting most of his life. He understood negative space — the shape defined by what isn't there, the boundary between two things. He was, right now, acutely aware of the negative space between them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "She took one step. Not quite all the way." },
+    { "type": "narration", "content": "He didn't move. He understood, in a way that was more than decision, that the right thing here was to let her bring herself to him. That some things had to be chosen, not caught." },
+    { "type": "narration", "content": "She looked at him. He looked at her." },
+    { "type": "narration", "content": "Not quite." },
+    { "type": "narration", "content": "Not yet." }
+  ]
+}

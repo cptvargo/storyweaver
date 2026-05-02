@@ -1,0 +1,31 @@
+{
+  "page": 5,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "It was Cassandra who said it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want to see where you work." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's an apartment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It's where you make things. That's different." },
+    { "type": "narration", "content": "He packed up his sketchbook. She carried Ferdinand." },
+    { "type": "narration", "content": "The walk was only ten minutes, made longer by the rain and shorter by the fact that she asked questions the entire way — not the hollow kind, but the specific kind. What he was working on. Whether he liked painting people or places. Whether he'd ever painted someone without them knowing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "On purpose?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Were they upset?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "They never knew." },
+    { "type": "narration", "content": "She considered this." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's either creepy or very romantic and I genuinely can't decide which." },
+    { "type": "narration", "content": "His apartment was small and organized in the way of someone who had a system no one else would understand. Canvases along the far wall — finished, unfinished, one large landscape two months in progress. A cluttered paint table. Good light from the north window." },
+    { "type": "narration", "content": "Cassandra walked the length of the canvases slowly. He watched her look — really look, the way she had at the Ferdinand painting, as though she was reading something." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You don't paint people smiling." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Smiles are the hardest thing to get right. People smile differently than they think they do." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "So you don't try?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I try to paint what's there instead of what's expected." },
+    { "type": "narration", "content": "She turned." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's a point of view." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's a habit." }
+  ]
+}

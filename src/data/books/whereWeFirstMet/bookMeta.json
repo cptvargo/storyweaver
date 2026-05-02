@@ -85,6 +85,13 @@
       "image": "/what_remains.png",
       "mood": "Between what she carries and what she almost says.",
       "totalPages": 10
+    },
+    {
+      "chapterIndex": 5,
+      "title": "Something True",
+      "image": "/something_true.png",
+      "mood": "Where something true gets said without quite saying it.",
+      "totalPages": 12
     }
   ],
   "themes": [

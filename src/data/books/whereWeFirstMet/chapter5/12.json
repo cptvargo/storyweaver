@@ -1,0 +1,30 @@
+{
+  "page": 12,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "Nathan called at nine." },
+    { "type": "narration", "content": "Ethan was still at the paint table, working on something small — not a commission, just a habit. He let it ring once before answering." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You've been quiet." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been busy." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Same girl?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Same girl." },
+    { "type": "narration", "content": "A pause, the comfortable kind." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You sound different." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Less like you're waiting for something to go wrong." },
+    { "type": "narration", "content": "Ethan looked at the canvas drying on the table — Cassandra's, the one she'd left behind. The cloud that had had an identity crisis. The yellow awning, careful and a little crooked. The streak of blue she'd accidentally made on purpose." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm working on it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good." },
+    { "type": "narration", "content": "They talked for a few more minutes about other things — Nathan's job, a game they'd been meaning to watch, the ordinary traffic of a friendship. Then Nathan said he had to go, and Ethan said okay, and meant it." },
+    { "type": "narration", "content": "After, he opened his sketchbook." },
+    { "type": "narration", "content": "He drew from memory: her hand on his jacket. The brush. The blue smudge between her fingers. The way she'd looked at him just before." },
+    { "type": "narration", "content": "He didn't try to make it perfect. He tried to make it true." },
+    { "type": "narration", "content": "Somewhere across town, Cassandra was looking at her hand — the faint blue paint still there, shadow of a mark, proof of an afternoon." },
+    { "type": "internalThought", "content": "I know." },
+    { "type": "narration", "content": "In his sketchbook, pencil moving quiet across paper:" },
+    { "type": "internalThought", "content": "I know." }
+  ]
+}

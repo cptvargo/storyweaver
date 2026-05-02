@@ -1,0 +1,27 @@
+{
+  "page": 2,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "Mr. Alvarez was watching him with the patience of someone who had decided this conversation had more in it." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You are not a man who lets things in easily." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "narration", "content": "He said it without apology." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I learned a long time ago that if you don't invest, you don't lose. It felt like a reasonable arrangement." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Reasonable. Like a contract." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Something like that." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "And now?" },
+    { "type": "narration", "content": "Ethan looked at his coffee." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Now it feels like the wrong word." },
+    { "type": "narration", "content": "Mr. Alvarez finished his cup and stood, unhurried, the way he did everything." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Do you want my opinion?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Do I have a choice?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Very little." },
+    { "type": "narration", "content": "He collected both cups." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "A reasonable arrangement protects you from loss. But it also means nothing can come in. You cannot only open the door halfway." },
+    { "type": "narration", "content": "He went back behind the counter. After a moment:" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Open your sketchbook, Ethan. She'll come." }
+  ]
+}
