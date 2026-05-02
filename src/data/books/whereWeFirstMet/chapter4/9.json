@@ -1,0 +1,26 @@
+{
+  "page": 9,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The arcade thinned as the light outside changed. Younger kids drifted out in groups. Lena moved through her closing checklist, glancing over occasionally with the expression of someone who was choosing not to have an expression." },
+    { "type": "narration", "content": "Cassandra's hands were in her lap. Ethan's arm was warm against hers, steady in a way she hadn't known she needed until it was there." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "She thought about how to say it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Have you ever had something you needed to tell someone, but you kept finding reasons to wait — and you told yourself you were looking for the right moment, but really you were just afraid of what happened after?" },
+    { "type": "narration", "content": "He was quiet long enough that she almost filled the silence with something smaller, something safer." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "He said it simply." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I have." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't always say the things I mean. I know that about myself. I've gotten very good at managing what I let people see." },
+    { "type": "narration", "content": "He turned the token in his fingers one more time, then set it on the bench beside him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been doing it so long I stopped noticing. Until recently." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What changed?" },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Someone interrupted my painting." },
+    { "type": "narration", "content": "She felt something move through her chest — not the physical kind, something adjacent to it. The warmth of being named by someone who doesn't name things carelessly." }
+  ]
+}

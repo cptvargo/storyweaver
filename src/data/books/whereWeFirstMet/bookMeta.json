@@ -78,6 +78,13 @@
       "image": "/choosing_tomorrow.png",
       "mood": "The night after, and the choice it quietly becomes.",
       "totalPages": 12
+    },
+    {
+      "chapterIndex": 4,
+      "title": "What Remains",
+      "image": "/what_remains.png",
+      "mood": "Between what she carries and what she almost says.",
+      "totalPages": 10
     }
   ],
   "themes": [

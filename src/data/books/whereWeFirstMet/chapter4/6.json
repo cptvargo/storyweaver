@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He doesn't know." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't know when I'll tell him." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You'll know when it's time." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What if the time doesn't come naturally? What if it keeps feeling like there's a better moment ahead, until suddenly there isn't?" },
+    { "type": "narration", "content": "Lena was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Then you will have still chosen to be present in every moment before that. And that will have meant something. To both of you." },
+    { "type": "narration", "content": "Cassandra looked at her friend." },
+    { "type": "narration", "content": "The arcade hummed. The racing game exploded in the corner as one of the kids claimed victory. The machines did what they always did." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't want to hurt him." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I know." },
+    { "type": "narration", "content": "They sat in the quiet of that for a moment." },
+    { "type": "narration", "content": "Then Lena reached under the counter and produced two tokens." },
+    { "type": "dialogue", "speaker": "Lena", "content": "One game. On me." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been banned from four machines in this building." },
+    { "type": "dialogue", "speaker": "Lena", "content": "And yet somehow you keep coming back." }
+  ]
+}

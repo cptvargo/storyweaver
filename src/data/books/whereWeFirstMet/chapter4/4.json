@@ -1,0 +1,27 @@
+{
+  "page": 4,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "Maya left at three-thirty." },
+    { "type": "narration", "content": "Cassandra walked her to the door, held it open, waited until the sound of her car had faded into the street noise before she leaned against the doorframe and just — breathed." },
+    { "type": "narration", "content": "In, four counts. Out, four more." },
+    { "type": "narration", "content": "The tightness in her chest was still there — it had been all morning — and the conversation had added another kind of weight, the emotional variety that her body never seemed to distinguish from the physical. Both required the same response." },
+    { "type": "narration", "content": "Slow down." },
+    { "type": "narration", "content": "She went inside, bypassed the kitchen, and sat on the edge of her bed." },
+    { "type": "narration", "content": "Harold was still against the pillow. She lay back beside him and looked at the ceiling and didn't try to organize what she was feeling into anything useful. Some things didn't need to be organized. They just needed to be felt and then set down." },
+    { "type": "narration", "content": "Maya wasn't wrong. That was the difficult part. Maya was never entirely wrong, which was why her concern had a way of landing somewhere it couldn't simply be dismissed. Everything she'd said was true from the outside. The risks were real. The arithmetic was what it was." },
+    { "type": "narration", "content": "And Cassandra had been doing that math long enough to know exactly where the numbers led." },
+    { "type": "narration", "content": "She also knew that numbers weren't the whole picture." },
+    { "type": "narration", "content": "She closed her eyes. The room was quiet. Somewhere outside, a car passed, someone's music drifting through the open window and then gone." },
+    { "type": "narration", "content": "She thought about the bench last night. The way Ethan's hand had found hers in the dark. The way he'd said tomorrow like it was something he was choosing, not just something that arrived." },
+    { "type": "narration", "content": "She thought about the figure in the painting — the woman at the window, choosing to look at something the painter hadn't shown." },
+    { "type": "narration", "content": "She understood her now. Some things you choose to look at even when you can't see where they end." },
+    { "type": "narration", "content": "Especially then." },
+    { "type": "narration", "content": "After a while — ten minutes, maybe more — she sat up. Ran a hand through her hair. Reached for her phone." },
+    { "type": "message", "sender": "Cassandra", "content": "I'm coming in." },
+    { "type": "message", "sender": "Lena", "content": "I'll put something in the machine for you." }
+  ]
+}

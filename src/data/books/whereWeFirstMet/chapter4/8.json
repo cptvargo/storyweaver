@@ -1,0 +1,28 @@
+{
+  "page": 8,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "After a while they drifted toward the back of the arcade. Found a bench near the wall — not unlike last night's, in the way benches become yours when something happens on one." },
+    { "type": "narration", "content": "They sat." },
+    { "type": "narration", "content": "Not far. Not far at all." },
+    { "type": "narration", "content": "He didn't ask what had happened. He didn't try to shape her afternoon into a problem he could address. He just sat close enough that their shoulders nearly touched and turned a token slowly in his fingers, and the quality of his presence was the kind that didn't require anything from you — the kind that said I'm here without making that a demand." },
+    { "type": "narration", "content": "She looked at him sideways." },
+    { "type": "narration", "content": "He was watching the arcade — the kids at the racing game, the flashing machines, the particular organized chaos of a place that had decided noise was the same as life." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Thank you." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I didn't do anything." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know." },
+    { "type": "narration", "content": "He turned the token over again." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I wanted to see you today." },
+    { "type": "narration", "content": "He said it with the careful precision of someone who had decided to say a true thing and was saying it exactly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I didn't have a reason. I don't think I needed one." },
+    { "type": "narration", "content": "She looked at him for a moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "No. You didn't." },
+    { "type": "narration", "content": "Something settled between them — not dramatic, just the quiet of two people who have discovered, without ceremony, that they want to be near each other." },
+    { "type": "narration", "content": "She leaned her shoulder into his." },
+    { "type": "narration", "content": "He didn't move." },
+    { "type": "narration", "content": "She felt his breathing, slow and steady, and matched it without meaning to." },
+    { "type": "narration", "content": "The afternoon continued around them." }
+  ]
+}

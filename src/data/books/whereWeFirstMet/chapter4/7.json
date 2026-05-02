@@ -1,0 +1,29 @@
+{
+  "page": 7,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She was on her third token — still losing to the machine Lena had flagged as mechanically unreliable, which Cassandra maintained was a character flaw in the manufacturer — when she heard the bell above the door." },
+    { "type": "narration", "content": "She didn't look up. She was in the middle of a very serious attempt." },
+    { "type": "narration", "content": "The claw descended." },
+    { "type": "narration", "content": "Missed." },
+    { "type": "narration", "content": "She sighed and stepped back and turned around." },
+    { "type": "narration", "content": "Ethan stood just inside the door." },
+    { "type": "narration", "content": "He hadn't texted. She hadn't expected him. He was wearing the same jacket he'd had on yesterday, sketchbook tucked under his arm, and he had the expression of someone who had followed an instinct without fully thinking it through and was now quietly assessing whether it had been a good one." },
+    { "type": "narration", "content": "It had. She knew that immediately." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." },
+    { "type": "narration", "content": "He glanced at the machine, then at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Bad day?" },
+    { "type": "narration", "content": "She could have deflected. It would have been easy — a quick joke, a redirect, a smile that said everything's fine. She was good at deflection. She'd had years of practice." },
+    { "type": "narration", "content": "Instead she said:" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Medium." },
+    { "type": "narration", "content": "He absorbed that without pressing it. Just nodded — the way he had of acknowledging things without demanding more from them than they were ready to give." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Can I — I mean, if you'd rather be alone—" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't." },
+    { "type": "narration", "content": "He stayed." },
+    { "type": "narration", "content": "He came and stood beside her at the machine with the misaligned grip, and she handed him a token without asking if he wanted one, and he accepted it without commenting, and for a while that was all — just the two of them taking turns at a game they kept losing, the arcade noise washing over and around them like weather." },
+    { "type": "narration", "content": "Lena appeared at some point with two cups of something and set them on the ledge of the nearby machine without saying a word. Ethan accepted this as though it were a perfectly normal thing to have happen, which Cassandra found, for reasons she couldn't name, a relief." }
+  ]
+}

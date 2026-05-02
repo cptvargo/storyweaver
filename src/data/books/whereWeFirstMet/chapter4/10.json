@@ -1,0 +1,27 @@
+{
+  "page": 10,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She almost said it." },
+    { "type": "narration", "content": "She got close enough to feel the shape of the words — three sentences, maybe four, the simplest possible summary of the thing she'd been carrying. She held them at the edge of her mouth for a breath, and then—" },
+    { "type": "narration", "content": "She didn't." },
+    { "type": "narration", "content": "Not because she was afraid of him. But because there was a version of this where she said it and something shifted — not in how he felt, but in how she felt about herself around him. Whether she could keep being simply present rather than always aware of her own story. She needed a little more time in this version. The one where he looked at her like she was something worth looking at." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm glad you didn't leave." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "When she walked up and started talking to you. At the park. I'm glad you didn't just pack up and go." },
+    { "type": "narration", "content": "A small smile crossed his face." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It was a near thing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What made you stay?" },
+    { "type": "narration", "content": "He considered it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know exactly. Something told me it would matter." },
+    { "type": "narration", "content": "She held that." },
+    { "type": "narration", "content": "Outside, the last of the afternoon went dark against the arcade's windows." },
+    { "type": "narration", "content": "His hand found hers on the bench — quiet and certain, like something already decided." },
+    { "type": "narration", "content": "She held on." },
+    { "type": "narration", "content": "And the thing she hadn't said stayed between them, patient, shaped like a question she wasn't ready to answer and a truth she wasn't ready to lose." }
+  ]
+}
