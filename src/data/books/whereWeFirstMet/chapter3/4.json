@@ -1,119 +1,51 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 4,
+  "page": 4,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "The three dots stayed.\n\nThen disappeared.\n\nThen came back again.\n\nEthan leaned forward slightly, elbows resting on his knees now, phone still in his hand like it might suddenly decide to stop working if he looked away.\n\nHe hadn’t felt like this in a while.\n\nNot anticipation.\n\nThat wasn’t new.\n\nThis was different.\n\nThis felt like waiting for something that mattered more than he was used to admitting.\n\nThe dots vanished.\n\nA message appeared."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Nathan", "content": "You actually sent that like it was normal." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan exhaled quietly."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Ethan", "content": "It is normal." },
-        { "sender": "Nathan", "content": "Not for you." },
-        { "sender": "Ethan", "content": "I talk to people." },
-        { "sender": "Nathan", "content": "You tolerate people." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan let out a small laugh.\n\nThat was fair."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Nathan", "content": "So what happened?" },
-        { "sender": "Ethan", "content": "I don’t know yet." },
-        { "sender": "Nathan", "content": "That’s not an answer." },
-        { "sender": "Ethan", "content": "I met her at the park." },
-        { "sender": "Nathan", "content": "You don’t go to parks." },
-        { "sender": "Ethan", "content": "I run." },
-        { "sender": "Nathan", "content": "You avoid conversation." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan shook his head slightly."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Ethan", "content": "She started talking to me." },
-        { "sender": "Nathan", "content": "Of course she did." },
-        { "sender": "Ethan", "content": "What’s that supposed to mean?" },
-        { "sender": "Nathan", "content": "It means you wouldn’t have." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan stared at that message for a second.\n\nHe didn’t respond right away.\n\nBecause Nathan wasn’t wrong.\n\nThat was the part that kept replaying.\n\nShe had stepped into his space.\n\nInto his quiet.\n\nLike it didn’t belong to silence anymore."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Nathan", "content": "So what’s the problem?" },
-        { "sender": "Ethan", "content": "There isn’t one." },
-        { "sender": "Nathan", "content": "Then why are you texting me like there is?" }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan leaned back slightly, eyes drifting toward the sketchbook again.\n\nThe fountain.\n\nHer.\n\nThe way everything felt… different now."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Ethan", "content": "I think I like her." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "The message sent before he could second guess it.\n\nFor a moment—\n\nnothing.\n\nThen:"
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Nathan", "content": "Oh." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "That was it.\n\nJust “oh.”\n\nEthan frowned slightly."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Ethan", "content": "That’s all you got?" },
-        { "sender": "Nathan", "content": "I wasn’t prepared for that level of honesty." },
-        { "sender": "Ethan", "content": "I can take it back." },
-        { "sender": "Nathan", "content": "No, no. We’re past that now." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan smiled faintly."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Nathan", "content": "Just don’t disappear into it." },
-        { "sender": "Ethan", "content": "I won’t." },
-        { "sender": "Nathan", "content": "You always say that." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Ethan didn’t respond right away.\n\nBecause that part—\n\nfelt heavier than it should have."
-    }
+    { "type": "narration", "content": "The room she'd grown up in knew all her versions." },
+    { "type": "narration", "content": "The one who climbed the bookshelf at seven and couldn't get down." },
+    { "type": "narration", "content": "The one who stayed up all night reading because she couldn't bear to leave an ending unread." },
+    { "type": "narration", "content": "The one who learned, at sixteen, that bodies could betray you without warning." },
+    { "type": "narration", "content": "That last one she didn't think about directly." },
+    { "type": "narration", "content": "Not often." },
+    { "type": "narration", "content": "It lived in the edges of things instead. The small rituals at the end of every day. The appointments she kept quietly, rescheduled quietly, recovered from quietly. The way she'd learned to calibrate—push too hard on certain days, and the next two would feel like walking through water." },
+    { "type": "narration", "content": "Most people didn't notice." },
+    { "type": "narration", "content": "She'd become very good at making sure they didn't." },
+    { "type": "narration", "content": "It wasn't dishonesty, exactly." },
+    { "type": "narration", "content": "It was more like—" },
+    { "type": "narration", "content": "Not letting the answer to 'how are you' become a weight someone else had to carry." },
+    { "type": "narration", "content": "She looked at Harold." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He's an artist." },
+    { "type": "narration", "content": "She said it softly, to the room, to the bear, to no one in particular." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He paints things people miss." },
+    { "type": "narration", "content": "Harold offered nothing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He gave you to me." },
+    { "type": "narration", "content": "She pressed the bear slightly closer." },
+    { "type": "narration", "content": "Her chest felt tight in a way that had nothing to do with her condition." },
+    { "type": "narration", "content": "Or—" },
+    { "type": "narration", "content": "Maybe it had everything to do with it." },
+    { "type": "narration", "content": "She thought about tomorrow." },
+    { "type": "narration", "content": "He'd said it. She'd said it. They'd said it to each other like a promise, standing on a sidewalk corner as the day went gold around them." },
+    { "type": "narration", "content": "She knew the careful thing." },
+    { "type": "narration", "content": "The careful thing was to slow down. Take inventory. Think about what it meant to let someone in when there were parts of yourself you couldn't explain yet—not to them, not even fully to yourself." },
+    { "type": "narration", "content": "She knew what careful looked like." },
+    { "type": "narration", "content": "Maya's texts. Lena's quiet, steady watching. The medication on her nightstand. The calendar appointments marked in a color she didn't show anyone." },
+    { "type": "narration", "content": "She knew." },
+    { "type": "narration", "content": "And then she thought about the way Ethan had looked at Gerald before handing him over." },
+    { "type": "narration", "content": "Like it was the most natural gift." },
+    { "type": "narration", "content": "Like he wasn't even calculating the weight of it." },
+    { "type": "narration", "content": "She smiled." },
+    { "type": "internalThought", "character": "Cassandra", "content": "Careful." },
+    { "type": "narration", "content": "And then, quietly, honestly—" },
+    { "type": "internalThought", "character": "Cassandra", "content": "Not tonight." },
+    { "type": "narration", "content": "She closed her eyes." },
+    { "type": "narration", "content": "Outside, the street held its breath." },
+    { "type": "narration", "content": "And somewhere across the city, she was almost certain, Ethan was lying in the same dark, thinking the same word." },
+    { "type": "narration", "content": "Tomorrow." },
+    { "type": "narration", "content": "Not as a plan." },
+    { "type": "narration", "content": "As a choice." }
   ]
 }

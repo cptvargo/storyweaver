@@ -1,222 +1,45 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 12,
+  "page": 12,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "They walked back toward the trolley as the light began to fade."
-    },
-    {
-      "type": "narration",
-      "content": "The city softened again."
-    },
-    {
-      "type": "narration",
-      "content": "Edges blurring."
-    },
-    {
-      "type": "narration",
-      "content": "Colors warming."
-    },
-    {
-      "type": "narration",
-      "content": "Everything slowing down just enough to feel it."
-    },
-    {
-      "type": "narration",
-      "content": "They reached the corner where the trolley would come."
-    },
-    {
-      "type": "narration",
-      "content": "Stopped."
-    },
-    {
-      "type": "narration",
-      "content": "Not because they had to."
-    },
-    {
-      "type": "narration",
-      "content": "Because neither of them moved first."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan glanced at her."
-    },
-    {
-      "type": "narration",
-      "content": "Then—without overthinking it this time—"
-    },
-    {
-      "type": "narration",
-      "content": "he reached out."
-    },
-    {
-      "type": "narration",
-      "content": "Took her hand."
-    },
-    {
-      "type": "narration",
-      "content": "Gently."
-    },
-    {
-      "type": "narration",
-      "content": "No hesitation."
-    },
-    {
-      "type": "narration",
-      "content": "No pretending it was accidental."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra looked down at their hands."
-    },
-    {
-      "type": "narration",
-      "content": "Then back up at him."
-    },
-    {
-      "type": "narration",
-      "content": "Her fingers tightened slightly around his."
-    },
-    {
-      "type": "narration",
-      "content": "She didn’t pull away."
-    },
-    {
-      "type": "narration",
-      "content": "Didn’t question it."
-    },
-    {
-      "type": "narration",
-      "content": "Didn’t make it smaller than it was."
-    },
-    {
-      "type": "narration",
-      "content": "Which made it bigger."
-    },
-    {
-      "type": "narration",
-      "content": "The trolley arrived."
-    },
-    {
-      "type": "narration",
-      "content": "Neither of them let go right away."
-    },
-    {
-      "type": "narration",
-      "content": "Even as they stepped on."
-    },
-    {
-      "type": "narration",
-      "content": "Even as they sat down again."
-    },
-    {
-      "type": "narration",
-      "content": "Even as the city moved around them."
-    },
-    {
-      "type": "narration",
-      "content": "Later that night—"
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra sat on her bed again."
-    },
-    {
-      "type": "narration",
-      "content": "Phone in hand."
-    },
-    {
-      "type": "narration",
-      "content": "Harold beside her."
-    },
-    {
-      "type": "narration",
-      "content": "Her fingers hovered over the screen."
-    },
-    {
-      "type": "narration",
-      "content": "Then typed:"
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "I think this is going to hurt." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "She stared at it."
-    },
-    {
-      "type": "narration",
-      "content": "Read it twice."
-    },
-    {
-      "type": "narration",
-      "content": "Then—"
-    },
-    {
-      "type": "narration",
-      "content": "deleted it."
-    },
-    {
-      "type": "narration",
-      "content": "Replaced it with:"
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "Today was really good." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "She set the phone down."
-    },
-    {
-      "type": "narration",
-      "content": "Her chest tightened again."
-    },
-    {
-      "type": "narration",
-      "content": "Not the same way."
-    },
-    {
-      "type": "narration",
-      "content": "Never the same way."
-    },
-    {
-      "type": "narration",
-      "content": "This one stayed longer."
-    },
-    {
-      "type": "narration",
-      "content": "She lay back slowly, staring at the ceiling."
-    },
-    {
-      "type": "narration",
-      "content": "I shouldn’t do this."
-    },
-    {
-      "type": "narration",
-      "content": "The thought came clearly."
-    },
-    {
-      "type": "narration",
-      "content": "Honest."
-    },
-    {
-      "type": "narration",
-      "content": "Unavoidable."
-    },
-    {
-      "type": "narration",
-      "content": "Her fingers curled slightly into the blanket."
-    },
-    {
-      "type": "narration",
-      "content": "So why does it feel like the only thing I want?"
-    }
+    { "type": "narration", "content": "A breath passed." },
+    { "type": "narration", "content": "Then another." },
+    { "type": "narration", "content": "And then, quietly, without looking at each other—" },
+    { "type": "narration", "content": "His hand found hers." },
+    { "type": "narration", "content": "Or hers found his." },
+    { "type": "narration", "content": "It didn't matter which." },
+    { "type": "narration", "content": "They fit." },
+    { "type": "narration", "content": "Cassandra's fingers closed around his, and he felt something release in his chest that he hadn't known he was holding." },
+    { "type": "narration", "content": "Below them, the street moved on." },
+    { "type": "narration", "content": "Cars passing." },
+    { "type": "narration", "content": "Distant sound." },
+    { "type": "narration", "content": "Life doing what life does—continuing carelessly in all directions." },
+    { "type": "narration", "content": "And here—" },
+    { "type": "narration", "content": "On a forgotten bench, under a streetlight that barely reached—" },
+    { "type": "narration", "content": "two people sat in the particular, terrifying, irreversible quiet of choosing each other." },
+    { "type": "narration", "content": "Ethan looked down at their hands." },
+    { "type": "narration", "content": "He had spent a long time making sure nothing got to matter too much." },
+    { "type": "narration", "content": "He had been very good at it." },
+    { "type": "narration", "content": "He thought about what Nathan had said." },
+    { "type": "internalThought", "character": "Ethan", "content": "She sounds like the kind of person you meet once." },
+    { "type": "narration", "content": "He thought about the painting." },
+    { "type": "narration", "content": "The figure at the window." },
+    { "type": "narration", "content": "Choosing to look." },
+    { "type": "narration", "content": "Cassandra's thumb moved slightly against his, the smallest possible motion, not a word but something better." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Tomorrow." },
+    { "type": "narration", "content": "Her voice was soft." },
+    { "type": "narration", "content": "Barely above the sound of the street." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Tomorrow." },
+    { "type": "narration", "content": "Not a question." },
+    { "type": "narration", "content": "Not an answer." },
+    { "type": "narration", "content": "A continuation." },
+    { "type": "narration", "content": "The city went quiet around them the way cities do when something is happening that has nothing to do with cities." },
+    { "type": "narration", "content": "And for the first time in a long time—" },
+    { "type": "narration", "content": "Ethan didn't want to be careful." },
+    { "type": "narration", "content": "He just wanted this." },
+    { "type": "narration", "content": "Exactly this." },
+    { "type": "narration", "content": "For as long as it was his to hold." }
   ]
 }

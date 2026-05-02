@@ -1,76 +1,44 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 8,
+  "page": 8,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "The trolley was already half full when Ethan stepped on."
-    },
-    {
-      "type": "narration",
-      "content": "He scanned the seats quickly—\n\nthen spotted her."
-    },
-    {
-      "type": "narration",
-      "content": "Of course she was there first."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra sat near the window, one hand resting lightly against the glass as she watched the city pass by like it was something worth paying attention to."
-    },
-    {
-      "type": "narration",
-      "content": "She turned as he approached."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You made it,"
-    },
-    {
-      "type": "narration",
-      "content": "she said."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan nodded slightly, stepping closer."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Yeah."
-    },
-    {
-      "type": "narration",
-      "content": "He sat across from her again.\n\nSame as before.\n\nDifferent now."
-    },
-    {
-      "type": "narration",
-      "content": "The trolley lurched forward."
-    },
-    {
-      "type": "narration",
-      "content": "For a moment, neither of them spoke."
-    },
-    {
-      "type": "narration",
-      "content": "Not because there was nothing to say.\n\nBecause there was too much."
-    },
-    {
-      "type": "narration",
-      "content": "And neither of them wanted to say the wrong thing first."
-    },
-    {
-      "type": "narration",
-      "content": "So they didn’t."
-    },
-    {
-      "type": "narration",
-      "content": "They just sat there."
-    },
-    {
-      "type": "narration",
-      "content": "Close enough to feel it.\n\nNot close enough to define it.\n\nYet."
-    }
+    { "type": "narration", "content": "She found the other arcade the way she found most things." },
+    { "type": "narration", "content": "By turning down a street she'd never turned down before." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I have never been on this block." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's not a remarkable block." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's exactly why I've never been on it." },
+    { "type": "narration", "content": "She looked around with the focused expression of someone cataloging." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "People don't come here. Which means it's undiscovered." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Or unremarkable." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Same thing, different attitude." },
+    { "type": "narration", "content": "She stopped suddenly." },
+    { "type": "narration", "content": "Halfway down the block, tucked between a locksmith and a parking structure, was a neon sign flickering in a color that couldn't quite decide if it was teal or green." },
+    { "type": "narration", "content": "GALAXY GAMES." },
+    { "type": "narration", "content": "Cassandra turned to him." },
+    { "type": "narration", "content": "Her face was doing the thing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We have to." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "We just spent two hours in a beautiful art gallery." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And now we balance it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "With a fluorescent arcade you found by accident." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "With a fluorescent arcade I found by fate." },
+    { "type": "narration", "content": "She was already walking toward it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Come on. You have Gerald at home. You owe me a Gerald." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know what that means." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It means you're coming." },
+    { "type": "narration", "content": "He went." },
+    { "type": "narration", "content": "Of course he went." },
+    { "type": "narration", "content": "Inside, Galaxy Games smelled like old carpet and something fried and the particular industrial coolness of too much air conditioning. The machines were older than the arcade where Lena worked—relics from decades past, screens blurring at the edges, sounds just slightly off from what they were supposed to be." },
+    { "type": "narration", "content": "Cassandra loved it immediately." },
+    { "type": "narration", "content": "He could tell by the way she stopped three feet in and just—breathed it in." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "This place has history." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "This place has insurance liability." },
+    { "type": "narration", "content": "She grabbed a handful of tokens from the exchange machine before he could say another word and pressed a stack into his palm." },
+    { "type": "narration", "content": "Their fingers overlapped for a second." },
+    { "type": "narration", "content": "Just a second." },
+    { "type": "narration", "content": "Neither of them moved away immediately." },
+    { "type": "narration", "content": "Then she was already turning toward the machines, saying something about finding the worst claw machine in the building, and Ethan was left standing there with a handful of tokens and the specific warmth of an accidental touch that hadn't quite felt like an accident." }
   ]
 }

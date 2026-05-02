@@ -1,94 +1,46 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 5,
+  "page": 5,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "Cassandra sat on the edge of her bed, one leg tucked beneath her, Harold resting loosely against her side.\n\nHer phone lit up again."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Lena", "content": "You’re quiet." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra stared at the message for a second before unlocking her screen."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "I’m thinking." },
-        { "sender": "Lena", "content": "That’s dangerous." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra smiled faintly."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "He asked if he’d see me again." },
-        { "sender": "Lena", "content": "And?" },
-        { "sender": "Cassandra", "content": "I said yes." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Three dots appeared immediately.\n\nStayed longer this time.\n\nThen:"
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Lena", "content": "Cass…" }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra’s thumb hovered over the screen.\n\nShe knew that tone.\n\nEven in text."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "Don’t." },
-        { "sender": "Lena", "content": "I’m not trying to ruin anything." },
-        { "sender": "Cassandra", "content": "It feels like you are." },
-        { "sender": "Lena", "content": "I’m trying to protect you." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra looked down at Harold, adjusting him slightly in her arms.\n\nSoft.\n\nSteady.\n\nSimple.\n\n“I don’t need protection,” she muttered under her breath.\n\nThen typed:"
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "I don’t want to be protected from everything." },
-        { "sender": "Lena", "content": "That’s not what this is." },
-        { "sender": "Cassandra", "content": "Then what is it?" }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "The reply took longer this time.\n\nWhen it came—\n\nit was quieter."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Lena", "content": "It’s about what happens after." }
-      ]
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra’s chest tightened slightly.\n\nNot enough to stop her.\n\nEnough to notice.\n\nShe leaned back slowly against the headboard, eyes drifting toward the ceiling.\n\nAfter.\n\nShe didn’t like that word.\n\nIt implied something finished.\n\nSomething final.\n\nSomething she wasn’t ready to name.\n\nHer fingers moved again."
-    },
-    {
-      "type": "textMessage",
-      "messages": [
-        { "sender": "Cassandra", "content": "I’m not there yet." }
-      ]
-    }
+    { "type": "narration", "content": "He was already at the fountain when she arrived." },
+    { "type": "narration", "content": "Not waiting, exactly." },
+    { "type": "narration", "content": "Standing." },
+    { "type": "narration", "content": "Hands in his pockets. Eyes somewhere in the middle distance, the way he had of looking at things without quite landing on them, like he was searching for the frame." },
+    { "type": "narration", "content": "Cassandra slowed a step before he saw her." },
+    { "type": "narration", "content": "She wanted just a second of it." },
+    { "type": "narration", "content": "Just him, standing at the edge of the stone path, the morning light catching the planes of his face, Gerald almost certainly still at home on his desk—" },
+    { "type": "narration", "content": "She had guessed right about that." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're early." },
+    { "type": "narration", "content": "Ethan turned." },
+    { "type": "narration", "content": "The thing he did with his expression when he tried not to look relieved—she was learning to recognize it. The slight settling. The half-second where his whole face just—" },
+    { "type": "narration", "content": "Softened." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I was in the neighborhood." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You live four blocks away." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Neighborhood." },
+    { "type": "narration", "content": "She laughed and came to stand beside him." },
+    { "type": "narration", "content": "For a moment they both looked at the fountain." },
+    { "type": "narration", "content": "Still sputtering. Still uneven. Still trying." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I thought about coming here last night." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I came here last night." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "narration", "content": "He looked at the fountain." },
+    { "type": "narration", "content": "Neither of them made anything of it." },
+    { "type": "narration", "content": "They didn't have to." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "So. Where are we going?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're asking me?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're the local artist. I want the tour." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not a tour guide." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want the Ethan Carter version of this city." },
+    { "type": "narration", "content": "She turned to face him fully." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The version nobody else gets." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "narration", "content": "She watched him think." },
+    { "type": "narration", "content": "Really think—not the performative pause people did when they wanted to seem considered. Actually going somewhere, turning something over." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "There's a gallery. Small. Most people walk past it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Obviously." },
+    { "type": "narration", "content": "She smiled." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's the one." }
   ]
 }

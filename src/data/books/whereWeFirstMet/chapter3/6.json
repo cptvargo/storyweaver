@@ -1,30 +1,51 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 6,
+  "page": 6,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "The next morning came softer.\n\nEthan noticed that immediately.\n\nNot because the light was different.\n\nIt wasn’t.\n\nStill pale.\n\nStill stretching slowly over rooftops and quiet streets.\n\nStill the same city waking up in the same predictable way.\n\nBut it felt lighter.\n\nLike something had shifted just enough to let something else in."
-    },
-    {
-      "type": "narration",
-      "content": "He tied his shoes slower than usual.\n\nChecked his phone once.\n\nNothing new.\n\nThat was fine.\n\nHe wasn’t expecting anything."
-    },
-    {
-      "type": "narration",
-      "content": "He stepped outside.\n\nThe air was cool.\n\nFamiliar.\n\nGrounding.\n\nBut the run didn’t feel the same anymore.\n\nHe wasn’t just moving through the city.\n\nHe was moving toward something.\n\nThat was new."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan turned the corner toward the park without thinking about it.\n\nThe fountain came into view again.\n\nSame uneven stream.\n\nSame worn stone.\n\nSame quiet presence."
-    },
-    {
-      "type": "narration",
-      "content": "But this time—\n\nhe didn’t stop.\n\nHe slowed.\n\nJust enough to glance at it.\n\nThen kept going."
-    },
-    {
-      "type": "narration",
-      "content": "Because today wasn’t about where things started.\n\nIt was about where they were going."
-    }
+    { "type": "narration", "content": "The gallery was between a dry cleaner and a hardware store, which Ethan had always found quietly perfect." },
+    { "type": "narration", "content": "Art between the ordinary things." },
+    { "type": "narration", "content": "The sign above the door was small—Halsted Works—and the interior was narrow and long, walls hung with pieces from artists Ethan had admired for years. The owner, a woman named June who wore paint-stained overalls and read during slow hours, looked up when they walked in and nodded once at Ethan the way people nod at regulars." },
+    { "type": "narration", "content": "Cassandra turned in a slow circle just inside the door." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Oh." },
+    { "type": "narration", "content": "Softly. Like the word had come out before she decided to say it." },
+    { "type": "narration", "content": "Ethan watched her." },
+    { "type": "narration", "content": "She moved the way she always moved—with her whole body, not just her eyes. She stopped at the first piece: a large canvas, abstract, deep blues and grey-greens folding into each other like weather seen from above." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What do you see?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Something trying to become something else." },
+    { "type": "narration", "content": "She said it immediately. He hadn't expected that." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The blues are fighting the grey. But not angrily. It's more like—" },
+    { "type": "narration", "content": "She tilted her head." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like they're negotiating." },
+    { "type": "narration", "content": "Ethan looked at the painting again." },
+    { "type": "narration", "content": "He had stood in front of it many times." },
+    { "type": "narration", "content": "He had never thought of it as negotiating." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Where'd that come from?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That read. Most people just say it's pretty." },
+    { "type": "narration", "content": "She shrugged, but her eyes were light." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I spend a lot of time thinking about things that are trying to coexist." },
+    { "type": "narration", "content": "Something in that landed sideways." },
+    { "type": "narration", "content": "He let it." },
+    { "type": "narration", "content": "They moved deeper into the gallery. Ethan found himself talking—quietly, carefully, the way he never talked to most people. About the brushwork on a small portrait near the back. About the artist, a woman from this city who had gone almost entirely unnoticed until two years ago. About the specific shade of amber in a landscape near the window that he had been trying to recreate for six months without success." },
+    { "type": "narration", "content": "Cassandra listened." },
+    { "type": "narration", "content": "Not politely. Actively." },
+    { "type": "narration", "content": "She asked questions that proved she had heard him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Does it bother you? That some of it doesn't get seen?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Because it was made to be seen." },
+    { "type": "narration", "content": "He looked at the piece." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The artist put something real into it. And it's just sitting here. Most people walk past. They don't know what they're walking past." },
+    { "type": "narration", "content": "Cassandra was quiet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You paint like that too, don't you? Things you don't think people will stop for." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "She looked back at the painting." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'd stop." },
+    { "type": "narration", "content": "Two words." },
+    { "type": "narration", "content": "No performance." },
+    { "type": "narration", "content": "Just that." }
   ]
 }

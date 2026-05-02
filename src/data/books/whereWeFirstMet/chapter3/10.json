@@ -1,215 +1,51 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 10,
+  "page": 10,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "The gallery was quieter than either of them expected."
-    },
-    {
-      "type": "narration",
-      "content": "The kind of quiet that didn’t demand silence—but encouraged it."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra slowed when they stepped inside."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan stopped completely."
-    },
-    {
-      "type": "narration",
-      "content": "It was subtle, but she noticed."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You do that."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Do what?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Pause like this."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Like what?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Like you don’t want to miss something."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan looked back at the paintings."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "I usually do."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Miss things?"
-    },
-    {
-      "type": "narration",
-      "content": "He nodded slightly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "People. Moments. Timing."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra studied him for a second."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You don’t seem like someone who misses much."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That’s because I notice after."
-    },
-    {
-      "type": "narration",
-      "content": "That landed somewhere deeper than either of them expected."
-    },
-    {
-      "type": "narration",
-      "content": "They moved through the space slowly."
-    },
-    {
-      "type": "narration",
-      "content": "No rush."
-    },
-    {
-      "type": "narration",
-      "content": "No pressure to talk."
-    },
-    {
-      "type": "narration",
-      "content": "Just the soft rhythm of footsteps and the quiet presence of things made by people who didn’t want to forget something."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra stopped in front of one painting."
-    },
-    {
-      "type": "narration",
-      "content": "Muted colors."
-    },
-    {
-      "type": "narration",
-      "content": "Soft edges."
-    },
-    {
-      "type": "narration",
-      "content": "Something abstract—but not empty."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "What do you see?"
-    },
-    {
-      "type": "narration",
-      "content": "Ethan stepped beside her."
-    },
-    {
-      "type": "narration",
-      "content": "Close enough that their shoulders almost touched."
-    },
-    {
-      "type": "narration",
-      "content": "He leaned slightly, studying it."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "It feels like…"
-    },
-    {
-      "type": "narration",
-      "content": "he started, then stopped."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Like what?"
-    },
-    {
-      "type": "narration",
-      "content": "He exhaled."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Like someone trying to hold onto something that’s already fading."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra didn’t respond right away."
-    },
-    {
-      "type": "narration",
-      "content": "Because that—"
-    },
-    {
-      "type": "narration",
-      "content": "felt too accurate."
-    },
-    {
-      "type": "narration",
-      "content": "She looked at him instead."
-    },
-    {
-      "type": "narration",
-      "content": "Not the painting."
-    },
-    {
-      "type": "narration",
-      "content": "Him."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You’re really good at that."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "At what?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Seeing things people don’t say out loud."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan glanced at her."
-    },
-    {
-      "type": "narration",
-      "content": "Their shoulders touched this time."
-    },
-    {
-      "type": "narration",
-      "content": "Neither of them moved."
-    }
+    { "type": "narration", "content": "By the time they wandered outside, the light had gone warm and low, the sky doing that thing where all the colors softened together. The street was quieter now. Less traffic. More space between things." },
+    { "type": "narration", "content": "They walked without a destination." },
+    { "type": "narration", "content": "Cassandra's arms swung slightly beside her." },
+    { "type": "narration", "content": "Ethan's hands were in his pockets." },
+    { "type": "narration", "content": "Neither of them said anything for a block." },
+    { "type": "narration", "content": "It wasn't uncomfortable." },
+    { "type": "narration", "content": "It was the opposite." },
+    { "type": "narration", "content": "It was the quiet of two people who had stopped needing to fill space with words." },
+    { "type": "narration", "content": "Cassandra tilted her head back slightly, looking up at the buildings as they passed." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You ever draw the city at night?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Sometimes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What does it look like?" },
+    { "type": "narration", "content": "He thought about it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like it's finally honest." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "narration", "content": "Something in her expression—" },
+    { "type": "narration", "content": "A softness she didn't always let herself show." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I see it sometime? Your nighttime work?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "Simply." },
+    { "type": "narration", "content": "No hesitation." },
+    { "type": "narration", "content": "She smiled at that." },
+    { "type": "narration", "content": "Not the wide smile. The smaller one." },
+    { "type": "narration", "content": "The real one." },
+    { "type": "narration", "content": "Then, without much preamble, she moved slightly closer as they walked." },
+    { "type": "narration", "content": "Not dramatically." },
+    { "type": "narration", "content": "Just—within a decision." },
+    { "type": "narration", "content": "Ethan noticed." },
+    { "type": "narration", "content": "He didn't move away." },
+    { "type": "narration", "content": "They walked like that—a little closer—the city continuing around them, indifferent and beautiful, the way cities are when they don't know they're being seen." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I like days like this." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What kind of days?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The kind that don't ask permission before becoming important." },
+    { "type": "narration", "content": "He smiled faintly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You say things like that a lot." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like what?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like you've already thought about them." },
+    { "type": "narration", "content": "She was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think about a lot of things." },
+    { "type": "narration", "content": "She said it lightly." },
+    { "type": "narration", "content": "But there was something underneath it." },
+    { "type": "narration", "content": "Something he filed away without pressing." },
+    { "type": "narration", "content": "For now." }
   ]
 }

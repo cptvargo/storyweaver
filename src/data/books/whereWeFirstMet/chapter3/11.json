@@ -1,163 +1,50 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 11,
+  "page": 11,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "They didn’t leave the gallery right away."
-    },
-    {
-      "type": "narration",
-      "content": "There was a bench near the back wall."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra sat first."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan followed."
-    },
-    {
-      "type": "narration",
-      "content": "Closer than before."
-    },
-    {
-      "type": "narration",
-      "content": "Not by accident."
-    },
-    {
-      "type": "narration",
-      "content": "Not completely."
-    },
-    {
-      "type": "narration",
-      "content": "The space between them felt smaller now."
-    },
-    {
-      "type": "narration",
-      "content": "More intentional."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra leaned back slightly, her shoulder pressing gently into his."
-    },
-    {
-      "type": "narration",
-      "content": "He stilled for a second—"
-    },
-    {
-      "type": "narration",
-      "content": "just a second."
-    },
-    {
-      "type": "narration",
-      "content": "Then relaxed into it."
-    },
-    {
-      "type": "narration",
-      "content": "The contact stayed."
-    },
-    {
-      "type": "narration",
-      "content": "Neither of them acknowledged it."
-    },
-    {
-      "type": "narration",
-      "content": "Which made it matter more."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Do you always do this?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Do what?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Let a day become something else."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra smiled faintly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "I think days already are something else."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That doesn’t answer the question."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "It kind of does."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan looked at her."
-    },
-    {
-      "type": "narration",
-      "content": "She was staring forward, but her voice had softened."
-    },
-    {
-      "type": "narration",
-      "content": "Like she wasn’t talking about the day anymore."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Most people just don’t notice."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan nodded slightly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "I think I’m starting to."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra turned her head just enough to look at him."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You are."
-    },
-    {
-      "type": "narration",
-      "content": "For a moment—"
-    },
-    {
-      "type": "narration",
-      "content": "nothing else existed."
-    },
-    {
-      "type": "narration",
-      "content": "Not the gallery."
-    },
-    {
-      "type": "narration",
-      "content": "Not the city."
-    },
-    {
-      "type": "narration",
-      "content": "Not the quiet weight of things they hadn’t said yet."
-    },
-    {
-      "type": "narration",
-      "content": "Just that."
-    }
+    { "type": "narration", "content": "There was a bench near the end of the block." },
+    { "type": "narration", "content": "Old iron, slightly uneven, tucked against the side of a building where the streetlight just barely reached. The kind of bench that existed because someone had once thought it should, and now it just sat there being useful in a quiet, forgotten way." },
+    { "type": "narration", "content": "Cassandra sat." },
+    { "type": "narration", "content": "Ethan sat." },
+    { "type": "narration", "content": "Not far." },
+    { "type": "narration", "content": "Not close." },
+    { "type": "narration", "content": "Just—within a decision." },
+    { "type": "narration", "content": "She had the small yellow chick from Galaxy Games in her lap. She turned it in her fingers absently." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Today was good." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The gallery especially." },
+    { "type": "narration", "content": "He looked ahead at the street." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The painting at the back. I keep thinking about it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The figure at the window?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think she's looking at something hopeful." },
+    { "type": "narration", "content": "He glanced at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You changed your read." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm allowed." },
+    { "type": "narration", "content": "She tilted her head toward him slightly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You said it was about choosing to look. I think she chose something worth looking at." },
+    { "type": "narration", "content": "The streetlight caught the edge of her hair." },
+    { "type": "narration", "content": "He looked away." },
+    { "type": "narration", "content": "Or started to." },
+    { "type": "narration", "content": "Cassandra leaned her head back against the wall behind the bench." },
+    { "type": "narration", "content": "A long, quiet exhale." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm tired." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "We walked a lot." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It's not that kind of tired." },
+    { "type": "narration", "content": "He didn't ask." },
+    { "type": "narration", "content": "Something in her voice said she wasn't ready to explain it, and something in him already understood the difference between tiredness that came from a day and tiredness that lived deeper than that." },
+    { "type": "narration", "content": "He just shifted slightly." },
+    { "type": "narration", "content": "Close enough that their arms touched." },
+    { "type": "narration", "content": "She didn't move away." },
+    { "type": "narration", "content": "After a moment, she lowered her head from the wall and let it rest against his shoulder." },
+    { "type": "narration", "content": "Lightly." },
+    { "type": "narration", "content": "Like she was asking without asking." },
+    { "type": "narration", "content": "He stayed completely still." },
+    { "type": "narration", "content": "Not because he wanted her to stop." },
+    { "type": "narration", "content": "Because he didn't." },
+    { "type": "narration", "content": "Because this was the kind of still that felt like something being held carefully." }
   ]
 }

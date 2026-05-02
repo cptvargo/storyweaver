@@ -1,227 +1,41 @@
 {
-  "chapterIndex": 3,
-  "pageIndex": 9,
+  "page": 9,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
   "blocks": [
-    {
-      "type": "narration",
-      "content": "They stepped off the trolley into a part of the city that felt older than the rest."
-    },
-    {
-      "type": "narration",
-      "content": "Narrow streets.\n\nBrick buildings worn smooth by time.\n\nSmall storefronts tucked into corners like they had always been there and had no intention of leaving."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra led again, but slower this time."
-    },
-    {
-      "type": "narration",
-      "content": "Not pulling him forward.\n\nJust walking… and letting him follow beside her."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "There’s a place up here. It’s not impressive, so don’t expect too much."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That sounds like a warning."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "It’s a disclaimer."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "For what?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "For the fact that I like it."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan smiled faintly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That’s enough for me."
-    },
-    {
-      "type": "narration",
-      "content": "She looked at him for a second longer than necessary."
-    },
-    {
-      "type": "narration",
-      "content": "Then turned forward again."
-    },
-    {
-      "type": "narration",
-      "content": "The stand was small."
-    },
-    {
-      "type": "narration",
-      "content": "Barely more than a window in the wall with a handwritten menu taped beside it."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra leaned in, reading."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Okay. You’re trying something new."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That feels like a decision I should be part of."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "You are. You’re agreeing with me."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan laughed quietly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That doesn’t feel like agreement."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "It’s trust."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That feels worse."
-    },
-    {
-      "type": "narration",
-      "content": "She grinned and ordered anyway."
-    },
-    {
-      "type": "narration",
-      "content": "A few minutes later, she handed him something wrapped in paper."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Don’t overthink it."
-    },
-    {
-      "type": "narration",
-      "content": "He took it, their fingers brushing again."
-    },
-    {
-      "type": "narration",
-      "content": "This time—\n\nhe didn’t pull back immediately.\n\nNeither did she."
-    },
-    {
-      "type": "narration",
-      "content": "Just a second.\n\nLong enough to feel it.\n\nShort enough to pretend it didn’t happen."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan looked down at the food."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "What is it?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Try it."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That’s not an answer."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "It’s a better experience."
-    },
-    {
-      "type": "narration",
-      "content": "He took a bite."
-    },
-    {
-      "type": "narration",
-      "content": "Paused."
-    },
-    {
-      "type": "narration",
-      "content": "Then looked at her."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "That’s actually really good."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "I know."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "You say that like you made it."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "I chose it. That counts."
-    },
-    {
-      "type": "narration",
-      "content": "Ethan nodded slowly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "I think that’s how you see everything."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "How?"
-    },
-    {
-      "type": "dialogue",
-      "character": "Ethan",
-      "content": "Like choosing something gives it meaning."
-    },
-    {
-      "type": "narration",
-      "content": "Cassandra tilted her head slightly."
-    },
-    {
-      "type": "dialogue",
-      "character": "Cassandra",
-      "content": "Doesn’t it?"
-    },
-    {
-      "type": "narration",
-      "content": "Ethan didn’t answer right away."
-    },
-    {
-      "type": "narration",
-      "content": "Because the question didn’t feel simple."
-    }
+    { "type": "narration", "content": "The worst claw machine in the building had a broken rotation mechanism." },
+    { "type": "narration", "content": "The claw could only travel forward and back—no left, no right—which Cassandra described as heroically limited and proceeded to lose four tokens to before winning a small yellow chick barely distinguishable from a lemon." },
+    { "type": "narration", "content": "She held it up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Victory." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You can only move it in one direction." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And yet. Here we are." },
+    { "type": "narration", "content": "He shook his head." },
+    { "type": "narration", "content": "But he was smiling." },
+    { "type": "narration", "content": "They moved through the arcade like that—finding things, failing at things, arguing about technique and luck and whether a machine could be sentient enough to hold a grudge. Cassandra was loud when she lost and quiet when she won, which was somehow the opposite of what he'd expected." },
+    { "type": "narration", "content": "At the skee-ball lane, she asked him to show her his form." },
+    { "type": "narration", "content": "He showed her." },
+    { "type": "narration", "content": "She corrected his elbow, which she knew nothing about and was completely confident about anyway." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're releasing too late." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been playing skee-ball for fifteen years." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And yet your elbow." },
+    { "type": "narration", "content": "He rolled his eyes and let her." },
+    { "type": "narration", "content": "Her hand closed over his forearm to adjust the angle—" },
+    { "type": "narration", "content": "He didn't say anything." },
+    { "type": "narration", "content": "She didn't say anything." },
+    { "type": "narration", "content": "She stepped back." },
+    { "type": "narration", "content": "But the awareness stayed." },
+    { "type": "narration", "content": "Like something had shifted slightly in the room." },
+    { "type": "narration", "content": "Not dramatically." },
+    { "type": "narration", "content": "Just enough." },
+    { "type": "narration", "content": "Ethan threw the ball." },
+    { "type": "narration", "content": "It went in the center ring." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I wasn't going to say anything." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You were." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I was absolutely going to say something." },
+    { "type": "narration", "content": "She was already laughing." },
+    { "type": "narration", "content": "And so, without quite meaning to, was he." }
   ]
 }
