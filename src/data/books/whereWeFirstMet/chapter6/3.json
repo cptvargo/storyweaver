@@ -1,0 +1,32 @@
+{
+  "page": 3,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Three days later." },
+    { "type": "narration", "content": "Cassandra arrived first — which Ethan noticed, and which seemed consistent with who she was. She had a red scarf on and had already ordered by the time he got there, and she looked up at him with that particular expression she had when something was about to start." },
+    { "type": "narration", "content": "Nathan arrived four minutes after Ethan and stood in the doorway long enough to take in the whole picture — the table, the coffees, the two of them already leaning slightly toward each other in the easy way of people who have stopped needing to manage the distance between them. Then he walked over." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Hi. You must be Cassandra." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You must be Nathan." },
+    { "type": "narration", "content": "She looked at him clearly, without performance." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan described you." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good things, I hope?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He said you were perceptive. And that you'd probably spend the first ten minutes trying to figure out whether I was worth his time." },
+    { "type": "narration", "content": "She said it without sharpness — just the simple accuracy of someone reporting a thing." },
+    { "type": "narration", "content": "Nathan looked at Ethan." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You said that?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I said you were perceptive. She extrapolated." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I mean, it's accurate." },
+    { "type": "narration", "content": "He pulled out a chair and sat." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "For the record, I'm not here to run an assessment. I'm here because I wanted to meet the person who made him send me a four-word text about his feelings, which is approximately four more words than he usually uses about anything. So. Hi." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi. For what it's worth — the four words he sent me were better. He's improving." },
+    { "type": "narration", "content": "Mr. Alvarez appeared and set a third coffee in front of Nathan before he'd even removed his jacket. Nathan looked at the cup, then at the counter, then at Ethan." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Does he always do that?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Only for people he's decided about." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I just walked in." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "He's fast. Or he already knew from what I said. Either way, it means you passed something you didn't know was a test." },
+    { "type": "narration", "content": "Nathan picked up the cup. He looked across the table at Cassandra, then back at Ethan, then at something in the middle distance that seemed to be the sum of both of them. He took a sip." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Okay. Tell me about the arcade." }
+  ]
+}

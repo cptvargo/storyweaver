@@ -1,0 +1,31 @@
+{
+  "page": 11,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They went to a small Italian place three blocks from The Copper Mug — the kind that had been there for decades and showed no particular interest in changing, with checkered tablecloths and bread that arrived without ordering and lighting that made the whole room feel like a photograph from twenty years ago." },
+    { "type": "narration", "content": "The early part of dinner was easy in the way things are when two people have stopped needing to perform comfort and just have it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Nathan was gentler than I expected." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "He was on his best behavior. He saves the stories for later. There's a whole catalogue he hasn't deployed yet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like what?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "There's one involving a rental scooter at a street festival. It has been significantly inflated over the years." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "A rental scooter." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The original incident was minor. There was a flower vendor. The scooter only made contact with the display at the very edge." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're describing this the same way a person describes something that was entirely their fault." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The scooter had a mechanical issue." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The scooter." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "A mechanical issue." },
+    { "type": "narration", "content": "She started laughing, and he held his expression for exactly three seconds before it stopped working." },
+    { "type": "narration", "content": "She broke off a piece of bread and settled back in her chair, the laughter softening into something warmer." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He loves you. That's obvious. Not in a loud way — he's not the type to make declarations. But he was paying attention to everything the whole time. The way he looked at you when you were talking. The way he checked to make sure you were okay without making it a thing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "He turned his cup slowly in his hands." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "He pulled me aside before he left and said something. He said you were good for me in the specific way. Not the general way." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What's the difference?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "General-way-good means someone makes you feel better about yourself. Specific-way-good means they make you more yourself. He's precise about the distinction. He doesn't say the second one easily." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's a very good thing to be told." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's the best thing he says." },
+    { "type": "narration", "content": "She looked at him across the candlelight with an expression he was still learning to read — warm, careful, and underneath it something he could feel the shape of without quite seeing it." }
+  ]
+}

@@ -92,6 +92,13 @@
       "image": "/something_true.png",
       "mood": "Where something true gets said without quite saying it.",
       "totalPages": 12
+    },
+    {
+      "chapterIndex": 6,
+      "title": "Among Others",
+      "image": "/among_others.png",
+      "mood": "The relationship is no longer private — it's becoming part of the world.",
+      "totalPages": 13
     }
   ],
   "themes": [

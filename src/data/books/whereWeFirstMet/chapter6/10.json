@@ -1,0 +1,33 @@
+{
+  "page": 10,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya didn't answer right away." },
+    { "type": "narration", "content": "She was looking at the table, hands together in her lap, and her father waited with the patience of someone who has learned that silence given freely will eventually be filled with the truth." },
+    { "type": "dialogue", "speaker": "Father", "content": "You're right that someone should think about those things. You're wrong about who it should be." },
+    { "type": "narration", "content": "Maya looked up." },
+    { "type": "dialogue", "speaker": "Father", "content": "It has never been your job. I know it feels like your job. I know you have taken it on the way you take on everything — completely, with your whole heart, in a way that leaves marks on you. But that job belongs to her, and to us, and in some measure to this boy when he knows. It does not belong to you." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm not trying to control anything—" },
+    { "type": "dialogue", "speaker": "Father", "content": "I know you're not. But there's a version of love — the version you have for her, which is real and deep and I don't question for a second — that when it gets frightened, it can look like control from the outside even when it doesn't feel like it from the inside. And your sister sees it. She loves you anyway. But she sees it." },
+    { "type": "narration", "content": "Maya's jaw moved." },
+    { "type": "dialogue", "speaker": "Father", "content": "She asked me something, maybe two years ago. Whether it was better to have a smaller life or a shorter full one. Do you remember me telling you that?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "You told her to ask again when it was a real question." },
+    { "type": "dialogue", "speaker": "Father", "content": "Yes. And she never asked again. Because by the time it was real, she already knew her answer. She has been living her answer." },
+    { "type": "narration", "content": "He let that settle." },
+    { "type": "dialogue", "speaker": "Father", "content": "This boy — I don't know him. But I know what your sister looks like when something is real for her. I know the difference between her performing happiness and her actually having it. And what I've seen recently is the second thing." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know." },
+    { "type": "narration", "content": "The words came out smaller than she'd intended, stripped of the argument she'd arrived with." },
+    { "type": "dialogue", "speaker": "Father", "content": "Then what are you really afraid of?" },
+    { "type": "narration", "content": "The tears that had been behind her eyes for weeks finally arrived — quietly, the way things leak through when the wall has been up too long." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm afraid of watching her hurt. I'm afraid of being there for all of it and not being able to do anything. I'm afraid this makes everything harder at the end. I'm afraid—" },
+    { "type": "narration", "content": "She stopped. Took a breath." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm afraid she's going to love him and it's going to be real and it's going to matter, and then she's going to have to—" },
+    { "type": "narration", "content": "She couldn't finish it." },
+    { "type": "narration", "content": "Her father stood, moved around the table, and put his hand on her shoulder. Not saying anything. Just placing himself there, the way parents do when words aren't the point." },
+    { "type": "dialogue", "speaker": "Father", "content": "The hurt is already there. It has been there. The question has never been whether it arrives. The question is whether she goes toward it alone, or with someone beside her." },
+    { "type": "narration", "content": "Maya pressed her lips together. Nodded, once, slowly." },
+    { "type": "dialogue", "speaker": "Father", "content": "Give her this. Just — give her this." }
+  ]
+}

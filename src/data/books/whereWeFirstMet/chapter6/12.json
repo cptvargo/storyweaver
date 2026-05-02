@@ -1,0 +1,30 @@
+{
+  "page": 12,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The bread basket emptied. Their food arrived. The candle on the table had burned down to something shorter and more intimate, and the restaurant hummed quietly around them — low voices, silverware, the occasional laugh from a neighboring table." },
+    { "type": "narration", "content": "They talked through the tournament again — the memory game, the nine lost points on skee-ball, the way Lena had materialized with cold cups at the exact moment of defeat as though she'd been timing it." },
+    { "type": "narration", "content": "And then, somewhere between the plates being cleared and the second candle being lit, the conversation did the thing it sometimes did with them — the surface dropped away." },
+    { "type": "narration", "content": "It didn't happen loudly. Cassandra just set her glass down and looked at the candle for a moment, and something in the quality of her quiet was different from the quiets that had come before." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I tell you something?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I have a complicated relationship with being happy. Not in a sad way — I don't mean it like that. It's just that I've had times when I couldn't be, and now when I am, there's always this small part of me that notices it. Like I'm keeping track. Tallying it up, in case I need it later." },
+    { "type": "narration", "content": "He put his fork down carefully and looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why would you need it later?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Because nothing lasts forever. And I think most people know that abstractly — they say it, they believe it in a general way. But I know it more specifically than that." },
+    { "type": "narration", "content": "The sentence landed between them with the weight of something much larger held just behind it. He could feel the shape of it without being able to see it clearly — like the negative space around a form, the outline of what isn't shown." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Cassandra." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm not trying to be cryptic. I genuinely want to tell you something true and I'm still finding the exact words for it. It's not— it's not a small thing to say." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Take all the time you need. I'm not going anywhere." },
+    { "type": "narration", "content": "She looked at him. The candlelight was doing something particular to her face — warmth and shadow in equal measure, the kind of portrait he would have painted carefully." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There are things I should probably—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "narration", "content": "A beat. Two. Something moved across her expression — close to the surface, and then carefully, quietly, gathered back in. Not fear exactly. More like the look of someone who has climbed to the edge of something, checked the distance, and decided they need one more clear day before they jump." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm really glad I talked to you that day at the park." },
+    { "type": "narration", "content": "He knew it wasn't what she'd been about to say. He knew the thing she'd turned away from was real and large, and that she had put it back down deliberately. He didn't push. He had learned that pushing was the wrong tool with her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Me too." },
+    { "type": "narration", "content": "He reached across the table. She took his hand the way she always did — quiet, certain, like something decided. The candle went on burning. The restaurant moved gently around them. And the thing she hadn't said stayed patient between them, the way it always did." }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "page": 7,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Thursday." },
+    { "type": "narration", "content": "The arcade was louder than usual. The bracket had pulled a crowd — some regulars, some faces Ethan didn't recognize who had arrived with the particular focused energy of people for whom this was not casual." },
+    { "type": "narration", "content": "Cassandra had prepared. She had explained the strategy at Ethan's apartment Wednesday evening using a notebook and an intensity that he had found both slightly alarming and completely endearing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You made a diagram." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I made a flow chart. Those are different things." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "They both have boxes and arrows." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The flow chart has decision nodes. Decision nodes are the entire point." },
+    { "type": "narration", "content": "The racing round went better than expected. Cassandra had the instincts of someone who had been making decisions under pressure for a long time — she took corners with committed certainty, calculated risk and accepted it, and pulled them through the back half of the track with twelve seconds to spare. They won the racing round." },
+    { "type": "narration", "content": "Skee-ball was more complicated." },
+    { "type": "narration", "content": "Ethan's form was technically sound and completely lacking in rhythm. He threw each ball with the precise, measured focus of someone solving a geometry problem, which worked most of the time and felt mechanical all of the time." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're aiming too far right." },
+    { "type": "narration", "content": "She said it quietly, between throws." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know. I've been compensating left since ball two." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Why didn't you say something?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I was testing the theory." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The theory that you should keep doing the thing that wasn't working?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The theory that minor adjustment would fix it without disrupting the rest of the approach." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Next time tell me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The theory almost worked." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The theory lost us nine points." },
+    { "type": "narration", "content": "They lost the skee-ball round by nine points." },
+    { "type": "narration", "content": "The surprise round was a memory-matching game, run on a large screen at the back of the arcade. Their opponents — two regulars who appeared to have been practicing this specific game for a specific number of weeks — cleared the board in eighty-three seconds. Ethan and Cassandra cleared it in two minutes and fourteen seconds, which was, objectively, not competitive." },
+    { "type": "narration", "content": "They finished fourth." },
+    { "type": "narration", "content": "Out of six." }
+  ]
+}

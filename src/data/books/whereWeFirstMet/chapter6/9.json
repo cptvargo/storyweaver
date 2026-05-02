@@ -1,0 +1,25 @@
+{
+  "page": 9,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The conversation had been building in Maya for days." },
+    { "type": "narration", "content": "She initiated it the way she initiated difficult things: by waiting until dinner was finished and the table cleared, and their parents were still seated with their tea, and then taking her own seat with the posture of someone who has decided that the time for waiting is over." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I want to talk about Cassandra." },
+    { "type": "narration", "content": "Their mother set down her cup. Their father didn't move, but his attention shifted — the kind of shift you feel rather than see." },
+    { "type": "dialogue", "speaker": "Maya", "content": "She's spending a lot of time with this boy. I see it. Lena mentioned it. She's happy — I can see that, I'm not blind to it — but she's letting herself get attached to someone who doesn't know the full picture. And when things change, when they get harder—" },
+    { "type": "narration", "content": "She stopped, then pushed through." },
+    { "type": "dialogue", "speaker": "Maya", "content": "What does that do to him? What does it do to her, having to make that decision later, from inside something real? She's not thinking about the end of this. She's just living in the middle of it." },
+    { "type": "dialogue", "speaker": "Mother", "content": "She's living." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's not what I—" },
+    { "type": "dialogue", "speaker": "Mother", "content": "I know what you meant. I'm saying what I mean. She is living, Maya. That is the whole of what she is doing. And that is also the whole of what she should be doing." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Someone has to think ahead. Someone has to consider what happens after the part that feels good. I'm not being cruel. I'm being the one who's thinking about what comes after." },
+    { "type": "dialogue", "speaker": "Father", "content": "After the part that feels good." },
+    { "type": "narration", "content": "He said it quietly, but with weight." },
+    { "type": "dialogue", "speaker": "Father", "content": "You've been thinking past the good part, toward the end of it, for two years. And I understand why. Completely. But I want to ask you something, and I'd like you to think about it honestly before you answer." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Dad—" },
+    { "type": "dialogue", "speaker": "Father", "content": "When you imagine the end of this — whatever form it takes — and you've spent all the time before it worrying and managing and protecting — do you think that helps her? Do you think, truly, that it helps you?" },
+    { "type": "narration", "content": "The silence that followed had weight in it. The kind that doesn't lift until someone decides to speak honestly." }
+  ]
+}
