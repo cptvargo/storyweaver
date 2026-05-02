@@ -99,6 +99,13 @@
       "image": "/among_others.png",
       "mood": "The relationship is no longer private — it's becoming part of the world.",
       "totalPages": 13
+    },
+    {
+      "chapterIndex": 7,
+      "title": "What We Carry",
+      "image": "/what_we_carry.png",
+      "mood": "The truth is getting closer. And it will matter when it arrives.",
+      "totalPages": 20
     }
   ],
   "themes": [

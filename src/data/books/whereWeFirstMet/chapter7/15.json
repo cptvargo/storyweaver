@@ -1,0 +1,25 @@
+{
+  "page": 15,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya looked at her coffee cup. Her hands were pressing flat on the table — steadily, the way you press down on something to keep it from moving." },
+    { "type": "dialogue", "speaker": "Maya", "content": "There are things about her that you don't know yet. Things she'll tell you. I'm not going to tell you — it's hers to say. But I need you to know that when she tells you, it will be real. It won't be something she's exaggerating or asking for pity about. It will be the true shape of something, and it will ask something of you that you don't know you're being asked yet." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I understand." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Do you? Because I'm not sure anyone can understand it in advance." },
+    { "type": "narration", "content": "Something came through her voice then — not anger, but the weight that had been underneath every word she'd said." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I love her more than I've loved anything in my entire life. And loving her means carrying something that most people don't have to carry. I've been carrying it for years. And some days it —" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "narration", "content": "Pressed her lips together." },
+    { "type": "narration", "content": "The tears came quietly. She didn't make a sound. They just arrived, and she held very still while they did, the way people do when they've been holding them back long enough that they come out without announcement." },
+    { "type": "narration", "content": "Ethan didn't say anything. He didn't reach across the table or offer a tissue or tell her it was okay. He just stayed. He sat with his hands around his cup and he didn't move away, and that was the only thing that seemed right." },
+    { "type": "narration", "content": "Mr. Alvarez appeared. He refilled both cups without being asked, and then paused — just briefly — and said, to neither of them in particular:" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "The people who love the same person must find each other before they can find peace." },
+    { "type": "narration", "content": "Then he went back behind the counter." },
+    { "type": "narration", "content": "Maya exhaled. She pressed the back of her hand to her eyes. When she looked up at Ethan again, something had opened in her expression — less defended. Less alone." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Thank you. For not making promises you can't keep." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I never do. But I keep the ones I make." },
+    { "type": "narration", "content": "She nodded. A small nod, slow and certain. Not resolved — but no longer standing in the way." }
+  ]
+}

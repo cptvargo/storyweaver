@@ -1,0 +1,24 @@
+{
+  "page": 14,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Maya", "content": "I need to ask you something, and I need you to answer honestly even if the honest answer is I don't know." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Maya", "content": "What do you think this is — what you have with her? What do you think it's becoming?" },
+    { "type": "narration", "content": "He didn't answer immediately. He let the question have the respect of being thought about properly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think it's the realest thing I've been part of. I'm not saying that to impress you — I'm saying it because I've had things before that felt real for a while, or that looked real from the outside and weren't. This is different in a way I can feel but haven't fully put into words yet. She makes me want to pay attention to things I usually let pass. I don't know exactly what that is. But I'm not going to call it casual." },
+    { "type": "narration", "content": "Maya's hands were flat on the table." },
+    { "type": "dialogue", "speaker": "Maya", "content": "And if it became harder than you expected? Not just the normal difficulty of two people. If there was something that changed the shape of things. Something that asked more of you than you planned to give." },
+    { "type": "narration", "content": "He held her gaze." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I have a habit I've had most of my life — staying just close enough to feel present but far enough that I could leave without it costing me anything. I built it on purpose. I got very comfortable in it." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "And then she interrupted my painting." },
+    { "type": "narration", "content": "Maya's jaw moved." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not that person anymore. Or I'm trying not to be. I can't promise I'll handle everything perfectly — I can't promise I won't say the wrong thing or need time to process something or get it wrong in some specific way. But I can promise that I'm not the kind of person who disappears when things get real. Not anymore." },
+    { "type": "dialogue", "speaker": "Maya", "content": "How do I know that? How does anyone know that until they're already in the middle of it?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You don't. But I do. And for now, that's what I have." },
+    { "type": "narration", "content": "The silence that followed was long. The kind that comes after something true has been placed on the table and no one is quite ready to pick it up yet." }
+  ]
+}

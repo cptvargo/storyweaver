@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "The text from Cassandra came two days later, on a Saturday afternoon." },
+    { "type": "message", "sender": "Cassandra", "content": "Can you come over? For dinner. My parents want to meet you." },
+    { "type": "narration", "content": "He read it twice. Not because it was complicated — because it was significant, and he wanted to hold that properly." },
+    { "type": "message", "sender": "Ethan", "content": "Yes. Tell me when." },
+    { "type": "narration", "content": "He walked to her house that evening with a small bunch of grocery store flowers that he second-guessed three times on the way and ultimately kept, because they were honest — not elaborate, just a thought made tangible." },
+    { "type": "narration", "content": "The house was a warm kind of old. Not neglected, but lived-in — the specific patina of a home where many people have moved through a space and left themselves there. A welcome mat with a slight curl at one corner. Potted plants on the porch that clearly belonged to someone who paid attention to them. A wind chime the family had probably stopped hearing years ago." },
+    { "type": "narration", "content": "Cassandra opened the door before he knocked." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You brought flowers." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "They're simple." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know. I like them." },
+    { "type": "narration", "content": "Her mother appeared almost immediately — not hovering, but present. She had Cassandra's eyes, or Cassandra had hers, and she smiled at him with the uncomplicated warmth of someone who has already made her decision about this visit and was satisfied with it." },
+    { "type": "dialogue", "speaker": "Mother", "content": "Ethan. Come in. We've heard a great deal about you." },
+    { "type": "narration", "content": "He stepped inside." },
+    { "type": "narration", "content": "The inside of the house was layered in the way of a long family life — bookshelves with actual books in them, slightly disordered. A kitchen that smelled of something good and recent. And photographs everywhere: on the mantle, along the hallway, in frames arranged with the overlapping evidence of a family that had documented itself without self-consciousness." },
+    { "type": "narration", "content": "He found himself looking at them as Cassandra's mother guided them toward the living room. Cassandra as a child — maybe seven or eight, red hair in the light of a park somewhere, mouth open in a laugh that was identifiably hers. Cassandra and Maya at a school event, both dressed up and slightly stiff. A family beach trip. A holiday gathering." },
+    { "type": "narration", "content": "Ordinary evidence. But it landed in him as something more." }
+  ]
+}

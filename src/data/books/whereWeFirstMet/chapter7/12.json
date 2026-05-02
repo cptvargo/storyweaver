@@ -1,0 +1,26 @@
+{
+  "page": 12,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He arrived first." },
+    { "type": "narration", "content": "This was habit, partly, but also something that felt important — he didn't want Maya to walk in and find an empty table, didn't want her to have to stand in the doorway scanning the room. It seemed like the kind of gesture that cost nothing and said something." },
+    { "type": "narration", "content": "Mr. Alvarez set a coffee in front of him without being asked and returned to the counter without comment. He was being given company of a certain kind — the kind that doesn't require language." },
+    { "type": "narration", "content": "Maya arrived at nine-oh-two. He would not have known her without the photograph Cassandra had shown him — Maya was taller than he'd expected. She walked with the particular carriage of someone holding something with effort, trying not to let it show." },
+    { "type": "narration", "content": "She saw him and crossed the room without hesitation." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Maya." },
+    { "type": "narration", "content": "She sat. She looked at him for a moment — taking him in the way you look at someone you've been imagining and now have the actual thing in front of you." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Thank you for coming. I wasn't sure you would." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why wouldn't I?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Because most people, when they get a message from a partner's protective older sister asking to meet privately, find reasons not to show up." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not most people." },
+    { "type": "narration", "content": "She looked at him steadily." },
+    { "type": "dialogue", "speaker": "Maya", "content": "No. I suppose you're not." },
+    { "type": "narration", "content": "Mr. Alvarez appeared and set a second coffee in front of Maya, who hadn't had the chance to ask." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Does he always do that?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Only for people he's decided about." },
+    { "type": "narration", "content": "Something shifted very slightly in Maya's expression — not quite softening, but acknowledging. She wrapped her hands around the cup the same way Cassandra did, which he noticed and didn't say." }
+  ]
+}

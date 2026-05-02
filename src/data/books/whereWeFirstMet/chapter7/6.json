@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I push back on something?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Go ahead." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You're framing this like it's only your risk. Like you're the only one who has something at stake. But Ethan has been putting himself out there too. Every conversation where he's said something real. Every time he's let you see him, which I gather is not something he does easily. He's already invested. You're not the only one who's been making a decision here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know that." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Do you? Because you keep framing it as you protecting him from something difficult. But what if the difficult thing is also the thing that lets him actually be with you — the whole you? What if holding it back is keeping you both at a partial distance? Like you're only letting him have part of yourself." },
+    { "type": "narration", "content": "Cassandra didn't answer right away." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He said to me at dinner — he said: I know what I see. And I wanted to say — you don't. You see most of it. You see the part I'm presenting. You see me the way I look right now, not the way things might look later." },
+    { "type": "dialogue", "speaker": "Lena", "content": "The way things might look later isn't certain." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Nothing is certain." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Then you're both operating on the same incomplete picture. You know more about one possible future. But there are other possible futures too, and he doesn't get to weigh in on which one matters most to him if you don't tell him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're being philosophical." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I'm being your best friend, which means I'll say uncomfortable things with good intentions and you'll get annoyed and admit I was right later." },
+    { "type": "narration", "content": "Something between a laugh and an exhale." },
+    { "type": "dialogue", "speaker": "Lena", "content": "He's not going to leave when you tell him. I don't know him the way you do. But I've watched him. I've watched how he is with you. He's not that person." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "How do you know what kind of person he is?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Because he stayed. The first day at the park — you interrupted his morning, invaded his space, asked to look at something he wasn't showing people. And he stayed. Not because you made him. He stayed because something in him decided you were worth it. And I think that thing in him is still making the same decision every day." },
+    { "type": "narration", "content": "Cassandra looked at the window. Outside, the street was beginning to take on the particular brightness of mid-morning." }
+  ]
+}

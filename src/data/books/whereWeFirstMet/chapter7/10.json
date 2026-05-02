@@ -1,0 +1,26 @@
+{
+  "page": 10,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mother", "content": "I'm not telling you to rush. I'm not saying do it tomorrow. I'm just saying that the waiting itself has a cost. Not to him — to you. Every time you put it back down, you carry it a little more carefully. And carrying things carefully is exhausting." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mother", "content": "You do know. Which is why I think you already know when you're going to tell him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What?" },
+    { "type": "dialogue", "speaker": "Mother", "content": "I think you know. You've probably known for a while. You're just building up to it, which is how you work. But you get there. You always get there." },
+    { "type": "narration", "content": "Her father was watching her with the expression he had when he was deciding whether to say a thing. She recognized it — she'd inherited it." },
+    { "type": "dialogue", "speaker": "Father", "content": "We raised you to live." },
+    { "type": "narration", "content": "He said it quietly, like a statement he'd been holding for the right moment." },
+    { "type": "dialogue", "speaker": "Father", "content": "Not to be careful. There's a difference. Careful means you protect what you have. Living means you go after what you don't have yet, knowing you might not get to keep it. We've watched you choose living for years, even when it was harder than being careful. This—" },
+    { "type": "narration", "content": "A small gesture toward the door, the world beyond it." },
+    { "type": "dialogue", "speaker": "Father", "content": "This is the same choice. With higher stakes." },
+    { "type": "narration", "content": "She felt something give in her chest. Not breaking — just opening. The way a window opens and changes the quality of the air." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What if it's not enough time?" },
+    { "type": "narration", "content": "The truest thing she'd said out loud in weeks." },
+    { "type": "dialogue", "speaker": "Father", "content": "It never feels like enough time." },
+    { "type": "narration", "content": "He let that sit for a moment." },
+    { "type": "dialogue", "speaker": "Father", "content": "That's not a reason not to have it." },
+    { "type": "narration", "content": "Her mother had tears in her eyes. She didn't wipe them. She just held Cassandra's hand and let them be there, and the three of them sat in the kitchen that had held all of them for twenty years, and Cassandra breathed, and the decision she'd already made settled more firmly into place." }
+  ]
+}

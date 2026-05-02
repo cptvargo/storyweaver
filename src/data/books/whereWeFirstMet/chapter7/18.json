@@ -1,0 +1,27 @@
+{
+  "page": 18,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "After dinner, Cassandra helped her mother with the dishes, and Ethan found himself at the table with her father and their coffee — which he suspected was not entirely accidental." },
+    { "type": "narration", "content": "Her father set his cup down and looked at Ethan with the unhurried attention he'd had all evening — the kind that belonged to someone who asked questions for real information, not for the performance of interest." },
+    { "type": "dialogue", "speaker": "Father", "content": "What kind of work matters to you? Not commissions — the work you do because you can't not do it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been working on a landscape for a while. A park near here, actually. It's been difficult because I keep changing what I'm trying to say about it. I'll think I've found the thing, and then I'll step back and realize I've only found what I expected to find — not what's actually there." },
+    { "type": "dialogue", "speaker": "Father", "content": "And what's actually there?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm still figuring that out. I think it's something about time — about how the same place looks different depending on where you are in your life when you look at it. Or maybe it's about what you're looking for when you go." },
+    { "type": "narration", "content": "Cassandra's father looked at him steadily." },
+    { "type": "dialogue", "speaker": "Father", "content": "And what were you looking for when you went to that park?" },
+    { "type": "narration", "content": "The question had weight under it. Ethan could feel it — the way a question can mean more than its surface." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Quiet. And then I found something else." },
+    { "type": "dialogue", "speaker": "Father", "content": "Yes. You did." },
+    { "type": "narration", "content": "The kitchen sounds continued in the background — water, voices, the small music of two people talking while they work." },
+    { "type": "narration", "content": "Her father turned his cup slowly." },
+    { "type": "dialogue", "speaker": "Father", "content": "What kind of person are you when things are not as expected?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's a specific question." },
+    { "type": "dialogue", "speaker": "Father", "content": "I ask specific questions. Cassandra gets that from me, I'm told." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Father", "content": "You don't have to answer." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No. I want to." }
+  ]
+}

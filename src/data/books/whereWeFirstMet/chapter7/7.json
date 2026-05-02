@@ -1,0 +1,26 @@
+{
+  "page": 7,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Always." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "When you look at me — not right now, but in general, when you see me in my life — do you see someone sick? Or do you see Cassandra?" },
+    { "type": "narration", "content": "Lena looked at her for a long moment. Not the kind of pause that means someone is choosing words to be kind. The kind that means they're choosing words to be true." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I see Cassandra. I see someone who sometimes gets tired earlier than she used to, who takes medication she's gotten very practiced at taking discreetly. I see someone who makes every room she walks into feel like it was waiting for her. I see someone who named a stuffed bear Harold on a first date and thought nothing of it." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I see you. The whole you. And the thing you carry is part of you the way everything is part of you — it doesn't make you a different person. It just makes you the person who carries that." },
+    { "type": "narration", "content": "Cassandra let that sit for a moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What if he can't see it that way?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Then he's not the person you think he is." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And if he is?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Then you're going to be glad you told him." },
+    { "type": "narration", "content": "Cassandra nodded. Slowly. The kind of nod that means something has landed rather than just been heard." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You should be a therapist." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I should be a lot of things. For now I work at a badly lit arcade and make good tea and tell you the truth when you need it. That's enough." },
+    { "type": "narration", "content": "The machines started powering on around them — Lena had hit the timer, the ambient sounds of the arcade beginning their slow accumulation. Cassandra stood and stretched and felt the particular morning tiredness in her bones that she had learned to work with rather than against." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Tell him soon. Not because it can't wait. Because I think you're ready, even if you don't feel it yet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." },
+    { "type": "narration", "content": "She meant it this time in a different way than she had before. Not as a placeholder. As a decision." }
+  ]
+}

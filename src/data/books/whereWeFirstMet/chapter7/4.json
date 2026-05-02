@@ -1,0 +1,26 @@
+{
+  "page": 4,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She typed it the way she texted Lena most things she couldn't quite say out loud — not in complete sentences, not with full context. Just the edges of it. The shape of the thing without the name." },
+    { "type": "message", "sender": "Cassandra", "content": "Are you awake?" },
+    { "type": "message", "sender": "Lena", "content": "Always. What's happening." },
+    { "type": "message", "sender": "Cassandra", "content": "I almost told him tonight." },
+    { "type": "message", "sender": "Lena", "content": "At dinner?" },
+    { "type": "message", "sender": "Cassandra", "content": "Yeah. I was so close. And then I put it back." },
+    { "type": "narration", "content": "A pause. She could picture Lena sitting up in her bed, the specific focus she got when something mattered." },
+    { "type": "message", "sender": "Lena", "content": "Are you okay right now?" },
+    { "type": "message", "sender": "Cassandra", "content": "I will be. I just can't explain the whole thing right now. My brain is too full." },
+    { "type": "message", "sender": "Lena", "content": "Come in before my shift tomorrow. I'll have tea." },
+    { "type": "message", "sender": "Cassandra", "content": "Okay." },
+    { "type": "message", "sender": "Lena", "content": "You don't have to have it figured out. Just come." },
+    { "type": "message", "sender": "Cassandra", "content": "I know. Thank you." },
+    { "type": "message", "sender": "Lena", "content": "Goodnight, Cass. You're okay. You're doing okay." },
+    { "type": "message", "sender": "Cassandra", "content": "Goodnight." },
+    { "type": "narration", "content": "She set the phone down. The room was still. The streetlight still made the same shape on the wall." },
+    { "type": "narration", "content": "She closed her eyes and let the day go." }
+  ]
+}

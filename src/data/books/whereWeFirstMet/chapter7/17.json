@@ -1,0 +1,27 @@
+{
+  "page": 17,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Cassandra's father stood when they came in and shook Ethan's hand with the directness of a man who reads people in the first ten seconds and doesn't need longer. He was quieter than Ethan expected — not cold, but reserved in a considered way, not a default one." },
+    { "type": "dialogue", "speaker": "Father", "content": "Ethan. Good." },
+    { "type": "narration", "content": "Just that. Like good was the whole assessment." },
+    { "type": "narration", "content": "Dinner was comfortable in the way of a family practiced at receiving someone new without making them the spectacle. Cassandra's mother asked about his work — genuine questions, with follow-ups — and he found himself explaining painting in a way that felt natural rather than performed." },
+    { "type": "narration", "content": "Halfway through, her mother set down her fork." },
+    { "type": "dialogue", "speaker": "Mother", "content": "She painted you a picture, you know. Did she tell you?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She told me she made something. She said it was bad." },
+    { "type": "dialogue", "speaker": "Mother", "content": "She showed it to us." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Mother", "content": "It wasn't bad." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She got the awning right. And there's a very expressive cloud." },
+    { "type": "narration", "content": "Cassandra's mother laughed. Cassandra covered her face with one hand. Her father smiled at the table — the particular smile of a man who doesn't smile often but means it completely when he does." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We are not discussing the cloud at the dinner table." },
+    { "type": "dialogue", "speaker": "Mother", "content": "The cloud has character." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The cloud has chaos. Ethan already told me that." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I said chaos is different from bad." },
+    { "type": "dialogue", "speaker": "Father", "content": "He's diplomatic." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He's an artist. Diplomacy is part of the service. He told me that too." },
+    { "type": "narration", "content": "Her father looked at Ethan with something that might have been the beginning of approval — not the quick kind, but the kind that had been watching carefully and was satisfied with what it had seen so far." }
+  ]
+}

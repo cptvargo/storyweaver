@@ -1,0 +1,28 @@
+{
+  "page": 8,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The conversation with her parents happened that evening." },
+    { "type": "narration", "content": "She hadn't planned it. She'd come home with every intention of making dinner and going to bed early, and instead found her mother at the kitchen table with two cups of tea already made and the expression of a woman who has been waiting without appearing to wait." },
+    { "type": "narration", "content": "Her father was in the adjacent room with a book open on his lap but not reading." },
+    { "type": "dialogue", "speaker": "Mother", "content": "Sit down." },
+    { "type": "narration", "content": "Not an order. An invitation placed carefully in advance." },
+    { "type": "narration", "content": "She sat." },
+    { "type": "dialogue", "speaker": "Mother", "content": "You've been carrying more than usual. These last few weeks." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Is it that obvious?" },
+    { "type": "dialogue", "speaker": "Mother", "content": "Only to us. And Lena, probably." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Lena already had tea with me this morning." },
+    { "type": "dialogue", "speaker": "Mother", "content": "Good. Tell me where you are." },
+    { "type": "narration", "content": "Cassandra looked at the table. There was a small chip in the edge of the wood that she'd made when she was nine, dropping a heavy book, and she had always run her thumb along it without meaning to. She ran her thumb along it now." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm somewhere I didn't expect to be. With Ethan. It's real — that's not the issue. The issue is that it's real enough now that I have to do the difficult thing soon. And I keep finding reasons to wait." },
+    { "type": "dialogue", "speaker": "Mother", "content": "What kind of reasons?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Good ones. The wrong reasons." },
+    { "type": "narration", "content": "She looked up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want more time in the version where he looks at me like I'm uncomplicated." },
+    { "type": "narration", "content": "Her mother was quiet for a long moment. Then she reached across the table and placed her hand over Cassandra's. Not gripping. Just placing, like a gentle weight." },
+    { "type": "dialogue", "speaker": "Mother", "content": "You have never been uncomplicated. Not from the day you were born. You came into this world with an intensity, this need to pay attention to things most people walk past. That was you before any of this. That will be you after." },
+    { "type": "dialogue", "speaker": "Mother", "content": "Don't sell yourself as a simplified version. Not even to protect him from the complicated part." }
+  ]
+}

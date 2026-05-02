@@ -1,0 +1,23 @@
+{
+  "page": 11,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "The text came on a Thursday morning to a number he'd saved but never used." },
+    { "type": "narration", "content": "He was at the paint table when the message appeared — the unfamiliar name, the careful phrasing of someone who wasn't sure how they'd be received." },
+    { "type": "message", "sender": "Maya", "content": "Hi. This is Maya. Cassandra's sister. I got your number from her phone — she knows I have it, but she doesn't know I'm texting you. I hope that's okay." },
+    { "type": "narration", "content": "He set the brush down." },
+    { "type": "message", "sender": "Ethan", "content": "Hi. It's okay." },
+    { "type": "message", "sender": "Maya", "content": "I know this is probably a strange message to receive. I'd like to meet you. Just to talk. Not with Cassandra — just us. I know how that sounds." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "message", "sender": "Ethan", "content": "It sounds like you have something you need to say to me." },
+    { "type": "message", "sender": "Maya", "content": "Yes. I do. I'd rather say it in person. Would you be willing?" },
+    { "type": "narration", "content": "He typed two different responses, deleted them both." },
+    { "type": "message", "sender": "Ethan", "content": "Yes. Tell me when and where." },
+    { "type": "message", "sender": "Maya", "content": "The Copper Mug. Tomorrow morning, 9am. If that works." },
+    { "type": "message", "sender": "Ethan", "content": "I'll be there." },
+    { "type": "narration", "content": "He sat with the phone for a while after, looking at the exchange. Then he picked up the brush and went back to work, and tried not to build too much out of the shape of it." }
+  ]
+}
