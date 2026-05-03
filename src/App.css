@@ -1172,6 +1172,23 @@ body {
   margin-bottom: 20px;
 }
 
+.block--embed {
+  width: 100%;
+  margin-bottom: 28px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.embed__frame {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+  display: block;
+}
+
 /* Feature 5: Chapter intro card — full viewport cover */
 .chapter-intro {
   position: fixed;

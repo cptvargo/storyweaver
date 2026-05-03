@@ -1,0 +1,23 @@
+{
+  "page": 15,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "He listened to it all the way through." },
+    { "type": "narration", "content": "Then he texted her." },
+    { "type": "message", "sender": "Ethan", "content": "That didn't feel random… it's humbling knowing I bring that side out of you. I really like that song." },
+    { "type": "narration", "content": "She exhaled. She hadn't realized she'd been holding her breath." },
+    { "type": "message", "sender": "Cassandra", "content": "I played it three times before I sent it. The third time I stopped overthinking." },
+    { "type": "message", "sender": "Ethan", "content": "I'm glad you sent it. I would have wanted to know." },
+    { "type": "message", "sender": "Cassandra", "content": "It's a lot to put in a song recommendation." },
+    { "type": "message", "sender": "Ethan", "content": "It's the right amount. I like when things that are actually big show up without ceremony." },
+    { "type": "message", "sender": "Cassandra", "content": "That's very much a you thing to say." },
+    { "type": "message", "sender": "Ethan", "content": "Is it?" },
+    { "type": "message", "sender": "Cassandra", "content": "Yes. You notice the weight of things without needing the announcement. It's one of the first things I noticed about you." },
+    { "type": "message", "sender": "Ethan", "content": "You noticed a lot about me from a stone wall." },
+    { "type": "message", "sender": "Cassandra", "content": "You were drawing me. From a stone wall. I had some time to observe." },
+    { "type": "message", "sender": "Ethan", "content": "Fair." }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 2,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Lena", "content": "Tell me what the terror is. Specifically." },
+    { "type": "narration", "content": "Cassandra looked at her mug. She'd been trying to untangle this for weeks — for longer than weeks, if she was honest — and every time she got close to the center of it, the thread moved." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There are a few kinds. That's the thing. I keep trying to name the one that's loudest and then a different one shows up." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Name them anyway." },
+    { "type": "narration", "content": "She exhaled slowly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There's — the fear of losing him. If I tell him and he—" },
+    { "type": "narration", "content": "She stopped. Corrected herself." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm not even sure that's the right way to say it. It's more the fear of watching him try to stay when he doesn't actually want to. That's worse than him leaving. The version where he's — present but not real." },
+    { "type": "narration", "content": "She shook her head." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't know if that makes sense." },
+    { "type": "dialogue", "speaker": "Lena", "content": "It makes sense." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And then there's—" },
+    { "type": "narration", "content": "She started the sentence and put it back down. Picked it up again." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There's what happens to what we have right now. Which is good. Which is actually really good, Lena. And I know that sounds like a reason to tell him, but it also feels like a reason to be careful, because if it changes—" },
+    { "type": "narration", "content": "She pressed her lips together." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The version of us that exists right now, where he doesn't know yet — I don't want to be careless with that." },
+    { "type": "narration", "content": "Lena turned her mug slowly, once, in her hands." },
+    { "type": "dialogue", "speaker": "Lena", "content": "There's something else. I can hear it." },
+    { "type": "narration", "content": "Cassandra didn't answer right away." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The guilt. For not telling him sooner. Every week I didn't, I let him — I let him get closer. I let him decide to stay without giving him the thing he needed to make that decision honestly." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's the one I can't sit with cleanly." }
+  ]
+}

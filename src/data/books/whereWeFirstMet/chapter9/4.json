@@ -1,0 +1,30 @@
+{
+  "page": 4,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I tell you what I actually think? Not the version that protects your feelings — the version that's true." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I think you've been protecting the thing you have with him by keeping this separate from it. I understand why. But I think the longer it stays separate, the more the separation becomes the thing itself — the hidden thing starts defining what you are together more than what you actually share. And I think you know that. I think that's why you're sitting here." },
+    { "type": "narration", "content": "Cassandra looked at her." },
+    { "type": "dialogue", "speaker": "Lena", "content": "If it's real — what you have with him — the truth won't break it. It might change its shape. But the kind of real that breaks at the first difficult thing wasn't going to hold anyway." },
+    { "type": "narration", "content": "She met Cassandra's eyes." },
+    { "type": "dialogue", "speaker": "Lena", "content": "But hiding it will break it. Not all at once. Gradually. The way things do when there's something underneath that nobody names." },
+    { "type": "narration", "content": "The kitchen was quiet. Outside, a sparrow landed on the windowsill and then left." },
+    { "type": "narration", "content": "Cassandra looked at her hands around the mug." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I keep thinking about what he said. On the porch. That he's not going anywhere. That he just wants to understand what matters." },
+    { "type": "narration", "content": "She looked up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He already suspects something. He's just waiting for me to be ready." },
+    { "type": "dialogue", "speaker": "Lena", "content": "And?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And I think I am." },
+    { "type": "narration", "content": "She said it slowly, testing the weight of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think I've been ready for a while and I've been calling it something else." },
+    { "type": "narration", "content": "Lena nodded." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Then go. Not today. Not this second. But soon." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Don't let being almost ready become its own way of waiting." },
+    { "type": "narration", "content": "For the first time in weeks, the thing she'd been carrying felt like something with a shape — something with an edge, something that could be set down." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Tomorrow. I'm going to ask him to meet me tomorrow." }
+  ]
+}

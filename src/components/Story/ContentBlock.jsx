@@ -32,6 +32,19 @@ export default function ContentBlock({ block, pov }) {
     case 'action':
       return <p className="block block--action">{block.content}</p>
 
+    case 'embed':
+      return (
+        <div className="block block--embed">
+          <iframe
+            className="embed__frame"
+            src={block.src}
+            title={block.title || 'Video'}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+      )
+
     default:
       return <p className="block">{block.content}</p>
   }

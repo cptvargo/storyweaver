@@ -113,6 +113,13 @@
       "image": "/before_the_answer.png",
       "mood": "Ethan may not know the truth… but he has already made his choice.",
       "totalPages": 15
+    },
+    {
+      "chapterIndex": 9,
+      "title": "The Day Before",
+      "image": "/the_day_before.png",
+      "mood": "She's ready. And everything is about to change.",
+      "totalPages": 20
     }
   ],
   "themes": [

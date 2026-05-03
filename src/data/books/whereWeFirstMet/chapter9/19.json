@@ -1,0 +1,16 @@
+{
+  "page": 19,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She didn't sleep right away." },
+    { "type": "narration", "content": "Not because she was anxious. Not the way she'd been anxious for months — the low hum of an unnamed, persistent dread that lived underneath the ordinary parts of the day. This was different. This was the particular wakefulness of someone who has been carrying a heavy thing for a long time and has set it down, just barely, and is still feeling the absence of its weight." },
+    { "type": "narration", "content": "She lay in the quiet and let herself think about him." },
+    { "type": "narration", "content": "Not about the conversation she was going to have. Not about how it would go, or what she would say first, or what his face would do when she said it. She'd been running that particular theater for months, always arriving at the same two possible outcomes, and it had never helped, had only ever made the weight heavier." },
+    { "type": "narration", "content": "Instead she let herself think about what she already knew. The sketchbook. The Copper Mug. The way he had stood at the edge of the park and stopped because of where she had once sat. The way he had said: I'll wait for her to be ready. The way he had looked at her father's photographs and seen what she had seen. The way his hands looked when he was drawing something he cared about." },
+    { "type": "narration", "content": "The way he said her name." },
+    { "type": "internalThought", "content": "Whatever happens after tomorrow, this was real. What happened at the fountain, and at the coffee shop, and in his apartment with the spilled water, and on the porch in the dark — this happened. It is as real as anything. It is exactly as real as anything I have ever had." },
+    { "type": "narration", "content": "She would tell him. And then she would find out what it was made of." }
+  ]
+}

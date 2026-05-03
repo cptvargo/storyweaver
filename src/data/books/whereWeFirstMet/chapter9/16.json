@@ -1,0 +1,28 @@
+{
+  "page": 16,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "message", "sender": "Cassandra", "content": "Can I tell you something?" },
+    { "type": "message", "sender": "Ethan", "content": "Yes." },
+    { "type": "message", "sender": "Cassandra", "content": "I went to the park tonight. The one with the fountain." },
+    { "type": "message", "sender": "Ethan", "content": "You did." },
+    { "type": "message", "sender": "Cassandra", "content": "I sat on the wall." },
+    { "type": "message", "sender": "Ethan", "content": "How was it?" },
+    { "type": "narration", "content": "She looked at the ceiling. She typed slowly." },
+    { "type": "message", "sender": "Cassandra", "content": "Different at night. Quieter. But the fountain light does the same thing. It still looks the way it looked that morning. Like it's trying to do something beautiful." },
+    { "type": "narration", "content": "A pause. Three dots appeared, then stopped. Then:" },
+    { "type": "message", "sender": "Ethan", "content": "I walked past it this morning." },
+    { "type": "message", "sender": "Cassandra", "content": "I know. You told me once that you run that route twice a week." },
+    { "type": "message", "sender": "Ethan", "content": "You remembered that." },
+    { "type": "message", "sender": "Cassandra", "content": "I remember things. About you. Probably more than you know." },
+    { "type": "message", "sender": "Ethan", "content": "I remember things about you too." },
+    { "type": "message", "sender": "Cassandra", "content": "Like what?" },
+    { "type": "message", "sender": "Ethan", "content": "The way you move when you're looking at something that interests you. The particular kind of laugh that happens before you've decided to laugh. The way you hold your coffee before you drink it." },
+    { "type": "narration", "content": "She read that twice." },
+    { "type": "message", "sender": "Cassandra", "content": "You've been paying attention for longer than I knew." },
+    { "type": "message", "sender": "Ethan", "content": "Always. 😉" }
+  ]
+}

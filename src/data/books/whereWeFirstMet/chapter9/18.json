@@ -1,0 +1,22 @@
+{
+  "page": 18,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She was smiling. She was aware that she was smiling, alone in her room, holding her phone in both hands like something she didn't want to drop." },
+    { "type": "narration", "content": "She typed and deleted a few things. None of them were quite right. She wanted to say: I love you. She wanted to say: I've been wanting to tell you something for months and I've been afraid and tonight something in me stopped being afraid. She wanted to say: you look at me like I'm the right answer to something you didn't know you were asking, and I have spent years not being looked at like that, and I don't know what to do with it except try to deserve it." },
+    { "type": "narration", "content": "She said none of those things." },
+    { "type": "message", "sender": "Cassandra", "content": "Can we meet tomorrow?" },
+    { "type": "narration", "content": "Three dots. Immediately." },
+    { "type": "message", "sender": "Ethan", "content": "Of course." },
+    { "type": "message", "sender": "Cassandra", "content": "I'll text you in the morning." },
+    { "type": "message", "sender": "Ethan", "content": "I'll be here." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "message", "sender": "Cassandra", "content": "Goodnight, Ethan. ❤️" },
+    { "type": "message", "sender": "Ethan", "content": "Goodnight. ❤️" },
+    { "type": "narration", "content": "She put the phone down on the nightstand. She lay back on the bed. The small lamp was still on — that warm, soft light that made things look the way they look in the good moments of old photographs. She looked at the ceiling." },
+    { "type": "internalThought", "content": "Tomorrow." }
+  ]
+}

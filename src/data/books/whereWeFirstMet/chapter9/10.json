@@ -1,0 +1,17 @@
+{
+  "page": 10,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She sat on the wall." },
+    { "type": "narration", "content": "The same wall. Stone and moss and old masonry. The light from the fountain scattered across it in its evening pattern — less bright than the morning version, less direct, but beautiful in its own way. The kind of light that made things look like they were important." },
+    { "type": "narration", "content": "She sat where she had been sitting that day." },
+    { "type": "narration", "content": "She thought about the first morning. The way she'd been watching the fountain because of a habit she had — not looking at the person, because strangers didn't look at you if you were already looking at something else. And then she'd become aware of being watched. Not intrusively. Carefully. The way someone watches something they find interesting, not something they want." },
+    { "type": "narration", "content": "She'd looked up. And there had been a man with a sketchbook, looking at her." },
+    { "type": "narration", "content": "She'd almost ignored it. Almost done the thing she did, which was to take herself out of range of things that pulled at her — a self-protective habit she'd developed early and refined over years of understanding what it meant to have limited time and unlimited things that could require her." },
+    { "type": "narration", "content": "But something had made her stay. She wasn't sure what. Maybe the quality of his attention — unhurried, with no expectation in it. Or maybe just something simpler: she'd been tired of taking herself out of range." },
+    { "type": "narration", "content": "She thought about the painting lesson. The knock of the glass, the water spreading across the floor, the two of them laughing at the same moment, the kind of laugh that happens before you decide to — unguarded, real. The way he'd looked at her after, before either of them had spoken." },
+    { "type": "narration", "content": "She thought about his voice on the porch. Whatever it is you're not ready to say yet. I'm not going anywhere." }
+  ]
+}
