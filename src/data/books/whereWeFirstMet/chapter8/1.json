@@ -1,0 +1,17 @@
+{
+  "page": 1,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He ran the same route he always ran." },
+    { "type": "narration", "content": "Past the hardware store, down the long straightaway behind the post office, through the residential blocks with their particular morning sounds — screen doors, dogs, a radio playing too loudly for six-thirty — and then up the small rise toward the park, which he usually reached just as the light was good, and which he usually ran through without stopping." },
+    { "type": "narration", "content": "This morning he stopped." },
+    { "type": "narration", "content": "Not because he'd planned to. His feet slowed before his mind caught up with the decision, and then he was standing at the edge of the park with his hands on his knees and his breathing loud in his ears, looking at the stone wall near the fountain." },
+    { "type": "narration", "content": "She had been sitting there." },
+    { "type": "narration", "content": "He had run this route twice a week for two years and had never once stopped at that wall. It was just a wall — stone and moss and the quality of old masonry that doesn't look at you. He had never noticed it before she'd been on it." },
+    { "type": "narration", "content": "He straightened. Looked at the fountain. The light was breaking through the spray the way it always did in the morning, which was the reason he'd been drawing it that day, which was the reason he'd noticed when she moved. Small physics. The way everything followed from something else — one thing, and then the next, and the next, until you were standing in a park at six-thirty on a Tuesday wondering how a conversation at a fountain had become the organizing fact of your life." },
+    { "type": "internalThought", "content": "There are things about her that you don't fully know yet." },
+    { "type": "narration", "content": "He started running again." }
+  ]
+}

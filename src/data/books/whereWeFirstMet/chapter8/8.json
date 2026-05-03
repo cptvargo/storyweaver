@@ -1,0 +1,26 @@
+{
+  "page": 8,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "How did you know about the wall?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You told me. Three weeks ago. I don't think you realized how you said it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How did I say it?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Like it was a fact about the world. Not a memory. Like: the wall is where she sat, the way the park has a fountain, the way Tuesday is the third day. It had already become part of how you understand the geography of your life." },
+    { "type": "narration", "content": "Ethan looked at the table. He moved his container to the side slightly, precisely — the small unnecessary adjustment people make when they need something to do with their hands." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You're different with her, man. I've watched you. I've known you since we were sharing a terrible apartment with one functioning burner and I watched you keep three separate women at what I can only describe as a very polite arm's length for two years. And you are different with her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You're actually there. When you talk about her, when you're with her — you're not managing it. You've stopped — I don't know how to explain this — you've stopped leaving early. Even when you're worried. Even now, with this thing you can't see yet. You're not retreating. You're just standing there in the uncertainty like it's a room you belong in." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm terrified." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Yeah. I know. That's what I mean. You're terrified and you're still there. That's new. That's — Ethan, that's irreversible. You don't get to go back to who you were before you started caring this much about how to stay." },
+    { "type": "narration", "content": "He said it without ceremony. It was just a thing he had observed and was reporting accurately." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's a terrifying thing to say." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Yeah, but you said terrifying first, so I'm just confirming the diagnosis." },
+    { "type": "narration", "content": "Ethan almost laughed. Nathan did." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "So what do I do?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You already know." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Everyone keeps saying that." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Because it's true. And I think part of you has been waiting for someone to give you permission. So here: I give you permission. Whatever it is — stay. You're allowed to stay." }
+  ]
+}

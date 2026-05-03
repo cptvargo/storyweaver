@@ -1,0 +1,28 @@
+{
+  "page": 11,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "He sat with that for a moment. Then he picked up the phone." },
+    { "type": "message", "sender": "Ethan", "content": "Can I tell you something?" },
+    { "type": "message", "sender": "Cassandra", "content": "Yes." },
+    { "type": "message", "sender": "Ethan", "content": "I've been thinking about you today too. Not generally. Very specifically. About what you said on the porch on Saturday." },
+    { "type": "narration", "content": "A pause. Longer than a beat. He watched the three dots appear and then stop. Then appear again." },
+    { "type": "message", "sender": "Cassandra", "content": "I've been thinking about that too." },
+    { "type": "message", "sender": "Ethan", "content": "You don't have to tell me everything. I mean that. I'm not — I'm not saying it to be patient in a way that's actually pressure. I just want you to know that I'm not going anywhere while I wait for you to be ready. And I'd rather understand what matters than try to fill in the gaps by guessing." },
+    { "type": "narration", "content": "Three dots. Then they stopped. He put the phone down. He thought: too much. Then he thought: no, that was true." },
+    { "type": "narration", "content": "The phone lit up." },
+    { "type": "message", "sender": "Cassandra", "content": "Thank you for that." },
+    { "type": "message", "sender": "Cassandra", "content": "And for not pushing. And for being the kind of person who thinks about how to receive something rather than just asking for it. That's — not everyone does that." },
+    { "type": "message", "sender": "Ethan", "content": "You deserve someone who does." },
+    { "type": "narration", "content": "Another pause. He could feel her on the other end of it — the weight of whatever she was holding, the distance between what she had said and what she hadn't." },
+    { "type": "message", "sender": "Cassandra", "content": "I'm going to the breakfast place now. I'll send you the rubric." },
+    { "type": "message", "sender": "Ethan", "content": "I'll be waiting." },
+    { "type": "message", "sender": "Cassandra", "content": "I know. That's the part I—" },
+    { "type": "narration", "content": "The message cut off there. Then, a few seconds later:" },
+    { "type": "message", "sender": "Cassandra", "content": "Going now. Talk later." },
+    { "type": "narration", "content": "He read the unfinished sentence three times. He didn't try to complete it. He just let it exist — open, like a door that someone had left ajar on purpose." }
+  ]
+}

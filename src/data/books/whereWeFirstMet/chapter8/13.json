@@ -1,0 +1,20 @@
+{
+  "page": 13,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He drew her from memory." },
+    { "type": "narration", "content": "Not from a photograph. Not from a reference. From the particular accumulation of times he'd looked at her and noticed without cataloguing — the angle of her jaw when she was listening carefully, the way her eyes did something specific when she was about to laugh, the quality of her stillness when she was trying to hold something in and not succeeding." },
+    { "type": "narration", "content": "He didn't start with her face. He started with the porch — the railing, the candle on the small table, the dark beyond the steps where the yard went into shadow. And then he placed her in it: sitting sideways, one knee up, looking at the distance rather than at him." },
+    { "type": "narration", "content": "He worked for an hour. He wasn't counting." },
+    { "type": "narration", "content": "There was something about drawing a person from memory that was different from drawing them from life. From life, you were trying to be accurate. From memory, you were trying to be true. The distinction mattered. Memory edited. Memory kept what was essential and released what wasn't. Memory knew what it was trying to say." },
+    { "type": "narration", "content": "What it was trying to say, in this case, was: she is someone who sits at the edge of things. Not because she's uncertain. Because she is aware. Because she is paying attention to something most people don't notice." },
+    { "type": "internalThought", "content": "I am not afraid of losing her." },
+    { "type": "narration", "content": "He set down the pencil. Looked at what he'd made." },
+    { "type": "internalThought", "content": "I am afraid of failing her. Those are different fears. They have a different answer." },
+    { "type": "narration", "content": "The distinction arrived fully formed, borrowed from the morning without his realizing he'd kept it. He turned the sketchbook so the light hit it directly. In the drawing, she was looking at something he couldn't see — beyond the edge of the frame, out past the railing, into whatever the dark held." },
+    { "type": "narration", "content": "He didn't try to draw what she was looking at. He didn't know. He left it blank — the open edge, the thing outside the border." },
+    { "type": "narration", "content": "It was the most honest drawing he'd done in months." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "page": 2,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The father had said it so carefully. Not to alarm. Not to explain. Just to give him the weight of a thing without the shape of it, and let him carry it forward without context." },
+    { "type": "narration", "content": "He'd been carrying it since Saturday evening. Turning it over the way he turned over a painting that wasn't quite done — looking for the part he was missing, the angle that would let the whole thing resolve. He hadn't found it." },
+    { "type": "narration", "content": "He replayed Maya's face. The way she'd pressed her hands flat on the table. I love her more than I've loved anything in my entire life. Not the way you said something wonderful about a person. The way you said it to prepare yourself for something." },
+    { "type": "narration", "content": "He replayed Cassandra on her porch. The sentence she'd been about to say at dinner that she'd gently, deliberately put back down. The way she'd looked at the candle. There are things I should probably —" },
+    { "type": "narration", "content": "He replayed: I know. That's what makes it harder." },
+    { "type": "narration", "content": "His feet hit the pavement in their rhythm and the morning moved around him — a cyclist, a woman with a dog, a delivery truck pulling into a loading zone — and his mind kept running its own separate circuit, faster and less organized, the way minds do when they have something they can't put down and haven't decided what to do with it." },
+    { "type": "internalThought", "content": "If I don't know what it is — why does it feel like I already do?" },
+    { "type": "narration", "content": "He didn't answer that. He just ran, and let the question exist the way some questions have to: open, and present, and carried." }
+  ]
+}

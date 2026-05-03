@@ -106,6 +106,13 @@
       "image": "/what_we_carry.png",
       "mood": "The truth is getting closer. And it will matter when it arrives.",
       "totalPages": 20
+    },
+    {
+      "chapterIndex": 8,
+      "title": "Before the Answer",
+      "image": "/before_the_answer.png",
+      "mood": "Ethan may not know the truth… but he has already made his choice.",
+      "totalPages": 15
     }
   ],
   "themes": [

@@ -1,0 +1,28 @@
+{
+  "page": 9,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "What if it's serious? What she's carrying. What if it's the kind of thing that — changes the shape of everything?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Then it changes the shape of everything." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's not helpful." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I know. But I'm not going to tell you it won't be hard if it's hard. I'm also not going to sit here and watch you treat 'it might be difficult' as a reason to start calculating the exit. That's not you. That's not who you are anymore — if it ever actually was." },
+    { "type": "narration", "content": "They were quiet for a moment. Nathan finished his noodles. He always ate fast — a habit from years of getting somewhere right after lunch." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You make it sound simple." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm not saying it's simple. I'm saying it's clear. Those are different things. Difficult and clear can exist at the same time. Hard and decided can exist at the same time." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "And if I'm not enough for it? Whatever it is — if it's beyond what I know how to carry?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You won't know until you're in it. That's just true. But here's what I actually think: I think the fact that you're asking whether you'll be enough means you're already taking it seriously in the right direction. The guys who aren't enough don't sit around worrying about whether they're enough. They just — aren't there. They leave before the question even gets asked." },
+    { "type": "narration", "content": "Ethan looked at him." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She's not worth it like a prize. I know you know that. She's not a calculation — 'is this worth the difficulty,' weigh the columns, decide. She's the person you want to be with. That's not the same category of question." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "No." },
+    { "type": "narration", "content": "A comfortable quiet. Nathan pushed the second container across the table — the extra spring rolls he always ordered and always pretended were an accident." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Eat. You think better when you're not running on coffee and feelings." },
+    { "type": "narration", "content": "Ethan took the spring rolls." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Thank you. For coming over." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You would've done the same. You have. Multiple times." },
+    { "type": "narration", "content": "He said it without inflation — as a simple accounting of the record." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's what this is. You show up for each other. That's the whole thing. That's all it ever is." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page": 7,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan showed up at noon with two bags of Thai takeout and the particular energy of someone who had received no direct distress signal but had come anyway, because that was the kind of person he was." },
+    { "type": "narration", "content": "He set the bags on the counter, looked at Ethan's apartment — the sketchbooks open on the table, the pencils arranged and untouched, the light hitting the window in the early afternoon way — and then looked at Ethan." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You haven't eaten anything today." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I had coffee." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's not food. That's a beverage with ambitions." },
+    { "type": "narration", "content": "He opened the bags, started laying out containers. He'd gotten the right things without asking — he always got the right things without asking. It was one of the qualities about Nathan that Ethan had stopped remarking on years ago and now simply received, the way you receive good weather without thanking the sky." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You want to tell me what's going on, or should I pretend I came over here for purely social reasons?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think you always come over for purely social reasons." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "True. But usually you've eaten. Sit down. Talk to me." },
+    { "type": "narration", "content": "They sat at the table. Ethan picked up the noodles. He ate for a minute without saying anything, which was its own kind of answer." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Is it her?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's always her." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's not a complaint, is it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "narration", "content": "Nathan nodded. He didn't push. He ate for a while, let the room be quiet in the way it was quiet with people who'd known each other long enough not to fill silence with noise." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "There's something she's carrying that I can't see. Her family knows what it is. She hasn't told me. And I've been — I've been thinking about whether that changes anything. For me. Whether I—" },
+    { "type": "narration", "content": "He stopped." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Whether you stay." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Whether I stay." },
+    { "type": "narration", "content": "Nathan set down his fork. He looked at Ethan directly, the way he did when he was about to say something real." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You look like you've been thinking too hard about a question you already know the answer to." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know the answer." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I think you do. I think you've known it since you stopped at a wall in the park because of where she once sat on it. I just think saying it out loud feels like weight that you're not sure you're allowed to carry yet." }
+  ]
+}

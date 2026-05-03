@@ -1,0 +1,28 @@
+{
+  "page": 5,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Then you have your answer to the question that is actually troubling you." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's not the question that's troubling me." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Are you certain? Because what I hear — when you speak — is not a man afraid of a truth. I hear a man afraid of what happens to himself when the truth arrives. Whether he will be enough. Whether he will stay. Whether what he feels is the kind that holds under weight." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Those are different fears. They have a different answer." },
+    { "type": "narration", "content": "Ethan looked at the window. The street outside was moving in its ordinary way — a woman with groceries, a boy on a bicycle, a car with its hazards blinking. The world that didn't know anything was difficult." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What if it's something serious?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "It may be." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What if it changes things?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "It may. Most serious things do." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Then how do you love someone when you don't have the full picture? When you know there's something large and unnamed and you can't see it?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You choose to. Simply as that. You don't always get the full story before you decide to stay. Sometimes you decide to stay, and then you get the story, and then you stay because of the deciding — not because of what you learned." },
+    { "type": "narration", "content": "Ethan looked at him." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Some people don't hide things to deceive you. They hide them because they are protecting something fragile. Not the secret itself — something more delicate. The way they feel when they are with you, outside of the difficult thing. The version of themselves that exists when it isn't in the room." },
+    { "type": "narration", "content": "He met Ethan's eyes." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "She is not hiding from you. She is protecting something she is not ready to share. That is a different thing entirely." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How long do I wait?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You are not waiting. You are present." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "There is a difference." }
+  ]
+}
