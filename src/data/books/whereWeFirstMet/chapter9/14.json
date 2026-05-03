@@ -5,7 +5,6 @@
   "bookId": "whereWeFirstMet",
   "pov": "Cassandra",
   "blocks": [
-    { "type": "action", "content": "Cassandra sent a message." },
     { "type": "message", "sender": "Cassandra", "content": "Listen to this… it made me think of you ❤️" },
     { "type": "embed", "src": "https://www.youtube.com/embed/BjswZ5hJsis", "title": "Song" },
     { "type": "narration", "content": "She set the phone face-down on the bed. Then face-up again. Then on her chest, where she could feel it if it buzzed." },
