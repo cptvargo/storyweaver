@@ -23,7 +23,7 @@ export default function ContentBlock({ block, pov }) {
       const side = isSent ? 'right' : 'left'
       return (
         <div className={`block block--message message--${side}`}>
-          <span className="message__sender">{block.sender}</span>
+          {!isSent && <span className="message__sender">{block.sender}</span>}
           <div className="message__bubble">{block.content}</div>
         </div>
       )
