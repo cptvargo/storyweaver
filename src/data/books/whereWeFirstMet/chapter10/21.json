@@ -1,0 +1,27 @@
+{
+  "page": 21,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been thinking about something." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "About what." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "About how most of the things I've been most afraid of in my life turned out to be less about the thing itself and more about what I thought would happen to me when I had to live with it." },
+    { "type": "narration", "content": "She was looking past his shoulder." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The thing itself was usually survivable. It was the anticipation that was actually hard." },
+    { "type": "narration", "content": "He was quiet, listening." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think I've been doing that. The anticipation thing. With the thing I want to tell you. I've been living inside an anticipated version of it for so long that I've started confusing the anticipation with the thing itself." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "And?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And I think I'm ready to stop doing that." },
+    { "type": "narration", "content": "He moved back slightly — just enough to see her face." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Not tonight. Tomorrow. I want to tell you tomorrow. Properly, in the right way." },
+    { "type": "narration", "content": "She met his eyes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Is that okay?" },
+    { "type": "narration", "content": "He looked at her for a long moment. The candlelight made the room feel like its own country — sealed from the outside, with its own rules." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes. That's okay." },
+    { "type": "narration", "content": "He held her gaze." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm going to receive it right. Whatever it is. I've been deciding that for a while." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know. That's part of why I'm ready." },
+    { "type": "narration", "content": "He drew her back in, and she let him, and they moved together in the dim room while the music played at its low and steady volume, and neither of them said anything for a while." }
+  ]
+}

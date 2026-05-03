@@ -1,0 +1,26 @@
+{
+  "page": 13,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya turned back to the window, which Nathan read correctly as a signal and not a rejection — the difference being one of posture, of which he had become, in recent years, a more careful student." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Can I ask you something directly?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "You can try." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Are you okay? Not tonight-okay. Actually." },
+    { "type": "narration", "content": "She was quiet. Not the quiet of someone deciding whether to answer — the quiet of someone who had been asked this question in a number of ways recently and was deciding how much honesty was appropriate for this particular asker." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's a bigger question than this conversation has room for." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Fair. I'll put it differently. Is there anything tonight that would make it better?" },
+    { "type": "narration", "content": "She looked at him. Something in his expression was open in a way she hadn't expected — not angling for anything, not performing sensitivity. Just genuinely asking." },
+    { "type": "dialogue", "speaker": "Maya", "content": "More of this, actually." },
+    { "type": "narration", "content": "She gestured at the room." },
+    { "type": "dialogue", "speaker": "Maya", "content": "All of it. This kind of thing. I don't get enough of it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Then let's go back to the table. And I'll stop strategically placing myself at windows." },
+    { "type": "narration", "content": "She almost smiled. Almost." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You can place yourself where you want. Just —" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I know." },
+    { "type": "narration", "content": "And he did. He pushed off the windowsill and held out his hand — not romantically, just the gesture of someone indicating direction." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "After you." },
+    { "type": "narration", "content": "Maya walked back toward the others. He let out a slow breath at the window. Then he followed." }
+  ]
+}

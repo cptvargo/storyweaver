@@ -1,0 +1,18 @@
+{
+  "page": 20,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "It was not the kind of dance that happened at events. It was the kind that happened in small rooms, when music arrived at the right moment and two people were close enough that the next thing was simply the next thing." },
+    { "type": "narration", "content": "He put one hand at the small of her back. She put her hand against his chest — not quite at his shoulder, lower, where she could feel the steadiness of him. His other hand found hers. They didn't say anything. The music was low and slow and had the quality of something written specifically for rooms like this — the kind lit by a single candle, in the back of the places that mattered to you." },
+    { "type": "narration", "content": "They moved slowly. No more than shifting weight, really. But the closeness of it —" },
+    { "type": "narration", "content": "She was aware of everything. The warmth of his hand. The sound of him breathing. The way he held her — not tightly, not loosely, but with the specific security of someone who had decided exactly what he was doing and was doing it without apology." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're a good dancer." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not. We're barely moving." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're moving correctly for the situation." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The bar is low." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The bar is exactly right. Sometimes the bar should be right, not high." },
+    { "type": "narration", "content": "He said nothing to that. He just held it — the conversation, the closeness, the particular stillness of the room." }
+  ]
+}

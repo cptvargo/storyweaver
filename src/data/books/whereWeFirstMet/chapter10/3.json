@@ -1,0 +1,26 @@
+{
+  "page": 3,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan came in first, which was typical. He had the energy of someone who had been looking forward to an evening all day and had not bothered to pretend otherwise." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It's perfect in here. You've done something to it." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I moved a table." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's not all you did. It feels different. Good different." },
+    { "type": "narration", "content": "He looked at the record player on the shelf." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Nice touch." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I thought so." },
+    { "type": "narration", "content": "He turned to Ethan, who had come in behind Nathan and was doing what he always did on arrival — taking in the room with the specific quality of attention that artists had, looking for what had changed and what had stayed the same." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You look better than last week." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I feel better." },
+    { "type": "narration", "content": "He meant it simply. He met Mr. Alvarez's eyes for a moment, and there was something in that exchange that didn't require words — an acknowledgment of the morning conversation, of the things that had been said and received, of the particular weight that had been carried and was now being carried differently." },
+    { "type": "narration", "content": "Mr. Alvarez put a hand on his shoulder briefly. Then he went to get them coffee." },
+    { "type": "narration", "content": "Nathan had already claimed the seat at the end of the long table. He was looking at the small chalkboard on the wall, where Mr. Alvarez had written something in that careful hand." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "What's the chalkboard say?" },
+    { "type": "narration", "content": "Mr. Alvarez came back with the coffees. He handed them over without looking at the board." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Some nights are the kind you don't forget while they're still happening." },
+    { "type": "narration", "content": "Nathan looked at him. Then looked at Ethan." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Okay. I'm ready for this night." }
+  ]
+}

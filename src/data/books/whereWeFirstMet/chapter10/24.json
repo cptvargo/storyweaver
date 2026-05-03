@@ -1,0 +1,26 @@
+{
+  "page": 24,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The return to the front of the coffee shop had a quality that was both ordinary and entirely specific." },
+    { "type": "narration", "content": "The others looked up when they came back. No one said anything about it. No one had to. Nathan had the particular expression of someone who was very carefully not smiling, which was worse than smiling. Lena had the expression of someone who had achieved an internal yes and was composing herself. Maya was looking at the table, which meant she had seen them come through the doorway and was giving them the privacy of not looking directly." },
+    { "type": "narration", "content": "Mr. Alvarez, behind the counter, was focused on the coffee equipment with great intensity." },
+    { "type": "narration", "content": "Cassandra went to the table and took her seat and reached for her cup, and if her face was slightly luminous and her expression had the quality of someone who has been somewhere and come back changed, she managed it with the composure she always managed things with." },
+    { "type": "narration", "content": "Ethan sat beside her. Nathan passed him a cup without being asked." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good back room?" },
+    { "type": "narration", "content": "He said it to his cup." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Very nice back room." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Great coffee shop." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Excellent establishment." },
+    { "type": "narration", "content": "Cassandra looked at the ceiling. Lena pressed her lips together. Maya made a sound that was, if you were listening carefully, the very beginning of a laugh that she stopped before it could finish." },
+    { "type": "narration", "content": "Mr. Alvarez came around with the pot." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "More coffee?" },
+    { "type": "narration", "content": "Everyone answered at once, in varying degrees of gratitude." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Please." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Thank you." },
+    { "type": "narration", "content": "He refilled the cups. He asked no questions. He went back behind the counter." }
+  ]
+}

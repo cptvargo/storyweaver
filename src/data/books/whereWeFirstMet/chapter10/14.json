@@ -1,0 +1,20 @@
+{
+  "page": 14,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena had been watching from across the room with the specific attentiveness she had for things that were interesting and potentially relevant to people she cared about. When Nathan and Maya came back to the table, she looked at Cassandra." },
+    { "type": "narration", "content": "Cassandra raised an eyebrow slightly. Lena raised both. This exchange took approximately one second and communicated a great deal." },
+    { "type": "narration", "content": "Mr. Alvarez had brought out a second round of drinks and something small to eat — whatever he had put together from the kitchen, which turned out to be exactly right — and the group resettled into a different configuration than before. The trivia energy had dissipated. Something warmer and less structured had taken its place: the stage of an evening where people have been together long enough that the social effort has dissolved and what remains is just the actual company." },
+    { "type": "narration", "content": "The record player had settled into something slower. Mr. Alvarez, behind the counter, was refilling things without being asked and not inserting himself into the conversation, which was itself a kind of participation." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I ask something?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "When do you not?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "When it's not worth asking." },
+    { "type": "narration", "content": "She looked around the table." },
+    { "type": "dialogue", "speaker": "Lena", "content": "How did we all end up here? Like — the actual sequence of things that got us to this specific room on this specific night." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Mr. Alvarez invited us." },
+    { "type": "dialogue", "speaker": "Lena", "content": "That's the proximate cause. I'm asking about the real sequence." },
+    { "type": "narration", "content": "The table went quiet for a moment — the kind of quiet that happens when a question is more interesting than it first appeared." }
+  ]
+}

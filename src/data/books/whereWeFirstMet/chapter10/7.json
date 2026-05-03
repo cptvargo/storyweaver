@@ -1,0 +1,27 @@
+{
+  "page": 7,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Mr. Alvarez had produced a set of small trivia cards from somewhere behind the counter — the kind with multiple categories, worn at the edges, which suggested they had been in the drawer for some time and were now being deployed for exactly the right occasion." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Teams." },
+    { "type": "dialogue", "speaker": "Maya", "content": "There are five of us." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "One person can be the judge." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I'll judge." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That seems structurally unsound. He knows everything. He'll be a biased judge." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I'll be a fair judge. I've had years of practice at that too." },
+    { "type": "narration", "content": "Nathan had already proposed teams — himself and Cassandra versus Ethan and Lena, with Maya as the wildcard — when Cassandra objected on the grounds that Nathan had seen her trivia abilities at the arcade and was strategically selecting her as a weak partner." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You watched me lose a geography round on purpose and now you want me on your team." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's not what I'm doing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's exactly what you're doing." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm doing a little bit of that. But also I just wanted to be on your team." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Trade. Ethan, come here." },
+    { "type": "narration", "content": "Ethan moved around the table to sit beside her. Nathan accepted this with philosophical grace and moved across to sit next to Lena." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The archive of our past collaboration suggests this will be competitive." },
+    { "type": "dialogue", "speaker": "Lena", "content": "The archive of things you know about me is very small. Don't put too much weight on it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Noted." },
+    { "type": "narration", "content": "He was smiling, and Lena was also smiling, and Maya at her end of the table appeared to be making a careful assessment of what was happening." },
+    { "type": "narration", "content": "Mr. Alvarez picked up the first card." }
+  ]
+}

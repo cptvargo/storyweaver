@@ -1,0 +1,22 @@
+{
+  "page": 15,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The answer to Lena's question took several different forms from the people around the table, which was the point of asking it." },
+    { "type": "narration", "content": "Nathan's version: a college friendship that had been going on so long he couldn't locate its beginning, and Ethan stopping at a park because of a wall." },
+    { "type": "narration", "content": "Ethan's version: \"A drawing I was already making when she moved.\"" },
+    { "type": "narration", "content": "Cassandra's version: \"I was tired of going past things.\"" },
+    { "type": "narration", "content": "Maya said nothing. But she was listening in the particular way she had — organizing everything carefully, putting it in the right place inside her for later." },
+    { "type": "narration", "content": "Lena's version: \"I moved to this town because the lease in my last place expired and I knew Cassandra was here. And everything else followed from that.\"" },
+    { "type": "narration", "content": "A quiet settled after that. The kind that follows an honest accounting — when people have said real things and the room needs a moment to accommodate them." },
+    { "type": "narration", "content": "Mr. Alvarez came around from behind the counter with a fresh pot and refilled the cups that needed it without asking. As he was about to go back, Lena said:" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I ask you yours?" },
+    { "type": "narration", "content": "He paused. Looked at her." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Mine is much longer." },
+    { "type": "dialogue", "speaker": "Lena", "content": "We have time." },
+    { "type": "narration", "content": "He set the pot down on the counter and came back to the unoccupied end of the table, leaning against it the way he did when he was going to talk to someone properly rather than in passing." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "My version starts in a different city, with a different coffee shop, and a woman who taught me that the reason you build a place that people want to come back to is not the coffee." }
+  ]
+}

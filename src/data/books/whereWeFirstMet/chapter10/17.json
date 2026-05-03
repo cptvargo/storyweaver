@@ -1,0 +1,22 @@
+{
+  "page": 17,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He was quiet for a moment. Not thinking — he gave the impression of someone who had the answer and was deciding how much of it was his to give." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Can I tell you what I have observed?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Please." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I have watched a great many people receive difficult news. In this room, at that table, over there at the window. People who have lost things. People who have been told things they couldn't unhear. And in my experience, the thing that helped — the actual thing, not the thing that felt like it should help — was not someone who had the right words. It was not someone who could solve it or improve it or make it smaller than it was." },
+    { "type": "narration", "content": "He looked at her directly." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "It was someone who stayed in the room. Who did not flinch. Who let the thing be as large as it actually was and remained present anyway." },
+    { "type": "narration", "content": "Lena was very still." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You keep looking for what to say to her. You already know what to do. You have been doing it. The question you're asking yourself is whether it's enough. And the answer is: it is the only thing that is ever enough." },
+    { "type": "narration", "content": "She looked at her hands around her cup. Her eyes were bright, but she was not going to cry, because she was Lena, and Lena's version of being moved was a quality of stillness." },
+    { "type": "dialogue", "speaker": "Lena", "content": "She's lucky to have you." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "She is lucky to have you. And she knows it. Even when she doesn't say it. The people who love us know." },
+    { "type": "narration", "content": "He picked up the pot and went back behind the counter. Lena sat with what she'd been given for a long moment. Then she looked across the room to where Cassandra was standing beside Ethan, both of them looking at the record in his hands, voices low." },
+    { "type": "narration", "content": "She looked like herself. The full version." },
+    { "type": "narration", "content": "Lena turned back to her cup and felt something loosen in her chest that she hadn't known was tightened." }
+  ]
+}

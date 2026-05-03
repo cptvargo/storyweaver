@@ -1,0 +1,27 @@
+{
+  "page": 4,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The girls arrived together, which Ethan had been told to expect but which still had a quality of arrival that made the room feel different." },
+    { "type": "narration", "content": "Lena came in first, animated, already mid-sentence with something she'd been saying to Cassandra on the way here —" },
+    { "type": "dialogue", "speaker": "Lena", "content": "— and I'm telling you it had nothing to do with the angle, the problem was the lighting —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The lighting was fine —" },
+    { "type": "dialogue", "speaker": "Lena", "content": "The lighting was not fine, it was doing something specific that you were just not accounting for —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I accounted for it, I just chose to —" },
+    { "type": "narration", "content": "They both registered the room and stopped mid-conversation, the way people do when they arrive somewhere and have to take it in before they can continue." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Oh. This is —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Lovely." },
+    { "type": "narration", "content": "She was looking at the candle at the back table. Then she looked at Mr. Alvarez, and something moved briefly across her expression — warmth and recognition — before she crossed the room to him and put her arms around him." },
+    { "type": "narration", "content": "He received it with the same steady warmth he always had, one hand on her back." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "The good tea is on the counter." },
+    { "type": "narration", "content": "He said it for her only." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Thank you." },
+    { "type": "narration", "content": "She stepped back. Her eyes were very slightly bright." },
+    { "type": "narration", "content": "Lena had already found Nathan, who had risen from his seat with the instinct of someone who had been well-raised and was also slightly showing off." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Nathan. We've heard things about you." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good things, I hope." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Some of them." }
+  ]
+}

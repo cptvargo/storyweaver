@@ -1,0 +1,22 @@
+{
+  "page": 23,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They stopped moving at some point. Not as a decision — just as the natural end of movement when you are close to someone and the closeness has become the thing itself." },
+    { "type": "narration", "content": "She was looking at him. He was looking at her." },
+    { "type": "narration", "content": "He touched her face the way he sometimes did — not dramatically, just with the palm of his hand, the way you hold something that you understand is not permanent and that you intend to hold with exactly that understanding." },
+    { "type": "narration", "content": "She leaned into it." },
+    { "type": "narration", "content": "The kiss was slow. It was the kind that didn't arrive as an event but as a continuation — the next thing after the thing, unhurried, entirely present. He kissed her the way he paid attention to things: carefully, as if she were worth being careful about." },
+    { "type": "narration", "content": "She felt the specific thing she felt with him that she had not felt in the years before him — the sense of being met. Not performed for. Not managed toward. Met." },
+    { "type": "narration", "content": "When they separated it was slowly, and she stayed close, her forehead against his jaw for a moment while the candle did what candles do and the music moved through whatever song it had reached." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." },
+    { "type": "narration", "content": "The same word from the doorway, an hour ago. But with more in it." },
+    { "type": "narration", "content": "She stepped back just enough to look at him. Her eyes were very clear." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Okay." },
+    { "type": "narration", "content": "They stood in the small room for another moment, in the candlelight. And then, without deciding to, without needing to say it, they both understood the room had given them what it had. It was time to carry it back to the others." }
+  ]
+}

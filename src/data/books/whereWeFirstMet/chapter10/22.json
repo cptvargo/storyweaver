@@ -1,0 +1,27 @@
+{
+  "page": 22,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "Can I tell you something?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I stopped at that wall this morning. When I was running." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I do it every time now. I stop at the wall and I look at the fountain for a minute. I didn't tell you that." },
+    { "type": "narration", "content": "She looked up at him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I keep thinking — if I'd been five minutes earlier or five minutes later, I'd have been past it before you sat down. And none of — " },
+    { "type": "narration", "content": "He shook his head slightly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Small physics. I think about it a lot." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Me too. I was tired of going past things — that's what I said at the table. But I almost went past that too. I'd been sitting there for a few minutes before I noticed you were drawing. I almost moved before I looked up." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why didn't you?" },
+    { "type": "narration", "content": "She was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Something about the way you were paying attention. Like you were doing something careful. And I wanted to see what you were being careful about." },
+    { "type": "narration", "content": "He held that." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's probably the best reason anyone has ever had to stay somewhere." },
+    { "type": "narration", "content": "She made a soft sound that was almost a laugh but quieter." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're good with words when you're not trying." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm terrible with them when I am." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know. That's what makes the other ones so good." }
+  ]
+}

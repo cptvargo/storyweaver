@@ -1,0 +1,22 @@
+{
+  "page": 18,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The evening had reached the hour where it could have gone either way — wound down into goodbyes, or extended into something else. Mr. Alvarez had been watching for this hour. He had prepared for it." },
+    { "type": "narration", "content": "He came around the counter during a moment when the conversation had softened — Lena and Nathan comparing their wrong answers from trivia, Maya examining the small prints on the far wall with the focused attention she gave to things that interested her. Cassandra at the table, temporarily without Ethan beside her." },
+    { "type": "narration", "content": "He found Ethan near the record shelf." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Come. There's something in the back I want to show you." },
+    { "type": "narration", "content": "Ethan looked at him with a slight question. Mr. Alvarez did not elaborate. He simply moved toward the hallway and trusted Ethan to follow, which he did." },
+    { "type": "narration", "content": "The back of the coffee shop was a different space from the front — narrower, lower light, the walls the same warm color but the atmosphere the way it is in rooms that have not been recently inhabited. There was a small table here. The candle. A speaker in the corner playing the music from the front room at a lower level, which made it feel like something heard from the next room — intimate in the way that once-removed things sometimes are." },
+    { "type": "narration", "content": "Mr. Alvarez turned to the shelving unit on the side wall and made a deliberate show of looking at something on it." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Ah. I thought it was here." },
+    { "type": "narration", "content": "He turned to Ethan." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "It is not here. I must have left it in the office." },
+    { "type": "narration", "content": "He picked up the remote for the speaker and adjusted the volume, almost imperceptibly. Then he turned the knob on the small lamp on the table, very slightly." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "But since you're here — the light is better now." },
+    { "type": "narration", "content": "He left." },
+    { "type": "narration", "content": "Ethan stood in the back room, in the candlelight, with the music, and understood completely what had just happened." }
+  ]
+}

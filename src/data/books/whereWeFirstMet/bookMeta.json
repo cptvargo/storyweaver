@@ -120,6 +120,13 @@
       "image": "/the_day_before.png",
       "mood": "She's ready. And everything is about to change.",
       "totalPages": 20
+    },
+    {
+      "chapterIndex": 10,
+      "title": "This Kind of Night",
+      "image": "/this_kind_of_night.png",
+      "mood": "This is the happiest moment… before everything changes.",
+      "totalPages": 25
     }
   ],
   "themes": [

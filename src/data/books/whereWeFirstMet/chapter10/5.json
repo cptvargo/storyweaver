@@ -1,0 +1,28 @@
+{
+  "page": 5,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Ethan was still near the door when Cassandra turned to find him, and the particular thing that happened when their eyes met was the thing it had been for months — a specific quality of recognition, of being seen by someone who was actually looking. He had been trying to draw it and had not fully succeeded. He thought he might never fully succeed. Some things resisted the page." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." },
+    { "type": "narration", "content": "That was all, and it was enough. She came over to him and he put his arm around her briefly, just a moment, her shoulder against his side — and then they separated because there were other people in the room and the night was just beginning, but the contact had been sufficient." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You look —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Don't." },
+    { "type": "narration", "content": "But she was smiling." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I was going to say you look like someone who's been outside." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It was mild out. We walked." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's all I was going to say." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "No it wasn't." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're right. It wasn't." },
+    { "type": "narration", "content": "She laughed. The particular laugh — the unguarded one, the one he'd been paying attention to since before he'd known he was paying attention." },
+    { "type": "narration", "content": "Maya arrived seven minutes later. She came in with the quality she'd had in all their encounters — contained, aware, not unfriendly. But something had shifted since the family dinner. The bracing was gone. She looked at the room, looked at Ethan, and gave him a nod that was brief and genuine." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Nice place." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Thank you. You're here. That makes it better." },
+    { "type": "narration", "content": "She looked at him with a slight surprise that she quickly managed." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're very deliberate, aren't you." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I've had years to practice." },
+    { "type": "narration", "content": "He handed her a cup of tea." }
+  ]
+}
