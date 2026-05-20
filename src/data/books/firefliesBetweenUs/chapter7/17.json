@@ -1,0 +1,18 @@
+{
+  "page": 17,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Across town, Daisy sat cross-legged on her bed with the dress back on its hanger and the house quiet." },
+    { "type": "narration", "content": "He leaned in. The song ended. They smiled at each other like idiots in the middle of the gym." },
+    { "type": "narration", "content": "She turned it over. All of it." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "hey. you okay?" },
+    { "type": "narration", "content": "She looked at it. Didn't answer." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "daisy" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "i saw you two. just checking in" },
+    { "type": "narration", "content": "She put the laptop on the bed beside her and stared at the ceiling. She knew what Savannah would say. She needed a minute without someone else's clarity applied to this one." },
+    { "type": "narration", "content": "He'd leaned in. She'd leaned in. The song ended at the exact worst second. And then they'd smiled — that was the part she couldn't stop thinking about. Not the almost. The smile after." },
+    { "type": "narration", "content": "The AIM chimed again. She reached for the laptop. Not Savannah." }
+  ]
+}

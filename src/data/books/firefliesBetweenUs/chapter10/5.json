@@ -1,0 +1,30 @@
+{
+  "page": 5,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "July fourth. Millhaven woke up the way it always did on holidays — slowly, with screen doors and coffee and lawn chairs being dragged out from wherever they'd been stored since last year." },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "TODAY IS THE DAY" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it's 8am eli" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "the field doesn't sleep" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "the field is a field" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "see you at six. don't be late. bring daisy" },
+    { "type": "narration", "content": "He set his phone down. Picked it back up." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "happy fourth" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "did eli already text you" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "at 8am" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "he texted me at 7:45" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "he texted you first" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "don't read into it" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I'm reading into it" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "what are you doing today before six" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "nothing. you" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "my mom wants to do a cookout at noon. you're invited obviously" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "obviously" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "she's making potato salad" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I'll be there at 11:30" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "she'll love that" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I know" }
+  ]
+}

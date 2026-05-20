@@ -1,0 +1,19 @@
+{
+  "page": 2,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The AIM group chat had changed. Not in any way Kit could point to exactly — same screen names, same window, same Eli typing in all capitals — but the energy was different. More people, more threads, things said in the group that used to only get said in private windows. Brooke was in it now. She fit in the way confident people fit into things, which was completely and quickly, and nobody had voted on it, it had just happened." },
+    { "type": "narration", "content": "One night in late September, Eli changed the group name from MILLHAVEN MIDDLE SURVIVORS to 8TH GRADE FINAL BOSS. Savannah immediately changed it back." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "this is historically significant we cannot go back to the old name" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "I just changed it back" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "SAVANNAH" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "she's right. the old name stays." },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "lol I like the old one better too sorry eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "outvoted in my own chat. this is exactly why democracy is complicated." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "you literally run for class president every year" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "representative democracy. different thing." },
+    { "type": "narration", "content": "Kit watched the messages come in and felt the particular warmth of being in a room where everything was easy. He didn't examine it too closely. Easy was good. He was choosing easy." }
+  ]
+}

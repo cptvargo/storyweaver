@@ -1,0 +1,30 @@
+{
+  "page": 4,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The food came and for a few minutes nobody said anything because Hester's burgers required actual attention." },
+    { "type": "dialogue", "speaker": "Eli", "content": "This is the best thing that has ever happened to me." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You say that every time." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because it's true every time." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How can it be the best every time if there's a new best every time?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because I'm capable of appreciating the present moment, Kit. You should try it." },
+    { "type": "narration", "content": "Daisy stole one of Eli's fries without asking." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You have so many fries." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That is not the point." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's a little the point." },
+    { "type": "narration", "content": "Eli looked at Kit like he expected backup." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Don't look at me. I've learned not to get between Daisy and food." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's the smartest thing you've ever said." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Nine more days of this and then you're back to eating in the school cafeteria." },
+    { "type": "narration", "content": "Something shifted in the booth. Not a big thing. Just a half-second where the easy noise of the diner pressed in a little more than usual." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Nine days." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Don't say it like that." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Like what?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Like it's something sad. Seventh grade's going to be great." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How do you know?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because I've decided it will be. That's how things work." }
+  ]
+}

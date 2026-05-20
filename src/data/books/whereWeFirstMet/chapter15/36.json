@@ -1,0 +1,10 @@
+{
+  "page": 36,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "embed", "src": "/mural.png" },
+    { "type": "narration", "content": "In Memory of my beloved wife, Cassandra Carter." }
+  ]
+}

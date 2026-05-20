@@ -1,0 +1,32 @@
+{
+  "page": 2,
+  "chapter": 6,
+  "chapterTitle": "Among Others",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan called the next morning at a time that suggested he'd been waiting for a reasonable hour and had landed on the very earliest one that qualified." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Okay. Tell me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Good morning to you too." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I've known you for six years. You sent me 'yeah it's going well' three days ago. That is not a normal response from you. That's the response of someone who doesn't know how good a thing is yet and is trying not to jinx it. I know the difference." },
+    { "type": "narration", "content": "Ethan moved to the window. Outside, the street was still damp from last night's rain." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're reading a lot into four words." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I read people for a living. Well — not exactly for a living. But I'm good at it. And I haven't heard you sound like this in a while, so." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like what." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Present. You sound present. What's her name, what does she do, and when do I get to check the math?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Check the math." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You. Her. Whether it adds up. I'm your friend. This is a service I provide." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're not checking any math." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Ethan." },
+    { "type": "narration", "content": "His voice shifted slightly, losing the tease." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You sound like a person who has decided to be present for something instead of standing half outside of it and reserving the right to leave. That's not a small thing for you. So I just want to see it. One coffee. I'll behave." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You won't behave." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'll be pretty good." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Pretty good isn't behaving." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It's better, actually. Behaving is performative. Pretty good means I actually mean it." },
+    { "type": "narration", "content": "There was a grin somewhere in his voice that Ethan could hear despite himself." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Ask her. I just want to meet the person who figured out the lights in those rooms. That's it. I promise." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'll ask her." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's all I'm asking." }
+  ]
+}

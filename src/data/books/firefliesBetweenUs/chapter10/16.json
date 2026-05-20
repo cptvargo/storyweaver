@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "When they pulled back the sky was still going — red and silver, one after another — and neither of them said anything for a moment. There wasn't anything to say that the moment hadn't already said." },
+    { "type": "narration", "content": "Then Daisy laughed." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Nothing. I just — I didn't know it would feel exactly like I thought it would." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Is that good." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It means I was right. About you. About all of it. That's the best possible thing." },
+    { "type": "narration", "content": "He pulled her close — not dramatic, just sure, like he'd been waiting to do exactly this for longer than he could remember — and she settled against him naturally, his arms around her from behind, her back against his chest, both of them facing the field as Eli's fireworks kept splitting the dark above them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ten years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Give or take." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We were so slow." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We were careful." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's a generous interpretation." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm the filmmaker. I get to frame it." },
+    { "type": "narration", "content": "She laughed again — the real one, the one that was only ever his — and leaned her head back against his shoulder. His chin came to rest just above her temple. They fit the way things fit when they were always supposed to." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't let go." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not a chance." },
+    { "type": "narration", "content": "Above them the sky cracked open again and again. Around them the field blinked with a thousand small lights. And the two of them stayed exactly where they were — Daisy in his arms, his chin at her shoulder — watching the night do what it had been building toward all along." }
+  ]
+}

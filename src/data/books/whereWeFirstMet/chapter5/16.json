@@ -1,0 +1,17 @@
+{
+  "page": 16,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "After, he opened his sketchbook." },
+    { "type": "narration", "content": "He drew from memory — her hand on his jacket. The brush she'd forgotten to put down. The small smudge of blue on her left index finger from when she'd touched the wet canvas." },
+    { "type": "narration", "content": "He drew the way her face had looked just before she crossed the distance. Not an expression he could have named ten minutes before it happened — the particular openness of someone who has decided to arrive somewhere and has." },
+    { "type": "narration", "content": "He didn't try to make it perfect. He tried to make it true." },
+    { "type": "narration", "content": "Somewhere across town, Cassandra was looking at her hand — the faint blue paint still there, shadow of a mark, proof of an afternoon." },
+    { "type": "internalThought", "content": "I know." },
+    { "type": "narration", "content": "In his sketchbook, pencil moving quiet across paper:" },
+    { "type": "internalThought", "content": "I know." }
+  ]
+}

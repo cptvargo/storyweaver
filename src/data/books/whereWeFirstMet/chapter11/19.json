@@ -1,0 +1,18 @@
+{
+  "page": 19,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The funhouse mirrors were Nathan's idea, which was consistent with Nathan's theory that the best things at carnivals were the ones that didn't take themselves seriously." },
+    { "type": "narration", "content": "The mirrors did their required work. Nathan found the one that made him enormous and occupied it for longer than necessary. Lena found the one that made her very tall and narrow and made a remark about finally achieving her runway aspirations. Maya found the one that bent at strange angles and stood in front of it with the expression of a scientist observing an unexpected result." },
+    { "type": "narration", "content": "Cassandra and Ethan drifted to the curved mirror at the far end — the one that merged reflections if you stood close together. She saw their shapes in it: blurred together at the edges, the boundary between them dissolved by the curvature of the glass." },
+    { "type": "internalThought", "content": "That's what it feels like. The not-quite-separate feeling. The feeling that the edges of myself have started to include him." },
+    { "type": "narration", "content": "She didn't say that. She just looked at their reflection, merged and indistinct in the curved glass." },
+    { "type": "narration", "content": "Ethan looked at the real her beside him." },
+    { "type": "narration", "content": "He had been doing that all day — checking the real against the reflection, always preferring the real." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Ready to keep going?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "narration", "content": "They rejoined the others at the exit." }
+  ]
+}

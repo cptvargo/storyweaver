@@ -1,0 +1,23 @@
+{
+  "page": 7,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm going to tell him. I've decided. I'm going to tell him everything." },
+    { "type": "narration", "content": "The table was quiet." },
+    { "type": "narration", "content": "Not the kind of quiet that follows a hard thing — a blowup, a problem, a rupture. The kind of quiet that follows a decision that everyone in the room already knew was coming, and had been waiting for in their own private way." },
+    { "type": "narration", "content": "Her mother's eyes had gone bright. She pressed her lips together and nodded — the controlled kind of nodding that people do when they are trying not to be too much, when they want to give you room." },
+    { "type": "narration", "content": "Her father said nothing at first. He looked at her the way he looked at the difficult things — steadily, without flinching, with the quality of someone who has spent a long time deciding not to be undone by what he loves. He reached across the table and put his hand over hers." },
+    { "type": "dialogue", "speaker": "Father", "content": "You're sure." },
+    { "type": "narration", "content": "Not doubtfully. The way you ask when you want someone to hear themselves say yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "narration", "content": "He nodded. He squeezed her hand once and then let go, and she understood that the squeeze was not comfort — it was recognition. He was acknowledging something, not managing it." },
+    { "type": "dialogue", "speaker": "Mother", "content": "How are you feeling?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Scared. But not in the same way as before. Before it felt — " },
+    { "type": "narration", "content": "She thought about how to describe it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Before it felt like fear of the unknown. Now it feels like fear of something that I'm going to do anyway. Which is different." },
+    { "type": "narration", "content": "Her mother reached over and touched her face — briefly, the way she'd done since Cassandra was small — the flat of her hand against her cheek, there and gone." },
+    { "type": "dialogue", "speaker": "Mother", "content": "It is different." }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "page": 10,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "By the time they wandered outside, the light had gone warm and low, the sky doing that thing where all the colors soften into each other and the city forgets to be in a hurry." },
+    { "type": "narration", "content": "They walked without a destination. Cassandra's arms swung slightly beside her. Ethan's hands were in his pockets. Neither of them said anything for a block — not because they'd run out of things to say but because they'd stopped needing to. The silence between them was the kind that comes when conversation has been going long enough to become something else: a shared climate rather than an exchange." },
+    { "type": "narration", "content": "Cassandra tilted her head back slightly, looking up at the buildings as they passed." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You ever draw the city at night?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Sometimes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What does it look like?" },
+    { "type": "narration", "content": "He thought about it honestly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like it's finally honest. In the day it's performing. At night it stops." },
+    { "type": "narration", "content": "She looked at him with something in her expression he was starting to recognize — a particular attention, a real receiving of what he'd said rather than just the surface of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I see it sometime? Your nighttime work?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "Simply. No hesitation." },
+    { "type": "narration", "content": "She smiled at that — not the wide smile, the smaller one. The real one. The one she didn't appear to know she was doing." },
+    { "type": "narration", "content": "Without announcing it, she moved slightly closer as they walked. Not dramatically. Just — within a decision. Ethan noticed. He didn't move away. They walked like that, a little closer, the evening continuing around them in all the ways evenings do: indifferent and beautiful, not knowing or caring that anything was happening." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I like days like this." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What kind?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The kind that don't ask permission before becoming important." },
+    { "type": "narration", "content": "He turned that phrase over. It had the quality of something she'd thought before, many times — or maybe something she'd decided, which was different. Not an observation. A principle." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You say things like that a lot." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like what?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like you've already thought about them. Like you've had them for a while." },
+    { "type": "narration", "content": "She was quiet for a moment. Something passed across her face — briefly, a door opening and then deciding not to." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think about time a lot." },
+    { "type": "narration", "content": "She said it lightly. But the weight of it was there underneath, unmistakable to anyone paying attention. He was paying attention." },
+    { "type": "narration", "content": "He didn't press it. He filed it in the same careful place he filed everything about her — something to return to, something that would matter, something that already did." }
+  ]
+}

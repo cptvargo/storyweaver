@@ -1,0 +1,20 @@
+{
+  "page": 5,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya had changed." },
+    { "type": "narration", "content": "Not in the surface ways — she was still sharp, still quick, still the person who could read a room before most people had found a seat in it. But the thing she had held herself at a distance from — the softness, the vulnerability, the particular exposure of caring deeply about someone — she had let Nathan in." },
+    { "type": "narration", "content": "It had not happened gradually. It had happened the way Maya did most things: all at once, without warning, and then completely." },
+    { "type": "narration", "content": "By their first anniversary she was texting him first. She had never texted first in her life. She had never seen the point of needing someone to know you were thinking about them." },
+    { "type": "narration", "content": "Now she saw the point." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I never understood what Cass was talking about. When she would say things about being seen. I thought it was just how she talked about things." },
+    { "type": "narration", "content": "She said this to Cassandra on a Saturday afternoon at the kitchen table, her coffee going cold." },
+    { "type": "dialogue", "speaker": "Maya", "content": "And then Nathan looked at me like that and I understood every single word." },
+    { "type": "narration", "content": "Cassandra said nothing. She just smiled — the knowing kind, the kind that comes from having been where someone else is." },
+    { "type": "narration", "content": "Nathan had cracked open the sweetness of her heart. Exactly as her father had said someone would." },
+    { "type": "narration", "content": "And the Hailey family — which had been bracing, quietly and always, for the weight of Cassandra's condition — had exhaled in a way they hadn't known they were holding. Because Cass had Ethan. Because Maya had Nathan. Because the two people they had worried about most were, somehow, okay." },
+    { "type": "narration", "content": "Not cured. Not safe. But held." }
+  ]
+}

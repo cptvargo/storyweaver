@@ -1,0 +1,25 @@
+{
+  "page": 14,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They didn't talk much on the ride home. Certain mornings needed time before they could become stories. The streets went past — the same streets, the same houses, the same Millhaven — and everything looked exactly like it always did, which felt strange after an hour of nothing looking like anything at all." },
+    { "type": "narration", "content": "Eli broke first. Somewhere around the third block he started laughing, and then couldn't stop, and Savannah caught it from him, and by the fourth block even Kit was gone — four kids on bikes in the middle of an empty street, losing it completely, the morning finally allowed to be funny now that it was over." },
+    { "type": "narration", "content": "Daisy wasn't laughing." },
+    { "type": "narration", "content": "She was smiling. But it was the kind with something underneath it. Kit caught it twice and looked at the road both times." },
+    { "type": "narration", "content": "They split at the corner — Eli east, Savannah south — and then it was just Kit and Daisy heading north on quiet streets, riding slow, no particular reason to hurry. Someone's sprinkler swept across the sidewalk in a steady arc. They rode through the wet patch and neither of them said anything about it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Thanks. For the rock." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I told you I wasn't a say-it person. Didn't say anything about a do-it person." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Those are different." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "narration", "content": "A pause. A full block of it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't do that again." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Stick my foot through a rotten stair?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Make me stand outside a fence not knowing if you're coming." },
+    { "type": "narration", "content": "He heard the difference between what she said and what she meant. It was a small difference and also not a small difference at all." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I made it out." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "This time." },
+    { "type": "narration", "content": "He didn't have anything to say to that. They were almost to Magnolia Street. The corner was right there." }
+  ]
+}

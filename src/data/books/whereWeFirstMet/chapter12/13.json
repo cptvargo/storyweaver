@@ -1,0 +1,21 @@
+﻿{
+  "page": 13,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Cassandra walked through the arcade toward the back, toward the claw machine — and stopped." },
+    { "type": "narration", "content": "Ethan was there." },
+    { "type": "narration", "content": "Standing near the corner where the older machines were, the ones from the nineties that still worked and still played their original sounds and that Cassandra had told him about once, on a walk, in the way she told him things she'd loved before he knew her. He was in the blue shirt. He was not looking at the machines." },
+    { "type": "narration", "content": "He was looking at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The claw machine isn't broken, is it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's working perfectly." },
+    { "type": "narration", "content": "She looked around the arcade. Empty. The low hum of the machines. Lena definitely not here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been played." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She was very convincing." },
+    { "type": "narration", "content": "He moved toward her. She watched him come — this man she had been building toward, all these months, the one she'd chosen to trust with the whole picture — and she felt something shift in the air of the room. The particular electric quality of a moment that has been building for a long time arriving." },
+    { "type": "narration", "content": "He stopped in front of her. He reached into his jacket pocket." },
+    { "type": "narration", "content": "He did not get down on one knee." },
+    { "type": "narration", "content": "He looked at her, at eye level, the way he always looked at her — directly, without performance — and he opened the small box in his hand." }
+  ]
+}

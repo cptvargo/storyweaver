@@ -1,0 +1,30 @@
+{
+  "page": 5,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "December. She called him." },
+    { "type": "narration", "content": "Not a text. A call. His phone buzzed on his nightstand at 4:47 on a Tuesday and it was her name on the screen and he picked up before the second ring." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I got in." },
+    { "type": "narration", "content": "He sat up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Minnesota." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Early action. I just — I got the email. I'm looking at it right now." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy. That's — that's amazing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Are you happy?" },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I think so. I don't know. It's a lot." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I called you first. Before Savannah. I don't know why I'm telling you that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm glad you did." },
+    { "type": "narration", "content": "Quiet on the line. Not uncomfortable. The kind of quiet they'd always been able to sit in." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Where are you?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "My room." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm on the porch. It's cold." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Go inside." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "In a minute." },
+    { "type": "narration", "content": "He held the phone and listened to the quiet from her end, and she held hers, and neither of them said the thing that was sitting right there between the silence. They weren't ready yet. But they were closer than they'd ever been." }
+  ]
+}

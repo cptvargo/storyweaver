@@ -1,0 +1,22 @@
+{
+  "page": 24,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "After the service, when the room had begun to empty, Ethan stood in the hall without going anywhere." },
+    { "type": "narration", "content": "Mr. Alvarez appeared beside him." },
+    { "type": "narration", "content": "He was older now — the man who had pulled Lena from the coffee shop and given her a life, who had moved quietly through the years of all their lives without requiring much notice. He had the quality of a person who had been through enough of the world to know what it asked of people and what it could not." },
+    { "type": "narration", "content": "He looked at Ethan for a moment." },
+    { "type": "narration", "content": "Then he opened his arms." },
+    { "type": "narration", "content": "Ethan walked into them." },
+    { "type": "narration", "content": "It was the kind of hug that a man gives when he has lived enough to know that there is nothing to say, that presence is the only thing, that the only right move is to simply be there and hold on." },
+    { "type": "narration", "content": "Mr. Alvarez held on." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You're going to be okay, Ethan." },
+    { "type": "narration", "content": "Not as comfort. Not as reassurance. As fact — the quiet certain assessment of a man who had seen people come through things and come out the other side, and was telling Ethan plainly what he could see from where he stood." },
+    { "type": "narration", "content": "It was the truest sentence anyone had said to him all day." },
+    { "type": "narration", "content": "Ethan pressed his face into the older man's shoulder and the sound that came out of him had no name." },
+    { "type": "narration", "content": "Mr. Alvarez held on." },
+    { "type": "narration", "content": "He held on until Ethan was ready." }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page": 15,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "By five o'clock, the sky to the west had started doing something." },
+    { "type": "narration", "content": "Not the usual late-afternoon purple that happened over the tree line when it was just heat and distance. Something more organized than that. A gray-green line building up low on the horizon, the kind that made old people go inside and check their windows." },
+    { "type": "narration", "content": "Mr. Whitaker had said he was praying for rain." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That's a storm." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's just clouds." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That is absolutely a storm." },
+    { "type": "narration", "content": "The kids at the diamond had been trickling away for the last twenty minutes — parents calling, the sky doing something worth paying attention to. Anna had gone home at four-thirty, then the Lesters, leaving just the four of them and Tommy, who was now looking at the western horizon with focused uncertainty." },
+    { "type": "dialogue", "speaker": "Tommy", "content": "I gotta get home." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "Tommy went. They gathered their things. The game score was not formally concluded, which meant Daisy won by default. She didn't say so." },
+    { "type": "narration", "content": "The wind had picked up the way it does before a Southern summer storm — a warm front moving through that was somehow both a relief and a warning. It moved the tops of the oak trees in a slow wave, south to north, like the sky was brushing them aside to get somewhere." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We should go." },
+    { "type": "narration", "content": "Kit was still looking at the sky. The way the green-gray was spreading. The way the clouds were building fast in a direction they hadn't been building twenty minutes ago." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Give it a minute." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We'll get caught in it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Might not hit for a while yet." },
+    { "type": "narration", "content": "Daisy put her hand on her hip. The specific stance. The one that meant she was going to be right about something in approximately fifteen minutes and they were all going to know it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "One minute." },
+    { "type": "narration", "content": "He gave it five." }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "page": 36,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The wheel pauses at the apex." },
+    { "type": "narration", "content": "Below them, Hartwell is everything it always is: the neighborhoods, the church steeple, the park where they first spoke, and beyond it all, the river, silver and still in the late afternoon light. The world spread out and beautiful and indifferent to the conversation happening above it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What does a bad day look like?" },
+    { "type": "narration", "content": "She looks at him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to know what it actually looks like. Not the concept of it — the real version." },
+    { "type": "narration", "content": "She studies him for a moment. He's not asking from fear. He's asking from need — from the part of him that is already thinking about what it means to be present for this, what showing up will require." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Some mornings I wake up and it's just fine. It's just my life. And some mornings there's a fatigue that sits differently — heavier, lower. Those mornings I move slowly. I don't push through. I've learned not to." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There are appointments. Check-ins, monitoring, bloodwork. Every few months. Sometimes more if something shifts. I go alone. I've always gone alone." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And there are days where I feel it — the thin-ness of everything. The awareness of the machinery running underneath. Those are the hardest days. Not because of pain. Just because I know." }
+  ]
+}

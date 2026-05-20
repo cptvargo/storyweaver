@@ -1,0 +1,33 @@
+{
+  "page": 15,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She opened the door before he could knock." },
+    { "type": "narration", "content": "The dress was dark blue. Her hair was up. She had a small thing pinned into it that caught the porch light. She looked like herself and completely different at the same time." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hi." },
+    { "type": "narration", "content": "He looked at her. She let him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You look —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't make it weird." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I was going to say you look really good, Daisy." },
+    { "type": "narration", "content": "She smiled at the porch floor — the private one, the one she couldn't help." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You too." },
+    { "type": "narration", "content": "Her mom appeared behind her with a camera." },
+    { "type": "dialogue", "speaker": "Daisy's Mom", "content": "Kit. Get in here. I want pictures." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes, ma'am." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Mom —" },
+    { "type": "dialogue", "speaker": "Daisy's Mom", "content": "You are not leaving this house without pictures. Stand together." },
+    { "type": "narration", "content": "They stood on the porch with the azalea bush behind them. Daisy's mom took six photos, at least. Daisy kept her eyes level and composed. Kit kept glancing at her." },
+    { "type": "dialogue", "speaker": "Daisy's Mom", "content": "Kit, look at the camera." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Sorry." },
+    { "type": "narration", "content": "He looked at the camera." },
+    { "type": "narration", "content": "Eli's mom drove them. The five of them piled into the minivan — the same configuration as homecoming, Eli in front, Marcus and Savannah in back, Kit and Daisy in the middle row. But this time there was no gap." },
+    { "type": "dialogue", "speaker": "Eli", "content": "For the record, I look incredible tonight." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You look exactly like you always look." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Which is incredible. Thank you, Savannah." },
+    { "type": "narration", "content": "In the middle row, Daisy's shoulder was against Kit's. Neither of them moved away." }
+  ]
+}

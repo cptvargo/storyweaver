@@ -1,0 +1,22 @@
+{
+  "page": 6,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Cassandra looked up. Her mother was watching her with the particular attention she had — the kind that didn't announce itself, that had been paying attention quietly for several minutes before it spoke." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Mother", "content": "Lighter. Or — resolved. Something like that." },
+    { "type": "narration", "content": "Her father looked at her. He had put down his fork. He had his listening expression — the one she'd grown up with, the one that communicated: I'm here, I'm not going anywhere, take your time." },
+    { "type": "narration", "content": "Maya had gone still beside her." },
+    { "type": "narration", "content": "Cassandra looked at her pasta. Then she set down her fork too." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I — can I tell you all something?" },
+    { "type": "narration", "content": "She said it to the table more than to any one of them." },
+    { "type": "dialogue", "speaker": "Father", "content": "Yes." },
+    { "type": "narration", "content": "The room shifted its quality slightly, the way rooms do when something real is about to be said in them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been spending a lot of time thinking about — about Ethan. About what he is to me. And about what's fair to him." },
+    { "type": "narration", "content": "She looked up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I talked to Lena today. And I think I've been — I've been protecting something. And I think the protection has started to cost more than what it's protecting." },
+    { "type": "narration", "content": "Her mother set down her fork, very quietly." }
+  ]
+}

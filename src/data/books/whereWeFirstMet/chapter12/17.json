@@ -1,0 +1,17 @@
+﻿{
+  "page": 17,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The music changed." },
+    { "type": "narration", "content": "The room changed with it — the way a room does when the last person it has been waiting for is about to arrive. People straightened. People turned. The quiet deepened in the way that quiet does just before something important." },
+    { "type": "narration", "content": "Ethan looked at the doors." },
+    { "type": "narration", "content": "They opened." },
+    { "type": "narration", "content": "Cassandra stood in the frame of them." },
+    { "type": "narration", "content": "She was wearing white — not the sharp cold white of formality but the soft warm white of something chosen for exactly this occasion and no other. The dress was simple in the way that things that fit perfectly are simple: nothing extra, nothing missing. Her hair was loose. The ring was on her left hand, and above it, where the new ring would go, her wrist was bare and ready." },
+    { "type": "narration", "content": "Her father was beside her, his arm through hers, his face doing the complex thing that fathers' faces do at this moment — pride and grief and love and the particular surrender of a man who has understood for some time that this day was coming and has been preparing himself and is discovering that no preparation is equal to the actual arrival of it." },
+    { "type": "narration", "content": "She looked down the aisle." },
+    { "type": "narration", "content": "She found Ethan." }
+  ]
+}

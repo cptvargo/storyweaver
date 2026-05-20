@@ -1,0 +1,19 @@
+﻿{
+  "page": 11,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "She told me about you. Before she told you — before the carnival, before any of it. She came home for dinner about four months before and she was different. Lighter." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "I asked her what had changed. She said: 'There's someone. He's — he sees things the way I see them. He pays attention.' She didn't say anything else. She didn't have to." },
+    { "type": "narration", "content": "Ethan was very still." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "I've watched my daughter be careful with people her entire life. Since she was sixteen she's held everyone at exactly the distance where they couldn't see the whole picture. She did it to protect them and she did it to protect herself, and I watched her do it and I couldn't tell her it was wrong because it wasn't." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "And then I saw her at that dinner, four months ago, and she was — present. For the first time in years, she was all the way in the room." },
+    { "type": "narration", "content": "He looked at Ethan." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "That was you. You did that." },
+    { "type": "narration", "content": "He stood. He extended his hand." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "You have my blessing, Ethan. Completely. Take care of my girl." },
+    { "type": "narration", "content": "Ethan stood and took his hand and shook it, and in that handshake there was everything that needed to be said and didn't require saying." }
+  ]
+}

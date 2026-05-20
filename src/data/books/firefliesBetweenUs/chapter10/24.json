@@ -1,0 +1,25 @@
+{
+  "page": 24,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Daisy's room. The same one she'd had since she was six. The same window that faced the street. She sat on the edge of her bed with her shoes still on and her jacket in her lap and couldn't move yet." },
+    { "type": "narration", "content": "Her phone rang. Savannah." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Tell me everything." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I thought you were going to bed." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I was. And then I got home and couldn't sleep because my best friend finally — Daisy. Talk to me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It happened." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I know it happened. I was twenty feet away. I need the inside. How did it feel." },
+    { "type": "narration", "content": "Daisy lay back on her bed and looked at the ceiling." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Like arriving somewhere. Like — you know that feeling when you've been traveling a long time and you finally get where you're going and your whole body just exhales." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That. Exactly that." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm so happy for you I can't stand it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't cry." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm not crying." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Savannah." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I have been waiting for this since sophomore year. I'm allowed." },
+    { "type": "narration", "content": "Daisy smiled at the ceiling. Down the block, she knew without looking, there was a light still on." }
+  ]
+}

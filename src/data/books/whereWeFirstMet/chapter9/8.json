@@ -1,0 +1,27 @@
+{
+  "page": 8,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya had been quiet throughout all of this." },
+    { "type": "narration", "content": "Cassandra looked at her. Her sister was looking at the table, her hands folded in her lap, her expression the particular expression she wore when she was working very hard to hold something in order, to keep her feelings in a configuration that wouldn't spill over." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Maya." },
+    { "type": "narration", "content": "Maya looked up. Her eyes were bright." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know. I know it's right. I know he's — I know." },
+    { "type": "narration", "content": "She stopped. Breathed." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I've just been — I've been trying to keep you safe. From the conversation. Because once you have it—" },
+    { "type": "narration", "content": "She didn't finish." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know what happens after." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know you do." },
+    { "type": "narration", "content": "Maya's voice wavered." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm not trying to — He's good, Cass. He's actually really good. I've watched him with you. He looks at you like — " },
+    { "type": "narration", "content": "She shook her head." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I just keep thinking: he deserves to know. And you deserve to be known. And I've been afraid that knowing is — that it will make things feel more real. For everyone." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It is real. It's been real whether he knows or not." },
+    { "type": "narration", "content": "Maya nodded. Once. Twice." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Okay. Tell him. You should tell him." },
+    { "type": "narration", "content": "Her voice had gone soft in a way that wasn't sadness — it was the softness of someone who has been holding something braced for a long time and has just, finally, let go." },
+    { "type": "narration", "content": "Her father refilled everyone's water. Her mother served more pasta that no one had asked for. The family sat together in the particular, specific way that families do after something important has been said in a room — not dramatically, not with ceremony. Just: together. Still at the table. Still themselves." }
+  ]
+}

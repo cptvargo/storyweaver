@@ -1,0 +1,20 @@
+{
+  "page": 10,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They arrived in eight minutes." },
+    { "type": "narration", "content": "Eight minutes in which he sat beside her and held her hand and did not talk this time — there was nothing left to say into the room, nothing that would reach where she had gone — and just held her hand and looked at her face and let himself look at her the way he had been looking at her for twenty years." },
+    { "type": "narration", "content": "He had two hundred and forty sketchbooks." },
+    { "type": "narration", "content": "Her name was in every one." },
+    { "type": "narration", "content": "The paramedics came. They worked. They were professional and efficient and not unkind." },
+    { "type": "narration", "content": "He stood at the edge of the room with his arms crossed over his chest — holding himself together from the outside — watching everything they did, the way he had always watched everything that happened to her, the way he would watch for the rest of his life whether she was there or not." },
+    { "type": "narration", "content": "After a while one of them crouched beside him." },
+    { "type": "dialogue", "speaker": "Paramedic", "content": "I'm very sorry. She passed in her sleep. There would have been no pain. She wouldn't have known." },
+    { "type": "narration", "content": "He nodded." },
+    { "type": "narration", "content": "He looked at Harold on the shelf." },
+    { "type": "narration", "content": "Harold looked back with the expression he had always had." },
+    { "type": "narration", "content": "Then Ethan picked up his phone." }
+  ]
+}

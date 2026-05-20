@@ -1,0 +1,23 @@
+{
+  "page": 12,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She walked home in the early dark, hands in her jacket pockets, and noticed that she was lighter." },
+    { "type": "narration", "content": "Not lighter as in free of anything. Lighter as in: the weight was the same but she was carrying it differently. Like she'd shifted it from one shoulder to both, or the way a backpack fits better when you actually tighten the straps." },
+    { "type": "narration", "content": "The day had been hard and then not hard. Maya's voice on the phone this morning. The careful coffee. The argument that wasn't quite an argument. And then Ethan showing up at the arcade without a reason, sitting beside her in the noise, handing over tokens like that was something people did." },
+    { "type": "narration", "content": "He hadn't asked what happened. He hadn't needed to know." },
+    { "type": "narration", "content": "She was still thinking about that when her phone buzzed." },
+    { "type": "message", "sender": "Ethan", "content": "Hope the rest of your day was okay." },
+    { "type": "narration", "content": "She stopped walking. Looked at the message. Smiled before she could decide not to." },
+    { "type": "message", "sender": "Cassandra", "content": "It got better." },
+    { "type": "message", "sender": "Ethan", "content": "Good." },
+    { "type": "narration", "content": "Simple as that. No follow-up, no prying open. Just: good." },
+    { "type": "narration", "content": "She kept walking." },
+    { "type": "narration", "content": "When she got home, she took off her jacket, set her keys on the hook, and stood in the quiet of her apartment for a moment. Harold was on the pillow where she'd left him — same as always." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It was a good day." },
+    { "type": "narration", "content": "He didn't dispute it." }
+  ]
+}

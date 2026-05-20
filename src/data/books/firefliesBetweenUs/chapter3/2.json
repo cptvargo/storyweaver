@@ -1,0 +1,26 @@
+{
+  "page": 2,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Hester's had been on the corner of Fifth and Birch since before any of them were born, and it smelled like it — like decades of fried things and sweet tea and the particular brand of vanilla milkshake that no other place in Millhaven had ever successfully replicated. The booths were red vinyl, cracked at the corners, and the menus were laminated and sticky and never changed because nothing at Hester's ever changed, which was most of the point." },
+    { "type": "narration", "content": "Eli had already claimed the big corner booth when they got there, which meant he'd been there long enough to get a Coke, which meant he'd been there at least fifteen minutes before noon-thirty, which nobody commented on because it was Eli and this was what Eli did when he was excited about something." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I already know what everyone's getting. Kit gets the double with no onion. Daisy gets the regular with extra pickles and a chocolate shake. Savannah gets the chicken and acts like she's not jealous of our burgers." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I genuinely prefer the chicken." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Nobody genuinely prefers the chicken at Hester's." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I do." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You look at my burger every single time." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I look at everything. I'm observant." },
+    { "type": "narration", "content": "Kit slid in across from Daisy — the booth arranged itself this way without anyone deciding it, had been arranged this way for two years — and picked up the sticky menu he didn't need." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're getting extra pickles again?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I always get extra pickles." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't understand extra pickles." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You don't understand a lot of things." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And yet I'm still here." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And yet." },
+    { "type": "narration", "content": "The waitress came. Her name was Gloria and she had worked at Hester's forever and always called them hon without distinction, which made Eli feel seen in a way that nothing else in his life currently did." },
+    { "type": "dialogue", "speaker": "Gloria", "content": "Last Saturday of summer, hons. What'll it be?" },
+    { "type": "narration", "content": "Eli ordered for the whole table without being asked. Gloria didn't write any of it down." }
+  ]
+}

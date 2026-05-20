@@ -1,0 +1,31 @@
+﻿{
+  "page": 17,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "That night he opened AIM and Eli was already there." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "you good" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "savannah said you seemed off at school" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I wasn't off" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "kit" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "what" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "I've known you since fourth grade. you can just tell me." },
+    { "type": "narration", "content": "Kit stared at the screen. Typed. Deleted it. Typed again." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I saw them today. ryan and daisy." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "and" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "and nothing. they were just. it was nothing." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "it wasn't nothing" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "you know what I'm going to say" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I know" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "she's with someone right now. so you can't. but kit. this has been going on since we were twelve and at some point—" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I know eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "I'm here. that's all." },
+    { "type": "narration", "content": "Kit closed the laptop. Lay on his bed and looked at the ceiling." },
+    { "type": "narration", "content": "This has been going on since we were twelve." }
+  ]
+}

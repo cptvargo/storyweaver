@@ -1,0 +1,27 @@
+{
+  "page": 13,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "That night Kit stared at Daisy's name on the buddy list for two minutes before he did anything." },
+    { "type": "narration", "content": "She was online. Her away message was a quote he didn't recognize: some things are better left unsaid. He looked at it for a second and then looked away." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "hey" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "hey" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "weird day" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "eli's theory about the pizza was wrong by the way" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "lol it's always wrong" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "he has a lot of confidence for someone with a zero percent success rate" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "that's kind of his whole thing" },
+    { "type": "narration", "content": "It was getting easier. Kit typed without thinking about it, the way he usually did with her." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "brooke's actually pretty funny btw" },
+    { "type": "narration", "content": "Three minutes passed. Her icon still showed active." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "cool" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "she said she wants to see the water tower sometime" },
+    { "type": "narration", "content": "The response came faster this time." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i gotta go. homework" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "ok" },
+    { "type": "narration", "content": "She went offline. Her name grayed out on the buddy list. Kit sat there looking at it." }
+  ]
+}

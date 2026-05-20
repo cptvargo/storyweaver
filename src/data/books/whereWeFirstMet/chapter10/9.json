@@ -1,0 +1,20 @@
+{
+  "page": 9,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The second round shifted categories — music now, which Nathan declared his territory with the confidence of someone who had been waiting for exactly this moment." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I spent four years in a college apartment with a record player and no money. I've listened to more music than any of you combined." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's not actually a useful credential." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It is in this category." },
+    { "type": "narration", "content": "He was right, at least for the older material. Questions that went back before any of them were born, he answered before the card had been fully read. But when the decade shifted, Cassandra and Ethan were suddenly formidable, and Lena turned out to have an uncanny memory for specific release years." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "How do you know the exact year?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "I associate music with personal events. That album came out the summer after my grandmother died. I was seventeen. I listened to it about four hundred times." },
+    { "type": "narration", "content": "A brief quiet. The kind that happens when something real gets said in the middle of something light." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's a good reason to remember it." },
+    { "type": "narration", "content": "His voice had shifted slightly — the playfulness still there, but something more genuine underneath it. Lena looked at him." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Yeah. It is." },
+    { "type": "narration", "content": "The moment passed, as moments do, and Mr. Alvarez turned the next card. But it left something in the room — a small residue of realness that settled into the evening and made everything that came after feel a little more grounded." }
+  ]
+}

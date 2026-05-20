@@ -1,0 +1,26 @@
+{
+  "page": 10,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She said yes." },
+    { "type": "narration", "content": "Kit found out through the group chat, which was how most things traveled now — half AIM, half MySpace comments, the same gossip engine just with more surfaces." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "daisy's going to winter formal with ryan" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "called it" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "she seems really happy about it" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "good for her" },
+    { "type": "narration", "content": "Kit read the messages and typed nothing and set his away message to: out and went downstairs and ate dinner with his mom and answered her questions about school with complete sentences, which she noticed." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "How was the day." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Fine." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Just fine?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good. It was good." },
+    { "type": "narration", "content": "She looked at him the way she always looked at him — seeing the distance between the words and the thing behind them — and then went back to her dinner without pressing." },
+    { "type": "narration", "content": "After dinner he went back upstairs and opened the laptop and there was a private message from Daisy, timestamped forty minutes ago." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "savannah told me she told you. you ok?" },
+    { "type": "narration", "content": "He stared at that for a long time. She'd asked if he was okay. She already knew, or suspected, or was giving him the opening, and he stared at the cursor in the reply box and thought about every true thing he could type." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah. happy for you." },
+    { "type": "narration", "content": "He sent it." },
+    { "type": "narration", "content": "He meant it. That was the worst part. He meant every word and it still felt like losing something." }
+  ]
+}

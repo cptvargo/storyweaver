@@ -1,0 +1,16 @@
+{
+  "page": 45,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She feels different." },
+    { "type": "narration", "content": "Not fixed. Not resolved in the way she'd always imagined resolution would feel — bright and clear and unmistakably different. Just: lighter. As though she has been carrying a second weight alongside the first one, all this time — the weight of the secret on top of the weight of the condition — and only now, with the secret gone, can she feel how much of it was the hiding." },
+    { "type": "narration", "content": "The carnival is the same as it was. The midway, the lights just beginning to flicker on as the afternoon slides toward evening, the smell of fried things and popcorn and something sweet. Children running. Music overlapping music. The ordinary, extraordinary world continuing its ordinary business." },
+    { "type": "narration", "content": "She walks through it with Ethan's hand in hers and she feels, for the first time in three years, like she is allowed to be fully here." },
+    { "type": "internalThought", "content": "Not managing from a distance. Not watching the exits. Here. Just here." },
+    { "type": "narration", "content": "She squeezes his hand once." },
+    { "type": "narration", "content": "He squeezes back." },
+    { "type": "narration", "content": "They walk." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 15,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The Tilt-A-Whirl was Nathan's suggestion, which was received with varying degrees of enthusiasm: Lena said yes immediately, Maya declined with the decisive brevity of someone who had already assessed the situation and found it wanting, and Ethan and Cassandra positioned themselves at the barrier to watch." },
+    { "type": "narration", "content": "Watching Nathan and Lena board the Tilt-A-Whirl was its own experience — Nathan treating it with the enthusiasm of a child and Lena with the composure of someone who had done this before and was managing it with dignity." },
+    { "type": "narration", "content": "Standing at the barrier, Cassandra leaned against the rail and Ethan stood beside her. The ride started and Nathan's commentary became briefly audible above the noise and then lost in the mechanical roar of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He's having more fun than anyone I've ever seen on one of these." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Lena looks like she's doing math in her head." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Lena does math in her head when she's overwhelmed. It centers her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Good to know." },
+    { "type": "narration", "content": "A brief quiet between them. The Tilt-A-Whirl spun. The carnival moved around them." },
+    { "type": "narration", "content": "Cassandra looked at the Ferris wheel over the tops of the booths. Ethan looked at her looking at it." },
+    { "type": "narration", "content": "When Nathan and Lena emerged — slightly pink-faced, Lena's composure admirably intact, Nathan describing the experience to no one in particular — the group reconvened and kept walking." },
+    { "type": "narration", "content": "The Ferris wheel was ahead of them." }
+  ]
+}

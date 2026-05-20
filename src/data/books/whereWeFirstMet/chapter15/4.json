@@ -1,0 +1,18 @@
+{
+  "page": 4,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He said her name." },
+    { "type": "narration", "content": "She was in the position she'd been in when he left — on her side, the covers pulled up, her hair against the pillow. She slept deeply sometimes. She always had." },
+    { "type": "narration", "content": "He said her name again." },
+    { "type": "narration", "content": "She didn't stir." },
+    { "type": "narration", "content": "He set the coffee cup on the nightstand. He put his hand on her shoulder." },
+    { "type": "narration", "content": "The stillness beneath his hand was not the stillness of sleep." },
+    { "type": "narration", "content": "He knew the difference. He had been listening to her sleep for fifteen years. He knew every quality of it — the light surface sleep of early morning, the deep rebuilding sleep of a body doing its work. He knew the rhythm of her breathing the way he knew his own hands." },
+    { "type": "narration", "content": "The room was not making that sound." },
+    { "type": "narration", "content": "He said her name once more, very quietly." },
+    { "type": "narration", "content": "The room did not answer." }
+  ]
+}

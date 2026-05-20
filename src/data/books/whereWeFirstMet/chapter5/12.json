@@ -1,0 +1,22 @@
+{
+  "page": 12,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "When they stopped, neither of them moved." },
+    { "type": "narration", "content": "She was looking at him. Close enough that he could see exactly where she was — the particular steadiness of her, the thing he'd noticed from the first day and had been trying to name since. She was fully here. All the way in the room." },
+    { "type": "narration", "content": "Her brush had left a small streak of cerulean on the left side of his jaw. She saw it and didn't say anything about it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You have paint on your hand." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You have paint on your face." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "Neither of them moved." },
+    { "type": "narration", "content": "The light through the window had shifted — later afternoon, something gold beginning in it, the clouds breaking somewhere offstage. The quality of light was different now than it had been an hour ago. Everything inside the room felt more itself." },
+    { "type": "narration", "content": "He thought about Mr. Alvarez. About the open door. About what he'd said: you cannot only open the door halfway." },
+    { "type": "narration", "content": "He thought: I would do this again. Every uncertain step. Every moment of not knowing how it was going to go." },
+    { "type": "narration", "content": "She leaned her forehead against his." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." }
+  ]
+}

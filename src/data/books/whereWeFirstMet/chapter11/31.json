@@ -1,0 +1,16 @@
+{
+  "page": 31,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Three days later we went to the cardiologist. The office had beige walls. That's one of the clearest things I remember — not the doctor's face, not what he said at first. The walls. This particular beige that was supposed to be calming and wasn't." },
+    { "type": "narration", "content": "The wheel carries them upward. The sky is wide from up here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "My mom sat next to me and she had her hand on my knee. I was so aware of her hand. The weight of it. I kept thinking she was trying to hold me down. Or hold herself down. I still don't know which." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The doctor was talking. I could hear the words. They just weren't — they weren't arriving yet. They were sounds in a row. I was looking at the wall, and my mom's hand, and this paper covering on the exam table that made a noise every time I shifted. And I kept shifting. And it kept making the noise." },
+    { "type": "narration", "content": "She stops for a moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And then the words arrived." },
+    { "type": "narration", "content": "She looks at the river." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "A structural condition. That's the language. My heart — the architecture of it — has a flaw in how it was built. It has to work harder than it should. And over time, it gets tired." }
+  ]
+}

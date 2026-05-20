@@ -1,0 +1,16 @@
+{
+  "page": 13,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She had left her jacket." },
+    { "type": "narration", "content": "Not on purpose — she'd been thinking about other things when she left — but she realized it two blocks away and turned back. Ethan buzzed her up without asking why. There was a small, particular awkwardness that came from returning to a moment you'd already left, which was somehow both less and more than the moment itself." },
+    { "type": "narration", "content": "He had already found the jacket. He held it out. She took it. He kissed her again — brief, and entirely without question — and she was back on the street two minutes later." },
+    { "type": "narration", "content": "The air was cool from the earlier rain, the pavement still dark with it. She pulled on her jacket and stood in front of his building for a moment, looking at nothing in particular." },
+    { "type": "narration", "content": "The light from his window fell on the wet street below and turned it gold." },
+    { "type": "narration", "content": "She started walking." },
+    { "type": "narration", "content": "Lena was coming from the other direction, three buildings down. Their eyes met. Lena took a slow look at Cassandra's hair, at whatever her face was doing, and kept walking without a word." }
+  ]
+}

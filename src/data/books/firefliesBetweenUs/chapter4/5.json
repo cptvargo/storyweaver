@@ -1,0 +1,21 @@
+{
+  "page": 5,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The family computer was in the den, which meant AIM was a semi-public activity in the Jenkins household. Kit's mom didn't read over his shoulder but she walked through the room, and he had learned to angle the monitor slightly left." },
+    { "type": "narration", "content": "He logged on at eight-fifteen. The buddy list populated. Eli was already there — his away message read: presidential campaign: PENDING — and Daisy was online, her status just the default. Kit set his own away message: doing homework (he was not doing homework) and opened the group chat Eli had already titled MILLHAVEN MIDDLE SURVIVORS." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok who had the worst teacher this year i'll go first: MR PATTERSON" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "he can't be that bad" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "daisy he assigned homework ON THE FIRST DAY" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "lol" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "this is not a lol situation kit this is a CRISIS" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you'll survive" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "the jury is still out" },
+    { "type": "narration", "content": "A new window opened. Kit almost didn't catch it — it blinked at the bottom of the screen and he nearly closed it by accident." },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "hey its brooke from school -- derek gave me your sn hope thats ok" },
+    { "type": "narration", "content": "Kit looked at the screen. In the group window, Eli was still going. Daisy's icon showed active." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "oh hey yeah no its cool" }
+  ]
+}

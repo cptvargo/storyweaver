@@ -1,0 +1,27 @@
+{
+  "page": 5,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "September found its rhythm. Texts in the morning, sometimes at lunch, almost always late at night. Phone calls on Thursdays and Sundays — not a rule either of them made, just a pattern that formed the way their patterns always had. Naturally. Without announcement." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "it snowed today. actual snow. in september" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "that is a crime against nature" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "claire thinks its beautiful. she skipped class to stand in it" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "what did you do" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "went to class. like a person with sense" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "that tracks" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "it was beautiful though. don't tell claire" },
+    { "type": "narration", "content": "On Kit's end, USC had started to feel less enormous. He knew which dining hall was worth the walk. He knew which corner of the film building had the best light in the afternoon. He had a group of people from his program he ate lunch with — not friends yet, but the people who would probably become them." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "we screened a student film in class today. kid was a sophomore and it was legitimately better than half the stuff in theaters" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "is that inspiring or terrifying" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yes" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you're going to be fine you know" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "how do you know that from minnesota" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "because i know you. you don't know how to be anything but good at what you care about" },
+    { "type": "narration", "content": "He read that three times. Set his phone down. Picked it back up." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "thank you" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "don't get sentimental about it" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "too late" }
+  ]
+}

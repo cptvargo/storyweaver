@@ -1,0 +1,26 @@
+{
+  "page": 10,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan left around two. The apartment settled back into its afternoon quiet — the particular quality of it after someone has been there and then gone, which is a different quiet than the kind that precedes anyone arriving." },
+    { "type": "narration", "content": "Ethan sat for a while without doing anything. He looked at the sketchbooks. He looked at the pencils. He looked at the window." },
+    { "type": "narration", "content": "His phone lit up on the counter." },
+    { "type": "message", "sender": "Cassandra", "content": "Okay I need an opinion. There's a breakfast place on Meridian that has been on my list for months and I keep not going and I think today might be the day. Have you been?" },
+    { "type": "narration", "content": "He picked up the phone. He read it twice. Something in him loosened slightly — the way a thing loosens when the thing you've been worrying about turns out to be writing you first." },
+    { "type": "message", "sender": "Ethan", "content": "The one with the green awning?" },
+    { "type": "message", "sender": "Cassandra", "content": "Yes. That one. I walk past it every time I go to the pharmacy and I always think 'next time' and then next time arrives and I keep walking." },
+    { "type": "message", "sender": "Ethan", "content": "I've been. The eggs are very good. The coffee is aggressively mediocre." },
+    { "type": "message", "sender": "Cassandra", "content": "Aggressively mediocre is an incredible phrase. I'm going. Will report back." },
+    { "type": "message", "sender": "Ethan", "content": "I want the full review. Category breakdown. What worked, what didn't, whether the coffee lived up to its reputation." },
+    { "type": "message", "sender": "Cassandra", "content": "I'll do a formal assessment. Maybe a rubric." },
+    { "type": "message", "sender": "Ethan", "content": "A weighted rubric. Atmosphere should count for at least twenty percent." },
+    { "type": "message", "sender": "Cassandra", "content": "Agreed. Green awnings automatically get extra points. I have a bias and I'm disclosing it." },
+    { "type": "narration", "content": "He was smiling. He was aware that he was smiling. He looked at the phone and then set it face-up on the table in case she sent another one, and then picked up a pencil." },
+    { "type": "message", "sender": "Cassandra", "content": "Also — I was thinking about you today. Not for a specific reason. Just generally. Is that allowed?" },
+    { "type": "narration", "content": "He set the pencil back down." },
+    { "type": "message", "sender": "Ethan", "content": "That's very allowed." },
+    { "type": "message", "sender": "Cassandra", "content": "Good. Then it was intentional and not an accident at all." }
+  ]
+}

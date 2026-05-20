@@ -1,0 +1,25 @@
+{
+  "page": 3,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It was a Thursday in October when Brooke brought up the water tower again." },
+    { "type": "narration", "content": "They were walking out of science together, the class they'd shared since seventh grade, and she said it the way she said most things — easy, direct, like she'd been thinking about it and saw no reason not to say so." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "You never showed me the view. From the tower." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I said I would sometime." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "It's been a year." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not going anywhere." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Neither am I." },
+    { "type": "narration", "content": "She smiled at him — the easy, direct smile — and went to her next class. Kit stood in the hallway for a second." },
+    { "type": "narration", "content": "That night Eli messaged him privately, unprompted, which Eli only did when he had something to say that he didn't want an audience for." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "hey" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "hey" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "you and brooke" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "what about it" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "just. you know what you're doing right" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok" },
+    { "type": "narration", "content": "Eli didn't push further. Kit closed the window and sat with the particular feeling of someone who had just been given a chance to think twice and hadn't taken it." }
+  ]
+}

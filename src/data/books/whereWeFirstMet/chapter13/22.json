@@ -1,0 +1,26 @@
+{
+  "page": 22,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Later — not early, not late, the middle of a morning that had no schedule — she made coffee." },
+    { "type": "narration", "content": "There was a stovetop pot in the cabinet above the sink, the old kind, the kind that takes longer and makes better coffee than anything with a button. She figured it out by feel. It took two tries to find the right flame height." },
+    { "type": "narration", "content": "Ethan had lit the fireplace again. She could hear the crackle of it from the kitchen, could feel the warmth beginning to move through the room." },
+    { "type": "narration", "content": "She looked out the window above the sink." },
+    { "type": "narration", "content": "The mountain was there. Close and enormous and unhurried, the way it had been when they arrived and the way it would be when they left. The forest between the cabin and the rock face was moving in a light wind, the upper branches making their slow, looping passes." },
+    { "type": "narration", "content": "She thought about her mother, standing at this window." },
+    { "type": "narration", "content": "Not a sad thought. Just a present one. A continuity." },
+    { "type": "narration", "content": "The coffee bubbled up. She poured two cups." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Bring it here." },
+    { "type": "narration", "content": "He was on the couch facing the fire, feet on the low table, sketchbook on his knee. She carried both cups and settled beside him." },
+    { "type": "narration", "content": "He was drawing the fire. The shapes inside it — not flames but the architecture of flames, the way heat makes form and then unmakes it." },
+    { "type": "narration", "content": "She put her feet beside his on the table and held her cup with both hands." },
+    { "type": "narration", "content": "The fire. The coffee. The mountain outside. His shoulder warm against hers." },
+    { "type": "narration", "content": "She thought: this is the first morning." },
+    { "type": "narration", "content": "Not the first of something ending. The first of something that had no ending she could see — just morning after morning, this man, this ordinary specific life, all the small things she had once been afraid she would not be given time enough to have." },
+    { "type": "narration", "content": "She had the time." },
+    { "type": "narration", "content": "She was using it." },
+    { "type": "narration", "content": "Outside, the mountain held its position: patient, enormous, exactly where it had always been." }
+  ]
+}

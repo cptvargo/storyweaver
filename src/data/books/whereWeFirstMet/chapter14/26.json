@@ -1,0 +1,32 @@
+{
+  "page": 26,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She woke first." },
+    { "type": "narration", "content": "He was still asleep — deeply, the way he hadn't been sleeping since the hospital. The way a body finally sleeps when it has put something down." },
+    { "type": "narration", "content": "She lay still for a moment and watched him." },
+    { "type": "narration", "content": "He always looked younger asleep. The alertness he carried in his waking face — the constant noticing, the quiet attention he gave to everything — was gone. Underneath it was just him. The boy who had been drawing a park bench when she walked by. The boy who had turned around." },
+    { "type": "narration", "content": "She got up quietly." },
+    { "type": "narration", "content": "She made coffee. Stood at the kitchen window and looked at the street — grey morning, bare trees, a neighbor walking a dog through the cold." },
+    { "type": "narration", "content": "She looked at her hands." },
+    { "type": "narration", "content": "Steady." },
+    { "type": "narration", "content": "She was still afraid sometimes. The condition was still inside her — not threatening exactly, just present, the way weather is present. Something to account for. Something that set the terms of things." },
+    { "type": "narration", "content": "But she was standing in her kitchen. In her house. Her husband was asleep in the next room and he had slept, finally, and outside the world was doing its ordinary December morning things and that was fine. That was more than fine." },
+    { "type": "narration", "content": "She reached up and took Harold from his shelf." },
+    { "type": "narration", "content": "She hadn't meant to. She was just near it. But she held him for a moment — the worn plush of him, the steady expression that had watched over her for twenty years through everything." },
+    { "type": "narration", "content": "Thank you, she thought. For everything you've seen." },
+    { "type": "narration", "content": "Ethan appeared in the kitchen doorway. Hair completely wrong. Eyes half-open. He looked at her holding Harold and said nothing — just crossed to the counter and took her coffee mug from her hands and drank from it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's mine." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "She let him have it. She always did." },
+    { "type": "narration", "content": "He handed it back. She drank. They stood at the window together." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You slept." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I slept." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Good." },
+    { "type": "narration", "content": "He put his arm around her. She leaned into him." },
+    { "type": "narration", "content": "December outside." },
+    { "type": "narration", "content": "Just them inside." }
+  ]
+}

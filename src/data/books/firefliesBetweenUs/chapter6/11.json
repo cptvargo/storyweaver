@@ -1,0 +1,24 @@
+{
+  "page": 11,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The winter formal came and went. Kit didn't go — not because of Daisy, he told himself, just because formals weren't his thing. Eli went as class president and gave a speech nobody asked for. Savannah went with Marcus. Ryan picked Daisy up in a car that was actually his dad's car and brought her a corsage, which Kit knew because Daisy had told Savannah and Savannah had told Eli and Eli had absolutely not told Kit, who had found out by accident." },
+    { "type": "narration", "content": "He spent that Saturday the way he spent most Saturdays — at home, on AIM, riding his bike in the cold because the cold didn't bother him. He rode past the field without stopping. He did not ride past her house." },
+    { "type": "narration", "content": "She messaged him Sunday morning." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "hey. you missed a pretty good night" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "eli said he gave a speech" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "he absolutely gave a speech. unprompted. the DJ had to take the mic back" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "lol" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you should come to the next one" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "maybe" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "kit" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I said maybe. that's not a no" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "ok" },
+    { "type": "narration", "content": "A pause. Then:" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "I missed having you there" },
+    { "type": "narration", "content": "He read it twice. Set his phone down. Picked it up again. The cursor blinked." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah. me too." }
+  ]
+}

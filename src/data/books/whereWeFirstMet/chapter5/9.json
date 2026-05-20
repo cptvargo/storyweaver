@@ -1,0 +1,29 @@
+{
+  "page": 9,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "He was quiet for a long time." },
+    { "type": "narration", "content": "She watched his face and couldn't fully read it — which was unusual with him. He was one of those rare people whose expressions were legible, who didn't perform calm. But right now he was simply still." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Okay." },
+    { "type": "narration", "content": "She blinked. She'd expected more than that. A question, maybe, or the particular gentleness that was actually another kind of pressure — the kind that opened into what do you mean, tell me more, you can trust me." },
+    { "type": "narration", "content": "He didn't." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not asking you to explain it today. I want you to know that whatever it is — it doesn't change what I'm doing here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You say that." },
+    { "type": "narration", "content": "Not unkindly. Just honestly. The way she always was." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You don't know what you're saying it about yet." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "He said it without apology." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm saying it anyway, because I mean it anyway. Can I ask one thing?" },
+    { "type": "narration", "content": "She nodded." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Are you okay? Right now. Not the whole story — just today." },
+    { "type": "narration", "content": "She considered that honestly. Not the reflexive yes, not the reassurance she'd given a hundred times before. The real answer." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes. Right now, yes." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Then we're fine." },
+    { "type": "narration", "content": "Something in her — the held thing, the braced thing — released. Just slightly. Just enough. The way a breath goes when you've been holding it so long you stopped noticing." },
+    { "type": "narration", "content": "She looked at him for a long moment." },
+    { "type": "narration", "content": "Then she picked up the brush." }
+  ]
+}

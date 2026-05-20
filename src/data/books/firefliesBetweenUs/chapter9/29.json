@@ -1,0 +1,23 @@
+{
+  "page": 29,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Her hand on his. The kitchen quiet. Upstairs, a door that wasn't quite closed." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ask me." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You said the label doesn't change what it is. So ask me. Give it the label." },
+    { "type": "narration", "content": "He turned his hand over under hers so their palms met." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy Jones. Will you be my girlfriend." },
+    { "type": "narration", "content": "She looked at him for a long moment — the full look, checking if something was real — and then something in her face settled. Not surprised. Relieved. Like a breath held for a long time finally let out." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah, Kit. Obviously." },
+    { "type": "narration", "content": "He laughed — not a small one, a real one — and she laughed with him, and it was the most natural thing in the world and also the end of something that had been almost for seven years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Obviously." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You've been asking since we were twelve. Just not out loud." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's fair." },
+    { "type": "narration", "content": "She was still smiling — the private one, the one that was only ever his — and he was still holding her hand and the kitchen was warm and the whole house was quiet and the December outside had gone cold and still." },
+    { "type": "narration", "content": "They stayed at that table for another hour. Talking, not about the distance or the future or spring semester, just — talking. The way they always had. Like nothing had changed." },
+    { "type": "narration", "content": "Like everything had." }
+  ]
+}

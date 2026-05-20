@@ -1,0 +1,17 @@
+﻿{
+  "page": 9,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The Hailey house was a particular kind of quiet on a Saturday morning — not empty, just still. Thomas Hailey answered the door in a cardigan and reading glasses and looked at Ethan with the measured gaze of a man who had been expecting this visit, if not today then soon." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Mr. Hailey. Thank you for having me." },
+    { "type": "narration", "content": "The living room had the same quality as Cassandra's apartment — things chosen carefully, arranged for comfort rather than display. A stack of books on the side table. A photograph on the mantle that Ethan recognized: a young Cassandra and a younger Maya at a beach somewhere, both of them squinting into the sun." },
+    { "type": "narration", "content": "Mr. Hailey sat across from him in the chair that was clearly his — the armrests worn at the exact places his elbows went — and folded his hands in his lap and looked at Ethan without speaking. Not unfriendly. Just: measuring." },
+    { "type": "narration", "content": "Ethan did not look away." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to marry your daughter, sir. I know that's why I'm here and I didn't want to work up to it. I wanted to say it plainly so you'd know where I stand from the beginning." },
+    { "type": "narration", "content": "Thomas Hailey looked at him for a long moment." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Tell me something, Ethan. Tell me that you understand what you're signing up for. Not the idea of it. The actual weight of it." }
+  ]
+}

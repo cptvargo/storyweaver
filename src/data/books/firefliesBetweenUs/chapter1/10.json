@@ -1,0 +1,25 @@
+{
+  "page": 10,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Mrs. Brooks was on the porch when they got there, shelling butter beans into a blue bowl — which meant there were already beans on the stove, which meant lunch was happening." },
+    { "type": "narration", "content": "She had Savannah's same dark eyes and the patient, perpetually-slightly-amused expression of a woman who had been managing Savannah's friends for twelve years and had developed, through long practice, the ability to see a situation coming before it arrived." },
+    { "type": "dialogue", "speaker": "Mrs. Brooks", "content": "Lord. All four of you." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Hi, Mrs. Brooks." },
+    { "type": "dialogue", "speaker": "Mrs. Brooks", "content": "You're going to be sunburned by afternoon, Eli Turner." },
+    { "type": "narration", "content": "Eli touched his nose." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Not yet." },
+    { "type": "dialogue", "speaker": "Mrs. Brooks", "content": "Mmhm." },
+    { "type": "narration", "content": "She looked at Kit. He presented his palms instinctively — they still had rust-red marks from the tower rungs." },
+    { "type": "narration", "content": "Mrs. Brooks looked at his palms. Then at Kit. Then at Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I noted the rusted rungs. On the record." },
+    { "type": "narration", "content": "Mrs. Brooks did not ask further questions. This was one of her great qualities." },
+    { "type": "dialogue", "speaker": "Mrs. Brooks", "content": "Go wash up. Tea's in the refrigerator and I'll make some more sandwiches." },
+    { "type": "narration", "content": "The kitchen was cool and smelled like beans cooking and the vanilla candle she kept on the windowsill. They washed their hands in the utility sink that Savannah's dad had installed specifically for situations like this crew, and then they filled into the kitchen and moved around each other the way you move around a space you know well." },
+    { "type": "narration", "content": "Kit got the glasses. Daisy filled them with ice. Eli got the tea. Savannah got the bread. The whole thing happened in maybe ninety seconds without anyone being asked." },
+    { "type": "narration", "content": "Mrs. Brooks came in from the porch and watched this happen." },
+    { "type": "narration", "content": "The corner of her mouth moved very slightly." }
+  ]
+}

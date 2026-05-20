@@ -1,0 +1,33 @@
+{
+  "page": 19,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Thanksgiving. Kit's flight home would have been two hundred and forty dollars he didn't have. He had a short film due the Monday after break, half-finished. He told himself those were the reasons." },
+    { "type": "narration", "content": "He told Daisy on a Sunday call, the week before." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not going to make it home for Thanksgiving." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Oh." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The film's not where it needs to be. And the flight is —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You don't have to explain it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're going home though." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. Driving down with Claire, she's dropping me in Tennessee." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good. Tell your mom I said hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She'll make a comment about why you're not there." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Tell her the film." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She won't buy it." },
+    { "type": "narration", "content": "A quiet beat." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll be home for December. I promise." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And Daisy. Call me on Thanksgiving. Doesn't matter what time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I mean it. Call me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
+    { "type": "narration", "content": "She pulled up to Millhaven on a Wednesday night. The streets looked the same. She hadn't realized how much she'd been expecting them to look different." },
+    { "type": "narration", "content": "Her mom had the kitchen warm. Her old room had been waiting exactly as she left it. She sat on the edge of her bed with her coat still on and looked at her desk and the window and the ceiling and felt seventeen and nineteen at the same time, and thought about a porch, and picked up her phone." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i'm home" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "how does it feel" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "smaller. familiar. kind of breaks my heart a little" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah. that sounds right" }
+  ]
+}

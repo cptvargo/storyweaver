@@ -1,0 +1,19 @@
+{
+  "page": 12,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The small bureaucracy of the entrance: wristbands, the map Nathan acquired despite no one requesting it, the immediate disagreement about whether to start at the left or right side of the midway." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "According to the map, the food is on the right and the rides are on the left, so the question is: do we establish a foundation first or go for the experience?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "We're going to walk the whole thing regardless, so this is a false choice." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The direction matters for momentum." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I say left. I want to see the rides before I decide if I want to go on them." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Left it is." },
+    { "type": "narration", "content": "He said it as though the decision had been reached democratically." },
+    { "type": "narration", "content": "Lena bought a lemonade at the first stand and sipped it and moved through the group with the quiet efficiency of someone who was also doing something else — taking in the afternoon's emotional landscape, noting who was standing where, how close, what was unspoken. She had known Cassandra for seven years. She could read the day in her posture." },
+    { "type": "narration", "content": "Cassandra was present. She was laughing at Nathan's map narration. She was here, in the carnival, in the afternoon. But there was a quality to her presence — a slight separateness, a watching — that Lena recognized." },
+    { "type": "narration", "content": "She was accumulating this. Storing the day." },
+    { "type": "narration", "content": "Lena drank her lemonade and said nothing and walked." }
+  ]
+}

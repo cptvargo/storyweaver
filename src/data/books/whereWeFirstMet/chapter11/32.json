@@ -1,0 +1,16 @@
+{
+  "page": 32,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Progressive. That was the word he used. It progresses. It doesn't stay the same — it moves, slowly, in one direction. And there's medication that slows it. Significantly, they said. It helps. I take it every morning and it helps." },
+    { "type": "narration", "content": "She looks at her hands." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "But there's no reversal. There's no fixing the architecture. The condition will keep doing what it does, just — more slowly, with the medication. I live in that in-between. The slowed-down version of something that's still moving." },
+    { "type": "narration", "content": "The gondola pauses — another car loading below. The suspension of it, the held breath of the wheel." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I remember my mom asked if this was serious. The doctor said — 'it requires monitoring and lifelong management.' Which is the medical way of saying: yes. This is serious. We're just not going to say it like that." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I was sixteen. I remember looking at the beige wall and thinking: I am sixteen years old and I have just been told that my heart is tired." },
+    { "type": "narration", "content": "A quiet. The wheel begins to move again." },
+    { "type": "narration", "content": "Ethan has not moved. Has not interrupted. His hands are loose in his lap. He is completely, entirely here." }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "page": 6,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He drove past the cherry trees on Fairfield Road." },
+    { "type": "narration", "content": "In daylight they were different than they'd been at night — less luminous, more real. Pale pink blossoms against a blue sky, the branches full in a way that wouldn't last long. A week, maybe. Maybe less, if it rained." },
+    { "type": "narration", "content": "He slowed again, and this time pulled to the curb. He sat in the idling car and looked at them for a full minute." },
+    { "type": "narration", "content": "He was thinking about something Mr. Alvarez had said to him, weeks ago, in the coffee shop with the morning running its course around them: that some people don't hide things to deceive you. They hide them because they are protecting something fragile. Not the secret itself — something more delicate. The version of themselves that exists when it isn't in the room." },
+    { "type": "narration", "content": "He thought about who Cassandra was when the difficult thing wasn't in the room. How she moved. What she laughed at. The specific quality of her attention — the way she noticed things that most people went past, because she understood that things were worth noticing." },
+    { "type": "internalThought", "content": "She's been living this deliberately because she understands something about time that most people learn too late, if they learn it at all." },
+    { "type": "narration", "content": "He understood it too, now. He had learned it at a fountain, from a woman sitting on a wall." },
+    { "type": "narration", "content": "He put the car in drive." },
+    { "type": "narration", "content": "He drove to the Copper Mug to meet the others." }
+  ]
+}

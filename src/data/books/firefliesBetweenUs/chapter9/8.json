@@ -1,0 +1,30 @@
+{
+  "page": 8,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Daisy's study group met on Monday and Wednesday evenings in the library — four people from her American literature seminar, working through papers together. Three of them treated it like work. The fourth, Jordan Tate, treated it like an extended conversation he happened to be having with Daisy." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "You read faster than anyone I've ever met." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've always read fast." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "You also annotate in the margins. In pen." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Is that a problem." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "No, it's — I like it. You commit to your opinions." },
+    { "type": "narration", "content": "He was pre-law from Chicago. Sharp, well-read, the kind of confident that came from always having been the smartest person in whatever room he was in. He asked questions designed to extend a conversation. Daisy noticed. She wasn't unwilling to talk — she just noticed." },
+    { "type": "narration", "content": "After study group one Wednesday, walking out into the cold:" },
+    { "type": "dialogue", "speaker": "Jordan", "content": "There's a coffee place on Washington that's open until midnight. Good for getting out of the library." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've seen it." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "We could go sometime. Just to work somewhere different." },
+    { "type": "narration", "content": "She looked at him. He was being careful about it — framing it as the coffee, the change of scenery. She appreciated the care and saw through it at the same time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I appreciate that. I can't though." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "Someone back home." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Something like that." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "Something like that." },
+    { "type": "narration", "content": "He let it go. They walked back toward the dorms in opposite directions. She pulled out her phone." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you awake" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "always. what's up" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "nothing. just wanted to say hey" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "hey" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "hey" }
+  ]
+}

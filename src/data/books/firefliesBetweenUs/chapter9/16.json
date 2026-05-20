@@ -1,0 +1,32 @@
+{
+  "page": 16,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't know." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's honest at least." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know. I know you're not." },
+    { "type": "narration", "content": "She exhaled. He listened to it across two thousand miles." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What did Ryan feel like. To you. When we were together." },
+    { "type": "narration", "content": "He wasn't expecting that question." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What do you mean." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You watched me be with someone else for over a year. And you said on the porch that it was the hardest thing you'd done. I'm not asking to hurt you. I'm asking because I want to understand if what I felt watching Brooke — watching that photo tonight — if that's the same thing you were living with every day." },
+    { "type": "narration", "content": "He thought about Ryan. The hand-holding in the hall. Showing up as her friend while that was happening." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. It's the same thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Then I'm sorry. For what that was like." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And I'm sorry for not telling you about Cassidy straight. That was wrong." },
+    { "type": "narration", "content": "Quiet. A different kind now — softer around the edges." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Jordan asked me more directly than I told you. He said basically the same thing your Cassidy said. Nobody's keeping score. We don't have to tell." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What did you say." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No. Obviously." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It wasn't even a hard no. That part I want you to know. It wasn't a close call." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Same." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Okay." },
+    { "type": "narration", "content": "They weren't all the way back. But they'd found a floor — something solid underneath the argument — and both of them knew it was still there." }
+  ]
+}

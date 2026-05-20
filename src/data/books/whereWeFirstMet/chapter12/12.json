@@ -1,0 +1,17 @@
+﻿{
+  "page": 12,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "One month later. The arcade on Mill Street where Lena had worked for two years, which meant she had access to the keys, the schedule, and the specific knowledge that Tuesday evenings between four and six were the quietest two hours of the week." },
+    { "type": "narration", "content": "Ethan had called her three weeks earlier and said six words: I need your help with something." },
+    { "type": "narration", "content": "Lena had said: I know. Tell me what you need." },
+    { "type": "narration", "content": "She had texted Cassandra at three-forty-five on a Tuesday: emergency at work, the claw machine is being weird, I know you've fixed it before, please come before five." },
+    { "type": "narration", "content": "Cassandra had texted back: you've fixed this yourself twice, why do you need me." },
+    { "type": "narration", "content": "Lena had texted: because I need moral support. Please." },
+    { "type": "narration", "content": "Cassandra arrived at four-fifteen in her work clothes, her bag over her shoulder, mildly suspicious — she had known Lena long enough to recognize the quality of this particular text, the slight excess of please — but following it anyway, because Lena had earned the benefit of the doubt approximately a thousand times over." },
+    { "type": "narration", "content": "The arcade was quiet. The afternoon light came through the front windows in long rectangles across the carpet. Most of the machines were dark, their demo screens cycling on repeat." },
+    { "type": "narration", "content": "Lena was not at the front." }
+  ]
+}

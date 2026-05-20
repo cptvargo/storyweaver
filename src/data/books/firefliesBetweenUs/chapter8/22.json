@@ -1,0 +1,28 @@
+{
+  "page": 22,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Graduation was a Saturday in June. The football field. Folding chairs and white gowns and the marching band slightly out of tune." },
+    { "type": "narration", "content": "They sat alphabetically. Jones, then a gap, then McKinley. Close enough." },
+    { "type": "narration", "content": "When they called her name she walked across the stage and shook the principal's hand and found him in the crowd before she found her parents. That was the whole of it — a half-second, a look — and then she moved on." },
+    { "type": "narration", "content": "After, in the parking lot, the group found each other the way they always had." },
+    { "type": "dialogue", "speaker": "Eli", "content": "We did it." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "We did it." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Took long enough." },
+    { "type": "narration", "content": "Photos. Eli's mom, Daisy's mom, Kit's mom, all of them at once. The five of them in white gowns in the June sun squinting into cameras." },
+    { "type": "narration", "content": "And then families and the noise of the parking lot pulled people in different directions, and it was just Kit and Daisy standing next to each other with their caps off in the heat." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Six weeks." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli's trip is the fourth." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Already on the calendar." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We'll figure it out. I promise you that." },
+    { "type": "narration", "content": "She looked at him. The full look. Then she nodded once, the way she did when she believed something." },
+    { "type": "narration", "content": "Her mom called her name from across the lot. She turned to go." },
+    { "type": "narration", "content": "Kit watched her walk away with her white gown folded over her arm and six weeks between now and August and the whole unfinished thing still between them, waiting." },
+    { "type": "narration", "content": "He'd meant it. They'd figure it out." },
+    { "type": "narration", "content": "He just didn't know yet that the place would be the field. And July. And fireworks overhead the way they'd been since they were kids." }
+  ]
+}

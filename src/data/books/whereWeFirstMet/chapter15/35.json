@@ -1,0 +1,23 @@
+{
+  "page": 35,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "narration", "content": "At the face he had been drawing for twenty years. At the red of her hair that he had finally gotten exactly right. At the mountains behind her — the ones from the honeymoon, the ones she had looked at with her whole face open." },
+    { "type": "narration", "content": "At her name on the wall." },
+    { "type": "narration", "content": "The name she had chosen. The name that had made him everything he was." },
+    { "type": "narration", "content": "He sat on the bench where they had first met — the same bench, the same corner of the world, the same fountain — and he let the tears come. Not the desperate grief of the early months. The quieter kind. The kind that comes when a person has started to learn how to carry something enormous and is carrying it, and knows they will be carrying it for the rest of their life, and has decided that is more than okay." },
+    { "type": "narration", "content": "Because she had been worth it." },
+    { "type": "narration", "content": "She had been worth carrying." },
+    { "type": "narration", "content": "She had been worth everything." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I..." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Love." },
+    { "type": "narration", "content": "He looked at her name." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You." },
+    { "type": "narration", "content": "A long quiet. The fountain. The afternoon light. The park moving around him the way the world moves when it doesn't know that something enormous just ended and began at the same time." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Cassandra Carter." }
+  ]
+}

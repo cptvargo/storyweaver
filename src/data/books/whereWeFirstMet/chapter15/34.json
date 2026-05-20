@@ -1,0 +1,23 @@
+{
+  "page": 34,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He sat on the bench." },
+    { "type": "narration", "content": "The finished mural before him." },
+    { "type": "narration", "content": "Her face on the wall, looking out the way she had always looked out — with openness, with willingness, with the expression of someone who had decided that whatever was coming was worth meeting." },
+    { "type": "narration", "content": "He sat with his hands between his knees, the way he always sat when he was thinking, and after a long time he said:" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I miss you so much, Cass." },
+    { "type": "narration", "content": "His voice was barely there." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You were the best thing that's ever happened to me. I hope you always knew that. I hope I said it enough." },
+    { "type": "narration", "content": "He looked at her face on the wall." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know what I'm going to do without you. I'm figuring that out. I'm going to keep figuring it out." },
+    { "type": "narration", "content": "The fountain behind him. The park around him. People passing on the path — some of them slowing to look at the mural, some of them stopping, some of them moving on without knowing what they were walking past." },
+    { "type": "narration", "content": "She would have liked that. People not knowing. Just feeling something and not being sure why." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "This is so hard." },
+    { "type": "narration", "content": "His voice broke on the last word." },
+    { "type": "narration", "content": "He let it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm trying my best." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "page": 5,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Dinner at home that evening." },
+    { "type": "narration", "content": "Her mother had made the pasta dish she made when she wanted the table to feel like itself — the one with the good basil and the slightly too much garlic, which was always exactly right. The table was set the way it was set for regular Tuesdays, not special ones: without ceremony, without the good napkins, with the comfortable disheveliness of people who had eaten a thousand meals together and didn't need to dress it up." },
+    { "type": "narration", "content": "Her father poured water. Maya was already seated, scrolling something on her phone with the particular expression she wore when she was halfway present." },
+    { "type": "narration", "content": "Cassandra sat down. She felt the weight of the decision sitting in her chest — not uncomfortably. More like the feeling after you've signed something important, when the action has been taken but the consequence hasn't arrived yet. Heavy in a clarifying way." },
+    { "type": "narration", "content": "Her mother set the pasta down and sat, and her father asked Maya something about her week, and Maya put down her phone and answered, and the table became itself — the particular living thing it was, with its rhythms and its familiar small ceremonies, the pass of the bread, the quality of the light above them, the sound of her father's voice asking questions because he was interested, not to fill silence." },
+    { "type": "narration", "content": "Cassandra ate. She let it be ordinary for a few minutes. Let herself be just here, in this kitchen, with these people." },
+    { "type": "narration", "content": "Then her mother said, gently:" },
+    { "type": "dialogue", "speaker": "Mother", "content": "You seem different today." }
+  ]
+}

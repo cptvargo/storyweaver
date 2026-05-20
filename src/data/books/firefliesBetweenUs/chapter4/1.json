@@ -1,0 +1,21 @@
+{
+  "page": 1,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "September in Millhaven meant the heat stuck around but the light changed — the same yellow as August, just lower, coming in at an angle that made the school parking lot look older than it was. Kit had been up since six-fifteen for no reason he could explain, which was not how he operated, and he'd eaten breakfast and still gotten to the bike rack before Daisy, which had never happened in the four years they'd been riding to school together." },
+    { "type": "narration", "content": "She showed up at seven forty-two with her backpack and the same expression she had every first day, which was somewhere between resigned and ready." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're early." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm on time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're never on time. You're early." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Same thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's not the same thing." },
+    { "type": "narration", "content": "She locked her bike next to his and they stood there for a second looking at the school — Millhaven Middle, the same building it had always been, except that it wasn't, because last year they'd been the youngest thing in it and this year they weren't." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Looks the same." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's not the same." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You just said that about me being early." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Both are true." },
+    { "type": "narration", "content": "They went in." }
+  ]
+}

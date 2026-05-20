@@ -1,0 +1,15 @@
+{
+  "page": 50,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Nathan", "content": "All right. Group hug. Non-negotiable. I'm including the penguin." },
+    { "type": "narration", "content": "Lena laughs. The sound of it breaks something loose in the air — the particular relief of laughter after weight, the way it changes the atmosphere of a moment without diminishing what came before it." },
+    { "type": "narration", "content": "And then they're all in it." },
+    { "type": "narration", "content": "All five of them, in the middle of a county carnival as the lights blink on one by one, Nathan's arms around everyone and the penguin squashed somewhere in the middle of it and Lena's shoulder pressed against Cassandra's and Maya's hand still on her sister's arm, now also holding Lena, and Ethan on the outside of the pile and somehow also in the center of it, in the place where he belongs." },
+    { "type": "narration", "content": "Nathan is saying something that no one is fully listening to about the structural integrity of the group hug and whether five people is the ideal number for maximum support distribution." },
+    { "type": "narration", "content": "Nobody tells him to stop." },
+    { "type": "narration", "content": "The hug lasts exactly as long as it needs to." }
+  ]
+}

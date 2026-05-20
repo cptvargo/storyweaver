@@ -1,0 +1,26 @@
+{
+  "page": 17,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Savannah saw it first." },
+    { "type": "narration", "content": "She was standing twenty feet away watching Eli set up the next round, and she turned to check on them the way she had been doing all night — careful, not wanting to intrude — and she saw Kit's arms around Daisy, and the way Daisy was settled into him, and she knew immediately. She didn't need to see the moment itself. The aftermath said everything." },
+    { "type": "narration", "content": "She pressed her hand over her mouth. Breathed through her nose." },
+    { "type": "dialogue", "speaker": "Priya", "content": "Are you okay." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Yes. Yes I'm great. Priya. Look at them." },
+    { "type": "narration", "content": "Priya looked. Her expression did the thing it always did when she'd been let in on something that mattered." },
+    { "type": "dialogue", "speaker": "Priya", "content": "Oh." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I have been waiting for this since we were fourteen years old." },
+    { "type": "dialogue", "speaker": "Priya", "content": "How long have they known each other." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Since they were eight. They've been in love with each other almost that long." },
+    { "type": "dialogue", "speaker": "Priya", "content": "That is —" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I know." },
+    { "type": "narration", "content": "Eli came back from the launch point brushing his hands on his jeans, looking satisfied. He looked toward Kit and Daisy. He went completely still." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Did it —" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Yes." },
+    { "type": "narration", "content": "Eli Turner — who had planned an entire Fourth of July gathering around this specific outcome, who had measured lantern heights and sourced a cooler that was unreasonably large and checked the weather through his girlfriend — just nodded. Slow. Like a man at peace with himself and the world." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Good." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Good." }
+  ]
+}

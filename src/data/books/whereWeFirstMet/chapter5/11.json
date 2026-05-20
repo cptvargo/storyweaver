@@ -1,0 +1,17 @@
+{
+  "page": 11,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "She closed the distance." },
+    { "type": "narration", "content": "Her hand came up, the brush still in it, and found the front of his jacket. Not pulling — just placed there, like she was steadying herself against something that was about to shift." },
+    { "type": "narration", "content": "He kissed her." },
+    { "type": "narration", "content": "Or she kissed him. The distinction disappeared almost immediately." },
+    { "type": "narration", "content": "It was nothing like the first kisses he'd constructed in his head over the years — tentative, or fraught, or the complicated intersection of wanting and not knowing how to want. This was quiet and exact and entirely without question. The kind of kiss that isn't an experiment. The kind that says: here. This. Yes." },
+    { "type": "narration", "content": "He had his hands on her face without deciding to. She had her free hand — the one without the brush — flat against his chest, and he felt her exhale against him, slow and complete, the way someone breathes when they have finally arrived somewhere." },
+    { "type": "narration", "content": "The apartment was very quiet." },
+    { "type": "narration", "content": "Outside, the rain had stopped without him noticing." }
+  ]
+}

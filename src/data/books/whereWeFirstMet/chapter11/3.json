@@ -1,0 +1,21 @@
+{
+  "page": 3,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "On the sidewalk, the night was mild, the kind of May evening that had not yet decided to become full summer but was offering a preview. The group negotiated the logistics of tomorrow — who was driving, what time, the particular debate about eleven versus noon that Nathan resolved by saying noon firmly and then moving on before anyone could object." },
+    { "type": "narration", "content": "Ethan came to stand beside Cassandra while the others were finding keys and determining ride-shares. He said it quietly, not urgently:" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You okay?" },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think I want to go." },
+    { "type": "narration", "content": "It was a slightly larger answer than his question. He heard that. He didn't follow it with anything — just nodded once, the nod of someone who received it correctly." },
+    { "type": "narration", "content": "Lena was already in her car. Nathan and Maya were having a conversation about something that had dissolved into laughter. Ethan looked at Cassandra for a moment longer. She was looking at the Copper Mug window — at Mr. Alvarez inside, still moving through his quiet routines, the warm light of the place surrounding him like it always did." },
+    { "type": "narration", "content": "She turned back." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Tomorrow." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Tomorrow." },
+    { "type": "narration", "content": "She went to Lena's car. Ethan watched her go, then watched the coffee shop window for a moment, then walked to his own car. He drove home past Fairfield Road. The cherry trees were lit by streetlamps — pale pink, almost luminous in the dark. He slowed the car without quite meaning to." },
+    { "type": "narration", "content": "He sat there for a moment at the side of the road, looking at them." },
+    { "type": "narration", "content": "Then he drove home." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "page": 21,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They moved through the quieter section of the fairgrounds — just the two of them now, the space around them different, more particular. More theirs." },
+    { "type": "narration", "content": "They drifted rather than walking with direction. Cassandra stopped at a booth selling handmade things — small things, the kind that someone had made carefully and were now displayed on a folding table with price tags written in pen. She picked up a pair of earrings, held them, put them down." },
+    { "type": "narration", "content": "Ethan watched her the way he had been watching her all day — with the quality of attention that was itself a kind of statement. Not watching for something. Just watching. The way you look at something that exists in the world and that you find worth looking at." },
+    { "type": "narration", "content": "She caught him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Stop." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm looking at the booth." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're looking at me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The booth is in front of you." },
+    { "type": "narration", "content": "She almost smiled. She put the earrings down. They kept walking." },
+    { "type": "narration", "content": "The afternoon was theirs now, in the way that things become yours when you are alone in them together — no one else's rhythm to account for, no group dynamic to navigate. Just the two of them and the fairground and the Ferris wheel at the end of it, turning its slow patient turn." },
+    { "type": "narration", "content": "She reached over and took his hand." },
+    { "type": "narration", "content": "He held it." }
+  ]
+}

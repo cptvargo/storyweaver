@@ -1,0 +1,21 @@
+﻿{
+  "page": 1,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Six months after the Ferris wheel." },
+    { "type": "narration", "content": "The room is small and warm — a side room off the chapel, borrowed mirrors and borrowed light, the particular organized chaos of a wedding morning. Someone has brought coffee that nobody has touched. Ethan's jacket is on a hanger on the back of the door and the rest of him is almost assembled, which is where Nathan comes in." },
+    { "type": "narration", "content": "Nathan steps behind him at the mirror and picks up the tie." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You tied this yourself." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I did." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I can tell." },
+    { "type": "narration", "content": "He pulls it loose and starts over with the calm efficiency of a man who has watched too many tutorials about this and would like the credit." },
+    { "type": "narration", "content": "Ethan watches this in the mirror. He looks like himself — the same face, the same quiet quality — but different in the way things that have been decided differently. He has the particular stillness of someone who has been moving toward something for a long time and has finally arrived at the threshold of it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You nervous?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Not even a little?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Not about this." },
+    { "type": "narration", "content": "Nathan looks at him in the mirror for a moment. Then he nods once and keeps working on the tie." }
+  ]
+}

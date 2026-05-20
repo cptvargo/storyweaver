@@ -1,0 +1,29 @@
+{
+  "page": 17,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She started typing something and deleted it. Started again." },
+    { "type": "message", "sender": "Cassandra", "content": "There's something I want to tell you soon. Not in a message. In person." },
+    { "type": "narration", "content": "Three dots. They stopped. He was taking time with this." },
+    { "type": "message", "sender": "Ethan", "content": "Okay." },
+    { "type": "message", "sender": "Cassandra", "content": "Is that okay?" },
+    { "type": "message", "sender": "Ethan", "content": "Of course it's okay. You don't have to explain. Whatever it is — I'm not going to come at it the wrong way. I just want to receive it right." },
+    { "type": "narration", "content": "She sat with that for a moment." },
+    { "type": "message", "sender": "Cassandra", "content": "I know. That's—" },
+    { "type": "narration", "content": "She stopped and started over." },
+    { "type": "message", "sender": "Cassandra", "content": "That's why I want to tell you. Because you'll receive it right. You're the kind of person who thinks about how to receive things. I meant it when I said that." },
+    { "type": "message", "sender": "Ethan", "content": "I'll be ready whenever you are." },
+    { "type": "message", "sender": "Cassandra", "content": "It might change things." },
+    { "type": "narration", "content": "Three dots. Then:" },
+    { "type": "message", "sender": "Ethan", "content": "A lot of things do. That hasn't made me want less of this." },
+    { "type": "narration", "content": "She read that four times." },
+    { "type": "narration", "content": "She didn't answer it immediately. She let it sit in the room with her, the way some things deserve to." },
+    { "type": "message", "sender": "Cassandra", "content": "You're something, you know that?" },
+    { "type": "message", "sender": "Ethan", "content": "I've been told. 😘" },
+    { "type": "message", "sender": "Cassandra", "content": "By who?" },
+    { "type": "message", "sender": "Ethan", "content": "Once, by a woman who sent me a song from her room at nine o'clock on a Tuesday. I tend to trust her judgement." }
+  ]
+}

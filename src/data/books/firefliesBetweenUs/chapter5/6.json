@@ -1,0 +1,20 @@
+{
+  "page": 6,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Derek Pruitt had a big mouth. Kit had always known this and had chosen to forget it." },
+    { "type": "narration", "content": "By Monday morning, the thing on the water tower had moved through at least four different conversations Kit wasn't in. He knew this because of the way people looked at him in the hallway — not bad, some of it even appreciative in the particular way eighth grade appreciated things — and because Eli appeared at his locker before homeroom with an expression that said he already knew everything." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Derek told half the school." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I figured." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Daisy's going to—" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know, Eli." },
+    { "type": "narration", "content": "The bell rang. They went to homeroom. Kit sat down next to Daisy and she said hey the same way she always said hey and he couldn't tell — couldn't tell if she knew yet, couldn't tell if it was different, couldn't tell anything from her face except that she had her notebook open and was already copying the date from the board." },
+    { "type": "narration", "content": "He told himself she probably didn't know yet." },
+    { "type": "narration", "content": "He told himself he would tell her himself. Today. Before she heard it somewhere else." },
+    { "type": "narration", "content": "He didn't." }
+  ]
+}

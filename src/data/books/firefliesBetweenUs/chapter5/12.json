@@ -1,0 +1,31 @@
+{
+  "page": 12,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Brooke found her at her locker after sixth period." },
+    { "type": "narration", "content": "Daisy saw her coming and had half a second to decide how she was going to be about this. She decided: fine. She closed her locker and waited." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Hey. You got a minute?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "narration", "content": "Brooke glanced at the hallway, then back. She wasn't nervous — she was being careful. There was a difference, and Daisy noticed it." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "I didn't know. About that place. What it meant to you guys. Kit never told me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know he didn't." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "I'm not trying to make excuses for him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know that too." },
+    { "type": "narration", "content": "Brooke looked at her. Reading something." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "But it was something. For you." },
+    { "type": "narration", "content": "Daisy went still. The hallway moved around them — a locker slamming three rows down, a group of boys too loud near the water fountain. She didn't answer." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "You don't have to say it. I'm not here to make you." },
+    { "type": "narration", "content": "Daisy looked at her. Brooke's expression was clear — not pitying, not triumphant, not anything Daisy would have resented. Just honest." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "He talks about you, you know. Like —" },
+    { "type": "narration", "content": "She stopped. Started again." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Like everything else is the context and you're the subject. I didn't know what to do with that when we first started talking. Now I do." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Brooke —" },
+    { "type": "dialogue", "speaker": "Brooke", "content": "I'm stepping back. That's all I wanted to say. Not because of anything you did. I just know when something's already figured out, even when the people in it haven't caught up yet." },
+    { "type": "narration", "content": "She picked up her bag. Started down the hall. Then stopped and turned once." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "You're really good at keeping it in. For what it's worth." },
+    { "type": "narration", "content": "Daisy stood at her locker for a moment after she was gone. The hallway noise came back all at once. She picked up her bag. Went home." },
+    { "type": "narration", "content": "She didn't call it anything on the walk back. She'd gotten very good at that." }
+  ]
+}

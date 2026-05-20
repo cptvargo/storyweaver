@@ -1,0 +1,26 @@
+{
+  "page": 6,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli texted both of them constantly, which was the only thing that hadn't changed." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "weekly check in. kit: still alive? daisy: still warm enough? me: thriving. report back." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "alive. film class is going to kill me but alive" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "warm enough. barely. send a second coat" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "i told you both to pack for your climates" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "you told kit to 'dress like you made an effort' for prom. that's not climate advice" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "it was broadly applicable guidance" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "how are YOU eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "genuinely good. state school is underrated. also i met someone" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "WHAT" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "ELI." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "her name is Priya. she's in my sociology class. she is extremely out of my league and has not noticed this yet so i am moving fast" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "this is the best news i've had all month" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "priya from sociology. got it. rooting for you man" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "i know. now someone tell me when you two are going to figure your situation out because watching from here is extremely stressful" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "goodnight eli" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "goodnight eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "TYPICAL" }
+  ]
+}

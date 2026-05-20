@@ -1,0 +1,15 @@
+{
+  "page": 42,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She cries." },
+    { "type": "narration", "content": "Not quietly. Not the composed kind she's been performing for three years — not the careful managed release she does alone in her car or her bathroom when things get heavy and she needs to let something go without anyone seeing. Not that." },
+    { "type": "narration", "content": "The real kind. The kind that doesn't care how it looks. The kind that comes from somewhere so deep in her that she didn't know it was there until it surfaces now, now that there's finally somewhere safe to put it." },
+    { "type": "narration", "content": "She cries for the sixteen-year-old in the beige-walled room. She cries for every morning she stood at the counter and swallowed her pills alone. She cries for every appointment she drove to herself and sat in by herself and drove home from without telling anyone how it went. She cries for all the years of managing — of being so good at managing — that no one knew what the management cost." },
+    { "type": "narration", "content": "She cries because she is terrified and she is relieved and she is exhausted and she is, for the first time since she was sixteen years old, not carrying this alone." },
+    { "type": "narration", "content": "He doesn't say anything. He pulls her close — his arm around her shoulders, her head against his chest — and he doesn't say it'll be okay or that he's there or any of the words people reach for. He just holds her. Steadily. In the gondola of a Ferris wheel above a county carnival, while the world below them continues its ordinary business and the wheel turns its patient turn and none of it knows or cares that something enormous is happening here, at the top of it." },
+    { "type": "narration", "content": "She cries for a long time." }
+  ]
+}

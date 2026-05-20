@@ -1,0 +1,28 @@
+{
+  "page": 16,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "At home he sat on the edge of his bed. Blue button-down still on. Lights off." },
+    { "type": "narration", "content": "She'd leaned in too. He knew she had." },
+    { "type": "narration", "content": "His phone rang. Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "So." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good night, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nothing happened." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I was standing ten feet away." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Then you know nothing happened." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I know the song ended at a very inconvenient time." },
+    { "type": "narration", "content": "Kit said nothing." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She leaned in too, man." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "So then what are you doing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit. Say the thing. Just say it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good night, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You've been not saying it since we were twelve —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good night." },
+    { "type": "narration", "content": "He hung up. Sat in the dark. Eli wasn't wrong. He just wasn't ready. He kept thinking he'd know when he was ready." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "page": 12,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "The rubric arrived forty minutes later." },
+    { "type": "message", "sender": "Cassandra", "content": "OFFICIAL BREAKFAST ASSESSMENT: Meridian Green Awning Location" },
+    { "type": "message", "sender": "Cassandra", "content": "Eggs: 9/10. Perfectly executed. Borderline aggressive in their confidence." },
+    { "type": "message", "sender": "Cassandra", "content": "Coffee: 4/10. You were correct. Aggressively mediocre. It tasted like a description of coffee rather than coffee itself." },
+    { "type": "message", "sender": "Cassandra", "content": "Atmosphere: 8/10. Green awning bias fully applied and unapologized for. The window table gets morning light. There's a plant in the corner that has clearly been there for years and is thriving. I respect that." },
+    { "type": "message", "sender": "Cassandra", "content": "Overall: 7.2/10. Would return. Would bring someone." },
+    { "type": "message", "sender": "Ethan", "content": "Would bring someone." },
+    { "type": "message", "sender": "Cassandra", "content": "Hypothetically." },
+    { "type": "message", "sender": "Ethan", "content": "The plant detail. You noticed a plant that's been thriving for years and that's what tipped the atmosphere score." },
+    { "type": "message", "sender": "Cassandra", "content": "A thriving plant is evidence of care. Whoever tends it chose to keep it alive and keeps choosing that. I find that reassuring in a restaurant." },
+    { "type": "message", "sender": "Ethan", "content": "That's the most you thing I've ever read." },
+    { "type": "message", "sender": "Cassandra", "content": "Is that good or bad?" },
+    { "type": "message", "sender": "Ethan", "content": "Very good. Entirely good." },
+    { "type": "narration", "content": "He looked at his phone after she stopped responding. The afternoon had gone golden — the specific quality of late light that turned his apartment into the version of itself that he liked most." },
+    { "type": "internalThought", "content": "She notices plants because they are evidence that someone chose to keep tending something. She notices those things." },
+    { "type": "narration", "content": "He picked up a pencil. This time he actually used it." }
+  ]
+}

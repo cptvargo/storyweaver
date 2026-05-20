@@ -1,0 +1,21 @@
+{
+  "page": 22,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "His mom got home at seven-thirty." },
+    { "type": "narration", "content": "She worked the afternoon shift at the diner on Tuesdays and Thursdays, which meant she came home smelling like coffee and looking tired in the particular way that required about fifteen minutes in the kitchen with a glass of water before she came back to herself. Kit always gave her those fifteen minutes without being asked." },
+    { "type": "narration", "content": "He was on the porch when she got home, in the old wooden rocker that had been his grandfather's and hadn't moved in years. The porch looked out on the street, which was quiet now, the post-storm damp hanging in the still air with the clean smell of it." },
+    { "type": "narration", "content": "She came out after a while and sat on the top step." },
+    { "type": "narration", "content": "He told her about the day in the abbreviated way he'd learned she preferred — not everything, just the good parts shaped into something easy. He gave her the water tower but not the condemned sign. The storm but not who'd suggested waiting it out. Lunch at Savannah's. Mr. Whitaker and the Coke bottles." },
+    { "type": "narration", "content": "She listened the way she always listened — fully, without needing to say much back. She'd grown up in Millhaven too, different decade but the same streets, and some of what he told her landed in a place that remembered it." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Be careful on that old tower." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes ma'am." },
+    { "type": "narration", "content": "She didn't push it further. She had good sense about which hills were worth arguing on." },
+    { "type": "narration", "content": "They sat there until she said she had some calls to make and went back inside. The screen door closed behind her with the sound Kit had heard ten thousand times — the specific snap of it, the particular way it settled in the frame. The sound that meant home in the clearest possible way." },
+    { "type": "narration", "content": "He stayed on the porch." },
+    { "type": "narration", "content": "The evening was doing what it did — the light going amber, then gold, then the kind of deep orange that only happened after a summer storm had cleared the sky. The first crickets had started up. Somewhere on the block, someone was running a sprinkler, the arc of it catching the last light." },
+    { "type": "narration", "content": "He rocked slowly and watched the street." }
+  ]
+}

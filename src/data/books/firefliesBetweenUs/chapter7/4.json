@@ -1,0 +1,27 @@
+{
+  "page": 4,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Wednesday he dropped a Hester's chocolate milkshake at her front door without knocking. She'd mentioned it three times in the last week. She probably didn't realize she'd mentioned it three times. He had counted." },
+    { "type": "narration", "content": "Twenty minutes later:" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you didn't have to do that" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "do what" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "kit" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "it's just hester's" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you left it on my porch and didn't even knock" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "you were probably studying" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i mentioned it like once" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "three times. tuesday at lunch, thursday morning walking to school, and last week on here" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "..." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you counted" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "i notice things" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "thank you. actually" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "you doing okay" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "getting there" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "good" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "always" },
+    { "type": "narration", "content": "Savannah was online in the same window. Daisy didn't open it for another hour." }
+  ]
+}

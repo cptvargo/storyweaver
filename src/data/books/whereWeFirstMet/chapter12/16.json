@@ -1,0 +1,18 @@
+﻿{
+  "page": 16,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He walked the length of the aisle and took his place at the altar and turned to face the room." },
+    { "type": "narration", "content": "The faces in the chairs looked back at him — people he had known all his life, people he had known for months, people who were here because they understood what this day meant. His mother in the front row, her hands in her lap, her face doing the thing it did when she was trying to hold herself together and not quite managing." },
+    { "type": "narration", "content": "Thomas Hailey sat across the aisle — a man who had given Ethan his blessing on a Saturday morning six weeks ago and who was looking at him now with an expression that Ethan read as: I trusted you with something precious. Take care of it." },
+    { "type": "narration", "content": "Ethan held the look for a moment. He nodded once." },
+    { "type": "narration", "content": "Mr. Hailey nodded back." },
+    { "type": "narration", "content": "The music shifted. The prelude gave way to the processional — the notes rising, the mood of the room rising with them, the distinct electricity of a ceremony beginning in earnest." },
+    { "type": "narration", "content": "The doors at the back of the chapel opened." },
+    { "type": "narration", "content": "Maya came first, in the warm ivory of a bridesmaid's dress she had chosen herself and that suited her in the way things that are chosen by the right person suit them. She walked with the deliberate grace of someone who is present in every step." },
+    { "type": "narration", "content": "Nathan's eyes found her immediately." },
+    { "type": "narration", "content": "Lena came next. She was smiling before she got through the door — the kind of smile that comes from something very deep and very earned. She had been here from the beginning. She had sat in waiting rooms and held hands and kept secrets and known, before anyone else knew, that this was where it was going. She reached the altar and took her place and looked at Ethan and her smile went even wider." }
+  ]
+}

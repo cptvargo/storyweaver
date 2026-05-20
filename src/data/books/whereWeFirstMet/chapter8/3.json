@@ -1,0 +1,25 @@
+{
+  "page": 3,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He went to The Copper Mug after, because he went there most mornings after, and because right now the familiarity of it felt necessary — the specific smell of the place, the quality of the light, the way the room had its own weather that had nothing to do with whatever was happening outside it." },
+    { "type": "narration", "content": "Mr. Alvarez set a coffee in front of him before he'd fully settled into the chair." },
+    { "type": "narration", "content": "He sat. He looked at the coffee for a while without picking it up." },
+    { "type": "narration", "content": "The morning moved around them — the grinder, a man at the counter ordering something complicated, the door opening and letting in a bar of light. Ethan sat inside all of it and was aware of none of it." },
+    { "type": "narration", "content": "Mr. Alvarez waited until the early rush had passed. Then he came around from behind the counter, pulled out the chair across from Ethan — the particular chair — and sat down with the unhurried ease of a man who has made his peace with the pace of important things." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You're not drawing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Four days now." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're counting?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I notice things. I know what you look like when you're working. I know what you look like when you're thinking. Right now you look like neither of those." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What do I look like?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Like a man carrying something he cannot put down and cannot yet name." },
+    { "type": "narration", "content": "Ethan picked up his coffee." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Am I that obvious?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Only to someone paying attention. I pay attention. It began as a professional habit. It has become a personal one." },
+    { "type": "narration", "content": "He looked at Ethan directly." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Tell me." }
+  ]
+}

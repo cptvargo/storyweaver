@@ -1,0 +1,26 @@
+{
+  "page": 17,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Her house had the porch light on and the blue flicker of a television through the front window. Her mom was probably still up. They stopped at the end of the front walk the way they always stopped, at the invisible line where he didn't go further and she didn't quite leave yet." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't forget to check if that notebook is actually from math." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll check." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You won't check." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll check eventually." },
+    { "type": "narration", "content": "She smiled at the porch steps. He looked at the moth circling the porch light." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good summer." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The field was the right call." },
+    { "type": "narration", "content": "She was quiet for a second. The moth made its circles." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It was." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And the water tower." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And the water tower." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And Hester's." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're stalling." },
+    { "type": "narration", "content": "He was." }
+  ]
+}

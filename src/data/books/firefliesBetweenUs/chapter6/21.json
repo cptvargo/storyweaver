@@ -1,0 +1,29 @@
+﻿{
+  "page": 21,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli called at ten." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I saw you changed your MySpace song." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You check my profile at ten o'clock on a Friday." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I check everyone's profile at ten o'clock on a Friday. It's how I stay informed. What's the song." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Molly." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's a song I like." },
+    { "type": "narration", "content": "A pause on the line." },
+    { "type": "dialogue", "speaker": "Eli", "content": "It's a love song." },
+    { "type": "dialogue", "speaker": "Kit", "content": "A lot of songs are love songs." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit Jenkins." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good night, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She's going to see it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's just a song." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You put it up there knowing she'd see it." },
+    { "type": "narration", "content": "Kit was quiet." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's not nothing, man." },
+    { "type": "narration", "content": "He hung up. Lay in the dark." },
+    { "type": "narration", "content": "He didn't know if Daisy had seen it yet. He didn't know what he'd say if she asked about it. He didn't know what sophomore year was going to look like, or when Ryan Callaway was going to stop being a fact, or how much longer he could keep carrying the thing he'd been carrying." },
+    { "type": "narration", "content": "He knew one thing." },
+    { "type": "narration", "content": "He was done pretending it wasn't there." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page": 17,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The slow song came an hour in." },
+    { "type": "narration", "content": "He felt it in the room before he heard it — the tempo dropping, the crowd rearranging, people moving together or stepping off the floor. Savannah pressed into Marcus. Eli drifted, smooth and inevitable, toward a girl from their English class." },
+    { "type": "narration", "content": "Kit and Daisy stood where they were." },
+    { "type": "dialogue", "speaker": "Kit", "content": "This time I'm actually asking." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You asked last year." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I said 'you want to —' and didn't finish the sentence." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I knew what you meant." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Will you dance with me." },
+    { "type": "narration", "content": "She held out her hand. He took it." },
+    { "type": "narration", "content": "They moved to the same kind of open space as before — not center, somewhere between the lights and the edge — but it was different now. Everything the same on the surface and completely different underneath. She put her hand on his shoulder. He put his at her waist. They started to move." },
+    { "type": "narration", "content": "He could feel her breathe." },
+    { "type": "narration", "content": "She leaned in — not dramatically, just a small degree of closer — and he met her there, and for a few bars of the song they were just two people who had been in orbit around each other since seventh grade, finally close enough that the orbit didn't feel like a gap anymore. It felt like arriving." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't overthink it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You have the face." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What face." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The one where you're thinking too loud." },
+    { "type": "narration", "content": "He looked down at her. She was already looking up at him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not thinking about anything." },
+    { "type": "narration", "content": "She held his gaze. She knew that wasn't true. He knew she knew. And somehow that was fine — because she was still there, still leaning in, still moving with him like they'd been doing this their whole lives." },
+    { "type": "narration", "content": "Because they had been." }
+  ]
+}

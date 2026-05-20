@@ -1,0 +1,25 @@
+{
+  "page": 13,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They walked together until the park turned into the street, and then Eli turned north at the corner with the wave of someone who had somewhere to be." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Last summer of our lives, officially over. I'd give a speech but I think we all know how I feel." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We do." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Great summer, guys. Really. Top tier." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "Eli pointed at them both once, the way he did, like he was punctuating something, and then he was gone." },
+    { "type": "narration", "content": "The street was quieter after that. The kind of quiet that happened late in August in Millhaven when the air had finally cooled just enough to be something other than oppressive and the cicadas were winding down from the afternoon's full volume to their night-mode hum." },
+    { "type": "narration", "content": "They walked without deciding on a direction. Their bikes were back at Hester's and neither of them mentioned it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli doesn't actually think anything is over." },
+    { "type": "dialogue", "speaker": "Kit", "content": "No." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He just likes saying things." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's one of his better qualities." },
+    { "type": "narration", "content": "Their footsteps were the only sound on their side of the street. The houses they passed had porch lights on, some of them, the warm amber kind that made everything look like evening in a movie." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Last summer of our lives." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't say it like that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He said it like that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli is allowed to. You'll actually mean it." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 2,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The thing about Millhaven in summer was that it had exactly three kinds of people: the ones who stayed inside with the air conditioning, the ones who sat on their porches and watched, and the ones who were twelve years old and had somewhere to be." },
+    { "type": "narration", "content": "Kit and Eli were the third kind." },
+    { "type": "narration", "content": "They took the back way down to Main Street, cutting through the alley behind the dollar store where the pavement was smooth and wide enough to ride side by side. Eli was talking — he was always talking, a running commentary on the known universe that Kit mostly filtered to background noise unless he heard his own name." },
+    { "type": "dialogue", "speaker": "Eli", "content": "—and my dad says the Henderson property is officially condemned, which I looked up what that means, and it means—" },
+    { "type": "dialogue", "speaker": "Kit", "content": "That we can't go in there." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That we legally cannot go in there." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Right." },
+    { "type": "narration", "content": "They looked at each other." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Probably fine." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Probably fine." },
+    { "type": "narration", "content": "But they kept going toward Main Street, because there was other business first. Millhaven's downtown was six blocks of brick storefronts, a post office, a barbershop that had been there longer than anyone's grandparents, and the Tasty Freeze — the social center of the town from roughly June to August. People sat in lawn chairs in the parking lot eating soft serve and talking about the heat and the drought, because that was what there was to talk about." },
+    { "type": "narration", "content": "Kit and Eli passed through the shimmer of midmorning heat rising off Main Street." },
+    { "type": "dialogue", "speaker": "Eli", "content": "There's Daisy." },
+    { "type": "narration", "content": "Kit looked. Daisy May Jones was sitting on the low brick wall in front of the pharmacy, eating something red out of a paper cup, talking to Savannah Brooks. She hadn't looked up yet." },
+    { "type": "narration", "content": "Kit did not slow down. He did not appear, in any visible way, to care." },
+    { "type": "narration", "content": "He did, however, stop running his hand through his hair, because it was already fine." }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 20,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It was Marcus who noticed first. He was mid-sentence about something else entirely and just stopped." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Daisy Jones. Are you blushing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You are absolutely blushing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's warm. It's July." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "It's nighttime. There's a breeze." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I run hot." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She definitely runs hot." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Thank you, Savannah." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That was not a defense." },
+    { "type": "narration", "content": "Kit looked at her. She refused to look back. The tips of her ears had gone pink and she was staring very deliberately at the fire." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're blushing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I am not." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy May Jones is blushing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit Jenkins if you say one more word —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're the most beautiful person I've ever seen." },
+    { "type": "narration", "content": "She finally looked at him. The firelight between them. Her face did the thing it never let itself do with an audience — open and completely unguarded, every wall down, just Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That is not fair." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Completely fair." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I need a moment." },
+    { "type": "dialogue", "speaker": "Priya", "content": "Take your moment." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm taking it. Thank you." }
+  ]
+}

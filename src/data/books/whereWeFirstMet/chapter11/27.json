@@ -1,0 +1,19 @@
+{
+  "page": 27,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They stopped talking somewhere between the last booth and the Ferris wheel line." },
+    { "type": "narration", "content": "Not because there was nothing to say. Because the silence that had arrived was not the kind you filled. It was the kind you moved through together — the weight of the afternoon, the weight of what was coming, walking with them as they walked." },
+    { "type": "narration", "content": "The line was short. Late afternoon, the crowd thinning toward the exit and the food stands, leaving the rides to whoever had come for the view." },
+    { "type": "narration", "content": "A sign at the entrance said: The view from the top encompasses the whole of Hartwell and the river beyond." },
+    { "type": "narration", "content": "Cassandra read it. Then read it again, as though making sure." },
+    { "type": "narration", "content": "Ethan was watching the wheel turn — the gondolas rising to the apex and pausing there, briefly, while the one below loaded, and then descending. Rising. Pausing. Descending. The patient geometry of it." },
+    { "type": "narration", "content": "He was thinking about nothing. He had the particular emptiness of someone who has cleared space in themselves deliberately, made room for something." },
+    { "type": "narration", "content": "The gondola arrived. The operator opened the bar." },
+    { "type": "narration", "content": "They stepped in." },
+    { "type": "narration", "content": "The bar came down." },
+    { "type": "narration", "content": "The ground began, slowly, to fall away beneath them." }
+  ]
+}

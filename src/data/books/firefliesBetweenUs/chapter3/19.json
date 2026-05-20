@@ -1,0 +1,19 @@
+{
+  "page": 19,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She had her hand on the door and then she stopped." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hey, Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "For the record. When I said the field was my best thing — it wasn't the fireflies." },
+    { "type": "narration", "content": "He didn't say anything." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Just so you know." },
+    { "type": "narration", "content": "She went inside. The door closed. The porch light stayed on." },
+    { "type": "narration", "content": "Kit stood on the front walk for a second. Then a few more seconds. Then a few more." },
+    { "type": "narration", "content": "The thing she'd said was working itself out — too carefully put together for him to take apart quickly. Not the fireflies. She'd named the field as her favorite thing of the summer, and she'd looked at him when she said it at Hester's, and she'd looked at him just now on the porch step, and she'd told him it wasn't the fireflies." },
+    { "type": "narration", "content": "He stood there." },
+    { "type": "narration", "content": "A car turned the corner a block away and the headlights swept through the oak trees and went." }
+  ]
+}

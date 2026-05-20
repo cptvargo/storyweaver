@@ -1,0 +1,144 @@
+{
+  "id": "firefliesBetweenUs",
+  "title": "Fireflies Between Us",
+  "subtitle": "Some memories never fade. Some people never leave.",
+  "genre": "Romance",
+  "subgenre": "Coming-of-Age Romance / Nostalgic Fiction",
+  "tags": [
+    "coming-of-age",
+    "romance",
+    "nostalgic",
+    "emotional",
+    "friendship",
+    "summer",
+    "small-town",
+    "heartfelt",
+    "first-love",
+    "slow-burn",
+    "childhood",
+    "bittersweet",
+    "literary"
+  ],
+  "description": "Millhaven, Georgia. Summer 2002. Kit Jenkins is twelve years old, reckless, and convinced that any plan worth having can be figured out along the way. Daisy May Jones has known him long enough to know he's right about that — and wrong about almost everything else. What starts as one long summer of bikes and thunderstorms and condemned water towers becomes the summer that everything quietly begins to change.",
+  "shortDescription": "A nostalgic coming-of-age story about a small Southern town, a reckless boy, a girl who sees right through him, and the summer neither of them will forget.",
+  "mainCharacters": [
+    {
+      "name": "Kit Jenkins",
+      "age": 12,
+      "role": "Male lead",
+      "description": "Fearless, reckless, charismatic. A natural leader who hides real vulnerability behind confidence and motion."
+    },
+    {
+      "name": "Daisy May Jones",
+      "age": 12,
+      "role": "Female lead",
+      "description": "Smart, grounded, quietly stubborn. She teases Kit constantly and understands him better than anyone."
+    }
+  ],
+  "supportingCharacters": [
+    "Eli Turner",
+    "Savannah Brooks",
+    "Mrs. Brooks",
+    "Mrs. Jones",
+    "Grandma Mae",
+    "Mr. Whitaker",
+    "Kit's Mom"
+  ],
+  "setting": [
+    "Millhaven, Georgia",
+    "Old water tower",
+    "Callaway Park",
+    "Henderson property",
+    "The field behind Kit's block",
+    "Main Street"
+  ],
+  "totalChapters": 10,
+  "chapterCountPlanned": 12,
+  "status": "in-progress",
+  "author": "StoryWeaver",
+  "readingTime": "~12 hrs (Chapters 1-10)",
+  "contentRating": "Clean",
+  "cover": "/fireflies_between_us.png",
+  "coverTone": "warm, nostalgic, golden, hopeful",
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "title": "The Last Light of Summer",
+      "image": "/the_last_light_of_summer.png",
+      "mood": "Some summers stay with you long after the sun goes down.",
+      "totalPages": 25
+    },
+    {
+      "chapterIndex": 2,
+      "title": "Something to Lose",
+      "image": "/something_to_lose.png",
+      "mood": "The Henderson house, a close call, and the thing neither of them said after.",
+      "totalPages": 15
+    },
+    {
+      "chapterIndex": 3,
+      "title": "The Long Way Home",
+      "image": "/the_long_way_home.png",
+      "mood": "Last Saturday before school. Hester's, the park, the walk home that takes longer than it needs to.",
+      "totalPages": 20
+    },
+    {
+      "chapterIndex": 4,
+      "title": "Away Message",
+      "image": "/away_message.png",
+      "mood": "Seventh grade changes the rules. Some things you can't unsay. Some things you don't have to.",
+      "totalPages": 20
+    },
+    {
+      "chapterIndex": 5,
+      "title": "Offline",
+      "image": "/offline.png",
+      "mood": "He knew what that place was. He went anyway. She found out from someone else.",
+      "totalPages": 21
+    },
+    {
+      "chapterIndex": 6,
+      "title": "Somebody",
+      "image": "/somebody.png",
+      "mood": "Freshman year. A new name in her conversations. A feeling Kit doesn't have a word for yet — but he's done pretending it isn't there.",
+      "totalPages": 25
+    },
+    {
+      "chapterIndex": 7,
+      "title": "Almost",
+      "image": "/almost.png",
+      "mood": "Sophomore year. The table changes. The dance. Three seconds on the floor where the whole thing almost became something else.",
+      "totalPages": 20
+    },
+    {
+      "chapterIndex": 8,
+      "title": "Before August",
+      "image": "/before_august.png",
+      "mood": "Senior year. USC and Minnesota. The Molly conversation, finally. Prom. A kiss that doesn't happen — and two people who finally say the thing out loud.",
+      "totalPages": 22
+    },
+    {
+      "chapterIndex": 9,
+      "title": "The Distance",
+      "image": "/the_distance.png",
+      "mood": "Two different cities. Texts across time zones. A fight that needed to happen. A phone call that lasted until she fell asleep on the line. December. Coming home. Finally giving it a name.",
+      "totalPages": 34
+    },
+    {
+      "chapterIndex": 10,
+      "title": "This Kind of Night",
+      "image": "/this_kind_of_night.png",
+      "mood": "July Fourth. The field. Ten years in the making. Fireflies, fireworks, and the moment they stopped waiting.",
+      "totalPages": 26
+    }
+  ],
+  "themes": [
+    "childhood",
+    "friendship",
+    "first love",
+    "small-town life",
+    "nostalgia",
+    "growing up",
+    "summers that change you"
+  ]
+}

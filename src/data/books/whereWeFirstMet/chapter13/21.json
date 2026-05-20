@@ -1,0 +1,32 @@
+{
+  "page": 21,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He woke slowly, the way he woke when there was nothing requiring him." },
+    { "type": "narration", "content": "She was watching him when he opened his eyes. She didn't pretend she wasn't." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "narration", "content": "A pause. The embers. The mountain light gathering at the curtain edges." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How are you?" },
+    { "type": "narration", "content": "The specific question. He always asked it. She always answered it honestly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Good. Really good." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." },
+    { "type": "narration", "content": "He looked at her. She looked at him. Something passed between them that didn't require a word — an acknowledgment, a recognition, the specific quiet of two people who have arrived somewhere together and know it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Last night mattered." },
+    { "type": "narration", "content": "He said it simply, not as a declaration. As a true statement, offered because it was true." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It wasn't what I expected." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What did you expect?" },
+    { "type": "narration", "content": "She thought about it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't know. Something that felt more like an event. But it just felt like — us. The same as always, except everything." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think that's the right thing to feel." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." },
+    { "type": "narration", "content": "She reached over and put her hand against his chest. Not a gesture — just contact. The simple, undemanding fact of him." },
+    { "type": "narration", "content": "His heart beating under her palm." },
+    { "type": "narration", "content": "She listened to it for a while." }
+  ]
+}

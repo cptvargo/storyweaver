@@ -1,0 +1,22 @@
+{
+  "page": 2,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Seventh grade had lockers, which sixth grade hadn't. This seemed minor and turned out not to be, because lockers meant a fixed point on the social map — your locker was your address, and your address determined who you stood next to every morning, and that turned out to matter in ways that hadn't mattered before." },
+    { "type": "narration", "content": "Kit's locker was in the B-wing. Daisy's was in C. Eli had somehow already found both of them before homeroom." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay. I've assessed the situation." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's been eleven minutes." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Eleven minutes is enough. There's a new kid from Atlanta in homeroom 7B, the vending machine by the gym has been restocked, and I've already identified three people running for class president who are not going to win." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because you're running." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I haven't decided yet." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You've decided." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm strongly leaning." },
+    { "type": "narration", "content": "Savannah arrived with the binder system, color-coded, exactly as promised. She looked at the hallway the way she looked at most things — like she was quietly filing it away." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Marcus says eighth grade is completely different." },
+    { "type": "dialogue", "speaker": "Eli", "content": "From what?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "From this." },
+    { "type": "narration", "content": "The bell rang. The hallway moved. Kit and Daisy went left toward homeroom 7A, Eli right toward 7B, and the first day of seventh grade started doing what first days do — sorting everyone into a new version of the world." }
+  ]
+}

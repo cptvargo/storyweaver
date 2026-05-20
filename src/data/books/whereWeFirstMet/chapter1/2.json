@@ -1,0 +1,412 @@
+{
+  "page": 2,
+  "chapter": 1,
+  "chapterTitle": "Passing Lines",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    {
+      "type": "narration",
+      "content": "Cassandra Hale believed mornings were too important to waste."
+    },
+    {
+      "type": "narration",
+      "content": "Not because she was disciplined."
+    },
+    {
+      "type": "narration",
+      "content": "Discipline sounded boring."
+    },
+    {
+      "type": "narration",
+      "content": "She preferred the word intentional."
+    },
+    {
+      "type": "narration",
+      "content": "Intentional meant you could drink iced coffee before breakfast, wear mismatched socks because they made you smile, and take the long way through town just because the sky looked especially dramatic over the rooftops."
+    },
+    {
+      "type": "narration",
+      "content": "Intentional meant choosing the day before the day chose for you."
+    },
+    {
+      "type": "narration",
+      "content": "She stepped off the bus and took a long sip from her cup, cold coffee biting sweetly against her tongue. The air was crisp enough to make her nose sting, and she loved it."
+    },
+    {
+      "type": "narration",
+      "content": "A perfect morning, she decided."
+    },
+    {
+      "type": "narration",
+      "content": "The kind people ruined by rushing through it."
+    },
+    {
+      "type": "narration",
+      "content": "Her phone buzzed in her hand."
+    },
+    {
+      "type": "message",
+      "sender": "Maya",
+      "recipient": "Cassandra",
+      "content": "Did you take it?"
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra stared at the message for three seconds, then flipped the phone face down against her palm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Nope,"
+    },
+    {
+      "type": "narration",
+      "content": "she whispered."
+    },
+    {
+      "type": "narration",
+      "content": "Then, after a pause, she added,"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Not yet."
+    },
+    {
+      "type": "narration",
+      "content": "Her older sister had a gift for turning three words into a full interrogation. Did you take it? Did you eat? Did you sleep? Did you call? Did you remember your appointment? Did you tell Mom where you’re going?"
+    },
+    {
+      "type": "narration",
+      "content": "Maya loved like a locked door."
+    },
+    {
+      "type": "narration",
+      "content": "Secure. Protective. Impossible to sneak past."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra loved her for it."
+    },
+    {
+      "type": "narration",
+      "content": "She also found it wildly inconvenient."
+    },
+    {
+      "type": "narration",
+      "content": "The arcade sign buzzed faintly ahead, its neon half-awake. Cassandra smiled as she approached it. The place didn’t open until ten, but Lena would be there early setting up the prize counter, pretending she hated mornings while secretly arriving before everyone else."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra knocked twice on the glass door, then leaned close and made a dramatic sad face through the window."
+    },
+    {
+      "type": "narration",
+      "content": "From inside, Lena appeared between two claw machines, dark curls piled into a messy bun, keys in hand."
+    },
+    {
+      "type": "narration",
+      "content": "She pointed at the sign on the door."
+    },
+    {
+      "type": "action",
+      "character": "Lena",
+      "content": "CLOSED."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra pointed at herself."
+    },
+    {
+      "type": "action",
+      "character": "Cassandra",
+      "content": "SPECIAL."
+    },
+    {
+      "type": "narration",
+      "content": "Lena rolled her eyes so hard it looked like a medical condition, but she unlocked the door anyway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "You are a menace,"
+    },
+    {
+      "type": "narration",
+      "content": "Lena said."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "A beloved menace."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra slipped inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "There’s a difference."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "The difference is caffeine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Exactly. Which is why I brought you tea."
+    },
+    {
+      "type": "narration",
+      "content": "Lena narrowed her eyes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "Is this an apology tea or a bribery tea?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Can’t it be both?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "That depends. What did you do?"
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra grinned and handed her the drink."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Nothing yet."
+    },
+    {
+      "type": "narration",
+      "content": "Lena sighed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "That’s somehow worse."
+    },
+    {
+      "type": "narration",
+      "content": "The arcade smelled like dust, sugar, and old carpet. To most people, it probably felt outdated. To Cassandra, it felt alive. Rows of glowing machines lined the walls, waiting to scream and sing and flash themselves awake. A racing game sat in the corner with cracked seats. A basketball machine leaned slightly to one side. The prize counter was filled with rubber ducks, cheap headphones, glitter pens, and stuffed animals no one over the age of twelve should want but everyone secretly did."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra loved it all."
+    },
+    {
+      "type": "narration",
+      "content": "Especially the claw machine near the back."
+    },
+    {
+      "type": "narration",
+      "content": "It was rigged, obviously."
+    },
+    {
+      "type": "narration",
+      "content": "But she respected the drama."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "You’re early,"
+    },
+    {
+      "type": "narration",
+      "content": "Lena said, walking behind the prize counter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "You say that like it’s shocking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "It is shocking. You’re either very early or forty minutes late. There is no middle ground."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra placed a hand over her heart."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "I am misunderstood by everyone I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "You are understood perfectly. That’s the issue."
+    },
+    {
+      "type": "narration",
+      "content": "Lena stirred her tea with the straw, watching her over the lid."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "Maya texted me."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra turned toward a nearby machine and pretended to study the jackpot tickets."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Traitor."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "She worries."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "She professionally worries."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "She asked if you took it."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra’s fingers rested against the side of the arcade machine. The glass was cold."
+    },
+    {
+      "type": "narration",
+      "content": "For one brief moment, her reflection looked back at her in the dark screen. Red hair, bright eyes, a smile still hanging where she had left it."
+    },
+    {
+      "type": "narration",
+      "content": "She looked fine."
+    },
+    {
+      "type": "narration",
+      "content": "That was the mercy and cruelty of it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "I will,"
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra said lightly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "Cass."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "I said I will."
+    },
+    {
+      "type": "narration",
+      "content": "Lena softened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "You always say that."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra turned around with a smile sharp enough to cut the conversation clean in half."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "And I am always charming when I do."
+    },
+    {
+      "type": "narration",
+      "content": "Lena didn’t laugh."
+    },
+    {
+      "type": "narration",
+      "content": "That was the problem with people who loved you. Sometimes they refused to follow the script."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra looked away first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "I just want today to feel normal,"
+    },
+    {
+      "type": "narration",
+      "content": "she said, quieter this time."
+    },
+    {
+      "type": "narration",
+      "content": "Lena’s expression changed, concern folding into something gentler."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "Okay."
+    },
+    {
+      "type": "narration",
+      "content": "No lecture. No argument."
+    },
+    {
+      "type": "narration",
+      "content": "Just okay."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra loved her for that too."
+    },
+    {
+      "type": "narration",
+      "content": "She took another sip of iced coffee, lifted her chin toward the claw machine, and forced brightness back into her voice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Now, if I win that purple dinosaur, you have to admit I’m gifted."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lena",
+      "content": "That machine has stolen more money than government taxes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cassandra",
+      "content": "Then today we overthrow tyranny."
+    },
+    {
+      "type": "narration",
+      "content": "Lena finally smiled."
+    },
+    {
+      "type": "narration",
+      "content": "Cassandra fed a dollar into the machine and watched the claw jerk to life."
+    },
+    {
+      "type": "narration",
+      "content": "For the next thirty seconds, nothing existed except cheap music, plastic treasure, and the possibility that maybe, just maybe, the impossible could be grabbed if you lined things up exactly right."
+    }
+  ]
+}

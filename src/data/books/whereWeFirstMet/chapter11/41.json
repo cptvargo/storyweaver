@@ -1,0 +1,18 @@
+{
+  "page": 41,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "What an honor." },
+    { "type": "narration", "content": "She goes still." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That out of anyone you could have chosen to spend this time with — that you chose me. That it was me." },
+    { "type": "narration", "content": "He says it plainly. Without decoration. The way you say something that is so simply true that any performance would only diminish it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You could have kept this to yourself and no one would have known. You could have kept going the way you were going and let me love the version of you that didn't have this weight in it. And instead you sat here and gave me the whole thing. The beige walls and the AP Chemistry class and your mom's hand on your knee and all of it." },
+    { "type": "narration", "content": "His voice is rough now. He doesn't try to smooth it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's not a burden. That's a gift. You gave me you — the actual you. And I — Cass, I am so honored that out of everyone in the world, you decided that it was safe to give that to me." },
+    { "type": "narration", "content": "Cassandra stares at him." },
+    { "type": "narration", "content": "She has prepared herself for many things. For kindness and for fear and for the particular grief that looks like love. She has prepared herself for all the shapes this moment might take." },
+    { "type": "narration", "content": "She has not prepared herself for being seen as someone who gives rather than costs." }
+  ]
+}

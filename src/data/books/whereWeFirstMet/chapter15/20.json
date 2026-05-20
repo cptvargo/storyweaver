@@ -1,0 +1,18 @@
+{
+  "page": 20,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena stood and looked at her notes and then set them down." },
+    { "type": "dialogue", "speaker": "Lena", "content": "We met at the arcade. That's where I always start when people ask how we became friends. The arcade. She was there with Ethan and she got the stuffed bear out of the claw machine on the second try — the second try — and she turned around and held it up like she had won something enormous. She was so genuinely, completely happy about a stuffed bear from an arcade that I had to go talk to her." },
+    { "type": "narration", "content": "A small wet laugh moved through the room." },
+    { "type": "dialogue", "speaker": "Lena", "content": "That was Cassandra. She was never too cool for the thing. She let it matter. She let everything matter the way some people are afraid to — because letting things matter means you can lose them, and she understood that better than anyone in this room. She knew exactly what it was to lose things." },
+    { "type": "narration", "content": "She stopped. Steadied herself." },
+    { "type": "dialogue", "speaker": "Lena", "content": "She was the first person who ever looked at me and saw what I could be. Not what I was. Not what I was performing. What I could become. I built my life on that look. I became who I am because she gave it to me." },
+    { "type": "narration", "content": "Her voice finally broke." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I hope she knew that. I told her. But I hope she really knew." },
+    { "type": "narration", "content": "She sat down." },
+    { "type": "narration", "content": "Mr. Alvarez, in the third row, looked at the floor." }
+  ]
+}

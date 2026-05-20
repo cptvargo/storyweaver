@@ -1,0 +1,19 @@
+{
+  "page": 16,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The house was full of people." },
+    { "type": "narration", "content": "Thomas and Claire came and did not leave. Maya came and did not leave. Lena. Nathan. Everyone who had known her, everyone whose life had in some way been shaped by hers, coming and sitting and making tea and sitting some more." },
+    { "type": "narration", "content": "Ethan moved through all of it. He was present. He made sure people had what they needed. He answered questions. He spoke when spoken to." },
+    { "type": "narration", "content": "He did not sleep." },
+    { "type": "narration", "content": "At night, when the house emptied, he went to the bedroom and lay on his side of the bed." },
+    { "type": "narration", "content": "Not the middle. His side. The same side he had always slept on." },
+    { "type": "narration", "content": "The room still smelled like her." },
+    { "type": "narration", "content": "He didn't open the window." },
+    { "type": "narration", "content": "Harold was on the shelf. The lamp she loved was on the nightstand. Her reading glasses were on the book she hadn't finished — the bookmark exactly where she had left it." },
+    { "type": "narration", "content": "He looked at the bookmark for a long time." },
+    { "type": "narration", "content": "He didn't move it." }
+  ]
+}

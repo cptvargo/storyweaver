@@ -1,0 +1,30 @@
+{
+  "page": 12,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "A breath passed. Then another." },
+    { "type": "narration", "content": "And then, quietly, without looking at each other—" },
+    { "type": "narration", "content": "His hand found hers." },
+    { "type": "narration", "content": "Or hers found his. It didn't matter which." },
+    { "type": "narration", "content": "They fit." },
+    { "type": "narration", "content": "Cassandra's fingers closed around his and he felt something release in his chest that he hadn't known he was holding — some long-tensed thing, some careful arrangement of walls that had been there so long he'd stopped thinking of them as walls. He just felt the release." },
+    { "type": "narration", "content": "Below them, the street moved on. Cars passing. Distant sound. Life doing what life does — continuing carelessly in all directions, indifferent to everything that happened on benches and in galleries and in the private rooms of people trying to figure something out." },
+    { "type": "narration", "content": "And here — on a forgotten bench, under a streetlight that barely reached — two people sat in the particular, quiet, irreversible weight of choosing each other. Not with any word. Not with anything said. Just: this. The hand. The held breath. The willingness to stay." },
+    { "type": "narration", "content": "Ethan looked down at their hands." },
+    { "type": "narration", "content": "He had spent a long time making sure nothing got to matter too much. He had been very good at it. It had cost him things he hadn't let himself count." },
+    { "type": "narration", "content": "He thought about what Nathan had said." },
+    { "type": "internalThought", "content": "She sounds like the kind of person you meet once." },
+    { "type": "narration", "content": "He thought about the painting. The figure at the window. Choosing to look." },
+    { "type": "narration", "content": "Cassandra's thumb moved slightly against his — the smallest possible motion, not a word but something better than a word. A language that didn't require translation." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Tomorrow." },
+    { "type": "narration", "content": "Her voice was soft. Barely above the sound of the street." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Tomorrow." },
+    { "type": "narration", "content": "Not a question. Not an answer. A continuation." },
+    { "type": "narration", "content": "The city went quiet around them the way cities do when something is happening that has nothing to do with cities." },
+    { "type": "narration", "content": "And for the first time in a long time, Ethan didn't want to be careful." },
+    { "type": "narration", "content": "He just wanted this. Exactly this." },
+    { "type": "narration", "content": "For as long as it was his to hold." }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 13,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli announced it was time to set up the launch point, which required DeShawn and Marcus and what appeared to be a detailed verbal instruction set that Priya kept having to clarify. Savannah went with them, nominally to help, actually to give Kit and Daisy the field." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That fuse looks short." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The fuse is regulation." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Says who." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Says my guy." },
+    { "type": "narration", "content": "Their voices faded toward the far end of the field. The fire was still going but the blanket where Kit and Daisy sat had gone quiet and separate from the rest of it — just the two of them and the fireflies and the last bit of light bleeding out of the sky." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's strange that I feel completely calm right now." },
+    { "type": "dialogue", "speaker": "Kit", "content": "About the fireworks or —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "About tonight. About all of it. I thought I'd be nervous. I was nervous in June. But right now I just feel settled." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Same. I've been thinking about tonight for weeks and now that it's actually here it's just — it's just us. Same as it always is." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's the whole thing, isn't it. It's always just been us." },
+    { "type": "narration", "content": "A firefly blinked past her shoulder. She watched it go." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Do you remember the first time we were out here catching fireflies. We were nine maybe." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I put one in a jar and Eli told me it was cruel so I let it go." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli was right." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He usually is. I hate it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Some things should just get to be free." },
+    { "type": "narration", "content": "She said it quietly, looking out at the field. He looked at her profile in the firelight and didn't say anything for a moment because some things didn't need a response — they just needed to be heard." }
+  ]
+}

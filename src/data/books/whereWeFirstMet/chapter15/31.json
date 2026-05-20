@@ -1,0 +1,15 @@
+{
+  "page": 31,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He went to the park on a Tuesday morning with his supplies and the permission form he had spent three weeks obtaining." },
+    { "type": "narration", "content": "It was the same park. The fountain still ran. The bench he had been sitting on the first time he saw her was still there — the same bench, or looked the same, the same particular corner of the world." },
+    { "type": "narration", "content": "He sat on it for a few minutes before he began." },
+    { "type": "narration", "content": "He thought about himself at nineteen, sitting here with a sketchbook, drawing the world the way he always had — with the patience of someone who understood that the thing worth noticing was usually the thing most people walked past." },
+    { "type": "narration", "content": "He thought about the moment she turned around." },
+    { "type": "narration", "content": "He stood up." },
+    { "type": "narration", "content": "He went to the wall." }
+  ]
+}

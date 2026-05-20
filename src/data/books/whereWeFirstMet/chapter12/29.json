@@ -1,0 +1,20 @@
+{
+  "page": 29,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The beach house was Thomas Hailey's idea — or rather, it had been his gift, offered quietly to Cassandra six weeks before the wedding with the explanation that a ceremony was only the beginning and a celebration was something different. He'd arranged everything. He hadn't told her the details. He'd said: show up." },
+    { "type": "narration", "content": "She understood why he hadn't told her." },
+    { "type": "narration", "content": "The property sat on the water at the end of a private road, the kind of place that announced itself not with a sign but with the way the air changed — salt and warmth and the particular quiet of somewhere that had been loved for a long time. Tiki torches lined the path from the parking area to the deck, their light throwing soft orange movement across the sand. Beyond the deck: the beach. And centered in the beach, already lit and breathing: a fire pit, wide and low, ringed with driftwood seating." },
+    { "type": "narration", "content": "Cassandra stepped out of the car and stopped." },
+    { "type": "narration", "content": "Ethan came to stand beside her. He looked at the torches, the fire, the ocean beyond. The light from everything warm against the darkening sky." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Dad did this." },
+    { "type": "narration", "content": "Not a question." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "She was quiet for a moment. He understood — she was deciding whether to cry about it, and she was deciding no, not yet, there was too much good still ahead to spend it now." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Okay." },
+    { "type": "narration", "content": "She took his hand." },
+    { "type": "narration", "content": "They walked toward the light." }
+  ]
+}

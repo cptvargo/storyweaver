@@ -1,0 +1,29 @@
+{
+  "page": 18,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "After prom the group ended up at Marcus's house. His parents were out of town. The five of them spread across the living room with leftover birthday cake from Marcus's sister's party and a movie nobody was watching." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I want to say something." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That's never a great sentence." },
+    { "type": "dialogue", "speaker": "Eli", "content": "No, it's — I just want to say. Tonight was good. All of us, together. This was a good night." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Yeah it was." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "It really was." },
+    { "type": "narration", "content": "They sat with that for a second. Daisy had her shoes off, legs tucked under her on the end of the couch. Kit was next to her. Their arms were touching." },
+    { "type": "dialogue", "speaker": "Eli", "content": "August is going to be strange." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm just naming it. I think we should name it." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "It is going to be strange." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "We'll be okay." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Yeah. We will." },
+    { "type": "narration", "content": "The movie played. Savannah fell asleep against Marcus. Eli started talking quietly to himself about something, which was how he processed big feelings, and then Marcus's eyes closed too, and then there were just two of them awake." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Thank you for tonight. For asking me." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Thank you for saying yes." },
+    { "type": "narration", "content": "She looked at him in the low light of the TV. He looked back. The thing between them sat there, fully present, not hiding. And then she looked at the movie." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Take me home?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." }
+  ]
+}

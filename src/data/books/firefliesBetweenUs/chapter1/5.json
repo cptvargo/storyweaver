@@ -1,0 +1,26 @@
+{
+  "page": 5,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The east side of town was mostly residential — streets full of houses with big yards and chain-link fences and above-ground pools that everyone was jealous of and nobody admitted. The old water tower sat at the edge of a field past the last street, fenced off with the same green mesh fencing the town used for everything they wanted to look like they'd handled." },
+    { "type": "narration", "content": "They locked their bikes to the fence. Or rather, Daisy locked her bike and Savannah locked hers, while Kit and Eli leaned theirs against the fence, because Kit had lost his lock in April and had been meaning to replace it since then." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "One day someone's going to steal that bike." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nobody's going to steal that bike." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's a nice bike." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It is. I have excellent taste in bikes. Which is why nobody's going to steal it — they'd recognize the quality and feel bad." },
+    { "type": "narration", "content": "Daisy made the face. The ceiling fan face." },
+    { "type": "narration", "content": "They were crawling through the gap in the fence when they heard the voices." },
+    { "type": "dialogue", "speaker": "Danny", "content": "Well, look at that." },
+    { "type": "narration", "content": "Kit stood up on the other side. Three kids. Danny Pruett and two of his usual crew, coming around from the far side of the tower — which meant they'd already been in. Danny Pruett was thirteen, which he never let anyone forget, and had the kind of confidence that came from never having had the world push back on him yet." },
+    { "type": "dialogue", "speaker": "Danny", "content": "Jenkins. Didn't know this was your property." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not my property. It's not your property either." },
+    { "type": "dialogue", "speaker": "Danny", "content": "We were here first." },
+    { "type": "dialogue", "speaker": "Kit", "content": "There's no 'first' to a public water tower, Danny." },
+    { "type": "narration", "content": "Danny looked at Daisy. This was the thing about Danny Pruett — he always shifted his attention to whoever he thought wasn't going to push back." },
+    { "type": "dialogue", "speaker": "Danny", "content": "Hey, Daisy May." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hey, Danny." },
+    { "type": "narration", "content": "The exact same pleasant tone she used for everyone. Which somehow made it worse for Danny rather than better." }
+  ]
+}

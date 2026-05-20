@@ -1,0 +1,22 @@
+﻿{
+  "page": 28,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They came through the chapel doors into the afternoon." },
+    { "type": "narration", "content": "The light outside was the May light — generous, angled, the same light Ethan had been trying to paint for months and had never quite landed. It fell on them now and he thought: that's it. That's what it looks like. Not a color. A feeling." },
+    { "type": "narration", "content": "The guests spilled out behind them. Nathan appeared with the immediate energy of a man who has been sitting still for too long and has a great deal of opinions about what happens next. Maya appeared a step behind him — close, the particular closeness of someone who has gotten used to a proximity and no longer steps back from it." },
+    { "type": "narration", "content": "Lena found Cassandra and held her face in both hands for a moment. No words. Just looked at her." },
+    { "type": "narration", "content": "Thomas Hailey came last. He stood in front of his daughter and her husband — husband, new word, true word — and he looked at them both for a long moment." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Take care of each other." },
+    { "type": "narration", "content": "Simple. Complete." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We will, Dad." },
+    { "type": "narration", "content": "He nodded. He hugged her. He shook Ethan's hand and then pulled him in too, briefly, the hug of a man who does not hug easily and means every hug he gives." },
+    { "type": "narration", "content": "Cassandra looked at Ethan over her father's shoulder." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "narration", "content": "They were married. The afternoon was theirs. The future — uncertain and enormous and precious — was theirs." },
+    { "type": "narration", "content": "She took his hand." },
+    { "type": "narration", "content": "They walked into it." }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": 23,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "December came fast. Finals. Papers. Kit's film due Monday the ninth — he turned it in at eleven-fifty-eight PM and sat in the editing bay alone after the building emptied and watched it once all the way through and felt, for the first time all semester, like he'd made something real." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "turned it in" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "FINALLY how do you feel" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "like i made something. i don't know if it's good. but it's real" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "that's better than good" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "when are you done" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "last final is the 14th. driving home the 15th" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i fly home the 13th" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "two days" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "two days" },
+    { "type": "narration", "content": "On Daisy's end, Claire had taped a paper countdown to the dorm room door." },
+    { "type": "dialogue", "speaker": "Claire", "content": "How many days until you see him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We haven't — it's not like that. We're not —" },
+    { "type": "dialogue", "speaker": "Claire", "content": "Daisy. I have lived with you for three months. I have seen your face when his name comes up on your phone. How many days." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Six." },
+    { "type": "dialogue", "speaker": "Claire", "content": "Six days." },
+    { "type": "narration", "content": "Claire pulled a marker out of her desk and wrote a 6 on the countdown sheet." },
+    { "type": "dialogue", "speaker": "Claire", "content": "We update this daily." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You are going to be my best friend." },
+    { "type": "dialogue", "speaker": "Claire", "content": "Obviously." }
+  ]
+}

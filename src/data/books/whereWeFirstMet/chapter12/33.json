@@ -1,0 +1,28 @@
+{
+  "page": 33,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena was the first to notice." },
+    { "type": "narration", "content": "She was crossing from the deck to the fire pit with two glasses of water when she caught the angle of it — Nathan and Maya on the driftwood, the particular proximity of two people who had stopped performing their distance from each other. The way Maya was sitting. The way Nathan was listening. She slowed without stopping, took a longer route, and arrived at the other side of the fire with the careful expression of someone who has seen something good and is choosing not to announce it." },
+    { "type": "narration", "content": "She set one glass down for nobody and held the other one and looked at the water." },
+    { "type": "narration", "content": "Maya, she thought. Maya." },
+    { "type": "narration", "content": "She had known Maya for years — known her the way you know someone who has been present at every important moment without ever being quite accessible, the way a person who is used to absorbing other people's weight learns to hold their own very still. She had never once seen Maya look the way she looked right now: like she'd forgotten, for a few minutes, to keep the doors closed." },
+    { "type": "narration", "content": "Thomas Hailey arrived at the fire pit a moment later from the other direction. He stopped beside Lena without comment." },
+    { "type": "narration", "content": "They both looked." },
+    { "type": "narration", "content": "Nathan said something. Maya laughed — actually laughed, not the managed version — and then seemed to realize she'd done it, and something in her face briefly panicked." },
+    { "type": "narration", "content": "Her cheeks went red." },
+    { "type": "narration", "content": "Nathan noticed. His expression was very careful and very fond." },
+    { "type": "narration", "content": "Lena pressed her lips together to keep the smile from becoming a full grin." },
+    { "type": "narration", "content": "Thomas Hailey said nothing for a long moment. Then:" },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "How long has that been happening." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Since the carnival." },
+    { "type": "narration", "content": "He looked at Lena. She looked back, entirely unapologetic." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "She told you." },
+    { "type": "dialogue", "speaker": "Lena", "content": "She didn't have to." },
+    { "type": "narration", "content": "He looked back at his daughter, who was now pressing the back of her hand to her cheek as though checking the temperature of her own embarrassment." },
+    { "type": "narration", "content": "He watched for a long moment." },
+    { "type": "narration", "content": "Then he set down his glass." }
+  ]
+}

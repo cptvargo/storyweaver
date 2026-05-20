@@ -1,0 +1,18 @@
+{
+  "page": 40,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He takes her hand." },
+    { "type": "narration", "content": "Carefully. The way you hold something you are afraid to hold incorrectly. His hand covers both of hers where they're folded in her lap." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Don't." },
+    { "type": "narration", "content": "She looks up." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Don't apologize for it. Not to me." },
+    { "type": "narration", "content": "His voice is not steady anymore. She can hear the weight of the afternoon in it — everything she's told him, sitting in him now, being held by him. He is not pretending it doesn't hurt. She can see that it does. That the knowing costs him something. And he's paying it anyway." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You've been carrying this since you were sixteen. By yourself. And you are sitting here apologizing to me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Cass." },
+    { "type": "narration", "content": "He stops. He looks at her." },
+    { "type": "narration", "content": "And then he says it. Not to comfort her. Not because the moment requires it. But because it is the simplest and most complete truth he has, and the moment has finally opened wide enough to hold it." }
+  ]
+}

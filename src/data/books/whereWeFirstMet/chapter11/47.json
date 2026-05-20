@@ -1,0 +1,18 @@
+{
+  "page": 47,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Cassandra pulls back just enough to look at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Thank you." },
+    { "type": "narration", "content": "Lena shakes her head slightly — not dismissing it, just waiting for her to finish." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "No — I mean it. All of it. Every waiting room you sat in without being asked. Every time you didn't push me when I wasn't ready. Every time you just — sat with me. Knowing, and not making it bigger than I could hold, and trusting me to get here when I got here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You knew before I did that I could do this. I didn't believe you. I do now." },
+    { "type": "narration", "content": "Lena's eyes are bright. She holds it together the way she always holds things together — by choice, with great effort, with the specific dignity of a person who has decided that this moment belongs to someone else." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You didn't think I'd be anywhere else." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I'm so proud of you, Cass." },
+    { "type": "narration", "content": "Cassandra nods. She can't answer that one. She just nods." }
+  ]
+}

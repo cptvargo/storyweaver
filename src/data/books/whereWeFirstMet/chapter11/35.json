@@ -1,0 +1,20 @@
+{
+  "page": 35,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There are trials. I follow them. I've been watching them since I was diagnosed — there are a few that are promising, gene therapy pathways, some structural repair approaches. The science is moving." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "But right now?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Right now, nothing that would reverse it. Nothing that would change the architecture. The medication manages it — it slows the progression significantly. I'm doing well, by the standards they have for this. But there's no cure. Not yet." },
+    { "type": "narration", "content": "He takes this in." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Not yet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's how I say it. Not yet. It helps." },
+    { "type": "narration", "content": "He nods. Just once. He is cataloging things — she can see it — filing the information carefully, the way he files things he intends to carry with him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How long? If the medication keeps working — what do the doctors say?" },
+    { "type": "narration", "content": "She was expecting this question. She's been sitting with the answer for three years." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "They talk in ranges. If things stay on this track — if the medication keeps doing what it's doing — they say ten to twenty years is realistic. Possibly longer. They're careful not to promise." },
+    { "type": "narration", "content": "The gondola reaches the top of the wheel. The world is very wide from here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I might have decades. I might not. I live in between. I've learned to live there." }
+  ]
+}

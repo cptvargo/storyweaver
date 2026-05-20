@@ -1,0 +1,21 @@
+{
+  "page": 13,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He called Maya next." },
+    { "type": "narration", "content": "She answered on the first ring — she always had, when it was him, some old reflex of awareness carried over from years of Cassandra's condition." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Ethan, hey—" },
+    { "type": "narration", "content": "He said it." },
+    { "type": "narration", "content": "The silence on the other end was unlike anything he had ever heard from Maya. Maya who always had something to say. Maya who had spent her whole life using noise as armor." },
+    { "type": "narration", "content": "Nothing." },
+    { "type": "narration", "content": "Then a sound that had no name." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Maya. I'm so sorry—" },
+    { "type": "narration", "content": "She couldn't answer him." },
+    { "type": "narration", "content": "He heard Nathan in the background — calm, immediate, already moving toward her. He heard Maya say something that wasn't words. He heard Nathan take the phone." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Ethan." },
+    { "type": "narration", "content": "Steady. The way Nathan always was in the moments that needed steadiness most." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "We're coming right now." }
+  ]
+}

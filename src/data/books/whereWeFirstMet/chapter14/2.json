@@ -1,0 +1,27 @@
+{
+  "page": 2,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She cried before they reached the end of the gravel drive." },
+    { "type": "narration", "content": "Not the polite kind. Not the kind she managed or pre-explained. She just looked back through the rear window as the cabin disappeared behind the tree line — the dark wood and stone, the fieldstone chimney, the porch where the wildflowers had hung — and something came apart in her chest and she let it." },
+    { "type": "narration", "content": "Ethan didn't say anything. He drove slowly. One hand on the wheel, one hand reaching across the console for hers." },
+    { "type": "narration", "content": "She didn't look at him. She kept looking back until there was nothing left to look back at — just the trees, and then just the road, and then just the mountain behind everything." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know it's just a cabin." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's not just a cabin." },
+    { "type": "narration", "content": "She laughed through it, which was the only way she knew how to cry — one moment overlapping the other, neither one winning." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "My parents were so happy there." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "So were we." },
+    { "type": "narration", "content": "She squeezed his hand. He squeezed back." },
+    { "type": "narration", "content": "The road came back — the two-lane, then the one-lane, then the highway opening up and the mountains beginning their slow departure from the windows." },
+    { "type": "narration", "content": "She turned back around. Looked at the road ahead. His hand in hers." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We're coming back. Not for a honeymoon." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Just to come back." },
+    { "type": "narration", "content": "She had said those exact words from a granite ledge with the mountains around them. He had filed them." },
+    { "type": "narration", "content": "He had filed everything." },
+    { "type": "narration", "content": "She leaned her head against the window. The road kept going. The mountains fell away behind them and the world opened back up into all the ordinary things they were driving home to, and she was grateful for those too — even now, even leaving — because ordinary was what she had always wanted." },
+    { "type": "narration", "content": "She was going home with her husband." },
+    { "type": "narration", "content": "That was everything." }
+  ]
+}

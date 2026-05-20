@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "On Friday they rode home together, which they'd been doing every Friday since fifth grade and which had briefly felt uncertain and now felt necessary again, like pressing on a bruise to check if it still hurt." },
+    { "type": "narration", "content": "For two blocks neither of them said anything." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli thinks he's actually running for class president." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He's been running for something since fourth grade." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He actually might win this time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He definitely might." },
+    { "type": "narration", "content": "A little easier. Kit took the corner wide and Daisy ran the yellow light and they came out even on the other side." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm sorry about this week." },
+    { "type": "narration", "content": "She looked at the road." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You didn't do anything wrong." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. I'm still sorry." },
+    { "type": "narration", "content": "She was quiet for a beat. The afternoon was warm and the street smelled like cut grass and it was almost like before." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I didn't handle it well either." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You handled it fine." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I went offline on you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I kind of deserved the offline." },
+    { "type": "narration", "content": "She almost smiled. Not quite, but almost. He counted it." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "page": 19,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Claire Hailey did not have a speech prepared." },
+    { "type": "narration", "content": "She stood at the front and looked at the room and said, simply:" },
+    { "type": "dialogue", "speaker": "Claire", "content": "She used to fall asleep in the car. Every time. It didn't matter how long the drive was — ten minutes, she was gone. I used to look at her in the rearview mirror." },
+    { "type": "narration", "content": "A pause. The smallest smile." },
+    { "type": "dialogue", "speaker": "Claire", "content": "I took so many pictures of her asleep in car seats. I couldn't stop looking at her. Every time." },
+    { "type": "narration", "content": "She was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Claire", "content": "She made every room she was in better. Not louder. Not bigger. Better. More worth being in. You knew it when she left a room — it changed. Anyone who ever shared space with her knows exactly what I mean." },
+    { "type": "narration", "content": "She looked at the casket." },
+    { "type": "dialogue", "speaker": "Claire", "content": "She is the best thing I ever made." },
+    { "type": "narration", "content": "Her voice was perfectly steady." },
+    { "type": "dialogue", "speaker": "Claire", "content": "The absolute best." },
+    { "type": "narration", "content": "She sat down." }
+  ]
+}

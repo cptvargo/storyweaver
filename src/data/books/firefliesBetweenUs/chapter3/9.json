@@ -1,0 +1,29 @@
+{
+  "page": 9,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli lasted forty-five minutes." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "He's actually asleep." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He does this at every movie." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "He does this at every everything." },
+    { "type": "narration", "content": "Eli was lying on his half of the blanket with his arms folded across his chest like a man with no concerns, which was probably accurate." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He specifically suggested the movie." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He suggested the going. He never said anything about the watching." },
+    { "type": "narration", "content": "Savannah's phone buzzed. She looked at it, then looked up at the screen, then back at her phone with the expression of someone doing the math on something." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "My mom wants me home by ten." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's barely nine." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I know. But Marcus is coming over." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Oh." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Don't wake him up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We won't." },
+    { "type": "narration", "content": "Savannah gathered her bag quietly, gave Daisy a look that communicated something, and then she was gone, winding through the people on blankets and lawn chairs toward the park path." },
+    { "type": "narration", "content": "Eli breathed in the slow rhythm of someone with a genuinely clear conscience." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Should we wake him up?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And do what?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "He lives on the other side of the park." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He'll figure it out." },
+    { "type": "narration", "content": "So they left him there with the blanket and the movie, two hundred people around them in the summer dark, and it got quieter somehow." }
+  ]
+}

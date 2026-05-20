@@ -1,0 +1,15 @@
+{
+  "page": 26,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She found Ethan by the drink stand, holding two lemonades." },
+    { "type": "narration", "content": "He had known she was coming. Or had hoped she was. Either way, he'd gotten two." },
+    { "type": "narration", "content": "She took hers. They began walking without deciding where they were going, which was a kind of deciding in itself — the Ferris wheel had been visible all afternoon, and they moved toward it the way you move toward the thing you've been circling. Not rushed. Not dramatic. Just: finally." },
+    { "type": "narration", "content": "They talked while they walked — about the afternoon, Nathan and the balloon darts, the funhouse mirrors. They talked the way you talk when silence would be too large, filling the space with the ordinary because the ordinary is the thing that holds you until you're ready for the not-ordinary." },
+    { "type": "narration", "content": "But even the ordinary talk had changed in texture. It had the quality of things said in the last few minutes before something important — warm, present, attended to." },
+    { "type": "narration", "content": "Cassandra drank her lemonade. She looked at the path ahead." },
+    { "type": "narration", "content": "The Ferris wheel was close now." }
+  ]
+}

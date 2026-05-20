@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "August." },
+    { "type": "narration", "content": "They left the same week, different directions. Kit's flight was a Tuesday. Daisy's mom drove her up on a Thursday. Millhaven got quieter and neither of them was there to notice." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "just landed. LAX is enormous" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "how enormous" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "like a city inside a city. a loud city. with worse food" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "welcome to california" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "how's the drive going" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "my mom has been talking for four hours straight" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "about what" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "everything. laundry. making friends. not eating just dining hall food. laundry again" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "she's not wrong about the laundry" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "don't take her side" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "text me when you get there" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i will" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "kit" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "this is weird right. that we're both just. going" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it's weird" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "ok. talk later" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "talk later" }
+  ]
+}

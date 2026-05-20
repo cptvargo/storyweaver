@@ -1,0 +1,20 @@
+{
+  "page": 20,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He walked home the long way." },
+    { "type": "narration", "content": "Not for any particular reason. The short way was three blocks and two turns and he knew it in the dark; the long way added another block and a half and took him past the field — which was what he told himself he wasn't doing, that he was just walking, that it was a nice night, that the long way was fine." },
+    { "type": "narration", "content": "He stopped at the fence." },
+    { "type": "narration", "content": "The field was dark and ordinary and the grass had grown back from the paths they'd made in it all summer with their bikes, probably, or maybe it hadn't and he just couldn't see it in the dark. The fireflies were going. They were always going this time of night in late August, their particular kind of light pulsing in and out over the grass." },
+    { "type": "narration", "content": "He stood there for a while." },
+    { "type": "narration", "content": "It wasn't the fireflies." },
+    { "type": "narration", "content": "He didn't know what to do with that yet. He didn't have the right words for what he was holding and he didn't know if words were something you found or something you built, but either way he didn't have them. What he had was this: the dark field, the fireflies going in and out, the summer smell that was already starting to be something other than summer." },
+    { "type": "narration", "content": "Nine days." },
+    { "type": "narration", "content": "He walked home." },
+    { "type": "narration", "content": "His mom was still on the porch. She looked up when he came up the front walk and she didn't ask where he'd been or why he'd taken the long way. She just moved over on the porch swing and said:" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "There's tea in the kitchen." },
+    { "type": "narration", "content": "He sat down beside her. The swing creaked. Somewhere down the block everything was quiet. The summer held on for one more night and he let it." }
+  ]
+}

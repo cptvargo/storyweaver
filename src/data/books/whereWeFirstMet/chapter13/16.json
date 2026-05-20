@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "In the morning she suggested painting." },
+    { "type": "narration", "content": "Ethan had brought his portable kit — a small wooden case, battered at the corners, that held a limited set of watercolors, two brushes, a folded palette. He didn't travel without it. It was small enough to not be a statement and present enough to always be an option. Cassandra had packed a sketchbook and her own small set of colored pencils, which she considered not quite painting but adjacent to it in a way she found comfortable." },
+    { "type": "narration", "content": "They carried their things out to the granite shelf." },
+    { "type": "narration", "content": "The morning light up here was different from the evening light — sharper, cooler, the colors still collecting themselves from the grey of before-dawn into something more decided. The mountains were visible in full detail. No haze, no softening. Just the thing itself." },
+    { "type": "narration", "content": "They settled on the granite, not quite side by side — a foot or so between them, enough for their own working space, near enough to feel the other presence." },
+    { "type": "narration", "content": "Ethan worked in watercolor the way he always did: observational at first, then something that started to slide toward interpretation. He'd chosen the middle distance — the second ridge of mountains, the way the tree line along it made a slightly irregular edge against the sky. He was interested in the negative space as much as the shape itself." },
+    { "type": "narration", "content": "Cassandra worked more slowly." },
+    { "type": "narration", "content": "She was not a natural visual artist — she knew this about herself — but she had a way of looking at things that translated into something honest if not technically accomplished. Her lines were considered. She erased more than she kept." },
+    { "type": "narration", "content": "She was drawing the near trees. The way they rose out of the granite, the specific angles of their roots against stone, the light along the bark. The particular character of old things." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're getting better." },
+    { "type": "narration", "content": "He said it without looking up from his own work." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Don't say that if you're just being nice." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm never nice about work. The proportions on the trunk are better. You used to make them the same width top to bottom." },
+    { "type": "narration", "content": "She looked at the trunk in her sketch. He was right — there was a taper now, a real one, the way wood actually behaves under its own weight and years." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You've been watching me draw." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I always watch you draw." },
+    { "type": "narration", "content": "She returned to the sketch. Said nothing. Felt something she didn't name, warm and very quiet." }
+  ]
+}

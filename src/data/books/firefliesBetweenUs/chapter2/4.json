@@ -1,0 +1,25 @@
+{
+  "page": 4,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The barn doors had been chained once. The chain was still there, looped through the handles to give the appearance of locked — but the padlock was gone, cut off clean, and the chain moved freely when Kit pulled it. The doors swung open on hinges that screamed loud enough to hear across the yard. All four of them winced." },
+    { "type": "narration", "content": "Inside: cool, dim, and smelling of old hay and machine oil and something under both of those that was just the smell of time collecting in a closed space. Light came through gaps in the boards in long dust-thick beams. Old equipment lined the walls — a cultivator, a rusted disc harrow, things that belonged to a life nobody around here lived anymore. A workbench along one side with jars of hardware gone to rust. Stacked wooden crates. And there, on the far wall, hanging from two iron hooks:" },
+    { "type": "narration", "content": "A saddle." },
+    { "type": "narration", "content": "Eli made a sound that was less a word than a verdict on history." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I told you. I told every single one of you. By name. I said saddle." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You did say saddle." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Specifically." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Specifically." },
+    { "type": "narration", "content": "He walked toward it like it was something holy, put his hand on the cracked leather, and looked back at them." },
+    { "type": "dialogue", "speaker": "Eli", "content": "This is a real saddle." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It is a real saddle." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I want it noted. In the same record where we noted the rusted rungs." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Noted. You were right about the saddle." },
+    { "type": "narration", "content": "Eli patted it once, satisfied, and stepped back. Daisy had drifted to the shelf along the side wall — old paint cans, a pair of work gloves gone stiff with age, a coffee mug sitting alone at the end with its handle broken off. She picked up the mug. Turned it over in her hands. Set it back down. She did it carefully, the way you handle something that's not yours, which technically none of this was, but there was a particular kind of care Daisy extended to things that had been left behind." },
+    { "type": "narration", "content": "Kit watched her do it and looked at the barn door." },
+    { "type": "dialogue", "speaker": "Kit", "content": "House?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "House." }
+  ]
+}

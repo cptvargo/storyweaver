@@ -1,0 +1,20 @@
+{
+  "page": 20,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "His mom was making dinner when he got home. The kitchen smelled like the thing she made on Fridays — pasta, garlic, the radio low — and Kit dropped his backpack at the door and stood in the kitchen doorway for a second." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Good day?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Better at the end." },
+    { "type": "narration", "content": "She looked at him over her shoulder with the expression he'd been getting his whole life — the one that said she could see more than he was showing, and had decided to let him show it at his own pace." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Good." },
+    { "type": "narration", "content": "He set the table without being asked, which was something he only did when he was in a particular kind of mood, and his mom noted it and didn't comment, because she was good at that." },
+    { "type": "narration", "content": "After dinner he went upstairs and opened AIM. The buddy list loaded. Daisy was online, her status changed from this morning — just the default now, nothing. Brooke was online too, her icon showing active." },
+    { "type": "narration", "content": "He didn't open either window." },
+    { "type": "narration", "content": "He clicked on his own screen name and changed his away message. Sat back. Looked at it." },
+    { "type": "narration", "content": "It said: i'll always come find you." },
+    { "type": "narration", "content": "Across town, a buddy list refreshed. A status changed. Someone read it and didn't respond." },
+    { "type": "narration", "content": "She didn't have to." }
+  ]
+}

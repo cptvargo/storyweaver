@@ -1,0 +1,22 @@
+{
+  "page": 26,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She knocked at nine-oh-four. He heard it from the kitchen and got to the door before his mom could." },
+    { "type": "narration", "content": "Four months. He'd been doing the math on what four months of phone calls and texts and a fight and a Thanksgiving call would do to the distance. He'd been wrong about what it would feel like to close it." },
+    { "type": "narration", "content": "She was standing on his porch in a coat he'd never seen before — heavier than anything she'd owned in August, Minnesota-coat — with her hair down and her cheeks pink from the cold. She looked at him. He looked at her." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hi." },
+    { "type": "narration", "content": "And then she stepped forward and he met her and she put her arms around him and he held on and the four months collapsed into something much smaller than four months. She was warm inside that coat and she smelled like the road and something familiar underneath it and he held on and she held on and neither of them said anything for a while." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "She pulled back enough to look at him. His hands were still on her coat." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You changed your shirt." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I was already wearing this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Come inside." },
+    { "type": "narration", "content": "His mom appeared from the living room, made exactly the right amount of fuss, offered tea which Daisy accepted, and then made a pointed excuse about finishing something upstairs. Kit watched her go and looked back at Daisy sitting at his kitchen table with her tea and her new coat over the chair and thought: this is what home is. Not the stain on the ceiling. This." }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": 15,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He found her at her locker before homeroom, which was a C-wing detour that would make him late if he didn't move fast." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
+    { "type": "narration", "content": "She looked at him over her locker door." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're in C-wing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're going to be late." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "narration", "content": "She closed her locker and looked at him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I didn't mean anything by the water tower thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You don't have to—" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know I don't have to. I'm doing it anyway." },
+    { "type": "narration", "content": "She shifted her backpack. Down the hall the two-minute warning bell rang." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She likes you." },
+    { "type": "narration", "content": "He didn't say anything for a second." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Is that—" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's fine, Kit." },
+    { "type": "narration", "content": "She said it in a way that might have been true. He stood there one second longer than he should have and then turned and went back to B-wing." }
+  ]
+}

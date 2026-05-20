@@ -1,0 +1,16 @@
+{
+  "page": 52,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The five of them walk out together as the evening comes in." },
+    { "type": "narration", "content": "The carnival lights are fully on now — the strings of them along the midway burning warm against the deepening blue of the sky, the rides lit in their particular carnival way: excessive and cheerful and somehow right. The crowd has thinned toward the gate. The evening has that quality of things arriving at their close — not ending, just becoming the next thing." },
+    { "type": "narration", "content": "Nathan and Lena are debating something about the penguin's long-term future. Maya is walking a half-step apart in the way she walks when she is thinking, which is almost always." },
+    { "type": "narration", "content": "Ethan and Cassandra are at the back of the group." },
+    { "type": "narration", "content": "His hand is in hers." },
+    { "type": "narration", "content": "She is not thinking about the future right now. Not because she has stopped being afraid of it — she will always be afraid of it, that is simply the shape of her life — but because the future is the future and this is now. And she has spent three years, since sixteen, learning the most important thing she will ever learn:" },
+    { "type": "narration", "content": "Now is not a consolation prize." },
+    { "type": "narration", "content": "Now is the thing." }
+  ]
+}

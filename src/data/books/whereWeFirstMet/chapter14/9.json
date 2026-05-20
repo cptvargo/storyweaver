@@ -1,0 +1,23 @@
+{
+  "page": 9,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She had been more tired than usual." },
+    { "type": "narration", "content": "Ethan had noticed. He had asked, once, carefully, and she had said she was fine and he had believed her enough to let it go — or at least let it go where she could see him letting it go, which was what she needed. She didn't want worry getting into the house before the dinner. She wanted the dinner clean." },
+    { "type": "narration", "content": "The dinner had been her idea. Not for any occasion. Not an anniversary, not a birthday, not a holiday. Just — everyone. All at once. In their house, around their table, on a Saturday in November when the world had gone grey outside and the inside could be warm." },
+    { "type": "narration", "content": "She couldn't explain exactly why it felt so necessary. She'd tried and kept landing on the same thing: she wanted to feed the people she loved. She wanted the house to smell like something and the table to be set properly and every person who had ever stood beside her in any important moment to be in the same room at the same time. She wanted to look around that table and see all of it at once." },
+    { "type": "narration", "content": "She had spent two days on the food. Not because she needed to — Ethan offered to help, her mother offered to bring things — but because she wanted to do it start to finish, herself, completely." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You know you don't have to cook all of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want to cook all of it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want to do this. Let me do this." },
+    { "type": "narration", "content": "He stepped back and let her." },
+    { "type": "narration", "content": "He set the table. He lit the candles. He made the playlist — something she approved of — and he watched her move around the kitchen with a competence and a pleasure that he had been documenting in pencil for two and a half years and never grown tired of." },
+    { "type": "narration", "content": "She was happy." },
+    { "type": "narration", "content": "Not performing it. Just — happy. The real kind. The kind she got sometimes that had nothing to do with circumstances and everything to do with who she was." },
+    { "type": "narration", "content": "He watched her and he let himself watch her and he didn't think about the tired he'd noticed earlier in the week." },
+    { "type": "narration", "content": "He just watched her." }
+  ]
+}

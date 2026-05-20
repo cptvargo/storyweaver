@@ -1,0 +1,21 @@
+{
+  "page": 8,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Ryan started walking Daisy to English." },
+    { "type": "narration", "content": "Kit found out because he was already at her locker one morning — just there, talking to her, the easy comfortable body language of someone who had done this enough times for it not to be a question — and Kit came around the corner and stopped without meaning to." },
+    { "type": "narration", "content": "They hadn't seen him. Daisy was laughing at something. Ryan was leaning on the locker next to hers with one hand, not close exactly, just present in the particular way of someone making a claim without saying so." },
+    { "type": "narration", "content": "Kit stood in the hallway for two seconds and then kept walking and went to his own locker by a different route." },
+    { "type": "narration", "content": "In homeroom, Daisy slid into her seat with the particular energy of someone whose morning had gone well." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You okay? You seem off." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm fine." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You sure?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Didn't sleep great." },
+    { "type": "narration", "content": "She accepted this because it was plausible and because he'd said it with the particular flatness that meant he wasn't going to say more, and she opened her notebook and the teacher came in and the morning moved on." },
+    { "type": "narration", "content": "Kit stared at the front of the room and thought about nothing." }
+  ]
+}

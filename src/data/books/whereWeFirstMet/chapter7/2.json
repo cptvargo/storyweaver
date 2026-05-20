@@ -1,0 +1,20 @@
+{
+  "page": 2,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He startled the way people do when they've been somewhere else — a small full-body flinch, the pencil lifting from the page, a moment of disoriented return. She almost apologized. But his expression settled before she could, and she saw it clearly: not annoyance, but the specific look of someone choosing, with reasonable goodwill, to come back." },
+    { "type": "narration", "content": "What are you drawing? she had asked." },
+    { "type": "narration", "content": "The fountain, he'd said. The way the light breaks through the spray." },
+    { "type": "narration", "content": "She'd looked at the fountain. She had walked past it a hundred times without thinking about light. She tried to see what he was seeing. Something resolved, slightly, in the air above the water." },
+    { "type": "narration", "content": "Can I see?" },
+    { "type": "narration", "content": "A pause — the pause of someone who didn't show things easily but wasn't entirely closed to it. He turned the sketchbook toward her." },
+    { "type": "narration", "content": "The drawing had been precise in a way that was almost startling — not technically perfect, but attentive. Every line said I looked. She'd been moved by it in a way she hadn't entirely expected, the way good things catch you sideways." },
+    { "type": "narration", "content": "She'd stayed. Asked another question. He'd answered. She'd asked another, and the conversation had found its groove the way conversations between two people who are meant to talk do — not smoothly, exactly, but inevitably. She'd walked home an hour later knowing something had started." },
+    { "type": "narration", "content": "She'd thought about that walk home a lot." },
+    { "type": "narration", "content": "How she hadn't planned any of it. How she'd had iced coffee and good light and no particular direction, and had come home with the distinct feeling that the morning had known something she didn't." },
+    { "type": "narration", "content": "She turned over in bed and pressed her face into the pillow and thought: I met you in the middle of something ordinary and everything changed." },
+    { "type": "internalThought", "content": "I'm not sorry." }
+  ]
+}

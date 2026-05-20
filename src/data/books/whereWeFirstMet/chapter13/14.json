@@ -1,0 +1,28 @@
+{
+  "page": 14,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They went out in the late afternoon, before the light was gone." },
+    { "type": "narration", "content": "The cabin came with a short trail — hand-cut steps worn into the earth, edged with flat stones, beginning just past the woodpile and climbing into the trees. Someone had made it with care and a long time ago and many seasons had softened it into the landscape so that it felt less like a path and more like a direction the ground had always been suggesting." },
+    { "type": "narration", "content": "The trees here were old. Not dramatically old — not the kind of old that announces itself — but the quiet old of things that have been somewhere a very long time and have nothing left to prove." },
+    { "type": "narration", "content": "Cassandra walked slightly ahead. This was her instinct on trails — not competitive, just forward. She wanted to see what was around the next curve before she could help it." },
+    { "type": "narration", "content": "Ethan walked at her shoulder, near enough to catch her if the ground shifted, far enough not to crowd the space she was taking." },
+    { "type": "narration", "content": "The sounds up here were specific. The creek below them, invisible but audible, running fast over stone. A woodpecker working somewhere in the canopy. Wind in the higher branches, a sound like breathing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Listen." },
+    { "type": "narration", "content": "They both stopped." },
+    { "type": "narration", "content": "The wind moved through the high firs in a long, slow pass. Below it, the creek. Above it, nothing — just sky and the particular silence of altitude." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't have a color for that sound." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What color would it be?" },
+    { "type": "narration", "content": "He thought about it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That grey-green you get right before it rains. Not storm grey. The other one. The quiet version." },
+    { "type": "narration", "content": "She considered that. Looked up into the canopy, the branches filtering the sky into uneven pieces." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." },
+    { "type": "narration", "content": "They walked on. The trail leveled for a stretch and then rose again, gentler this time, and at the top of that rise the trees gave way briefly to a small open shelf of granite — a natural lookout, barely larger than a room, with an unobstructed view down into the valley below and across to the next range of mountains." },
+    { "type": "narration", "content": "The light at this hour was the late, low kind — horizontal, amber, laying itself along the surfaces of things rather than falling on them from above. It made the mountains look painted. It made everything look like something someone had made on purpose." },
+    { "type": "narration", "content": "She sat on the edge of the granite and let her feet hang." },
+    { "type": "narration", "content": "He sat beside her." },
+    { "type": "narration", "content": "Neither of them spoke for a while. There wasn't a need to." }
+  ]
+}

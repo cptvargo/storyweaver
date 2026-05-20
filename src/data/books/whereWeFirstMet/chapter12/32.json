@@ -1,0 +1,33 @@
+{
+  "page": 32,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The conversation stayed easy after that — easier than Maya was used to, which she noticed, which she was careful not to comment on." },
+    { "type": "narration", "content": "Nathan had a specific quality she hadn't fully identified at the carnival and was identifying now: he was genuinely interested. Not in a performance of being interested — he asked questions the way people do when they actually want to know the answer, and then listened to the answer rather than just waiting for his turn. It was, she thought, an underrated thing." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "What do you do? Outside of being Cassandra's sister." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Is that how you think of me?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It's how you introduced yourself." },
+    { "type": "narration", "content": "She opened her mouth and then closed it, because he was correct." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm in contract law. Mostly corporate clients." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That tracks." },
+    { "type": "dialogue", "speaker": "Maya", "content": "What does that mean?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You have a very particular gift for reading the fine print of a room." },
+    { "type": "narration", "content": "She considered this." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm going to decide that's a compliment." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It absolutely is." },
+    { "type": "narration", "content": "She shifted slightly on the driftwood. Not toward him, exactly. But she had stopped being positioned slightly away from him, which was not the same as the distance she gave most people in most conversations, and some part of her was aware of the difference." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're different here than you were at the carnival." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "How so." },
+    { "type": "dialogue", "speaker": "Maya", "content": "At the carnival you were performing. You were doing Nathan the character. This is—" },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Maya", "content": "This is more of you." },
+    { "type": "narration", "content": "Something shifted in his expression. Not self-conscious — more like he'd been seen doing something he hadn't announced." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good events bring out the actual person. You have to work harder at the performance when the room is distracted." },
+    { "type": "dialogue", "speaker": "Maya", "content": "So I'm meeting you for the first time." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Maybe." },
+    { "type": "narration", "content": "He said it quietly, which was different from his usual register, and it landed differently because of it." },
+    { "type": "narration", "content": "Maya looked back at the fire. She was doing the thing she did when she was thinking something she hadn't decided whether to say." }
+  ]
+}

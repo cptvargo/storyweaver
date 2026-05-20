@@ -1,0 +1,33 @@
+﻿{
+  "page": 2,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan finishes the tie. He steps back and examines his work with the expression of a man who has achieved something." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You're welcome." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Thank you." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You look good. Very marriageable. Cassandra's going to fall for you all over again." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's the plan." },
+    { "type": "narration", "content": "Nathan picks up his own jacket from the chair and shrugs into it, adjusting the collar in the mirror beside Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "So. Maya." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "We're not doing this right now." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Three dates, Nathan." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "A few dates. Casual." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You still have the penguin." },
+    { "type": "narration", "content": "Nathan pauses with his collar half-turned down." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The penguin is a household object at this point." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She gave it to you on the second date." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She gave it to me at the carnival. That barely counts as a date." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She came to your apartment specifically to give it to you." },
+    { "type": "narration", "content": "Nathan finishes his collar. He straightens up. He looks at himself in the mirror with the expression of a man who has no rebuttal." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She's complicated." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She's worth it though." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know that too." },
+    { "type": "narration", "content": "Nathan straightens his jacket one more time. He looks at Ethan in the mirror and something genuine moves through his face — the warmth that lives underneath all the theater of him." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She's going to walk through that door and you're going to forget everything you were just thinking about." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Already have." }
+  ]
+}

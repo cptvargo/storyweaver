@@ -1,0 +1,24 @@
+{
+  "page": 10,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli told Kit after school in the way Eli told people things — as though he was reporting news that affected the public." },
+    { "type": "dialogue", "speaker": "Eli", "content": "So people are apparently asking if you and Daisy are dating." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Word is it started in English class. A note or something." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's—" },
+    { "type": "dialogue", "speaker": "Eli", "content": "I told them you weren't. Obviously." },
+    { "type": "narration", "content": "Kit unlocked his bike. Eli was watching him with the particular expression he used when he thought something was interesting." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Why obviously?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "What?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "You said obviously. Why obviously." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because you're not." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Right." },
+    { "type": "narration", "content": "He got on his bike. Eli was still watching him." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll see you tomorrow." },
+    { "type": "narration", "content": "He rode home faster than usual. Not because he was upset. It was a rumor, it was nothing, it was seventh grade doing what seventh grade did. He rode past the field on the way home and didn't stop, which was something he would think about later." }
+  ]
+}

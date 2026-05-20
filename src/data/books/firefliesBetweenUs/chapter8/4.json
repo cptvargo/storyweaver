@@ -1,0 +1,18 @@
+{
+  "page": 4,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They started texting that fall. Not instead of anything — still AIM, still face to face — but it was different. Shorter. More like thinking out loud at each other." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you left your history notes at my house" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i know i left them there on purpose" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "that doesnt make sense" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it means ill see you tomorrow" },
+    { "type": "narration", "content": "Three dots. Then nothing. Then:" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "ok. tomorrow then" },
+    { "type": "narration", "content": "He set his phone on his desk and looked at the ceiling." },
+    { "type": "narration", "content": "Eli had said: tell her before you get in. Kit kept turning that over. He'd applied to state school and two others. The USC application was sitting half-finished in a folder on his desk. The deadline was December. He had time." },
+    { "type": "narration", "content": "He kept telling himself he had time." }
+  ]
+}

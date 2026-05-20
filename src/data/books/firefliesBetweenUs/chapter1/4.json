@@ -1,0 +1,30 @@
+{
+  "page": 4,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The Henderson property had been sitting empty for three years. Before that it had belonged to a family named Henderson — apparently — though no one seemed to know much about them except that they'd left in a hurry and left behind a house, a barn, and a rusted-out pickup truck sitting in the side yard collecting rain and opinions." },
+    { "type": "narration", "content": "The town had put up a chain-link fence with a condemned sign on it after the second time neighborhood kids got in. The fence had, in theory, resolved the situation. In practice it had increased traffic by about forty percent." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I heard there's still stuff in the barn. Old stuff. Equipment. One of the Crenshaw twins said there's a whole saddle in there." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Why would there be a saddle." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Horses, probably." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "There are no horses on the Henderson property." },
+    { "type": "dialogue", "speaker": "Eli", "content": "There were probably horses at some point." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Then where did they—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm not asking this question." },
+    { "type": "narration", "content": "They were all sitting on the wall now — Kit, Eli, Savannah, Daisy — in the particular configuration of kids with nowhere to be and too much morning ahead of them. Kit had gone quiet, which was a different thing from not paying attention. He was looking east, toward where the top of the old water tower was visible over the tree line. The town had put up a new one six years ago. The old one just sat there." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What about the water tower." },
+    { "type": "narration", "content": "Everyone looked at him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The old one. You climb it, you can see the whole town." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You can also fall off it and not see anything ever again." },
+    { "type": "dialogue", "speaker": "Kit", "content": "There are rungs." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "There are rusted rungs." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Rungs are rungs." },
+    { "type": "narration", "content": "Daisy looked at him for a long moment. Then she looked at Savannah. Savannah was already pulling her hair back into a ponytail, which was essentially agreement." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "If one of us gets tetanus, I want it noted that I said rusted rungs." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Noted." },
+    { "type": "narration", "content": "They got on their bikes." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 7,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Danny Pruett and his crew left. He couldn't stay somewhere he was losing the room, and he'd been losing it since Eli pointed out the fence." },
+    { "type": "narration", "content": "The four of them stood at the base of the tower and looked up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll go first." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Obviously." },
+    { "type": "narration", "content": "The first few rungs were the worst — low enough to the ground that falling was embarrassing before it was dangerous. But they held. The iron was rough under Kit's hands, warm from the sun, and the rust came off on his palms in faint reddish-brown stripes. He tested each rung before he put his weight on it, which was about as careful as Kit ever got." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's solid." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ask me again at forty." },
+    { "type": "narration", "content": "He went up to twenty before he looked down. Eli was right behind him. Below Eli, Savannah was talking herself into it out loud — a steady low murmur that was half pep talk and half threat directed at the ladder. Daisy was last, and she was moving steadily, not looking down, her hair blowing out sideways in the wind that had showed up the moment they got above the tree line." },
+    { "type": "narration", "content": "The wind was actually the best part. Down on the ground, the summer air had no interest in moving. Up here it was alive, carrying the smell of field grass and something cool and distant — the suggestion of rain, maybe, though the sky didn't look like it yet." },
+    { "type": "narration", "content": "Kit pulled himself up onto the catwalk at the top and stood." },
+    { "type": "narration", "content": "Millhaven spread out in every direction." },
+    { "type": "narration", "content": "The new water tower on the west side. The white spire of First Baptist. The Tasty Freeze sign lit up even in daylight. The baseball diamond at Callaway Park. The courthouse with its copper-green dome. The long slow line of trees where the creek ran through the east side. And past it all, past the last street and the last house, open country going on as far as the summer haze let you see." },
+    { "type": "narration", "content": "He stood there for a moment before any of them reached him." },
+    { "type": "narration", "content": "The whole town, laid out like something from a book." }
+  ]
+}

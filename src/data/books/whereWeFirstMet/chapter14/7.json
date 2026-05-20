@@ -1,0 +1,25 @@
+{
+  "page": 7,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Two and a half years in, on an ordinary Wednesday in October, Ethan came home to find her asleep on the couch." },
+    { "type": "narration", "content": "Not sick. Not a bad day. Just the couch, and the afternoon light coming in low through the window, and Harold on his shelf above her, and her hair spread out against the cushion." },
+    { "type": "narration", "content": "He set down his bag and stood in the doorway for a moment, looking." },
+    { "type": "narration", "content": "He went and got his sketchbook." },
+    { "type": "narration", "content": "He sat in the chair across from her and drew her sleeping — the exact quality of the light, the way her hand was half-open against the cushion, the line of her. He drew it slowly, the way you do something you want to remember." },
+    { "type": "narration", "content": "When she woke she found him across from her, pencil in hand, looking at her with the specific attention she had learned to recognize." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Were you drawing me?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How do you always know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Because you get that look." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What look." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like you're memorizing something." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I am." },
+    { "type": "narration", "content": "She sat up. Reached her arms out. He crossed to the couch and she pulled him in and they sat there in the October light, her head on his shoulder, Harold on his shelf, the house quiet around them." },
+    { "type": "narration", "content": "This was the life." },
+    { "type": "narration", "content": "Not a placeholder. Not a version they were tolerating until something better arrived." },
+    { "type": "narration", "content": "This." }
+  ]
+}

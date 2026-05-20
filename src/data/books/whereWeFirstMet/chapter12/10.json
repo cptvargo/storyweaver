@@ -1,0 +1,17 @@
+﻿{
+  "page": 10,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know about the condition. The diagnosis, the medication, the appointments. She's told me. I've been to two of the monitoring visits with her." },
+    { "type": "narration", "content": "Mr. Hailey's expression shifted slightly — just enough." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know what a bad day looks like. I know there will be mornings where she has to slow down and I will need to slow down with her. I know the prognosis is uncertain and I know the science is moving and I know that none of that guarantees anything. I've thought about the end of it, the hardest part of it, and the answer is still the same. She is worth all of it. Every version of it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She spent three years carrying this alone because she didn't think she was allowed to ask anyone to share it. I want to spend the rest of my life proving that she was wrong about that." },
+    { "type": "narration", "content": "Thomas Hailey was quiet for a long time." },
+    { "type": "narration", "content": "Ethan waited. He had been told by Mr. Alvarez not to fill the silences, so he didn't. He sat with it." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "She carries things quietly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She does. She's very good at it. She doesn't have to do it alone anymore." },
+    { "type": "narration", "content": "Mr. Hailey looked at his hands. Then at the photograph on the mantle. Then back at Ethan." }
+  ]
+}

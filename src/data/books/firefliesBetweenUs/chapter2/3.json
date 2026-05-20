@@ -1,0 +1,18 @@
+{
+  "page": 3,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The fence looked different in the morning." },
+    { "type": "narration", "content": "At night everything condemned had a certain appeal — the dark made it dramatic, made the risk feel like something out of a movie. In the morning it just looked old and tired and genuinely neglected: the chain-link leaning in two places, the condemned sign sun-bleached to a pale coral, the grass on the other side grown thigh-high and absolutely undisturbed by any concern for four twelve-year-olds. The house beyond it was two stories of silver-gray wood, the porch sagging on one end like it had given up on an argument it had been losing for years." },
+    { "type": "narration", "content": "They locked their bikes to the fence. Daisy and Savannah locked theirs. Kit and Eli leaned theirs against the chain-link." },
+    { "type": "narration", "content": "Daisy looked at Kit's bike. Then at Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "narration", "content": "The gap in the fence was right where everyone who'd ever been in here had found it — the chain-link pulled from the post at the bottom, the grass worn flat by years of sneakers. Kit held the chain-link back so Daisy could get through without catching her shirt on the edge, and she went through without comment, which was Daisy's version of thank you." },
+    { "type": "narration", "content": "Then he followed, and the four of them stood inside the Henderson property for the first time, and the yard was bigger than it looked from outside. The grass was thigh-high in places. The rusted truck was right where it always was, sitting on its rims, a small tree that had started as nothing now growing straight up through its bed like it had been waiting for permission." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The barn first." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The barn first." },
+    { "type": "narration", "content": "They crossed the yard in the direction of the barn, the grass swishing against their shins, and Kit had the distinct feeling that they had just crossed some kind of line — not the fence, that was just wire, but something else. Something that came with being somewhere you'd never been before and knowing that the morning was going to be different after this." }
+  ]
+}

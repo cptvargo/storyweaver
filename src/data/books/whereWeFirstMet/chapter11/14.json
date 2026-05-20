@@ -1,0 +1,18 @@
+{
+  "page": 14,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They got food at a cart near the center of the midway — kettle corn already gone, replaced now with something on a stick that none of them could fully identify but which Nathan had declared definitively as worth it." },
+    { "type": "narration", "content": "Standing at the edge of the midway eating it, watching the crowd move, Cassandra said something small:" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I used to love these. When I was a kid. The rides, the everything. I had a higher tolerance for spinning then." },
+    { "type": "narration", "content": "She said it simply. Ethan heard the layer under it — had been with her long enough to hear the layers — but he didn't follow it anywhere. He just let it exist." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What was your favorite part?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The Ferris wheel, actually. I never wanted to get off." },
+    { "type": "narration", "content": "She said it without looking at him. She was watching the midway, the crowd, the light changing as the afternoon moved." },
+    { "type": "narration", "content": "He said nothing." },
+    { "type": "narration", "content": "He looked at the Ferris wheel, visible above the roofline of the game booths at the end of the midway. Slowly turning. Carrying its gondolas up and around and back, up and around and back, in the patient way of things that have done this for a long time." },
+    { "type": "narration", "content": "He ate his carnival food and watched it turn." }
+  ]
+}

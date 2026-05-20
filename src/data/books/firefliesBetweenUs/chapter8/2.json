@@ -1,0 +1,28 @@
+{
+  "page": 2,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "By October, college was all anyone talked about at lunch." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I want everyone to be honest with me. Are we making a plan or are we just letting this happen." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "We're eighteen, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "People make plans at eighteen. Generals make plans at eighteen. I'm just saying we should acknowledge that August exists." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Where are you even applying." },
+    { "type": "dialogue", "speaker": "Eli", "content": "State. Maybe two others. I like my options open. Kit — what about you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Few places." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's not an answer." },
+    { "type": "dialogue", "speaker": "Kit", "content": "State. A couple others. Still working on it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Minnesota's my first. I'm applying early action." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Minnesota. As in —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Minneapolis, yes." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's a long drive from here." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "narration", "content": "Kit looked at his tray. Minneapolis. He'd known she was looking at it since junior year and it still landed differently as a sentence she said out loud at a lunch table in September." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Savannah?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm applying to four places. I'll tell you when I have something to tell." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Reasonable. I respect the process." },
+    { "type": "narration", "content": "Kit looked up. Daisy was looking at him. She looked away first." }
+  ]
+}

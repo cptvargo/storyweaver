@@ -1,0 +1,27 @@
+{
+  "page": 7,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Callaway Park turned into a different place at night. In the daytime it was just a park — the big oak at the center, the concrete paths, the fountain that worked about half the time. But on summer nights when the city put up the screen, it became the kind of place people brought their best selves to." },
+    { "type": "narration", "content": "They got there early enough to claim a good spot on the grass. Eli had brought a blanket that was too small for four people, which he didn't mention until they were already setting up." },
+    { "type": "dialogue", "speaker": "Eli", "content": "It stretches." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "It does not stretch." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You'd be surprised." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'll sit on the grass." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Same." },
+    { "type": "dialogue", "speaker": "Eli", "content": "See? It works out." },
+    { "type": "narration", "content": "So Eli and Savannah had the blanket and Kit and Daisy sat on the grass alongside it, which was still warm from the day and smelled like something the summer had been building all year. The park filled up around them — families with lawn chairs, other kids from school, couples on their own blankets closer to the screen." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "They're showing Singin' in the Rain." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Is that the one with the—" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Gene Kelly, yes." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I don't know who that is." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "My mom loves that movie." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Is it good?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've never actually made it to the end." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's not a good sign." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've also never made it to the end of any movie I've tried to watch at home after nine o'clock." },
+    { "type": "narration", "content": "The sky was doing something impressive — the pink and gold that came in around eight, the way it made every tree in the park look like something out of a photograph somebody's parent kept in a drawer." }
+  ]
+}

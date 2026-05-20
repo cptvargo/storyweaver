@@ -1,0 +1,20 @@
+{
+  "page": 18,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Thomas Hailey stood at the front of the room and looked at all the people who had loved his daughter." },
+    { "type": "narration", "content": "He spoke slowly. The way a man speaks when he is carrying something almost too heavy to hold and has decided to hold it anyway." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "She was in high school when the doctor told us. She was in the next room. She didn't know yet. And I sat in that office and I thought — how do I carry this? How do I watch her finish growing up carrying this?" },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "She taught me how." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "That's the thing nobody tells you. I was going to teach her to live — that's what fathers do. But she looked at the world with so much willingness, so much appetite, that she taught me instead. Every single day. She taught me that time is not less valuable because it might be short. She made me understand that." },
+    { "type": "narration", "content": "He looked at Ethan in the front row." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "She was loved. Completely and fully and without reservation. I know that because I watched it happen. I watched someone give her everything she deserved." },
+    { "type": "narration", "content": "His voice went." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "She never wasted a single day she was given." },
+    { "type": "narration", "content": "He stopped." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Not one." }
+  ]
+}

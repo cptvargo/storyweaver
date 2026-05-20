@@ -1,0 +1,14 @@
+{
+  "page": 1,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The sign on the door read: CLOSED FOR A PRIVATE EVENT." },
+    { "type": "narration", "content": "Mr. Alvarez had written it himself, in the careful hand he used for the chalkboard menu — the one that always had slightly more flourish than strictly necessary, which was his small private acknowledgment that the way you wrote a thing was its own kind of statement." },
+    { "type": "narration", "content": "He stood at the window for a moment, looking at the street. The evening was mild — the kind of May evening that arrives as a gift after a winter long enough to have made you forget what warmth felt like in ordinary air. People were moving past on the sidewalk, some of them slowing at the sign, reading it, moving on." },
+    { "type": "narration", "content": "On the lamp post across the street, a carnival poster had been up for three days now. He had noticed it the morning it appeared: a traveling fair, arriving at the town grounds on Friday, running through Sunday. The usual things — lights, rides, the specific kind of joy that is both childish and necessary. He had watched people stop to read it the same way they stopped to read his sign just now — with the particular attention we give to the announcement of something that has not happened yet." },
+    { "type": "narration", "content": "Inside, the lights were warm. He had adjusted them earlier — a small thing, but he had learned over years that light was not incidental to how a room felt about itself. He had moved two of the small tables together to make one long one. He had found the record he wanted for the background and set it at the right level, which was low enough to be present without requiring competition." },
+    { "type": "narration", "content": "He went behind the counter and began the coffee." }
+  ]
+}

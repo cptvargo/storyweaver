@@ -1,0 +1,16 @@
+{
+  "page": 37,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He goes quiet." },
+    { "type": "narration", "content": "Really quiet, in a way that is different from the quiet he's been holding all the way up. That was a listening quiet. This is something else — he's inside something now, turning it over. She can't read his face and that is terrifying." },
+    { "type": "narration", "content": "He looks out at the river." },
+    { "type": "narration", "content": "The seconds stretch." },
+    { "type": "narration", "content": "She watches the side of his face — the line of his jaw, the stillness in him — and tries to find what she needs in it and can't. The fear that has been sitting beneath all of her composure all day begins to surface. Not the fear of telling him. The fear of what comes after. The fear she has been carrying since she was sixteen years old: that one day she would hand this to someone, and they would set it down." },
+    { "type": "internalThought", "content": "He hasn't looked at me. He hasn't said anything. This is the moment. This is the moment where I lose him to the weight of it." },
+    { "type": "narration", "content": "She opens her mouth." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan, if you need time to—" }
+  ]
+}

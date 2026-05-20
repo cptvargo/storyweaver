@@ -1,0 +1,18 @@
+{
+  "page": 10,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She was good at school. She had always been good at it — the particular skill of being completely present in a room while keeping the inside of her head entirely separate. She took notes. She answered a question in English that she already knew the answer to. She smiled at the right moments and the hallway moved around her and nobody who didn't already know could have told that anything was different." },
+    { "type": "narration", "content": "Kit found her between second and third period." },
+    { "type": "narration", "content": "He was coming from B-wing, she was going toward C, and they met at the junction the way they always met at the junction, and she saw it on his face immediately — the specific look of someone who had been preparing what to say." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy—" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm going to be late." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Just give me a second." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm going to be late, Kit." },
+    { "type": "narration", "content": "She kept walking. He let her go because there was nothing else to do, and she felt him standing at the junction watching her and she did not look back, and she made it all the way to C-wing and into her seat before the bell and opened her notebook to a blank page and stared at it." },
+    { "type": "narration", "content": "The teacher said something. She wrote it down." },
+    { "type": "narration", "content": "She was fine." }
+  ]
+}

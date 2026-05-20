@@ -1,0 +1,21 @@
+{
+  "page": 10,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "For the first hour it was just a dance. Fast songs, the group moving together, Eli orbiting in and out. Kit danced the way he always danced — badly, without embarrassment — and Daisy made fun of him for it, which was normal, which was good." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What is that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Dancing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Is it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm feeling the music." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The music doesn't deserve that." },
+    { "type": "narration", "content": "Eli appeared from the crowd, cup of punch in each hand, distributing them like a mayor." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The DJ just redeemed himself. I'll allow it." },
+    { "type": "narration", "content": "Then Kit saw them. Brooke and Ryan, across the gym. Her hand in his, easy and natural. Two people who'd found their footing." },
+    { "type": "narration", "content": "He looked at Daisy. She'd already seen them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm glad." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Me too." },
+    { "type": "narration", "content": "She nodded once. Looked back at the dance floor. So did he. There was no room in either of them for anything else, and that was the truth." }
+  ]
+}

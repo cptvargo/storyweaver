@@ -1,0 +1,26 @@
+﻿{
+  "page": 13,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She made it until after dinner." },
+    { "type": "narration", "content": "Her mom was washing dishes when Daisy came into the kitchen and sat down at the table, which she hadn't done unprompted in a long time — just sat, without a book or homework or a reason, which was its own kind of signal." },
+    { "type": "narration", "content": "Her mom dried her hands and sat down across from her and didn't say anything, which was the right thing." },
+    { "type": "narration", "content": "Daisy looked at the table." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Is this about Kit?" },
+    { "type": "narration", "content": "She hadn't meant to cry. It came up without warning the way things did sometimes — not a breakdown, just her eyes going wet before she'd made the decision, and she pressed her fingers to the bridge of her nose and breathed through it because she was not going to sit in the kitchen and cry about a boy who didn't even know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't even have a reason to be upset." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "That's not true." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're not together. He didn't do anything wrong." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I just—" },
+    { "type": "narration", "content": "Her mom reached across the table and covered her hand, and Daisy stopped talking, and for a minute the kitchen was just quiet." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "You've been carrying this a long time." },
+    { "type": "narration", "content": "Daisy didn't answer. Which was its own answer." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "He doesn't know?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Maybe that's the problem." },
+    { "type": "narration", "content": "Daisy looked at her mom. Her mom looked back, steady and certain, the way she looked when she wasn't going to unsay something." }
+  ]
+}

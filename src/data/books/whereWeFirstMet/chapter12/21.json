@@ -1,0 +1,26 @@
+﻿{
+  "page": 21,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Pastor", "content": "Ethan, please repeat after me." },
+    { "type": "narration", "content": "He turned to Cassandra. He held both her hands." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "I, Ethan, take you, Cassandra —" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I, Ethan, take you, Cassandra —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To be my wife —" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "To be my wife —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To have and to hold, from this day forward —" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "To have and to hold, from this day forward —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "For better, for worse —" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "For better, for worse —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "For richer, for poorer —" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "For richer, for poorer —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "In sickness and in health —" },
+    { "type": "narration", "content": "He paused here — not long, just a breath — and she saw it. The weight he put on those words. Not the recitation weight. The real weight. The weight of someone who knows exactly what he is promising and has already thought through every version of it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "In sickness and in health —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To love and to cherish, until death do us part." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "To love and to cherish, until death do us part." },
+    { "type": "narration", "content": "Cassandra was crying. She hadn't noticed until just now." }
+  ]
+}

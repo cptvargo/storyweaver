@@ -1,0 +1,19 @@
+{
+  "page": 12,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "His wife heard it." },
+    { "type": "narration", "content": "Claire's voice in the background — asking what, asking what was wrong, her voice climbing with the particular alarm of a mother who hears her husband make a sound she has never once heard him make." },
+    { "type": "narration", "content": "He must have handed her the phone." },
+    { "type": "dialogue", "speaker": "Claire", "content": "Ethan." },
+    { "type": "narration", "content": "Her voice." },
+    { "type": "narration", "content": "He told her." },
+    { "type": "narration", "content": "She said her daughter's name. Just the name — the name she had chosen, the name she had given her, the name she had whispered over a crib and called across a yard and said into ten thousand ordinary moments across an entire life." },
+    { "type": "narration", "content": "Just once." },
+    { "type": "narration", "content": "He heard both of them losing her all over again in real time and he had no words equal to that. They had loved her before he had known her. They had been afraid for her before he had known there was something to be afraid of. They had given her to him and he had loved her with everything he had." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Please come." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "We're already getting in the car." }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "page": 4,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "message", "sender": "Ethan", "content": "I'm not scared. I want you to know that. Not of any of it. I sat with everything you told me tonight and I kept waiting for the fear to arrive and it didn't. What arrived instead was — I don't know how to say it exactly." },
+    { "type": "message", "sender": "Ethan", "content": "Something like: of course. Of course this is what I'm choosing. Of course it's you." },
+    { "type": "narration", "content": "Three dots. They sat for a long time." },
+    { "type": "message", "sender": "Cassandra", "content": "I've been afraid of this conversation for months." },
+    { "type": "message", "sender": "Ethan", "content": "I know." },
+    { "type": "message", "sender": "Cassandra", "content": "I kept imagining all the ways it could go wrong." },
+    { "type": "message", "sender": "Ethan", "content": "How did it go?" },
+    { "type": "narration", "content": "Another long pause." },
+    { "type": "message", "sender": "Cassandra", "content": "It went right. It went so right that I don't know what to do with that yet either." },
+    { "type": "message", "sender": "Cassandra", "content": "The doctor appointments. Ethan. You said you wanted to come to the appointments." },
+    { "type": "message", "sender": "Ethan", "content": "I meant it." },
+    { "type": "message", "sender": "Cassandra", "content": "I know you did. That's the part that broke me." },
+    { "type": "message", "sender": "Cassandra", "content": "Nobody has ever — not like that. So specifically. So practically." },
+    { "type": "message", "sender": "Ethan", "content": "I'm not going anywhere, Cass. That's not a feeling. That's a decision. Already made." }
+  ]
+}

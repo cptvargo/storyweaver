@@ -1,0 +1,25 @@
+﻿{
+  "page": 5,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "message", "sender": "Cassandra", "content": "Can I tell you something I haven't said out loud yet?" },
+    { "type": "message", "sender": "Ethan", "content": "Yes." },
+    { "type": "message", "sender": "Cassandra", "content": "I think I've been in love with you since the fountain. I didn't let myself say it because it felt like something I wasn't allowed to have. Not with this. Not with all the complications of this." },
+    { "type": "message", "sender": "Cassandra", "content": "But tonight on that wheel I thought — what if the complication is exactly the reason to say it? What if the reason isn't despite everything, but because of it?" },
+    { "type": "narration", "content": "Ethan read that three times." },
+    { "type": "message", "sender": "Ethan", "content": "I love you, Cass. I have for a while. I've been waiting for the right moment to say it and then tonight I realized there's no such thing as the right moment. There's just the moment you're in." },
+    { "type": "message", "sender": "Cassandra", "content": "That's very wise for someone sitting in a parking lot." },
+    { "type": "message", "sender": "Ethan", "content": "I've been out here a while." },
+    { "type": "message", "sender": "Cassandra", "content": "Go inside, Ethan." },
+    { "type": "message", "sender": "Ethan", "content": "In a minute. I want to stay here a little longer." },
+    { "type": "message", "sender": "Cassandra", "content": "Me too." },
+    { "type": "narration", "content": "They texted back and forth for another hour about nothing in particular — a song she thought he should hear, something Nathan had said that she'd been thinking about, the exact temperature of a good carnival night. The ordinary things. The things that hold you." },
+    { "type": "narration", "content": "Her last message came at 1:17 in the morning." },
+    { "type": "message", "sender": "Cassandra", "content": "Goodnight. I'm glad you were at the Copper Mug that day." },
+    { "type": "message", "sender": "Ethan", "content": "Me too. Goodnight, Cass." },
+    { "type": "narration", "content": "He went inside." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "page": 6,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The way she laughed." },
+    { "type": "narration", "content": "That was the first thing. Not a memory he chose — it arrived, whole and immediate. The specific sound of it, the way it came before she could calculate it, the way it had always been the most real thing in any room it was in." },
+    { "type": "narration", "content": "The park. The bench. The first morning. He had been drawing and she had walked past and turned around, just for a second, and looked at him. He had not known then what he was looking at. He had known immediately that he would remember it." },
+    { "type": "narration", "content": "The car. The road trip. Her in the passenger seat making that face — the specific ridiculous face that was purely her, that nobody else in the world made. The way she grabbed his arm: take the picture, take it now—" },
+    { "type": "embed", "src": "/road_trip_pic_3.png" },
+    { "type": "narration", "content": "How bad the photo was. How she looked at it and loved it immediately." },
+    { "type": "narration", "content": "He was on the floor." },
+    { "type": "narration", "content": "He didn't know when that had happened. He was on the floor beside the bed with his hands over his face and he was making a sound he had never made before in his life." }
+  ]
+}

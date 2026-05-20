@@ -1,0 +1,20 @@
+{
+  "page": 9,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The yellow light of the diner against the dark outside." },
+    { "type": "narration", "content": "The stranger who had taken their photo without asking. The way Cassandra had looked at it afterward and said: perfect. She had always said that about ordinary things. Perfect. It was the word he associated entirely with her — the way she could look at something unremarkable and find it completely sufficient, the way she had never needed the world to be more than what it was." },
+    { "type": "embed", "src": "/road_trip_pic_4.png" },
+    { "type": "narration", "content": "All of it coming in at once now." },
+    { "type": "narration", "content": "The first time she told him. The bench outside the Copper Cup. November. The way she had said it plainly, without drama, watching his face for the thing she must have been dreading — and the thing she found instead." },
+    { "type": "narration", "content": "Every hard day when he had drawn with more force than the image required and the fear had gone into the pencil pressure. Every good day when the house smelled like Sunday cooking and Maya was coming over and Harold was on his shelf and the life was exactly what it was supposed to be." },
+    { "type": "narration", "content": "The hospital room. Her hand in his. You can cry. Him doing exactly that." },
+    { "type": "narration", "content": "The 3am when she held him and said: I'm still here, Ethan. I'm right here." },
+    { "type": "narration", "content": "All of it." },
+    { "type": "narration", "content": "He picked up his phone." },
+    { "type": "narration", "content": "His hands were shaking." },
+    { "type": "narration", "content": "He called 911." }
+  ]
+}

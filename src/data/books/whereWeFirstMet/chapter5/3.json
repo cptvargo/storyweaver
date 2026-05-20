@@ -1,0 +1,32 @@
+{
+  "page": 3,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "He opened the sketchbook." },
+    { "type": "narration", "content": "He didn't draw anything. He looked at the blank page for a while, which was almost the same thing." },
+    { "type": "narration", "content": "Twenty minutes later, the door opened. She came in from the rain with her hood down — the kind of person who meets weather head-on and doesn't see the point in arguing." },
+    { "type": "narration", "content": "She spotted him and her face did the thing it sometimes did: settled, in some particular way, as though something had been confirmed." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I thought you might be here." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm usually here." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know." },
+    { "type": "narration", "content": "She ordered from Mr. Alvarez, who did not let his expression say anything, and came to sit across from Ethan. She set her damp jacket over the back of the chair. Her hair had spots of rain in it." },
+    { "type": "narration", "content": "He had brought the Ferdinand painting. It was leaning against the wall beside his bag — a small horse study from months ago, cream-colored with one dark eye that had turned out better than he intended." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Is that—" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Ferdinand." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You named your painting." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "He named himself. I just agreed." },
+    { "type": "narration", "content": "She looked at it properly. Not skimming — settling into it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He looks like he knows something." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think he does." },
+    { "type": "narration", "content": "Rain tapped against the window. The grey light had that quality of making everything inside feel more itself — the warm smell of coffee, the small sounds of the counter, the particular proximity of sitting across from someone and finding it easy." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Do you ever not see things? Like, is there an off switch?" },
+    { "type": "narration", "content": "He considered this." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Not really. There's a volume dial." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What's it at right now?" },
+    { "type": "narration", "content": "He looked at her for a moment." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "High." }
+  ]
+}

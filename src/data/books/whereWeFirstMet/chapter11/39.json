@@ -1,0 +1,17 @@
+{
+  "page": 39,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Something breaks open in her." },
+    { "type": "narration", "content": "Not collapse. Something older and deeper than that. Three years of holding the shape of a person who manages this well, who takes her pills and attends her appointments and does not make anyone worry more than they have to — three years of that shape — and it gives." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm so tired." },
+    { "type": "narration", "content": "She says it like she's never said it before. Because she hasn't. Not like this. Not to someone who can do something about it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm so tired of being the person who manages this alone. I'm good at it — I am, I've gotten very good at it — but there is this part of carrying it that I can't describe. The weight of knowing that no one else in the room knows what you're carrying. Every day. Every room." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I couldn't let you choose without knowing. You deserved the whole truth. Not the edited version. Not the version that makes it easier to love me." },
+    { "type": "narration", "content": "She looks at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know what it costs to know this. I know it changes things. And I'm sorry for that. I would take it back if I could, the condition, the weight of it, the way it changes things — I would take all of it back if I could." },
+    { "type": "narration", "content": "Her voice breaks on the last word." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They packed in the morning." },
+    { "type": "narration", "content": "It didn't take long — they hadn't brought much, and what they'd brought had been lived in rather than spread around. The cabin absorbed their departure the way it had absorbed their arrival: quietly, without judgment, with the patience of a place that had held many people and would hold many more." },
+    { "type": "narration", "content": "Cassandra folded the linen she'd slept under and set it at the foot of the bed. She didn't know why she did that. She just did." },
+    { "type": "narration", "content": "The card — both their names in her father's handwriting — she put in her bag first, before anything else." },
+    { "type": "narration", "content": "Ethan stood in the main room for a while after the bags were at the door. He was looking at the fireplace. The ash from the last fire, the wood they hadn't burned, the mantle where the wildflowers had sat in their jars. The wildflowers themselves — he picked up the smallest jar and looked at it for a moment, then set it back exactly where it was." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You okay?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "narration", "content": "She looked at him. He looked at the room." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I just — I want to remember it exactly. While I still can." },
+    { "type": "narration", "content": "He took out his phone and photographed the room. The fireplace. The window above the sink with the mountain behind it. The couch where they had sat with their coffee on the last morning." },
+    { "type": "narration", "content": "Cassandra watched him do it. She didn't tell him to save it. She never had to tell him that anymore." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "page": 30,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I went downstairs and told my mom I felt weird. I tried to make it sound small. I didn't want her to panic. I said 'weird' when I meant 'I'm scared.'" },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "She took one look at my face and she didn't argue. She didn't ask questions. She just picked up her keys." },
+    { "type": "narration", "content": "The gondola rocks gently as the wheel loads another car below them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We went to urgent care first. They did an EKG. I remember the stickers they put on me — the little adhesive ones — and how cold the gel was and how the nurse had a very practiced face that didn't tell me anything. They said the results were abnormal and they were referring us." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I remember my mom saying 'okay' in this voice that was completely level. She waited until I was looking away before she pressed her hand over her mouth." },
+    { "type": "narration", "content": "Cassandra's own hands are folded in her lap. She watches them as she speaks." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I saw her do it. I didn't say anything. We drove home and I put myself to bed and I laid there in the dark for a long time, and that was the last night I ever slept without knowing something was coming." }
+  ]
+}

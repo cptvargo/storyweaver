@@ -1,0 +1,26 @@
+{
+  "page": 6,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It was Savannah who saw them first." },
+    { "type": "narration", "content": "Thursday after school, the four of them walking out, and Savannah caught Kit's arm and tilted her head toward the parking lot without saying anything." },
+    { "type": "narration", "content": "Brooke and Ryan. At his car. Close the way people stand when they've decided to be close." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Huh." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Good for them." },
+    { "type": "narration", "content": "Daisy watched for a moment — the careful, processing look — then blinked and turned away." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Good for them." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I mean it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "So do I." },
+    { "type": "narration", "content": "They walked to the bike rack. Kit fell into step next to Daisy." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You really okay with it?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. I think they make sense." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Does that bother you?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "No. Why would it." },
+    { "type": "narration", "content": "She looked at him in the way she had of checking whether something was true. He held steady. It was true." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Good." },
+    { "type": "narration", "content": "They got their bikes and rode home and didn't mention it again." }
+  ]
+}

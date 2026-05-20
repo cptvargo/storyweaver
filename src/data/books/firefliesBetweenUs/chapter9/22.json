@@ -1,0 +1,27 @@
+{
+  "page": 22,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They stayed on the line until nearly two. Daisy's words started coming slower, the gaps between them longer." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're falling asleep." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Your voice is doing the thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What thing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The soft thing. When you're tired." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't hang up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Wasn't going to." },
+    { "type": "narration", "content": "He lay back on his dorm bed. The room was dark except for the light under the door. He could hear her breathing on the line — slow, getting slower. Darius's quiet from across the room. LA outside the window, always making some kind of noise." },
+    { "type": "narration", "content": "He thought about what she'd said. The friendship thing. The fear underneath everything." },
+    { "type": "narration", "content": "He understood it completely. That was the truest thing about them — they'd always understood each other in the way that cost something. Because understanding meant there was no excuse not to act on it. There was no more pretending you didn't see." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Still here." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Happy Thanksgiving." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Happy Thanksgiving, Daisy." },
+    { "type": "narration", "content": "She went quiet. He could tell by the rhythm of her breathing that she was asleep inside of three minutes. He didn't hang up for a long time after that." },
+    { "type": "narration", "content": "He lay there in the dark listening to the sound of her sleeping across two thousand miles and thought: three weeks. December. In person." },
+    { "type": "narration", "content": "He could wait three more weeks." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "page": 51,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The group begins to unfold." },
+    { "type": "narration", "content": "Lena says something about the funnel cake stand closing soon and there being a moral obligation to attend to this before they leave. Maya, with the decisive energy of someone returning to practical operations, agrees. They move toward the food stalls together, the sisters side by side." },
+    { "type": "narration", "content": "Nathan stays back for a moment." },
+    { "type": "narration", "content": "He looks at Ethan." },
+    { "type": "narration", "content": "Ethan looks at Nathan." },
+    { "type": "narration", "content": "Nathan does not ask. Not what happened, not what was said, not what any of it was or what it means going forward. He is a person who understands that some things are not his to ask about, and he has always been smart enough to know the difference between wanting to know and needing to know." },
+    { "type": "narration", "content": "What he gives Ethan is a look." },
+    { "type": "narration", "content": "The look of someone who has known his friend a long time and can see, in the changed quality of the way he's standing, something that was unsettled now settled. Something answered." },
+    { "type": "narration", "content": "He nods. Once. Man to man. The kind of nod that means: I see you. I see what you just chose. And I respect it." },
+    { "type": "narration", "content": "Ethan nods back." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Come on. Last funnel cake of the evening." },
+    { "type": "narration", "content": "They walk toward the others." }
+  ]
+}

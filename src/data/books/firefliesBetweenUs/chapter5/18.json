@@ -1,0 +1,23 @@
+﻿{
+  "page": 18,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The hallway moved around them. People passed. The bell was going to ring in four minutes and neither of them moved." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Tell me what to do." },
+    { "type": "narration", "content": "It came out quieter than he meant it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's not my job." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. I just—" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You need to figure that out yourself, Kit. What you want. What you're actually doing. Because I think you've been not thinking about it for a long time and I get why, I do, it's easier. But it's not fair." },
+    { "type": "narration", "content": "He looked at her. She was steady — she was always steady, that was the thing about Daisy, she was the steadiest person he'd ever known — and she was looking at him the way she had since they were eight years old, like she could see all the way through and had decided to be there anyway." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't want things to be like this between us." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Neither do I." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Then we're okay?" },
+    { "type": "narration", "content": "She picked up her bag. Looked at him one more time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ask me again in a little while." },
+    { "type": "narration", "content": "She went to class. The bell rang. Kit stood in C-wing and let the hallway empty around him and thought about what she'd said — not the part about the water tower, not the part about Brooke — but the part about not thinking about it." },
+    { "type": "narration", "content": "You've been not thinking about it for a long time." },
+    { "type": "narration", "content": "He was starting to understand that she was right." }
+  ]
+}

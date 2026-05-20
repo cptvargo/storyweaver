@@ -1,0 +1,28 @@
+{
+  "page": 7,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They stayed longer than either of them planned." },
+    { "type": "narration", "content": "June looked up from her book at some point and watched them with the quiet satisfaction of someone whose space was being used exactly the way it was meant to be used." },
+    { "type": "narration", "content": "Near the back of the gallery, in front of the painting Ethan called his favorite without any preamble, they stood shoulder to shoulder. Close enough that he was aware of her in his peripheral vision — not awkward, not charged, just present. A proximity that felt earned." },
+    { "type": "narration", "content": "The painting was small. Unexpected, given its size and the confidence it carried. A figure at a window, back to the viewer, looking out at something the painter had chosen not to show." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What's outside the window?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What do you think?" },
+    { "type": "narration", "content": "He was quiet for a moment. He'd stood in front of this painting a dozen times and had never tried to answer that. He tried to answer it now." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Something she's decided about. Whatever it is — she's already decided." },
+    { "type": "narration", "content": "Cassandra studied the figure. The tilt of the shoulders. The light catching one edge of the silhouette." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You think it's good or bad? What she decided?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think it's hers. That's what the painting is about. It doesn't matter what's outside. It matters that she's choosing to look." },
+    { "type": "narration", "content": "Cassandra didn't respond immediately. When he glanced at her, her expression had changed — not sad, something more interior than sad. Something she kept close and didn't often let show." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I like the way you see things." },
+    { "type": "narration", "content": "Her voice was quieter than usual. No performance in it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You already said that. In a different way." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I mean it differently now." },
+    { "type": "narration", "content": "He looked at her. She looked at the painting. The light inside the gallery had that particular stillness of spaces that protect things from weather." },
+    { "type": "narration", "content": "He didn't say anything else. Neither did she. Some things are complete without addition." },
+    { "type": "narration", "content": "Outside, the day kept going. In here, it didn't have to." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 8,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "That night the group chat went quiet for the first time in a year." },
+    { "type": "narration", "content": "Eli was online. Savannah was online. Brooke was online with an away message that said something Kit didn't read. Daisy was away. Kit sat at the computer and watched the buddy list and thought about opening a window to Daisy and didn't." },
+    { "type": "narration", "content": "Eli messaged him at eight-forty." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "she knows" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I figured" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "savannah told her" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "good. better than from someone else" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "you should have told her yourself" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I know" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "I told you. in october. you know what you're doing right" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "eli" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "I'm not trying to pile on. I just. you knew man." },
+    { "type": "narration", "content": "Kit didn't answer. He looked at Daisy's name on the buddy list, the little yellow away icon next to it, and typed her name into the window box and stopped." },
+    { "type": "narration", "content": "He closed it." },
+    { "type": "narration", "content": "He changed his own away message to: not around. He wasn't sure who he was saying it to." }
+  ]
+}

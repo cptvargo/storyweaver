@@ -1,0 +1,28 @@
+{
+  "page": 19,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "I used to be the kind of person who got quiet when things were unexpected. Pulled back. Managed things from a distance and waited for the unexpected to resolve or pass or stop requiring anything from me. I was good at being present in a way that didn't cost anything." },
+    { "type": "narration", "content": "He looked at his cup." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't think I'm that person anymore." },
+    { "type": "dialogue", "speaker": "Father", "content": "What changed?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She interrupted my painting." },
+    { "type": "narration", "content": "Something moved across Cassandra's father's face — recognition, or something adjacent to it." },
+    { "type": "dialogue", "speaker": "Father", "content": "She has a way of doing that. Finding the thing you were protecting yourself from and walking straight up to it." },
+    { "type": "narration", "content": "A long pause." },
+    { "type": "dialogue", "speaker": "Father", "content": "Ethan. I'm going to tell you something, and I want you to hold it without asking me to explain it yet. Can you do that?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Father", "content": "There are things about her that you don't fully know yet. Things she will tell you in her time, in her way. When she does, they will ask something of you that you didn't know you were going to be asked. Not immediately — not the moment she says it. But over time, it will require more than you planned to give." },
+    { "type": "narration", "content": "He said it without melodrama. Just the fact of it, placed carefully on the table." },
+    { "type": "dialogue", "speaker": "Father", "content": "What I want to know is not whether you can handle it — because no one knows that in advance, including you. What I want to know is whether, when that moment comes, you will choose to stay. Not heroically. Not dramatically. Just stay. Do the small things. Show up in the ordinary way, day after day, without needing it to be perfect or to make sense or to resolve quickly." },
+    { "type": "narration", "content": "From somewhere in the house came the sound of Cassandra and her mother, a laugh over something small and private." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know exactly what I'm being asked. Not the specific thing. But I understand the question well enough to answer it." },
+    { "type": "narration", "content": "He met the older man's eyes." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes. I'll stay." },
+    { "type": "narration", "content": "Cassandra's father looked at him for a long moment. Then he picked up his cup." },
+    { "type": "dialogue", "speaker": "Father", "content": "Good." },
+    { "type": "narration", "content": "The same word as before. But it carried more now — the weight of something decided, something trusted to the future." }
+  ]
+}

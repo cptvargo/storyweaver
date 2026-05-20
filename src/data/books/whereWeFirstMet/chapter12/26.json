@@ -1,0 +1,19 @@
+﻿{
+  "page": 26,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The clapping filled the chapel from the floor to the ceiling. Someone — Nathan, it was Nathan — let out the specific sound of a man who has been waiting a long time for something to arrive and is relieved that it has." },
+    { "type": "narration", "content": "They broke apart." },
+    { "type": "narration", "content": "Cassandra was laughing through the tears she'd been too busy to wipe away, and Ethan was laughing too, and they were still holding hands, and the room was still loud around them." },
+    { "type": "narration", "content": "The pastor raised his voice over the room." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Ladies and gentlemen — for the first time — Mr. and Mrs. Ethan and Cassandra Carter." },
+    { "type": "narration", "content": "The room answered with everything it had." },
+    { "type": "narration", "content": "Cassandra looked up at Ethan." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Carter." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Carter." },
+    { "type": "narration", "content": "She tried the sound of it. Something settled in her face — the last held thing released. Her name, changed. Her story, joined to his. The future, together. Uncertain and precious and chosen." },
+    { "type": "narration", "content": "The music began." }
+  ]
+}

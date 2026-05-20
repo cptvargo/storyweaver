@@ -1,0 +1,16 @@
+﻿{
+  "page": 24,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena stepped forward and placed the second ring in Cassandra's hand." },
+    { "type": "narration", "content": "Cassandra held it — thin gold, matching hers, simple. She had chosen it with him, sitting at a table in a jewelry shop that smelled like wood polish and old things, and she had known it was right the moment she held it, the same way she'd known many things with him: before the deciding, the knowing was already there." },
+    { "type": "narration", "content": "She held his left hand." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Cassandra, repeat after me. With this ring, I thee wed." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "With this ring, I thee wed." },
+    { "type": "narration", "content": "She slid it onto his finger." },
+    { "type": "narration", "content": "She felt his hand close around hers when she'd finished — not a grip, just presence. The warmth of him." },
+    { "type": "narration", "content": "They stood at the altar with their rings on and their hands holding and the room around them full of the particular silence that follows something irrevocable. Not heavy silence. The silence of something settled." }
+  ]
+}

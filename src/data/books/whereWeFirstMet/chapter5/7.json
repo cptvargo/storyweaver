@@ -1,0 +1,29 @@
+{
+  "page": 7,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "They went back to the canvas. Cassandra's cloud had been improved by accident and she was now working on the awning, which was going better." },
+    { "type": "narration", "content": "Ethan sat on the edge of the paint table and watched her work. She had the focused expression she got when she was trying to do something precisely — a slight pull between her brows, her breath held for a second before each stroke." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're watching me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Is that a habit too?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Only certain things." },
+    { "type": "narration", "content": "She added a careful line of yellow to the awning's edge." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "When did you know you could do this?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know if I can do it. I know I can't not do it." },
+    { "type": "narration", "content": "She lowered the brush." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There's a gap between how something looks and what it is. When I try to paint a tree, I draw what I think a tree should look like. But you draw what the tree actually is." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's exactly it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I understand that gap." },
+    { "type": "narration", "content": "She said it quietly. Not an explanation. Just the statement, placed between them like something being set down carefully." },
+    { "type": "narration", "content": "He felt the weight of it — the sense that she meant more than painting. He didn't ask. He didn't push. He let it be what it was." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think you're better than you think you are." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "At painting?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "At most things." },
+    { "type": "narration", "content": "She turned to look at him — a real look, the kind that landed. Outside, the rain had softened to something quieter." }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "page": 14,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The ring was simple. A thin gold band with a single small stone — not a diamond, something warmer, the color of the afternoon light through the arcade windows. He had chosen it the way he chose things: carefully, specifically, for her. Not for the occasion. For her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been thinking about what to say for months. I've been composing speeches and discarding them. And then I realized: I've already said it. On the wheel, in the parking lot at one in the morning, at the appointment in March when the news was uncertain and you squeezed my hand before I could squeeze yours." },
+    { "type": "narration", "content": "His voice was steady. His eyes were not." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know what I'm choosing. I've known for a long time. Cass — will you marry me?" },
+    { "type": "narration", "content": "She looked at the ring. At him. At the ring again." },
+    { "type": "narration", "content": "She had told herself, in the careful years she'd spent managing the condition and its implications, that marriage was something that belonged to a version of her life she hadn't been sure was available. That asking someone to commit to this — to the uncertainty of it — was too much to ask." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "narration", "content": "She understood now what she hadn't then: that the asking was not a burden. It was an offering. That the real gift was trusting someone enough to make the ask at all." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "narration", "content": "She said it before she finished deciding to say it. The way you say things that are already true." },
+    { "type": "narration", "content": "He slid the ring onto her finger. She looked at it there." },
+    { "type": "narration", "content": "From somewhere near the back office, very quietly, they could both hear Lena crying." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "She's back there." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She wanted to be here for it." },
+    { "type": "narration", "content": "Cassandra laughed. Then she stepped forward and kissed him, in the quiet arcade, in the afternoon light." }
+  ]
+}

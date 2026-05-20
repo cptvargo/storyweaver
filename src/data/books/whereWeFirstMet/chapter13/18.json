@@ -1,0 +1,25 @@
+{
+  "page": 18,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "That evening was unhurried." },
+    { "type": "narration", "content": "They cooked from the basket — simple things, nothing that required performance. Sparkling cider open on the counter. Fire going. The mountain outside the window had gone completely dark, invisible now, present as a feeling more than a shape." },
+    { "type": "narration", "content": "They ate at the table by the window and talked about nothing in particular. Not nothing — but the unweighted things. A book she'd been meaning to read. Whether he wanted to try a new medium, something he'd been thinking about for months. The name of the woodpecker species that had been in the trees all morning." },
+    { "type": "narration", "content": "The fire threw warm, unsteady light." },
+    { "type": "narration", "content": "After, they cleared the table and she washed the two glasses and set them on the rack, and he banked the fire down to something slower, something that would hold through the evening without needing attention." },
+    { "type": "narration", "content": "And then they were just in the room together." },
+    { "type": "narration", "content": "She turned around from the sink and found him looking at her." },
+    { "type": "narration", "content": "Not the way he looked at things he was planning to paint — though that was part of it, always — but something older than that. Something that had been there since the Ferris wheel, since the park bench, since the first time she'd really let herself be looked at and hadn't moved away from it." },
+    { "type": "narration", "content": "The room was very quiet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It's strange." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What is?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I thought this would feel different. I thought I'd feel different. But I just feel like—" },
+    { "type": "narration", "content": "She paused, finding it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like I've been walking toward this room for a very long time and now I'm in it." },
+    { "type": "narration", "content": "He didn't say anything. He crossed to her." },
+    { "type": "narration", "content": "There was a moment — just a moment — where they stood in the kitchen with the fire behind them and the dark mountain outside, and she looked at him and he looked at her, and everything that had been said and unsaid and held and let go between them over the past year was present in the air, not as weight but as substance. It had a texture. It had earned its place." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been walking toward it too." }
+  ]
+}

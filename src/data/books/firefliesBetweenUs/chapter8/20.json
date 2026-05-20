@@ -1,0 +1,30 @@
+{
+  "page": 20,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She was close enough that he could see the pin in her hair and the streetlight in her eyes. Close enough." },
+    { "type": "narration", "content": "And then she stepped back." },
+    { "type": "narration", "content": "Not away — she kept his hand. But back. One step." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I can't." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I can't hold this and August at the same time, Kit. If I kiss you right now and then we leave for different states I don't — I don't know what I do with that. I don't know how to carry that." },
+    { "type": "narration", "content": "He looked at her. Her hand was still in his." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hey. Don't explain it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's not — I want to. I need you to know I want to." },
+    { "type": "dialogue", "speaker": "Kit", "content": "So do I. Daisy, so do I." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "This isn't me saying no forever." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's not what I heard." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I just — I need a place for it. A real place. Not a maybe and then a goodbye." },
+    { "type": "narration", "content": "He held her hand. The street was quiet. He understood her, completely — and that was the hardest part about it, the understanding. Because he couldn't argue with any of it. She was right. She was right and it still ached." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. We'll figure out the place." },
+    { "type": "narration", "content": "She squeezed his hand once. He squeezed back. They started walking again — her walk, the end of the block — and they held hands the rest of the way home without making a thing of it." },
+    { "type": "narration", "content": "At her porch she looked at him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Goodnight, Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Goodnight." },
+    { "type": "narration", "content": "She went inside. He walked home alone in the quiet. The thing between them was named now, fully, on both sides — and it was still unfinished, and somehow that didn't feel like failure. It felt like a sentence that still had more to say." }
+  ]
+}

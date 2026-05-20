@@ -1,0 +1,27 @@
+{
+  "page": 14,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Kit", "content": "Can I tell you something." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I've thought about this a thousand times. This night. What I'd say. How it would go. And I don't have anything prepared. No speech. No plan." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't want a speech." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. I just — I need you to know that none of this has been accidental. Not a single bit of it. Since we were twelve years old in this same field. None of it has been accidental for me, Daisy." },
+    { "type": "narration", "content": "She turned to look at him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You are the most important thing. Not just in my life — you are the thing my life has been pointed at since I was old enough to understand what that meant. I should have said it clearer, sooner. I was scared. We both were. But I think we were also — careful. And I don't regret the careful. I just don't want to wait anymore." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not done." },
+    { "type": "narration", "content": "She closed her mouth." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm here. In this field. In the same place where all of it started. And I need to say it out loud right here, tonight — not across two thousand miles, not on a porch in February, not over the phone. Here." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "All of it started here." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You know it did." },
+    { "type": "narration", "content": "She looked at him for a long moment. The kind of look she gave things she needed to be sure were real. He waited. He'd always been able to wait for her." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've been in love with you for a long time, Kit." },
+    { "type": "narration", "content": "She said it simply. Straight, without decoration, the way she said the things that mattered most." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I didn't say it because saying it felt like standing at the edge of something I couldn't come back from. And I needed to be sure. I needed to know it wasn't just the closeness or the comfort or the way we fit. I needed to know it was actually you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's you. It has been for a long time. It's just you." }
+  ]
+}

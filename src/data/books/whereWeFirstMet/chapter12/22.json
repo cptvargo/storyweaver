@@ -1,0 +1,26 @@
+﻿{
+  "page": 22,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Pastor", "content": "Cassandra, please repeat after me." },
+    { "type": "narration", "content": "She pulled a single breath in. She steadied herself. She looked at him." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "I, Cassandra, take you, Ethan —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I, Cassandra, take you, Ethan —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To be my husband —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "To be my husband —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To have and to hold, from this day forward —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "To have and to hold, from this day forward —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "For better, for worse —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "For better, for worse —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "For richer, for poorer —" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "For richer, for poorer —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "In sickness and in health —" },
+    { "type": "narration", "content": "She stopped crying. She said it clearly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "In sickness and in health —" },
+    { "type": "dialogue", "speaker": "Pastor", "content": "To love and to cherish, until death do us part." },
+    { "type": "narration", "content": "She looked at him. She said it directly into his eyes, the way she'd learned to say the true things — plainly, without protection, with the full weight of what she meant." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "To love and to cherish, until death do us part." }
+  ]
+}

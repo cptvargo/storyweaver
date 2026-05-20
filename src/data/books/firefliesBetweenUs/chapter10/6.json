@@ -1,0 +1,30 @@
+{
+  "page": 6,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He showed up at eleven twenty-eight. Mrs. Jones handed him a paper plate and put him to work immediately." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "You can flip the burgers." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes ma'am." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He walked in thirty seconds ago." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "And now he has a job. Welcome back to Georgia, Kit." },
+    { "type": "narration", "content": "They ate on the back porch — burgers and potato salad and sweet tea and the particular Fourth of July quiet before everyone starts setting things on fire. Mrs. Jones talked about the neighborhood. Kit listened the way he always did with her — like she was telling him something worth knowing, because she usually was." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "You two going to Eli's thing tonight." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yes ma'am." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "That boy called here in March. Asked me if I thought the field had enough clearance for aerial fireworks." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He called you." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "He was very thorough about it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He had a spreadsheet." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I know. He sent it to me." },
+    { "type": "narration", "content": "Kit looked at Daisy. She was already pressing her lips together to keep from laughing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Of course he did." },
+    { "type": "narration", "content": "The afternoon went the way good afternoons do — slower than you want them to and faster than you expect. By five o'clock the light had gone gold and long across the yard and Mrs. Jones was doing dishes and Kit and Daisy were on the back steps saying nothing in particular." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We should head over around six fifteen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli said six." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli will be there at five-thirty setting things up. We don't need to be first." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Six fifteen." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Six fifteen." },
+    { "type": "narration", "content": "She leaned back on her palms. The sky above the yard was starting to go pink at the edges. A long, good day stretching toward something better." }
+  ]
+}

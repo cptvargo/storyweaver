@@ -1,0 +1,26 @@
+{
+  "page": 21,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The night wound down the way good nights do — slowly, nobody wanting to be the first to leave. Priya fell asleep leaning against Eli's shoulder and that decided it for him. Marcus and DeShawn said their goodbyes. Savannah hugged Daisy long enough to say something without words." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm so happy for you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Call me tomorrow." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "First thing." },
+    { "type": "narration", "content": "And then it was just the two of them. The fire had burned low. The field was still full of fireflies but quiet now — just that slow, patient blinking in the dark." },
+    { "type": "narration", "content": "They walked home the long way." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good night." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Best kind." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli's going to be talking about this until September." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli's going to be talking about this for years. He curated the lanterns." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He curated the lanterns." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He checked the weather." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He had a spreadsheet." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He sent the spreadsheet to my mom." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He loves us." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He really does." },
+    { "type": "narration", "content": "The street was empty this late. Millhaven had gone quiet the way only small towns could — completely, like the whole place had agreed to rest at the same time. Their footsteps on the sidewalk were the only sound, and neither of them rushed it." }
+  ]
+}

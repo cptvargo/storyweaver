@@ -1,0 +1,21 @@
+{
+  "page": 2,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan made his case with theatrical enthusiasm, listing the carnival's merits as though pitching something that required persuasion, which it didn't." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "There's a Ferris wheel. There's always kettle corn at these things. The horse racing booth — the one where you roll the balls up the ramp — I haven't done one of those since I was twelve and I've been thinking about it more than is reasonable." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You've been thinking about a ball-rolling booth." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I have a specific memory of nearly winning and then not winning and I want resolution." },
+    { "type": "dialogue", "speaker": "Lena", "content": "That's one of the more compelling arguments I've ever heard for a carnival." },
+    { "type": "narration", "content": "The group began to reassemble itself — coats found, cups pushed back, the small ceremonies of departure. Mr. Alvarez came out from behind the counter with the quiet authority of someone whose timing is always right, and cleared the table with the unhurried ease of nineteen years of doing it." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "My best customers. My worst table-campers." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "We'll add fifteen percent." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You already did. I'm merely noting the record." },
+    { "type": "narration", "content": "He paused at Cassandra's shoulder as he reached past her for the last cup. He said it quietly, without weight, as though it were just a piece of information:" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "The cherry trees on Fairfield Road are early this year. Worth driving past." },
+    { "type": "narration", "content": "She looked at him. He had already moved toward the counter. She watched his back for a moment." },
+    { "type": "narration", "content": "She said: \"Thank you.\" And meant more than one thing by it." }
+  ]
+}

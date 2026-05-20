@@ -1,0 +1,178 @@
+{
+  "id": "whereWeFirstMet",
+  "title": "Where We First Met",
+  "subtitle": "Just Long Enough to Matter",
+  "genre": "Romance",
+  "subgenre": "Clean Romance / Tear-Jerker",
+  "tags": [
+    "romance",
+    "clean-romance",
+    "emotional",
+    "tearjerker",
+    "love",
+    "loss",
+    "bittersweet",
+    "heartfelt",
+    "slow-burn",
+    "literary",
+    "terminal-illness",
+    "coming-of-age",
+    "first-love"
+  ],
+  "description": "Ethan Carter is a quiet nineteen-year-old artist who notices the world in details most people miss. Cassandra Hailey is a bright, spontaneous redhead who lives like every moment matters. When their paths cross near a small town park, an ordinary day becomes the beginning of something neither of them expected. But Cassandra is carrying a secret that will slowly change the meaning of every moment they share.",
+  "shortDescription": "A clean, emotional romance about first love, hidden pain, and the moments that matter most.",
+  "mainCharacters": [
+    {
+      "name": "Ethan Carter",
+      "age": 19,
+      "role": "Male lead",
+      "description": "A freelance artist with a quiet soul, awkward charm, and a habit of seeing beauty where others rush past it."
+    },
+    {
+      "name": "Cassandra Hailey",
+      "age": 19,
+      "role": "Female lead",
+      "description": "A playful, red-haired girl who loves arcades, iced coffee, and spontaneous moments, while quietly carrying a life-altering secret."
+    }
+  ],
+  "supportingCharacters": [
+    "Lena",
+    "Maya Hailey",
+    "Nathan",
+    "Mr. Alvarez",
+    "Ethan's Mom"
+  ],
+  "setting": [
+    "The Copper Mug",
+    "Town arcade",
+    "Small town park",
+    "Ethan's apartment",
+    "Cassandra's apartment",
+    "Beach house"
+  ],
+  "totalChapters": 15,
+  "chapterCountPlanned": 15,
+  "status": "in-progress",
+  "author": "StoryWeaver",
+  "readingTime": "~4–5.5 hours",
+  "contentRating": "Clean",
+  "cover": "/where_we_first_met.png",
+  "coverTone": "warm, bittersweet, emotional, hopeful",
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "title": "Passing Lines",
+      "image": "/passing_lines.png",
+      "mood": "Where an ordinary morning quietly changes everything.",
+      "totalPages": 12
+    },
+    {
+      "chapterIndex": 2,
+      "title": "The Pull Between Moments",
+      "image": "/pull_between_moments.png",
+      "mood": "The kind of day that doesn't ask permission before becoming important.",
+      "totalPages": 12
+    },
+    {
+      "chapterIndex": 3,
+      "title": "Choosing Tomorrow",
+      "image": "/choosing_tomorrow.png",
+      "mood": "The night after, and the choice it quietly becomes.",
+      "totalPages": 12
+    },
+    {
+      "chapterIndex": 4,
+      "title": "What Remains",
+      "image": "/what_remains.png",
+      "mood": "Between what she carries and what she almost says.",
+      "totalPages": 12
+    },
+    {
+      "chapterIndex": 5,
+      "title": "Something True",
+      "image": "/something_true.png",
+      "mood": "Where something true gets said without quite saying it.",
+      "totalPages": 16
+    },
+    {
+      "chapterIndex": 6,
+      "title": "Among Others",
+      "image": "/among_others.png",
+      "mood": "The relationship is no longer private — it's becoming part of the world.",
+      "totalPages": 13
+    },
+    {
+      "chapterIndex": 7,
+      "title": "What We Carry",
+      "image": "/what_we_carry.png",
+      "mood": "The truth is getting closer. And it will matter when it arrives.",
+      "totalPages": 20
+    },
+    {
+      "chapterIndex": 8,
+      "title": "Before the Answer",
+      "image": "/before_the_answer.png",
+      "mood": "Ethan may not know the truth… but he has already made his choice.",
+      "totalPages": 15
+    },
+    {
+      "chapterIndex": 9,
+      "title": "The Day Before",
+      "image": "/the_day_before.png",
+      "mood": "She's ready. And everything is about to change.",
+      "totalPages": 20
+    },
+    {
+      "chapterIndex": 10,
+      "title": "This Kind of Night",
+      "image": "/this_kind_of_night.png",
+      "mood": "This is the happiest moment… before everything changes.",
+      "totalPages": 25
+    },
+    {
+      "chapterIndex": 11,
+      "title": "All of It",
+      "image": "/all_of_it.png",
+      "mood": "The truth that hurts. The love that chooses anyway.",
+      "totalPages": 53
+    },
+    {
+      "chapterIndex": 12,
+      "title": "Mr. and Mrs. Carter",
+      "image": "/mr_and_mrs_carter.png",
+      "mood": "Six months later. A ring, a chapel, and a forever that was always going to be them.",
+      "totalPages": 36
+    },
+    {
+      "chapterIndex": 13,
+      "title": "Every First",
+      "image": "/every_first.png",
+      "mood": "The mountain, the cabin, and everything that was always waiting for them.",
+      "totalPages": 22
+    },
+    {
+      "chapterIndex": 14,
+      "title": "Still Here",
+      "image": "/still_here.png",
+      "mood": "Everything they built — and the night it almost came apart.",
+      "totalPages": 27
+    },
+    {
+      "chapterIndex": 15,
+      "title": "Where We First Met",
+      "image": "/where_we_first_met_chapter15.png",
+      "mood": "The park, the mural, and everything she was.",
+      "totalPages": 36
+    }
+  ],
+  "themes": [
+    "time",
+    "love",
+    "hope",
+    "loss",
+    "ordinary moments",
+    "hidden suffering",
+    "learning to be seen",
+    "loving without certainty"
+  ]
+}

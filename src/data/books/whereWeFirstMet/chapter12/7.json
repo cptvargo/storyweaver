@@ -1,0 +1,19 @@
+﻿{
+  "page": 7,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know because I've thought about the hard days as much as the good ones. Not the concept of them — the actual days. The appointments. The mornings when she wakes up heavy. What it will look like in ten years. What it could look like in five. I've thought about all of it and none of it changes the answer." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know because she told me the hardest thing she's ever had to say and she didn't break, and she didn't ask me to fix it, and she didn't tell me it was okay if I walked away. She just — told me. And trusted me to hold it. And I want to spend the rest of my life being worthy of that trust." },
+    { "type": "narration", "content": "Mr. Alvarez looked at him for a long moment." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Some people choose love and mean: when it is easy. When it asks nothing extraordinary of me. When the story goes the way stories are supposed to go." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "What you are describing is a different kind of choosing. The kind that costs something, and keeps costing, and is worth every cent." },
+    { "type": "narration", "content": "A quiet. The coffee shop moved around them." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "She is lucky to have a young man who sees clearly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm the lucky one." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Yes." },
+    { "type": "narration", "content": "He said it simply, without argument." }
+  ]
+}

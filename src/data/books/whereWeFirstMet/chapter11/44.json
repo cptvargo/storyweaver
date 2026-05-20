@@ -1,0 +1,17 @@
+{
+  "page": 44,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The gondola reaches the bottom of its arc. The bar lifts. The ground is there — solid, immediate, completely ordinary." },
+    { "type": "narration", "content": "They step out." },
+    { "type": "narration", "content": "For a moment they don't move. Not quite back in the carnival yet. Not quite anywhere. Standing in the space between what just happened and whatever comes next." },
+    { "type": "narration", "content": "Cassandra looks up at the wheel — still turning, already loading the next gondola, entirely unaffected by what occurred inside it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm really glad Nathan found that flyer." },
+    { "type": "narration", "content": "Ethan looks at her — this woman who just gave him the most real thing she has — and something settles in his face. Something that has no name except: chosen. Definitively, completely, without reservation." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Me too." },
+    { "type": "narration", "content": "She takes his hand." },
+    { "type": "narration", "content": "They walk back into the carnival." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 3,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "What Daisy hadn't told anyone except Savannah was how the conversation with Ryan had gone." },
+    { "type": "narration", "content": "It had been a Sunday. They were sitting on the tailgate of his older brother's truck in the Hester's parking lot, sharing a milkshake, and Ryan had gone quiet in the middle of a sentence and then said:" },
+    { "type": "dialogue", "speaker": "Ryan", "content": "Can I ask you something. And can you just be straight with me." },
+    { "type": "narration", "content": "Daisy had known then. Something in the quality of the quiet." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Ryan", "content": "Is this about Kit." },
+    { "type": "narration", "content": "She didn't say yes. She didn't say no. She looked at the parking lot and she let the silence do the work, and Ryan nodded slowly the way he did when something he suspected had been confirmed." },
+    { "type": "dialogue", "speaker": "Ryan", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ryan —" },
+    { "type": "dialogue", "speaker": "Ryan", "content": "No, it's okay. I've been watching you two for a while. I know what that looks like." },
+    { "type": "narration", "content": "He wasn't angry. That was the part that got her. He just looked tired and a little sad and entirely too mature about it, and she felt terrible in a way that had nothing to do with guilt and everything to do with the fact that he deserved better than what she'd been giving him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm sorry." },
+    { "type": "dialogue", "speaker": "Ryan", "content": "I know you are." },
+    { "type": "narration", "content": "He drove her home. They didn't talk much. At her walk he said he hoped things worked out — not meanly, just plainly — and she watched him pull away and stood there for a while before going inside." }
+  ]
+}

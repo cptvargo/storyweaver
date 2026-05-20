@@ -1,0 +1,24 @@
+{
+  "page": 9,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They stayed up there longer than they should have. That was the thing about being somewhere you weren't supposed to be — time moved differently. Nobody was in a hurry to go back to the ground." },
+    { "type": "narration", "content": "Eventually Eli started a story about a cousin who'd seen a tornado from a water tower in Tennessee, which was not true and which everyone knew was not true but was entertaining enough to carry them through the last twenty minutes before Savannah said someone was going to call someone's parent about four kids on the condemned tower." },
+    { "type": "narration", "content": "Coming down was harder than going up, the way it always is. You have to trust the rungs backward, your feet probing for each one. Kit came down easy. Eli came down with a lot of commentary. Savannah came down methodically and without incident. Daisy came down third and only missed one rung — but she recovered so fast it almost didn't happen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Almost didn't happen." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Didn't happen." },
+    { "type": "narration", "content": "They got their bikes. The morning was turning into afternoon, the heat settling from something pleasant into something serious. Even the shade between houses felt warmer than it had an hour ago." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm hungry." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're always hungry." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's a structural fact about me, yes." },
+    { "type": "narration", "content": "They debated options. The Tasty Freeze was the obvious answer, but they'd already been nearby and going back felt like running out of ideas. Savannah's mom had probably made lunch, Savannah said, and Savannah's mom was the kind of woman who made enough for whoever showed up — a known fact in the neighborhood, exploited generously since third grade." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You can't just invite yourselves." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We're not inviting ourselves. We're arriving. There's a difference." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "There is not a difference." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Your mama loves us." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "My mama tolerates you. That's different too." },
+    { "type": "narration", "content": "But she was already turning her bike toward her street." }
+  ]
+}

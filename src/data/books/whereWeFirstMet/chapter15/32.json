@@ -1,0 +1,21 @@
+{
+  "page": 32,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He worked for eight days." },
+    { "type": "narration", "content": "Not all day — he started in the mornings when the light was right and stopped when he needed to stop. He ate lunch on the bench. He went home in the evenings and slept in a way he hadn't been sleeping, the sleep of a body that had been doing real physical work." },
+    { "type": "narration", "content": "People stopped to watch. He had expected that. He was used to being watched when he worked. He didn't mind it." },
+    { "type": "narration", "content": "Children especially. A girl of about six stood at the edge of his workspace for almost an hour one afternoon, watching him mix colors. He told her what he was making. She asked who the woman was." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "My wife." },
+    { "type": "narration", "content": "She accepted this completely and watched for another ten minutes and then left." },
+    { "type": "narration", "content": "He appreciated that about children. They asked the right question and then let you get back to work." },
+    { "type": "narration", "content": "On the fifth day the shape of her face was clear." },
+    { "type": "narration", "content": "On the seventh day he got the warm brown of her hair exactly right — the shade she had worn through all the years of their life together — and he had to stop working for a while." },
+    { "type": "narration", "content": "He sat on the bench." },
+    { "type": "narration", "content": "He looked at the color on the wall." },
+    { "type": "narration", "content": "He let himself have a few minutes." },
+    { "type": "narration", "content": "Then he went back." }
+  ]
+}

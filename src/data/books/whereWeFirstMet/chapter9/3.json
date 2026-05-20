@@ -1,0 +1,27 @@
+{
+  "page": 3,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Do you think he would have stayed less — if you'd told him in week two, or week three? Do you think the difference is meaningful?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't know." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I do. I think you know too, and you just don't like the answer." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Which is?" },
+    { "type": "dialogue", "speaker": "Lena", "content": "He was staying from the beginning. Not because of what you told him or didn't tell him. Because of who you are when you're with him. The information would have changed the conversation — it wouldn't have changed him." },
+    { "type": "narration", "content": "Cassandra was quiet for a long time. The tea had cooled enough to drink. She drank it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You can't know that." },
+    { "type": "dialogue", "speaker": "Lena", "content": "No. But I know him from watching you talk about him for months. And I know you — what you're like with people who make you feel safe. You don't become cautious with those people. You become more yourself." },
+    { "type": "narration", "content": "Lena paused." },
+    { "type": "dialogue", "speaker": "Lena", "content": "He made you more yourself. That's not something you engineer. That happened because of who he actually is." },
+    { "type": "narration", "content": "Cassandra looked at the chipped corner of the table." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm scared that telling him changes how he looks at me." },
+    { "type": "narration", "content": "It came out more quietly than the other things. The quiet of it was its own signal — the thing underneath the other things." },
+    { "type": "narration", "content": "Lena put her mug down." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I know. That's the real one. Not whether he stays. Whether you get to keep being the version of yourself that exists when he looks at you the way he does now." },
+    { "type": "narration", "content": "Cassandra's throat tightened." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yeah." }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page": 28,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "I meant what I said. About the friendship. It's not an excuse or a — I'm not trying to stall. I genuinely mean it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Tell me again. In person." },
+    { "type": "narration", "content": "She looked at her hands on the table." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You are the most important person in my life. You have been since I was eight years old. And the feelings — what I feel for you — they've been there a long time too. But they grew inside of the friendship. They're not separate from it. And I am scared that if we make it something defined and it doesn't work, I lose both. Not just one." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You think what we have could break." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I think anything can break if you put enough pressure on it without knowing what you're building." },
+    { "type": "narration", "content": "He sat with that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy. Can I say something." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What we already have — what it already is — that's not a friendship with feelings on the side. That IS the thing. We've been it for years. The reason you're scared to break it is because it's already real. Already something. The label doesn't change what it is." },
+    { "type": "narration", "content": "She looked up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not saying let's figure it all out tonight. I'm saying — you don't have to be scared of naming something that already exists. We're not building something new. We're just calling it what it is." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And what is it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's you and me. It's always been you and me." },
+    { "type": "narration", "content": "She exhaled slowly. He watched her — the way she processed things, taking each piece and turning it over before she answered. He'd been watching her do this for ten years. He could wait." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What about the distance. Spring semester." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We did the distance." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We did the distance with no name." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And we're still here." },
+    { "type": "narration", "content": "She was quiet. Then she reached across the table and put her hand over his." }
+  ]
+}

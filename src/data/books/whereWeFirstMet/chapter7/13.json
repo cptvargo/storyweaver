@@ -1,0 +1,26 @@
+{
+  "page": 13,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The early part was careful. Maya asked about his work. He answered without deflecting. She asked how he'd met Cassandra — he told the truth: she'd walked up to him at a fountain, interrupted something he'd been doing privately, and he'd been glad she had." },
+    { "type": "narration", "content": "Maya looked at the table when he said that. Something moved through her face and went away." },
+    { "type": "dialogue", "speaker": "Maya", "content": "She does that. She finds people in the middle of things. She always has. Even as a kid — she'd go straight for the one at a birthday party sitting near the wall, the adult at a family dinner who was answering questions too quickly. She has a sense for it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "What does she find in them?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "The part they're not showing." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Which is why I imagine she found quite a lot in you." },
+    { "type": "narration", "content": "He didn't deny it. Just acknowledged it." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Can I ask you something directly?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Go ahead." },
+    { "type": "dialogue", "speaker": "Maya", "content": "How well do you know her? Not the day-to-day of her — I mean the parts that are harder to show. How much of that have you seen?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know she lives like the moment she's in is the only one that matters. I know that when she says something it lands differently than when most people say things, because she means it completely. I know there's something she hasn't told me yet. I don't know what it is. But I can feel the shape of something around it." },
+    { "type": "narration", "content": "Maya was very still." },
+    { "type": "dialogue", "speaker": "Maya", "content": "And that doesn't worry you?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It makes me want to stay until she's ready to say it." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Because she's the first person in a long time who made me want to be present instead of beside something. And that doesn't come with conditions." },
+    { "type": "narration", "content": "Maya looked at him for a long moment. Then she looked at her coffee. Then back at him, and this time with something different in her expression — not less guarded exactly, but more real." }
+  ]
+}

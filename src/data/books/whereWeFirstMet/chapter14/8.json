@@ -1,0 +1,20 @@
+{
+  "page": 8,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The hard days still came." },
+    { "type": "narration", "content": "Not more than before. Not worse. But they came, because the condition had not agreed to be managed by love and good intentions, and it did not care what year it was or how well things were going." },
+    { "type": "narration", "content": "The hard days were the ones where the fatigue was not the manageable kind. Where the tightness in her chest came with an edge to it. Where she took her medication and waited and trusted the numbers and tried not to catalog what they meant." },
+    { "type": "narration", "content": "Ethan had learned what she needed on those days and what she didn't." },
+    { "type": "narration", "content": "She didn't need him to be afraid. She didn't need him to hover or ask too many questions or perform a calm he didn't have. She needed him to be steady — to move around the house normally, to make tea without announcing it, to come and sit near her without requiring anything from her in return." },
+    { "type": "narration", "content": "He had learned this without her having to say it more than once." },
+    { "type": "narration", "content": "On those days he would set tea on the table beside her and sit in the chair with his sketchbook and draw. Not her — that would have felt like documentation. Just whatever was in front of him. The window. The lamp. The grain of the wood on the coffee table." },
+    { "type": "narration", "content": "She had told him once that the sound of his pencil on paper was one of the things that helped most." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Because it means you're here. And you're not scared. Or if you are, you're not letting it into the room." },
+    { "type": "narration", "content": "He had never told her that sometimes he was. Sometimes, on the bad days, he drew with more force than the image required, pressing the pencil harder than he needed to, and that was where the fear went." },
+    { "type": "narration", "content": "She never needed to know about the pencil pressure." }
+  ]
+}

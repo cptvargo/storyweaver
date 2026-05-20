@@ -1,0 +1,23 @@
+{
+  "page": 28,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The gondola sways once as they board. Then steadies." },
+    { "type": "narration", "content": "The carnival falls below them — Nathan and Maya somewhere in that miniature world, Lena on her bench, all of it becoming small and then smaller as the wheel carries them upward in its slow, certain way." },
+    { "type": "narration", "content": "The sound changes. The midway noise — the overlapping music, the operators, the crowd — softens as they climb, the way noise softens when you move above it. Not gone. Just gentled. Changed in character." },
+    { "type": "narration", "content": "Cassandra's hands are in her lap." },
+    { "type": "narration", "content": "She is looking out. Not at him." },
+    { "type": "narration", "content": "Ethan rests his arm along the back of the seat — not around her, just near her. Available." },
+    { "type": "narration", "content": "The Ferris wheel carries them upward." },
+    { "type": "narration", "content": "The horizon expands." },
+    { "type": "narration", "content": "She can see the river from here, exactly as the sign had promised — a silver line in the afternoon light, very still from this height, the kind of distance that makes things look permanent." },
+    { "type": "internalThought", "content": "I've been watching exits my whole life. Not because I wanted to go — because I was afraid of what it would cost to stay." },
+    { "type": "narration", "content": "She doesn't say that. She will say something else instead." },
+    { "type": "narration", "content": "She says: \"Ethan.\"" },
+    { "type": "narration", "content": "Not a question. Not a beginning. Just his name, placed in the air between them like a hand extended." },
+    { "type": "narration", "content": "He says: \"Yeah.\"" },
+    { "type": "narration", "content": "In that single syllable, she hears that he is ready. That he has been ready for a while." }
+  ]
+}

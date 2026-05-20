@@ -1,0 +1,19 @@
+{
+  "page": 25,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "A moment of near-silence between them — the carnival a backdrop, neither of them in it." },
+    { "type": "narration", "content": "Lena reached over and held Cassandra's hand. For a few seconds. Then let go." },
+    { "type": "narration", "content": "She didn't cry. Cassandra didn't cry. This was beyond the place where crying was the response — it was deeper and quieter than that. The kind of moment that doesn't require anything except presence." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Do I look scared?" },
+    { "type": "narration", "content": "Lena considered her honestly. With the care of someone who would not lie." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You look like yourself. Which is different from scared." },
+    { "type": "narration", "content": "Cassandra stood. She looked in the direction Ethan had gone." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Okay." },
+    { "type": "narration", "content": "Just that. Just: okay." },
+    { "type": "narration", "content": "Lena nodded." },
+    { "type": "narration", "content": "Cassandra went." }
+  ]
+}

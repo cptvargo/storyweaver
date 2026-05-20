@@ -1,0 +1,18 @@
+{
+  "page": 34,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She finishes." },
+    { "type": "narration", "content": "The silence that follows is enormous. The carnival moves below them. The wheel turns. And Ethan is looking at her — not with the face of someone who has been damaged by what she's said but with the face of someone who is working to hold it correctly, turning it carefully in his hands to understand the full weight of it." },
+    { "type": "narration", "content": "Then he speaks. And when he does, it is not what she expected." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Is there anything — are there treatments? Beyond the medication?" },
+    { "type": "narration", "content": "His voice is quiet. Not scared. Searching." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Clinical trials. Research. Is anyone working on this?" },
+    { "type": "narration", "content": "She blinks." },
+    { "type": "narration", "content": "It's such a specific question. Such a practical one. He is not asking how to feel about it. He is asking what can be done. He needs to know there is a plan, a direction, something moving toward her." },
+    { "type": "internalThought", "content": "He's already trying to help. He hasn't even processed it yet and he's already trying to find a way to help." },
+    { "type": "narration", "content": "She feels something shift in her chest. Not her condition. Something else." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 17,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The balloon darts booth was Maya's idea, which surprised Nathan enough that he didn't comment on it." },
+    { "type": "narration", "content": "She stepped up. She threw. She hit four in a row with the clean precision of someone who had done this more than she was about to admit. The booth operator looked startled. Nathan handed her the next set of darts wordlessly." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're not going to say anything?" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "About what?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I just hit four in a row." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I noticed. I assumed you knew." },
+    { "type": "narration", "content": "She looked at him. He was entirely genuine. He handed her the prize — a large stuffed penguin — and took it back immediately when she held it out without ceremony, tucking it under his arm like it had always been there." },
+    { "type": "narration", "content": "He bought funnel cake. He passed her half without asking." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "When's the last time you did something just because it was fun?" },
+    { "type": "narration", "content": "She chewed the funnel cake. She thought about it." },
+    { "type": "narration", "content": "The honest answer was: she couldn't remember. There had been a version of her, before Cassandra's diagnosis, who did things lightly. Who went to parties without calculating what she'd miss and who she'd need to check in with. Who left for weekends without a plan for what to do if something happened." },
+    { "type": "narration", "content": "That version had been gone for three years." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm here, aren't I." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You are." },
+    { "type": "narration", "content": "He didn't make anything of it. He just acknowledged it and kept walking. She walked beside him." }
+  ]
+}

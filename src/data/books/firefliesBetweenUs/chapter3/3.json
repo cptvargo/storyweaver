@@ -1,0 +1,30 @@
+{
+  "page": 3,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay. End of summer rankings. Best thing we did. Go." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "The water tower." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Really? Not the Henderson house?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "The Henderson house was terrifying. The water tower was beautiful." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The Henderson house was terrifying and incredible. Those are not mutually exclusive." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We are not ranking the Henderson house." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Why not?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because we agreed we are not discussing the Henderson house in public places." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Hester's isn't public, it's basically our living room." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She's right. We don't talk about it." },
+    { "type": "narration", "content": "Eli looked at Kit, then at Daisy, then back at Kit with the expression of someone who had been managing the social dynamics of this group long enough to notice when a thing had more weight than advertised." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay. Not the Henderson house. Water tower, then. Agreed?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Agreed." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Agreed." },
+    { "type": "narration", "content": "Daisy was quiet for a second. Kit glanced at her." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The field." },
+    { "type": "dialogue", "speaker": "Eli", "content": "What field?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The one behind Kit's block. The fireflies." },
+    { "type": "narration", "content": "Eli started to say something and then seemed to think better of it, which was genuinely unprecedented. Savannah looked at her milkshake." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "He said it quietly, just to her, and Daisy looked at him across the table for one second before Gloria arrived with the food and the moment moved on." },
+    { "type": "narration", "content": "Eli's ranking system was immediately abandoned in favor of eating." }
+  ]
+}

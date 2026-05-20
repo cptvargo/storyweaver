@@ -1,0 +1,26 @@
+{
+  "page": 4,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "After school at the bike rack, the sun was still doing August things, and for about fifteen minutes it felt exactly like summer." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You know Derek Pruitt?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Derek from Sycamore Street?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. His cousin moved here. She's in seventh grade. Brooke Hadley." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't know her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She knows about the water tower." },
+    { "type": "narration", "content": "Daisy looked at him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "How." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Derek told her apparently." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Of course he did." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not a big deal." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I didn't say it was." },
+    { "type": "narration", "content": "They rode home the way they always did — Daisy taking the corner wide, Kit running the stop sign on Birch because he always did and she never commented on it anymore. The afternoon was easy. The week had been fine. Whatever seventh grade was going to be, it hadn't fully started yet." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You on AIM later?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "After dinner." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli's already threatening a group chat." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Of course he is." },
+    { "type": "narration", "content": "She turned onto Magnolia. He went straight. Normal." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "page": 13,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The first loop through the carnival had the quality of group happiness at its most specific: not the broad happiness of good fortune but the narrow, particular happiness of these five people in this place on this afternoon." },
+    { "type": "narration", "content": "Nathan's ring toss attempt was extended and theatrical and unsuccessful in a way that generated considerable commentary from Maya, who had not attempted the ring toss but had very specific opinions about his technique." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The rings are bent." },
+    { "type": "dialogue", "speaker": "Maya", "content": "The rings are circular. You're throwing at an angle." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm accounting for wind resistance." },
+    { "type": "dialogue", "speaker": "Maya", "content": "There is no wind." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "There's always micro-wind." },
+    { "type": "narration", "content": "Ethan and Cassandra watched this from a few feet back, eating kettle corn out of a shared bag. There was something about the rhythm of it — the reaching into the bag, the casual proximity — that had the quality of a long established habit even though it was new. Things between them sometimes felt like that. Like echoes of a future that had already been decided." },
+    { "type": "narration", "content": "She laughed at something Nathan said — the unguarded laugh, the one that happened before she decided to laugh — and Ethan watched it and thought what he always thought when it arrived: there it is." },
+    { "type": "narration", "content": "He ate his kettle corn. He was here." }
+  ]
+}

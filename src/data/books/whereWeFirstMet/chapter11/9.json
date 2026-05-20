@@ -1,0 +1,19 @@
+{
+  "page": 9,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She showered. She dressed. She stood at her bedroom mirror for a moment." },
+    { "type": "narration", "content": "She had rehearsed this conversation many times. In her head, at the table with Lena, with herself in this exact mirror at various points over the past months. She had tried different beginnings. She had tried different orders — the diagnosis first, then the history; the history first, then the diagnosis; starting with the medication, or the doctor, or the specific quality of the afternoon she'd found out. None of the orders had felt right." },
+    { "type": "narration", "content": "She understood this morning, looking at herself, that there was no right order." },
+    { "type": "narration", "content": "There was only the telling. She would start somewhere and then continue, and it would not be perfect and it would not be in the order she'd rehearsed, and she would stop and start again the way she stopped and started with difficult things, and he would be there while she did it. That was all that mattered. He would be there." },
+    { "type": "narration", "content": "She picked up her phone. She texted him: Ready when you are." },
+    { "type": "narration", "content": "He texted back in less than a minute: Me too." },
+    { "type": "narration", "content": "She looked at that for a moment." },
+    { "type": "internalThought", "content": "Me too. Not 'I'm ready.' Me too. We're ready together." },
+    { "type": "narration", "content": "She put the phone in her pocket. She got her jacket from the hook by the door. She texted Lena: Come get me?" },
+    { "type": "narration", "content": "Three seconds later: Already outside." },
+    { "type": "narration", "content": "She put on her shoes. She left." }
+  ]
+}

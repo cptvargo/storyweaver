@@ -1,0 +1,30 @@
+{
+  "page": 9,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The worst claw machine in the building had a broken rotation mechanism — the claw could only travel forward and back, no left, no right — which Cassandra described as heroically limited and proceeded to lose four tokens to before winning a small yellow chick barely distinguishable from a lemon." },
+    { "type": "narration", "content": "She held it up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Victory." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You can only move it in one direction." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And yet. Here we are." },
+    { "type": "narration", "content": "He shook his head. But he was smiling." },
+    { "type": "narration", "content": "They moved through the arcade like that — finding things, failing at things, arguing about technique and luck and whether a machine could be sentient enough to hold a grudge. Cassandra was loud when she lost and quiet when she won, which was somehow the opposite of what he'd expected and exactly right." },
+    { "type": "narration", "content": "At the skee-ball lane, she asked him to show her his form." },
+    { "type": "narration", "content": "He showed her." },
+    { "type": "narration", "content": "She corrected his elbow, which she knew nothing about and was completely confident about anyway." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're releasing too late." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been playing skee-ball for fifteen years." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "And yet your elbow." },
+    { "type": "narration", "content": "He let her. Her hand closed over his forearm to adjust the angle and he went completely still — not because he wanted her to stop, not because he didn't, but because something in the contact asked to be held carefully rather than reacted to. She adjusted. Stepped back. The warmth where her hand had been stayed." },
+    { "type": "narration", "content": "He threw the ball." },
+    { "type": "narration", "content": "Center ring." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I wasn't going to say anything." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You were." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I was absolutely going to say something." },
+    { "type": "narration", "content": "She was already laughing. And so, without quite meaning to, was he." }
+  ]
+}

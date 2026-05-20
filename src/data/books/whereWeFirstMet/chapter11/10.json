@@ -1,0 +1,20 @@
+{
+  "page": 10,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She stopped in the hallway." },
+    { "type": "narration", "content": "Her building was old and the hallway always smelled like someone else's cooking. Today it was something sweet — cardamom, or something close to it. She stood there and breathed it in." },
+    { "type": "narration", "content": "She had been thinking about what to say for so long that the thought had become its own kind of weight. But she had said something to Lena last night, on the phone, after everyone had gone home, that had clarified something: You don't have to say it perfectly. Lena had not said it yet — that was tomorrow, on the bench by the quiet ride, she would say it then. But Cassandra had been moving toward that understanding on her own, and standing in the hallway with the smell of cardamom in the air, she arrived at it." },
+    { "type": "narration", "content": "It didn't need to be perfect. It just needed to be honest." },
+    { "type": "narration", "content": "She had been honest with him from the beginning, in everything except this. And this was the thing that the rest of the honesty had been waiting for." },
+    { "type": "narration", "content": "She walked down the stairs. Outside, Lena's car was at the curb, engine running. Cassandra got in." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Hi." },
+    { "type": "narration", "content": "Neither of them said anything else, because Lena already knew what today was, and Cassandra was grateful not to have to explain it." },
+    { "type": "narration", "content": "They drove past Fairfield Road on the way to the Copper Mug. The cherry trees were in bloom, pale pink against the morning sky." },
+    { "type": "narration", "content": "Cassandra looked at them as they passed." },
+    { "type": "narration", "content": "She didn't say anything. She just looked at them, and then she looked forward, at the road." }
+  ]
+}

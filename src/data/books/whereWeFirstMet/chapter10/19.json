@@ -1,0 +1,29 @@
+{
+  "page": 19,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He didn't have to wait long." },
+    { "type": "narration", "content": "Cassandra appeared at the doorway a few minutes later. She had clearly been guided — he could see it in the slight uncertainty of her arrival, the way she looked into the room before stepping fully through the doorway, then looked back over her shoulder at the hallway behind her. Then she looked at Ethan. At the room. At the candle." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He is not subtle." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "He's very subtle. That's the thing. Everything he does is extremely precise. The effect is just obvious in retrospect." },
+    { "type": "narration", "content": "She came into the room. She looked at the small table, the candle, the dim lamp." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He arranged all of this." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The whole evening, I think. Some of what's happened tonight was very deliberately designed." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Does that bother you?" },
+    { "type": "narration", "content": "He thought about it honestly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No. He was doing what he does — creating conditions where things that should happen can happen. He's not deciding anything for us. He's just making the room." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's a very generous way to receive being manipulated." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's not manipulation if the person doing it loves you well." },
+    { "type": "narration", "content": "He said it simply, without intending it to land as heavily as it did." },
+    { "type": "narration", "content": "She was quiet." },
+    { "type": "narration", "content": "The music from the speaker was very soft. Something that had that particular quality of evening music — the kind that understands it is not the main event." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There's music." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "There is." },
+    { "type": "narration", "content": "She looked at him. He looked at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "He moved toward her." }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": 25,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She called at noon the next day." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Done." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How was it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Good. Really good actually. Okay. I have to pack and Claire and I are doing lunch and then I'm loading the car. I'll be home by seven, maybe eight." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Text me when you get on the road." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I will." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And when you cross the state line." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That specific." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Humor me." },
+    { "type": "narration", "content": "She texted him from the road at two-thirty. From the Tennessee border at six-twelve. He was sitting in his living room pretending to watch television and Darius and the editing bay and the whole LA semester felt like it belonged to a different chapter of something." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "georgia" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "welcome home" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "thirty minutes" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "come over when you're settled" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "tonight?" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "unless you're tired" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i'll be there by nine" },
+    { "type": "narration", "content": "He put the phone down. The television was showing something he hadn't been watching. Outside, Millhaven was dark and cold and completely itself." },
+    { "type": "narration", "content": "He went upstairs and changed his shirt. Then stood in front of the mirror for a second and felt slightly ridiculous about it. Then did it anyway." }
+  ]
+}

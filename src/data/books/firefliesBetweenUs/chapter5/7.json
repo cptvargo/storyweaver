@@ -1,0 +1,24 @@
+{
+  "page": 7,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Savannah messaged Daisy at 4:07 PM." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "hey. are you home" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "yeah why" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "I need to tell you something and I need you to hear it from me and not someone else" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "ok" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "kit took brooke to the water tower saturday" },
+    { "type": "narration", "content": "Daisy stared at the screen." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "derek pruitt is telling everyone they kissed up there" },
+    { "type": "narration", "content": "The den was quiet. The computer fan hummed. Outside, somebody's dog was barking at something two streets over." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "daisy" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "you still there" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "thanks for telling me" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "I'm sorry" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "I know what that place means" },
+    { "type": "narration", "content": "Daisy read that last message twice. Then she set her status to away and didn't change it back." }
+  ]
+}

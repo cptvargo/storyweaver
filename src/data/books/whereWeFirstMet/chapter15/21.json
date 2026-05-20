@@ -1,0 +1,17 @@
+{
+  "page": 21,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan stood briefly. He was not a man who needed many words." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I came in late. I never knew her when she was young, never knew the early chapters. I only know what she was when I arrived." },
+    { "type": "narration", "content": "He looked at Maya." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She gave me Maya. The Maya I know — the one who lets herself be loved, who trusts people enough to let them in, who laughs without calculating it first. That person exists because of twenty years of Cassandra showing up and refusing to let her sister stay closed off." },
+    { "type": "narration", "content": "He stopped for a moment." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I didn't know her as long as most of you. But I know what I owe her. I know exactly what I owe her. And I'm going to spend the rest of my life trying to be worth what she gave me." },
+    { "type": "narration", "content": "He sat down." },
+    { "type": "narration", "content": "Maya reached for his hand without looking at him." },
+    { "type": "narration", "content": "He gave it." }
+  ]
+}

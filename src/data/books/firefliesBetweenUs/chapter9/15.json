@@ -1,0 +1,27 @@
+{
+  "page": 15,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "She didn't answer right away. He waited." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What is exactly us, Kit." },
+    { "type": "narration", "content": "The question landed like something thrown from a height. Not mean — desperate. Like it had been sitting behind her teeth for months." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No. Answer me. What are we right now. Because from where I'm standing we're not together. We've never said we're together. You haven't asked me to be your girlfriend. I haven't said yes to anything that had a name. So when a girl puts her hand on your arm at a party what exactly am I upset about. What right do I even have." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You have every right —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Do I? Because by every actual definition of what we are, we're friends who said some things on a sidewalk in April. That's it. That's the whole thing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You know it's more than that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. I do. And that's what scares me, Kit. I've had feelings for you for a long time. A long time. But our friendship has always mattered just as much — it mattered first, before any of this — and I am terrified of losing that. I am terrified that if we make it into something real and it breaks, I lose you. Not just the boyfriend. You." },
+    { "type": "narration", "content": "He was very quiet." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "So yeah. I don't know what we are. And maybe that's my fault just as much as yours. But I need you to understand that the reason I haven't pushed for a definition isn't because I don't want one. It's because I'm scared of what happens if it falls apart." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You think I'm not scared of the same thing." },
+    { "type": "narration", "content": "She didn't say anything." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You've been my best friend since we were eight years old. You think I don't know exactly what's at stake. You think I'd be this careful, this — this slow about all of it, if I wasn't scared of the same thing you are." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Then why haven't you said anything." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I've been saying it for years, Daisy. I put a song on my MySpace. I asked you to prom as my date. I held your hand on a sidewalk. I said the words. What exactly do you need me to do." },
+    { "type": "narration", "content": "The line went quiet. Outside her dorm window, snow was coming down again. She watched it." }
+  ]
+}

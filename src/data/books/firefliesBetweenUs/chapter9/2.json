@@ -1,0 +1,26 @@
+{
+  "page": 2,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "USC was nothing like Millhaven. Kit had known that going in and still wasn't prepared for the actual size of it — the campus sprawling in every direction, palm trees lining the walkways, everyone moving like they already knew where they were going." },
+    { "type": "narration", "content": "His roommate's name was Darius. Pre-med, from Atlanta, had already organized his side of the room with a precision that made Kit feel vaguely chaotic." },
+    { "type": "dialogue", "speaker": "Darius", "content": "You're film?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Film studies. Yeah." },
+    { "type": "dialogue", "speaker": "Darius", "content": "Cool. I don't understand film people but I respect the commitment." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't understand pre-med people but same." },
+    { "type": "narration", "content": "They got along fine after that." },
+    { "type": "narration", "content": "LA was hot in August. Not Georgia hot — a different kind of dry and relentless. He walked to his first orientation session in shorts and a t-shirt and still felt overdressed compared to half the people around him. Everyone seemed to belong here already. He kept thinking about the walk to school. Two people on a sidewalk. The neighborhood he'd known since he was eight." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "there are palm trees everywhere. like too many. its excessive" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "how many is too many" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "all of them. every single one is too many" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "it was 52 degrees when i woke up this morning. in august. kit. 52 degrees" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "ok maybe some palm trees are acceptable" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "my roommate is from Iowa. she brought four winter coats. i thought that was excessive. i no longer think that" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "you're going to need a real coat" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i have a real coat" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "a georgia coat or an actual coat" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "...i'll get another coat" }
+  ]
+}

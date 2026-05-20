@@ -1,0 +1,22 @@
+﻿{
+  "page": 21,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "That night he opened AIM out of habit." },
+    { "type": "narration", "content": "Daisy was online. Her away message had changed — it wasn't the defensive nothing she'd had all November. It was something new. He read it twice." },
+    { "type": "narration", "content": "It said: some things are better when you don't forget them." },
+    { "type": "narration", "content": "He sat with that for a long time." },
+    { "type": "narration", "content": "He knew that line. He knew exactly where it came from — a corner in Millhaven, a Saturday in July, her turning onto Magnolia without looking back. He'd turned it over in his head so many times the edges had gone smooth. And she'd put it up there. For anyone to read, for nobody in particular, the way away messages worked — saying everything to everyone and hoping the right person understood." },
+    { "type": "narration", "content": "He understood." },
+    { "type": "narration", "content": "He opened a new window. Typed. Deleted it. Typed something else." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I haven't forgotten any of it" },
+    { "type": "narration", "content": "He sent it before he could think too hard about it." },
+    { "type": "narration", "content": "Three minutes passed. He watched the cursor. Then:" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "I know." },
+    { "type": "narration", "content": "Just that. Two words. He read them and felt something shift in his chest — not resolved, not fixed, not anywhere near what it needed to be — but real. A thread still there. Thin, but there." },
+    { "type": "narration", "content": "High school was eight months away." },
+    { "type": "narration", "content": "He didn't know what he was going to do with that yet. But for the first time since November, he thought he might actually have to figure it out." }
+  ]
+}

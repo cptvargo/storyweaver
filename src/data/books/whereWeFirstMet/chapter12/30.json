@@ -1,0 +1,17 @@
+{
+  "page": 30,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The reception had the quality of something that had been thought about from the inside out — not a formal event dressed in flowers but an actual gathering, the kind where people felt permission to be themselves." },
+    { "type": "narration", "content": "Music came from somewhere soft and unobtrusive. Tables on the deck held food Mr. Hailey had chosen personally. The fire pit on the beach drew people in its direction the way fire always does — slowly, without announcement, until there was a loose ring of guests around it, all of them talking to each other with the loosened warmth of people who had witnessed something and are still feeling the weight of it lift." },
+    { "type": "narration", "content": "Thomas Hailey stood at the edge of the deck with a glass in his hand, watching. The guests. The fire. His daughter, somewhere near the shoreline, laughing at something her husband had said." },
+    { "type": "narration", "content": "His husband." },
+    { "type": "narration", "content": "He let the word sit. Tested it. Found that it fit." },
+    { "type": "narration", "content": "He had made this place because he'd wanted, at least for one night, for all of them to have the kind of evening that asks nothing except that you be present in it. He'd done it because Cassandra deserved a night where she didn't have to manage anything — not her health, not the temperature of a room, not the emotional needs of anyone else. A night that was simply, entirely hers." },
+    { "type": "narration", "content": "He thought about that. About what it cost a person to spend years managing the feelings of everyone who loved them, carrying the weight of everyone else's fear quietly so that no one else had to." },
+    { "type": "narration", "content": "He raised his glass, very slightly, toward the shoreline." },
+    { "type": "narration", "content": "She didn't see it. That was fine." }
+  ]
+}

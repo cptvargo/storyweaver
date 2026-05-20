@@ -1,0 +1,15 @@
+{
+  "page": 22,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They were near the far edge of the fairgrounds when Lena appeared." },
+    { "type": "narration", "content": "Not following — finding. Lena had the ability to locate Cassandra in a crowd without appearing to navigate, which was one of the things about a seven-year friendship that Cassandra had stopped questioning and simply relied on." },
+    { "type": "narration", "content": "She fell into step on Cassandra's other side, and the transition was seamless. Ethan read the moment without being told — read it in the way of someone who had learned to pay attention — and said simply:" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'll find something to drink." },
+    { "type": "narration", "content": "He released her hand and peeled away and Cassandra watched him go — the blue shirt moving through the crowd, his particular way of moving through a space, which she had memorized without realizing she was memorizing it." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Come sit with me for a minute." },
+    { "type": "narration", "content": "Cassandra went." }
+  ]
+}

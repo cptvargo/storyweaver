@@ -1,0 +1,18 @@
+{
+  "page": 7,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The mountains." },
+    { "type": "narration", "content": "The look on her face when she first saw them through the windshield — the particular quality of wonder she had never tried to suppress, the wonder she had always worn openly and without embarrassment. The valley overlook. The two of them at the edge of the world." },
+    { "type": "embed", "src": "/road_trip_pic_1.png" },
+    { "type": "narration", "content": "Her voice: I want to do everything with you." },
+    { "type": "narration", "content": "Her voice: We're coming back. Not for a honeymoon. Just to come back." },
+    { "type": "narration", "content": "They had come back. Three times. The cabin was still there, still exactly the right kind of quiet, still smelling of cedar and the mountains. The last time they had gone she had stood on the porch and looked at the view and said nothing for a long time and he had stood beside her and said nothing and that had been entirely enough." },
+    { "type": "narration", "content": "He could still hear her voice." },
+    { "type": "narration", "content": "He would always hear her voice." },
+    { "type": "narration", "content": "He would carry it in the part of him that worked before words, the part that held everything she had ever given him, and it would not leave." },
+    { "type": "narration", "content": "It would never leave." }
+  ]
+}

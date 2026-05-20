@@ -1,0 +1,27 @@
+{
+  "page": 18,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Kit", "content": "For what it's worth — Eli thinks I'm the least self-aware person he knows." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli's right." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're supposed to defend me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I defend you when you're right. This is not that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What am I missing?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "A lot." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Specifically." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm not making a list." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "narration", "content": "She said his name the way she always did when she was holding back a smile, and he heard it, and something in his chest loosened for the first time all week." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I missed this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's been four days." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Long four days." },
+    { "type": "narration", "content": "She looked at him then, and the smile finally came through — the real one, the one she didn't always let through — and it was the most like summer the week had felt." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You should check that notebook. The math one." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I checked it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's from Spanish." }
+  ]
+}

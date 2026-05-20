@@ -1,0 +1,15 @@
+﻿{
+  "page": 20,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Pastor", "content": "We are gathered here today in the presence of family and friends to witness and celebrate the joining of Ethan James Carter and Cassandra Marie Hailey in marriage." },
+    { "type": "narration", "content": "The room was very still." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Marriage is not something that happens to us. It is something we choose — not once, at the altar, but every day, in the ordinary moments that make up a life. It is the decision, made again and again, to face the world not alone but together. To stand in the difficult places side by side and not turn away." },
+    { "type": "narration", "content": "Cassandra's hand tightened in Ethan's." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "The love that brings us here today is not the love of the easy hours, though those are precious too. It is the love that has already been tested. That has looked clearly at everything — the uncertainty, the weight, the days that ask the most — and has said: all of it. I choose all of it." },
+    { "type": "narration", "content": "In the front row, Ethan's mother pressed a handkerchief to her face." },
+    { "type": "narration", "content": "In the row behind her, Mr. Alvarez — who had been invited and had come, dressed more carefully than anyone had ever seen him dressed — sat with his hands folded in his lap, his expression the particular quiet satisfaction of someone who has watched a thing grow from a seed." }
+  ]
+}

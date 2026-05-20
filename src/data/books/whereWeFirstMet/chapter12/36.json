@@ -1,0 +1,27 @@
+{
+  "page": 36,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The car was packed. The mountains were waiting. And the send-off, it turned out, was the loudest part of the whole day." },
+    { "type": "narration", "content": "Nathan had opinions about how a send-off should be conducted and was sharing them at a volume that suggested he had been waiting for this moment since approximately the engagement. He had sparklers — where he'd gotten sparklers at a beach reception was a question nobody was willing to ask — and he had distributed them with the efficient confidence of someone running an operation." },
+    { "type": "narration", "content": "Lena had been crying since the reception started and had stopped apologizing for it." },
+    { "type": "narration", "content": "Maya stood at the edge of the group, arms crossed, smiling despite herself. Nathan caught her eye. She looked away. He kept smiling." },
+    { "type": "narration", "content": "Thomas Hailey said his goodbye last. He held Cassandra for a long time without saying anything." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Call when you get there." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I will." },
+    { "type": "narration", "content": "He shook Ethan's hand and then held it a moment." },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Take care of each other." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "We will." },
+    { "type": "narration", "content": "Thomas nodded. Stepped back." },
+    { "type": "narration", "content": "The sparklers went up. Nathan made a sound that was probably a cheer but had no real word for it. Lena held Cassandra's face one more time — both hands, the same as outside the chapel — and then let her go." },
+    { "type": "narration", "content": "They got in the car." },
+    { "type": "narration", "content": "Cassandra looked back through the window as they pulled away. The fire pit still burning on the beach. The torches lining the path. All of them standing there, lit and waving, their shapes becoming smaller as the car moved down the road — her father, her sister, Lena, Nathan — the whole landscape of the people she loved, briefly held in the back glass, and then gone around the curve." },
+    { "type": "narration", "content": "She faced forward." },
+    { "type": "narration", "content": "The mountains were five hours away. The road ahead was dark and long and entirely theirs." },
+    { "type": "narration", "content": "Ethan drove with his hand open on the console between them." },
+    { "type": "narration", "content": "She put hers in it." },
+    { "type": "narration", "content": "The night opened ahead of them." }
+  ]
+}

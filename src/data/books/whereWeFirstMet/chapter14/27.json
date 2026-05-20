@@ -1,0 +1,30 @@
+{
+  "page": 27,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "December came fully." },
+    { "type": "narration", "content": "She got stronger. Slowly — not in the dramatic way of a recovery arc, but in the quiet incremental way of a body reasserting its rhythms. A longer walk than yesterday. Sitting up for the whole afternoon. Cooking one meal, then two." },
+    { "type": "narration", "content": "They got the Christmas tree. Too tall. She had been right." },
+    { "type": "narration", "content": "Ethan documented none of the recovery. Some things were not for the sketchbook." },
+    { "type": "narration", "content": "They talked about the defibrillator. They went back to the doctor. They asked more questions. They sat in the car afterward in the hospital parking lot and didn't start the engine for a long time." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't want to decide yet." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want some time where we don't have to decide. I just want — some time." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "We have time." },
+    { "type": "narration", "content": "She looked at him. Something moved through her expression that she didn't try to name." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "We have time, Cass. Whatever time there is — we have it." },
+    { "type": "narration", "content": "He started the car." },
+    { "type": "narration", "content": "They drove home." },
+    { "type": "narration", "content": "The house was warm when they got back. Ethan lit the lamp in the front room. The Christmas tree stood in the corner, too tall, tipping slightly, one string of lights not quite reaching." },
+    { "type": "narration", "content": "Perfect." },
+    { "type": "narration", "content": "Cassandra went to the bedroom and sat on the edge of the bed and looked at Harold on his shelf." },
+    { "type": "narration", "content": "Harold looked back with the placid expression of a stuffed bear who had been watching over her for years and intended to keep doing it." },
+    { "type": "narration", "content": "She lay down." },
+    { "type": "narration", "content": "Ethan came in a while later and lay beside her without turning on the light." },
+    { "type": "narration", "content": "His hand found hers in the dark." },
+    { "type": "narration", "content": "Outside, December." },
+    { "type": "narration", "content": "Inside, them." }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": 32,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "December moved the way December in Millhaven always had — slow during the day, fast when you looked back at it. Christmas lights on the houses. The diner on Main Street doing holiday hours. The particular quiet of a small town that had settled in for winter." },
+    { "type": "narration", "content": "They spent most of it together. Not dramatically — just the natural way that two people who had been orbiting each other since they were children finally stopped maintaining the distance. Movies at her house. Walks to nowhere specific. His car, her porch, the diner booth they'd been sitting in since middle school." },
+    { "type": "narration", "content": "He held her hand now. Out loud. Without it being a thing." },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "update on the situation please" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "we're good eli" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "how good" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "good good" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "have you kissed her yet" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "goodnight eli" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "THAT'S A NO" },
+    { "type": "narration", "content": "It wasn't a no. It was just — not yet. There was something still waiting. Something that both of them could feel — that the chapter wasn't quite closed, that the thing they'd been building toward had one more beat before it landed." },
+    { "type": "narration", "content": "He didn't push. She didn't either. They were good at waiting. They'd had years of practice." },
+    { "type": "narration", "content": "January came. Spring semester started." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "back in minnesota. it is negative 4 degrees kit. negative" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "negative." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "NEGATIVE." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "but you're my girlfriend who is at negative 4 degrees" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "..." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "yeah ok that helps a little" }
+  ]
+}

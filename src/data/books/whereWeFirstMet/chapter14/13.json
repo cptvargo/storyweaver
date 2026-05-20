@@ -1,0 +1,29 @@
+{
+  "page": 13,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena saw it first." },
+    { "type": "narration", "content": "The color leaving her face. The way her hand went to her chest — just for a second, barely — and then she listed to the left. The scrape of the chair. The sound of the glass." },
+    { "type": "narration", "content": "Then she was on the floor and the room came apart." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "narration", "content": "He was around the table before anyone else had understood what they were seeing — around it and on his knees beside her, both hands on her face." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No. No. No— Cass. Cass!" },
+    { "type": "narration", "content": "She wasn't responding. Her eyes were closed. Her face was wrong — too still, too pale, wrong in a way that had no other word for it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No.... No.... No.... Cass! Please no.... not like this... Cass!!" },
+    { "type": "narration", "content": "His voice broke completely on the last one." },
+    { "type": "narration", "content": "Maya made a sound. Not a word — something older than words, something that came from a place that had been bracing for this for twenty-two years. The sound a person makes when the thing they have been quietly afraid of their entire life arrives in the middle of a dinner that was going perfectly." },
+    { "type": "narration", "content": "She was standing, both hands pressed over her mouth, completely still. Shattered in place." },
+    { "type": "narration", "content": "Her mother said her name — once, just once — the way a mother says a name when she is terrified." },
+    { "type": "narration", "content": "Thomas Hailey was on his feet. He had the look of a man who had been dreading this in the background of every good day for years and who was now in it, and there was nothing left to dread because the thing itself had arrived." },
+    { "type": "narration", "content": "He crossed toward his daughter. Then stopped. He let Ethan have the floor." },
+    { "type": "narration", "content": "Lena was already moving." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I've got 911. Everyone back up — give her air. She's breathing. I can see her breathing." },
+    { "type": "narration", "content": "She said it calm and clear and true. It was the most important sentence spoken in that room." },
+    { "type": "narration", "content": "Ethan was on the floor beside her. He had her hand. He wasn't letting go of her hand." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm right here. I'm right here, Cass. Stay with me. Please stay with me." },
+    { "type": "narration", "content": "His hands were shaking." },
+    { "type": "narration", "content": "He held on anyway." }
+  ]
+}

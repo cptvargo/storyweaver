@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The thing about a promise to Daisy May Jones was that she never had to remind you of it. It just sat there in your chest all night, and in the morning when you woke up, it was the first thing you felt." },
+    { "type": "narration", "content": "Kit was up before his alarm. This was not a thing that happened." },
+    { "type": "narration", "content": "He lay there with the ceiling fan going overhead and the summer heat already pressing through the window screen — in Millhaven in August, the heat didn't disappear at night, just pulled back a little and waited — and he thought about the Henderson property, and the creaky floors, and the saddle Eli kept insisting was in the barn. And then he thought about the field. And the fireflies. And Daisy's voice saying whatever this is like it was the most natural thing in the world to say." },
+    { "type": "narration", "content": "He got up. Got dressed. Grabbed his bike from the porch and rode two blocks north to Magnolia Street." },
+    { "type": "narration", "content": "Daisy was already on the front steps. She had a granola bar in one hand and her hair was still loose from sleep, and she looked up when she heard the bike with no surprise at all." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You came first." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I said I would." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "narration", "content": "She stood and finished the granola bar and folded the wrapper small and tucked it in her pocket — that was Daisy, she didn't leave things behind — and came down the steps and picked up her bike from the side of the porch." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Rules." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We've done this before." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Rules, Kit." },
+    { "type": "narration", "content": "He sighed." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We look before we touch anything. We stay where we can see each other. If we hear anything that isn't us, we go." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And?" },
+    { "type": "narration", "content": "He had forgotten there was an and." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We don't split up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Right." },
+    { "type": "narration", "content": "She gave him the look. The one that said she knew exactly how long that rule was going to last." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We don't split up. I know." },
+    { "type": "narration", "content": "They rode to the corner. Eli was already there, practically vibrating. Savannah stood beside him with her arms crossed and the patient expression of someone who had made peace with the situation." }
+  ]
+}

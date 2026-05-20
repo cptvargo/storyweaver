@@ -1,0 +1,16 @@
+﻿{
+  "page": 6,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Three months after the carnival." },
+    { "type": "narration", "content": "Ethan came to The Copper Mug on a Tuesday morning, the slow hour between the commute rush and the late-morning regulars. He sat in the booth nearest the window and ordered coffee and opened his sketchbook and didn't draw anything." },
+    { "type": "narration", "content": "Mr. Alvarez appeared at the table with the coffee and without being asked. He looked at Ethan — at the sketchbook with nothing in it, at the quality of his stillness, at the particular way he was sitting that meant something was being worked out — and he sat down across from him." },
+    { "type": "narration", "content": "He said nothing. He poured his own coffee from the carafe he'd brought and waited." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to marry her." },
+    { "type": "narration", "content": "He said it plainly. Not the way you say something you're working out — the way you say something you've already decided and are only now putting into words." },
+    { "type": "narration", "content": "Mr. Alvarez wrapped both hands around his cup. He looked at the younger man across from him — this quiet, attentive person who had been coming into his coffee shop for two years and who had changed, unmistakably, in the last several months. Changed the way people change when they've been chosen by something real." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Tell me how you know." }
+  ]
+}

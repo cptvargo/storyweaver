@@ -1,0 +1,24 @@
+{
+  "page": 15,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They stayed another hour. Then Eli's mom's minivan. Eli in front because he'd called it, Savannah and Marcus in the back, Kit and Daisy in the middle row with a gap between them that nobody acknowledged." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I want everyone to know that after the line dance situation, the DJ pulled it together. I've revised my assessment." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You had beef with the DJ all night." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I had concerns. They were valid. He addressed them." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "He played the electric slide." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Nobody's perfect." },
+    { "type": "narration", "content": "Kit looked out the window. Millhaven at night, the streetlights going by." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Cold tonight." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "The radio was low. Savannah said something kind about Brooke and Ryan. Eli agreed. Nobody looked at Kit and Daisy." },
+    { "type": "narration", "content": "At her walk, everyone said goodnight. Daisy climbed out, turned back." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Night Savannah. Eli. Marcus." },
+    { "type": "narration", "content": "Then she looked at Kit. Half a second longer than the rest." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Night, Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Night." },
+    { "type": "narration", "content": "She went inside. He watched the porch light come on and said nothing for the rest of the ride home." }
+  ]
+}

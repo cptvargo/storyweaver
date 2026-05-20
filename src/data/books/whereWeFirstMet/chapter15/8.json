@@ -1,0 +1,18 @@
+{
+  "page": 8,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The mountain overlook. The way she had been looking at the horizon — not at him, just at the mountains — and how he had leaned over and kissed her and she had gone still for a second and then kissed him back and the phone had been in his hand the whole time and he had gotten the picture almost by accident." },
+    { "type": "embed", "src": "/road_trip_pic_2.png" },
+    { "type": "narration", "content": "The rings." },
+    { "type": "narration", "content": "The weight of them. He had never taken his off. Not once in fifteen years. He looked at it now, on his hand on the floor of their bedroom, and it was the most specific object in the world." },
+    { "type": "embed", "src": "/ethan_cass_wedding_rings.png" },
+    { "type": "narration", "content": "Her voice at the chapel: Hi husband." },
+    { "type": "narration", "content": "His voice: Hi wife." },
+    { "type": "narration", "content": "The mornings. All the mornings. The warmth of the bed they had shared, the private life of them — every quiet hour, every morning she fit against him in the dark, every night he had listened to her breathe and been grateful for the particular sound of it." },
+    { "type": "narration", "content": "Fifteen years of waking up beside her." },
+    { "type": "narration", "content": "Fifteen years." }
+  ]
+}

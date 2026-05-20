@@ -1,0 +1,28 @@
+{
+  "page": 8,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Two weeks later Eli pulled him aside at the bike rack." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You know it's February." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm aware." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You're going to California in August. She's going to Minnesota in August." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli —" },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm not going to watch you leave without saying it. I'm telling you right now. I cannot watch that happen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not that simple." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I didn't say it was simple. I said say it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And then what. We're leaving. We're going to different coasts." },
+    { "type": "dialogue", "speaker": "Eli", "content": "And that's hard. But it's not an excuse to say nothing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What if she doesn't —" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I was at homecoming. I've been watching you two since eighth grade. She does." },
+    { "type": "narration", "content": "Kit looked at the fence." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You've got six months before August. Don't waste all of them." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I hear you." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Do you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah. I do." },
+    { "type": "narration", "content": "Eli unlocked his bike. Said nothing else. He didn't need to." }
+  ]
+}

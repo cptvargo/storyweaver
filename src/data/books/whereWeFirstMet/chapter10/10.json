@@ -1,0 +1,20 @@
+{
+  "page": 10,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The scores were more or less even by the third round, which Mr. Alvarez announced with the particular tone of someone who had been ensuring they stayed that way." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Are you fixing it?" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I'm judging it. The cards say what the cards say." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "One of those answers was borderline." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Many things in life are borderline. That one went to Ethan's team." },
+    { "type": "narration", "content": "Nathan pointed a finger at him. Mr. Alvarez returned a very slight smile and picked up the next card." },
+    { "type": "narration", "content": "Cassandra had stopped actively competing by the middle of the third round. Not because she wasn't interested — because she was watching Ethan instead. The way he looked when he was thinking: the slight angle of his head, the specific stillness that preceded the answer. The way he had, over the course of an evening, become easier in his own skin around all of these people." },
+    { "type": "narration", "content": "She thought about this morning. She thought about the song. She thought about tomorrow." },
+    { "type": "narration", "content": "Not with dread. With the particular quality of awareness you have when you know something important is coming and you want to be fully present for what exists before it." },
+    { "type": "narration", "content": "Ethan looked up and caught her watching." },
+    { "type": "narration", "content": "She didn't look away." },
+    { "type": "narration", "content": "He said nothing. He just held it for a moment — her attention, openly given — and then turned back to the card Mr. Alvarez was reading." }
+  ]
+}

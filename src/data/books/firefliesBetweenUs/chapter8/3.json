@@ -1,0 +1,30 @@
+{
+  "page": 3,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He told Eli at the bike rack on a Thursday." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm applying to USC." },
+    { "type": "narration", "content": "Eli stopped unlocking his bike." },
+    { "type": "dialogue", "speaker": "Eli", "content": "California." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "USC." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's a reach. I know that. I just — I want to try." },
+    { "type": "dialogue", "speaker": "Eli", "content": "No, man, that's not — that's not what I'm saying." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Then what are you saying." },
+    { "type": "narration", "content": "Eli looked at him for a moment with the expression he used when he was thinking something through before he said it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Does Daisy know?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You know she's doing Minnesota." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She told me." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's the opposite direction." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't have to draw me a map." },
+    { "type": "narration", "content": "Eli picked up his bike. Held it by the handlebars, looking at the ground." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You should tell her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I will." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Before you get in. Not after." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I said I will." },
+    { "type": "narration", "content": "They rode home. Kit didn't say anything else. He'd been not saying things his whole life. One more didn't feel like much. And then again — lately, it did." }
+  ]
+}

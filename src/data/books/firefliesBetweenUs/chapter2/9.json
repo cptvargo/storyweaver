@@ -1,0 +1,24 @@
+{
+  "page": 9,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Kit pulled the door until it was almost closed — not latched, because the latch would click and right now every sound in this house carried like it was amplified — and they pressed back against the wall below the window and listened." },
+    { "type": "narration", "content": "The voices moved through the rooms downstairs. One of the men was talking about nothing in particular, the way people talk when they need the sound more than the words. The other one was quieter. The quiet one was the one Kit was tracking." },
+    { "type": "narration", "content": "A floorboard creaked. The kitchen. Then the sound of something dragged across the floor — a chair, maybe, the legs scraping. Then silence that lasted too long." },
+    { "type": "narration", "content": "Eli was looking at Kit. His face asked a question that didn't need words." },
+    { "type": "narration", "content": "Kit held up one hand. Wait." },
+    { "type": "narration", "content": "Daisy's shoulder was against his arm. He could feel her breathing — slow and steady, the deliberate rhythm she used when she was concentrating. He matched it without thinking. If Daisy was steady, he could be steady." },
+    { "type": "dialogue", "speaker": "Voice", "content": "There's a door here. Back stairs — old houses got back stairs." },
+    { "type": "dialogue", "speaker": "Voice", "content": "So what." },
+    { "type": "dialogue", "speaker": "Voice", "content": "So go check it." },
+    { "type": "narration", "content": "Kit closed his eyes for one second." },
+    { "type": "narration", "content": "Then he opened them and looked at the window above their heads. Single pane. Old latch. And below it, visible through the dirty glass: the side yard. Tall grass. A drop of about eleven feet to the ground." },
+    { "type": "narration", "content": "He looked at Eli. Held up one finger. Eli nodded." },
+    { "type": "narration", "content": "He looked at Savannah. Held up two fingers. She nodded." },
+    { "type": "narration", "content": "He looked at Daisy." },
+    { "type": "narration", "content": "She was already looking at him. She shook her head and pointed at him and then at herself — after you, then me. He shook his head back, pointed at her, pointed at the window. First." },
+    { "type": "narration", "content": "From below, the sound of footsteps starting up the back stairs." }
+  ]
+}

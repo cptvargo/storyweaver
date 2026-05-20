@@ -1,0 +1,19 @@
+{
+  "page": 16,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan and Maya had split from the group somewhere near the game booths, drawn apart by Nathan's determination to find the horse racing booth he'd been narrating for twelve hours." },
+    { "type": "narration", "content": "It wasn't there. The horse racing booth had been replaced by something involving water guns and rubber ducks. Nathan stood in front of it with the expression of a man confronting mild injustice." },
+    { "type": "narration", "content": "Maya looked at the duck booth. Then at Nathan." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You built this up." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I had a vision." },
+    { "type": "dialogue", "speaker": "Maya", "content": "It was ducks." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The spirit of it was horses." },
+    { "type": "narration", "content": "She almost laughed. Not the polite laugh she gave most things — the surprised one, the one that arrived before she decided to allow it." },
+    { "type": "narration", "content": "Maya noticed this." },
+    { "type": "narration", "content": "She had been doing a thing, since this morning, that she didn't usually do: enjoying herself without a corresponding sense of guilt about it. Normally when she felt light it was immediately followed by a thought about Cassandra — who was managing what, whether today was a good day, the low-grade monitoring that had become so automatic she'd stopped recognizing it as a thing she was doing. It was simply how she moved through the world. Alert. Accounting. Never fully free." },
+    { "type": "narration", "content": "Nathan had done something to that pattern. She wasn't sure what. He made it harder to maintain the position of person who is always braced." }
+  ]
+}

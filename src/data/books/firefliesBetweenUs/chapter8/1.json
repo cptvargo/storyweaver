@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Senior year." },
+    { "type": "narration", "content": "They walked to school the same way they always had — Daisy on the inside, Kit on the street side — but September felt different this time. Heavier. Like the air had done the math." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Last first day." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm just saying." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. Still don't." },
+    { "type": "narration", "content": "She smiled at the sidewalk. He watched the school come into view at the end of the block — same brick, same flag, same crooked gutter over the east entrance that had been crooked since eighth grade." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You ready?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "No." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Good. Me neither." },
+    { "type": "narration", "content": "The doors opened. They went in." }
+  ]
+}

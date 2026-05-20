@@ -1,0 +1,23 @@
+{
+  "page": 17,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They slowed at Birch without deciding to, the way they always did, because there was a hill on the other side that was better coasted than climbed." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Do you like her?" },
+    { "type": "narration", "content": "She asked it looking at the road. Calm. The way Daisy asked things that weren't calm." },
+    { "type": "narration", "content": "Kit thought about the answer — actually thought about it, which was rare for him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't know. Maybe." },
+    { "type": "narration", "content": "Daisy nodded. Kept her eyes on the road." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Is that okay?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Why wouldn't it be okay?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't know. You tell me." },
+    { "type": "narration", "content": "She didn't answer for a long second. They crested the hill and the street opened up, the long flat stretch toward her block." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I just don't want things to be different." },
+    { "type": "dialogue", "speaker": "Kit", "content": "They don't have to be different." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Things are already a little different." },
+    { "type": "narration", "content": "He wanted to argue with that and couldn't, because she was right, and they both knew it, and the things that were true between them had a way of being said even when he was trying not to say them." }
+  ]
+}

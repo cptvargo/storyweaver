@@ -1,0 +1,18 @@
+﻿{
+  "page": 19,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Thomas Hailey walked his daughter to the altar." },
+    { "type": "narration", "content": "He stopped. He looked at Ethan — looked at him the way a father looks at the person he is about to entrust with the most important thing he has — and the look was everything it needed to be: clear-eyed, accepting, full of a particular combination of grief and peace that only parents know." },
+    { "type": "narration", "content": "The pastor spoke." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Who gives this woman to be married to this man?" },
+    { "type": "dialogue", "speaker": "Mr. Hailey", "content": "Her family does. With love." },
+    { "type": "narration", "content": "He took Cassandra's hand from his arm. He placed it in Ethan's." },
+    { "type": "narration", "content": "His hand covered theirs for a moment — both of them, together — and then he stepped back." },
+    { "type": "narration", "content": "Cassandra watched him go to his seat. She pressed her lips together. She turned back to Ethan." },
+    { "type": "narration", "content": "Their hands were already holding." },
+    { "type": "narration", "content": "The pastor looked at the two of them. He had officiated many weddings. He had learned to read in the first moments of the ceremony what kind of day it was — and this one was the kind that didn't require him to fill it up. He simply needed to hold the space for what was already there." }
+  ]
+}

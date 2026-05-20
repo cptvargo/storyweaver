@@ -1,0 +1,33 @@
+{
+  "page": 27,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "Tell me about the film." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's ten minutes. Shot mostly around campus but I used some footage I took before I left. The field behind our block." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You filmed the field." },
+    { "type": "dialogue", "speaker": "Kit", "content": "In August. Before I left." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What's it about." },
+    { "type": "narration", "content": "He turned his mug around in his hands." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The gap between where you are and where you want to be. And how sometimes the gap itself is the thing." },
+    { "type": "narration", "content": "She looked at him steadily." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Is it about us." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not not about us." },
+    { "type": "narration", "content": "She smiled at her mug. He watched it happen." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Can I see it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eventually." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Let me figure out if it's actually good first. Then you can see it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You think I'd be harsh." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I think you'd be honest. Which in this case might be the same thing." },
+    { "type": "narration", "content": "She laughed. The table between them felt smaller than it used to. Like the scale of the whole house had shifted slightly." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I want to talk about what I said. On the phone. In October." },
+    { "type": "dialogue", "speaker": "Kit", "content": "About the friendship." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "About being scared of naming it." },
+    { "type": "narration", "content": "He nodded. Set his mug down." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Okay. Let's talk about it." }
+  ]
+}

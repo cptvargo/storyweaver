@@ -1,0 +1,23 @@
+{
+  "page": 22,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Maya stood." },
+    { "type": "narration", "content": "She had written and rewritten this. She had three pages of notes. She looked at them and folded them and put them in her pocket." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I was going to talk about specific memories. I have so many of them. Enough to fill a room." },
+    { "type": "narration", "content": "She stopped. Took a breath." },
+    { "type": "dialogue", "speaker": "Maya", "content": "But there's one thing I keep coming back to. The one thing I should have said more." },
+    { "type": "narration", "content": "She looked at the casket." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You were never a weight I carried. You were never something I managed or handled or got through. You were the person I called first when anything happened. You were the one who knew what I meant before I finished the sentence. You were the reason I understood what love was supposed to look like before I ever had it myself." },
+    { "type": "narration", "content": "Her voice was holding on by the thinnest possible thread." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know I was not always easy. I know I am sharp and difficult and I make everything a joke because the alternative is feeling it, and feeling things has always terrified me. You knew all of that and loved me anyway. Every single time. Without condition. Without keeping score." },
+    { "type": "narration", "content": "She wiped her face without embarrassment." },
+    { "type": "dialogue", "speaker": "Maya", "content": "In the hospital, years ago, I told you to try harder. You said: I'm trying, Maya." },
+    { "type": "narration", "content": "She stopped. Breathed." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know you were. I saw exactly how hard you tried. And I am going to try too. I promise I'm going to keep trying." },
+    { "type": "narration", "content": "She sat down." },
+    { "type": "narration", "content": "She pressed her face against Nathan's shoulder and finally, completely, let herself cry." }
+  ]
+}

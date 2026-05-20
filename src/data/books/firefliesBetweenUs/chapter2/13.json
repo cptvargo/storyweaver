@@ -1,0 +1,24 @@
+{
+  "page": 13,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Kit", "content": "I was fine." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You were stuck in the stairs." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Briefly. I was briefly stuck in the stairs, and if I hadn't caught the eighth step — which I always skip, I don't know what happened — I would have been out the front door before either of them knew I was there." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "But you didn't." },
+    { "type": "dialogue", "speaker": "Kit", "content": "But I didn't. Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "His whole ankle went through. The wood just — gave way. Like paper." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I was there, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm just saying. Like paper." },
+    { "type": "narration", "content": "Kit bent down and picked the piece of wood out of his shoelace and dropped it in the grass. His ankle was sore. Not bad — he'd been hurt worse running bases at Callaway — but enough that he'd feel it tomorrow. He looked back through the fence. The porch was empty. The men had gone back inside, their voices carrying faintly through the walls, lower now, the excitement of it already fading into whatever they'd been doing before they walked through a stuck back door." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Who threw the rock." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I did." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Savannah said don't. Eli said aim high. I aimed somewhere in the middle." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good throw." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "narration", "content": "She set the second rock down carefully in the grass, like it had done something worth respecting." }
+  ]
+}

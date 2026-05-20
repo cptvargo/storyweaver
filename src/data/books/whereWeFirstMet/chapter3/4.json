@@ -1,0 +1,32 @@
+{
+  "page": 4,
+  "chapter": 3,
+  "chapterTitle": "Choosing Tomorrow",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She turned off the lamp. Let the dark settle." },
+    { "type": "narration", "content": "She'd grown up knowing how to be alone in a room with hard things. It was a skill nobody taught you — you just learned it the way you learned most things: by having to." },
+    { "type": "narration", "content": "At sixteen, she'd sat in a room like this one and understood for the first time that her body was doing something she couldn't reason with or outrun or decide differently about. The appointments that followed. The calendar marked in a color she didn't show anyone. The medication that became as automatic as breathing. The way she'd learned to calibrate — push too hard on certain days, and the next two would feel like walking through water." },
+    { "type": "narration", "content": "She'd gotten very good at the management of it. Most people didn't notice. She'd become very good at making sure they didn't." },
+    { "type": "narration", "content": "She looked at Harold." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He's an artist." },
+    { "type": "narration", "content": "She said it softly, to the room, to no one in particular." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He paints things people miss." },
+    { "type": "narration", "content": "Harold offered nothing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He gave you to me." },
+    { "type": "narration", "content": "She pressed the bear slightly closer. That had been the moment, she thought. Not the fountain. Not the painting or the conversation or the shared tokens. The moment Ethan had simply held Harold out — 'here,' like it was already decided, like he hadn't calculated the weight of it, like the possibility of her saying no didn't register because it wouldn't have changed anything — that was the moment she'd known she was already in trouble." },
+    { "type": "narration", "content": "She thought about what Maya would say. She already knew. Maya would do the arithmetic — the careful, loving, completely reasonable arithmetic. She would say: you know what this means, you know what letting someone in requires, you know how this ends." },
+    { "type": "narration", "content": "And Maya wouldn't be wrong." },
+    { "type": "narration", "content": "But she also wouldn't be all the way right." },
+    { "type": "narration", "content": "Because Cassandra had made a decision three years ago, on the day she first understood what the cardiologist was actually telling her, on the day the appointments became real and the calendar acquired its private color — she'd made a choice that she was not going to spend whatever time she had in rehearsal. Not practicing the safe version. Not managing the distance between herself and the things she wanted. She'd decided to be in the room for all of it." },
+    { "type": "narration", "content": "She thought about the way Ethan had looked at the painting. Not like a man performing appreciation — like someone who genuinely saw it. Who needed to." },
+    { "type": "narration", "content": "She thought about tomorrow." },
+    { "type": "narration", "content": "He'd said it. She'd said it. They'd said it to each other standing on a sidewalk corner as the day went gold around them, and it had sounded less like a plan than a mutual recognition of something that was already true." },
+    { "type": "internalThought", "content": "Careful." },
+    { "type": "narration", "content": "And then, quietly, honestly—" },
+    { "type": "internalThought", "content": "Not tonight." },
+    { "type": "narration", "content": "She closed her eyes. Outside, the street held its breath. And somewhere across the city, she was almost certain, Ethan was lying in the same dark, thinking the same word." },
+    { "type": "narration", "content": "Tomorrow. Not as a plan. As a choice." }
+  ]
+}

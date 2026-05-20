@@ -1,0 +1,30 @@
+{
+  "page": 15,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They stayed until the light began to change color." },
+    { "type": "narration", "content": "Not dramatically — just the slow shift from amber into something deeper, something that had rose in it and then grey, the mountains going blue at their edges as the sun dropped behind the ridge. The valley below them filled with shadow first, the way valleys always do, the high places holding the light longest." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want to come back here. Not for a honeymoon." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Just to come back?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Just to come back." },
+    { "type": "narration", "content": "He nodded. Filed it the way he filed things — not to remember to plan it, but because it was real and true and came from her and he wanted to keep it." },
+    { "type": "narration", "content": "On the way back down the trail, she stopped once where the creek came close enough to the path to be visible through a gap in the fern and stone. She crouched at the edge of it." },
+    { "type": "narration", "content": "The creek was narrow here and fast, the water so clear that the rocks at the bottom were visible in every individual detail — their colors, their textures, the way they sat at angles against each other after years of pressure and current." },
+    { "type": "narration", "content": "She put her hand in." },
+    { "type": "narration", "content": "Cold — genuinely cold, the bone-deep kind, the kind that catches your breath." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I see it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Put your hand in." },
+    { "type": "narration", "content": "He did. Pulled it back immediately." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That is very cold." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why are you still doing it?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Because it's real. I like it when things feel that real." },
+    { "type": "narration", "content": "She held her hand in the current a moment longer, then pulled it out and dried it on her jacket." },
+    { "type": "narration", "content": "He offered his hand on the path back down." },
+    { "type": "narration", "content": "She took it. Her fingers were still cold. He held them anyway." },
+    { "type": "narration", "content": "The cabin waited below them in the clearing, smoke beginning to rise from the chimney — the fireplace doing what the fireplace had been doing in this cabin for forty-one years, warming the room, warming whoever came here, doing what it was built for." }
+  ]
+}

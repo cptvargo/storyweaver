@@ -1,0 +1,27 @@
+{
+  "page": 25,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The summer went. The way summers do when you're finally where you want to be — too fast, in that bittersweet way the good things always go." },
+    { "type": "narration", "content": "Saturday mornings at Hester's. The same booth they'd sat in since middle school, coffee for her, sweet tea for him, and the whole morning spread out ahead of them with nowhere to be." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What do you want to make first. When you go back." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Something real. Not an assignment. Something I actually have to say." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You already know what it is." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Then make it." },
+    { "type": "narration", "content": "His mom's back porch on a Sunday. Daisy reading. Him watching her read and not bothering to pretend otherwise." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You know I'm watching you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And you're just going to let me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You've earned it." },
+    { "type": "narration", "content": "The whole group at the diner one evening, no occasion, just everyone in the same place because that's what summer in Millhaven was." },
+    { "type": "dialogue", "speaker": "Eli", "content": "When you two get married I want a credit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "A credit." },
+    { "type": "dialogue", "speaker": "Eli", "content": "In the program. Eli Turner — ambient lighting and emotional infrastructure." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We'll think about it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She didn't say no." },
+    { "type": "narration", "content": "August came. The same week it always did." }
+  ]
+}

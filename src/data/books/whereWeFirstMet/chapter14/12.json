@@ -1,0 +1,28 @@
+{
+  "page": 12,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The plates were nearly empty. The candles had gone low." },
+    { "type": "narration", "content": "Lena was mid-story — something about a collector Mr. Alvarez had described as passionately incorrect — and everyone was leaning in." },
+    { "type": "narration", "content": "Cassandra leaned across the table toward Ethan and said, under the noise of the room:" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want this to always feel like this." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It will." },
+    { "type": "narration", "content": "She smiled. Not the polished one. The real one." },
+    { "type": "narration", "content": "Lena's story came to its end and the table erupted and the moment dissolved back into everything else." },
+    { "type": "narration", "content": "Maya caught Cassandra's eye across the table." },
+    { "type": "narration", "content": "Something passed between them — some shorthand so old it predated language. The look they had exchanged across dinner tables their whole lives, meaning nothing in particular and everything at once. I see you. You see me. We are here." },
+    { "type": "narration", "content": "Maya raised an eyebrow: well?" },
+    { "type": "narration", "content": "Cassandra mouthed back: perfect." },
+    { "type": "narration", "content": "Maya pressed her lips together the way she did when she was refusing to show that something mattered. Then she looked away and reached for Nathan's hand under the table." },
+    { "type": "narration", "content": "Cassandra turned back to Lena. Lena was starting another story." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Wait, he actually said—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "narration", "content": "Mid-sentence. Mid-word." },
+    { "type": "narration", "content": "Her hand went to her chest." },
+    { "type": "narration", "content": "Just for a second." },
+    { "type": "narration", "content": "Then she was gone." }
+  ]
+}

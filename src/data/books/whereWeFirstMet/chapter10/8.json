@@ -1,0 +1,18 @@
+{
+  "page": 8,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The trivia had the quality that good games in small groups tend to have: it was not really about the trivia." },
+    { "type": "narration", "content": "It was about who laughed at what. It was about who knew the particular piece of information that no one else knew and the specific expression on their face when they produced it. It was about the team dynamics that revealed themselves under mild pressure — the way Nathan instinctively deferred to Lena on categories where she seemed confident, the way Cassandra would start an answer and Ethan would quietly complete it and they would look at each other with the small surprise of two people discovering they think the same way." },
+    { "type": "narration", "content": "Ethan was present in a way he had not always been in group settings — not managing the edges of the room, not holding one foot lightly outside of things. He was in the middle of it. He laughed at the right moments and argued at the wrong ones and held his position on a geography question that turned out to be correct when Mr. Alvarez checked the card." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Okay, I accept that. Reluctantly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Thank you." },
+    { "type": "narration", "content": "He said it without inflation. Cassandra put her hand briefly over his under the table." },
+    { "type": "narration", "content": "He felt it. He didn't look at her. He just turned his hand over." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Next card." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Next card." },
+    { "type": "narration", "content": "He agreed because he had also been watching, and had decided that was enough of that particular moment for now." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 3,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "By Wednesday, Kit had figured out that seventh grade ran on a different set of rules than sixth grade and nobody had told him what they were." },
+    { "type": "narration", "content": "It wasn't bad exactly. Just more — more noise in the hallways, more social calculation at lunch, more of the feeling that everyone else had gotten a memo he'd missed. He and Daisy shared homeroom and English, which was the same as last year, but science and math split them, and those were the two longest periods of the day." },
+    { "type": "narration", "content": "He was at his locker after third period when someone stopped next to him at the empty locker two down." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Hey. You're Kit, right? Kit Jenkins?" },
+    { "type": "narration", "content": "She said it like she'd already confirmed it somewhere. She had the kind of confidence that came from growing up knowing exactly where she fit in a room." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "I'm Brooke. Brooke Hadley. I moved here in June — I think you live like two streets from my cousin?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Who's your cousin?" },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Derek Pruitt." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Oh. Yeah, I know Derek." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "He said you're the one who climbed the water tower." },
+    { "type": "narration", "content": "Kit closed his locker." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He said that?" },
+    { "type": "dialogue", "speaker": "Brooke", "content": "He said a lot of things." },
+    { "type": "narration", "content": "She smiled at him — easy, direct — and went to class. Kit stood in the hallway for a half second with the particular feeling of someone who had just been noticed in a way they hadn't been before." }
+  ]
+}

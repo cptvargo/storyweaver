@@ -1,0 +1,28 @@
+{
+  "page": 14,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The ambulance came in six minutes." },
+    { "type": "narration", "content": "Six minutes is not very long. Six minutes is an eternity when you are on the floor beside your wife and the room around you has gone completely silent because everyone in it loves her and none of them can do anything." },
+    { "type": "narration", "content": "Ethan talked to her the whole time. Not sentences — just her name. Just I'm here. Just stay." },
+    { "type": "narration", "content": "Nathan had his arm around Maya. She wasn't crying. She was somewhere past tears — a place beyond words, where a person goes when something too large arrives." },
+    { "type": "narration", "content": "The paramedics came through the door and the room reorganized itself around them." },
+    { "type": "narration", "content": "They had to ask Ethan twice to step back." },
+    { "type": "narration", "content": "He stepped back. He stood at the edge of the room with his arms crossed over his chest — holding himself together from the outside — and he watched every move they made." },
+    { "type": "narration", "content": "They worked quickly, with the calm that comes from having done this many times. They called things to each other in shorthand. They moved." },
+    { "type": "narration", "content": "He heard one of them say her pulse was present." },
+    { "type": "narration", "content": "Present." },
+    { "type": "narration", "content": "He exhaled for the first time in six minutes." },
+    { "type": "narration", "content": "They loaded her onto the stretcher. Ethan stepped forward." },
+    { "type": "dialogue", "speaker": "Paramedic", "content": "Are you family?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm her husband." },
+    { "type": "narration", "content": "They let him ride." },
+    { "type": "narration", "content": "Thomas Hailey stood in the open doorway of the house and watched the ambulance lights disappear down the street." },
+    { "type": "narration", "content": "His wife's hand was in the crook of his arm. She was gripping it." },
+    { "type": "narration", "content": "The house behind them was still warm. The candles still burned on the dinner table. The food sat where they'd left it — plates half-cleared, napkins unfolded, glasses not quite empty." },
+    { "type": "narration", "content": "He stood in the doorway until there was nothing left to see." },
+    { "type": "narration", "content": "Then he went inside to get his car keys." }
+  ]
+}

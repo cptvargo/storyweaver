@@ -1,0 +1,23 @@
+{
+  "page": 11,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Thomas Hailey answered on the third ring." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Ethan! Morning." },
+    { "type": "narration", "content": "His voice warm. Easy. The voice of a man with no reason to expect anything other than an ordinary call on an ordinary morning." },
+    { "type": "narration", "content": "Ethan opened his mouth." },
+    { "type": "narration", "content": "Nothing came out." },
+    { "type": "narration", "content": "The silence lasted only a second. But Thomas heard it. After all those years of carrying the quiet fear in the background of every good day, he heard the thing in that silence." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Ethan." },
+    { "type": "narration", "content": "Different word now. Same name, different weight. A father who has heard something in the quiet that he has been dreading since the day a doctor sat across from him and changed everything." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Thomas. I—" },
+    { "type": "narration", "content": "He couldn't." },
+    { "type": "narration", "content": "He heard Thomas breathe. In. Out. The steadying breath of a man who has been preparing for something his whole life and finds, now that it has arrived, that all that preparation has not helped at all." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Tell me." },
+    { "type": "narration", "content": "Quietly. Carefully. The voice of someone who needs to hear it even though hearing it will break him open." },
+    { "type": "narration", "content": "Ethan told him." },
+    { "type": "narration", "content": "The sound Thomas Hailey made was not a word." }
+  ]
+}

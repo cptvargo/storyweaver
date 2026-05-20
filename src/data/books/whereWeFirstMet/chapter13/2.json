@@ -1,0 +1,32 @@
+{
+  "page": 2,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "An hour out, the conversation found its footing the way their conversations always did — not from a starting point but from the middle, as though it had been quietly running in both of them and they'd just decided to say it out loud." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What did you think? About today. All of it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I think today was the best day of my life. And I'm aware that's something people say, but I mean it in a way I didn't expect to." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's still not very specific." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't have vocabulary for it yet. Give me a few years." },
+    { "type": "narration", "content": "She smiled at the road ahead." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The vows." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "When you were saying them — the part about sickness and health." },
+    { "type": "narration", "content": "He was quiet for a moment. Not uncomfortable — the quiet of someone approaching something he'd thought about carefully and wanted to say right." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Cass, I meant every word of it equally. I meant the whole thing. There was no part where I was saying it just because the ceremony required it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I know. I just — I noticed you didn't hesitate on that part." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Why would I ever hesitate on that? I've known what I was saying yes to since the Ferris wheel. All of it. Every part. I didn't need the vows to make that true — the vows just let me say it in front of everyone who matters to you." },
+    { "type": "narration", "content": "She looked at him. He kept his eyes on the road, but there was something in his expression that was entirely open — not performing steadiness, just being it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I cried through all of mine." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know. It was—" },
+    { "type": "narration", "content": "A small pause." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Don't say beautiful." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I was going to say important. That you weren't performing it. That every word came from somewhere real. I could see it and it meant everything to me." },
+    { "type": "narration", "content": "She looked at him for a moment longer than she usually allowed herself." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You were the only person in that room who could tell the difference." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's not true. Lena could." },
+    { "type": "narration", "content": "She laughed — sudden, real, the kind that surprised her." },
+    { "type": "narration", "content": "The road opened wider ahead of them. Darkness and direction and his hand finding hers across the console." }
+  ]
+}

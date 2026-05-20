@@ -1,0 +1,23 @@
+{
+  "page": 14,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Nathan held her on the kitchen floor." },
+    { "type": "narration", "content": "She didn't fall apart the way she expected to. She had always imagined, in the quiet back part of her mind she never acknowledged, that this moment would produce something large and visible. Instead she went very still. The way a person goes still when something true arrives that is too enormous to move through yet." },
+    { "type": "narration", "content": "Nathan didn't try to fix it. He didn't say anything for a long time." },
+    { "type": "narration", "content": "He just held her." },
+    { "type": "narration", "content": "Eventually he said:" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She knew." },
+    { "type": "narration", "content": "Maya looked at him." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Everything you never said. She knew all of it. Every single thing. You gave her twenty years of being completely seen by the person who mattered most to her. That's not nothing, Maya. That's everything." },
+    { "type": "narration", "content": "Maya's face broke completely." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I told her to try harder. In the hospital. I told her to try harder and she—" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "She did." },
+    { "type": "narration", "content": "He held her tighter." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Look at what she did. Look at the life she built. She tried harder than anyone." },
+    { "type": "narration", "content": "Maya held onto him." },
+    { "type": "narration", "content": "She held on the way she had learned to hold on — completely, without pretending it didn't cost her, because her sister had spent twenty years showing her that letting things matter was the only way to have them." }
+  ]
+}

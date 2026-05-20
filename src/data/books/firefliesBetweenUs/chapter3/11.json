@@ -1,0 +1,25 @@
+{
+  "page": 11,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "What are you nervous about." },
+    { "type": "narration", "content": "It wasn't a question. He looked at her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What makes you think I'm nervous?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You've been pulling at the grass for ten minutes." },
+    { "type": "narration", "content": "He looked at his hand. He had pulled up a small pile of grass without knowing it. He let it go." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Everything's going to change." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Things change every year." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not like this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "How do you know?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I just do. Can you feel it?" },
+    { "type": "narration", "content": "She was quiet for long enough that he thought she was going to say no, that he was being dramatic, which would have been the right thing to say and also very much a Daisy move." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And that doesn't bother you?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It bothers me." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Then why do you seem fine?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because being fine and being bothered aren't the same thing." },
+    { "type": "narration", "content": "The movie kept going. The park kept making its park sounds. Somewhere behind them a little kid laughed at something and their parent shushed them gently, and Kit thought that maybe that was it — that you could hold two things at once and the trick was just not to drop either one." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "page": 11,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The card was written in her mother's handwriting at the top, her father's in the middle, her mother's again at the close. Two hands. One voice." },
+    { "type": "narration", "content": "She read it standing at the counter. Ethan stayed where he was. This was hers first." },
+    { "type": "letter", "content": "Cassandra and Ethan —" },
+    { "type": "letter", "content": "Your father and I spent our honeymoon in this cabin forty-one years ago. We didn't have much then. We had each other and we had three days and we had a fireplace that smoked a little when the wind came in wrong off the mountain. We lit it every night anyway. That is still, to this day, my favorite cold I have ever been." },
+    { "type": "letter", "content": "I have thought many times about what I would say to you on your wedding day. I wrote versions of it. I threw them away. None of them were right because they were all trying to say something around the thing I actually want to say, which is this:" },
+    { "type": "letter", "content": "You have carried something hard with more grace than anyone had a right to ask. You carried it quietly. You carried it on days when quiet was the harder thing. You never let it make you smaller. We have watched you — your father and I, from closer than you knew — and what we have seen is not a woman managing something. What we have seen is a woman living. Fully. Without apology. That is not small. That is everything." },
+    { "type": "narration", "content": "The handwriting changed here — her father's, deliberate and slightly cramped, the way it always looked when he was trying to say something important and wasn't sure he had the right words." },
+    { "type": "letter", "content": "Ethan. I am going to say this plainly because I think you are a man who appreciates plainness." },
+    { "type": "letter", "content": "My daughter is extraordinary. She is also someone who has spent years learning to carry more than she should carry alone. She will not always tell you when she needs something. She has become very good at not needing things — but that is not the same as not needing them." },
+    { "type": "letter", "content": "Love her without condition. Be patient when she pulls away. Show up when she says she is fine and means the opposite. Pay attention — not just when she asks, but especially when she doesn't. That is the whole of what I am asking." },
+    { "type": "letter", "content": "I trust you with her. I want you to understand the weight of that sentence. I have watched you with my daughter and I believe you already know what it means. I am trusting that you do." },
+    { "type": "narration", "content": "And then her mother's hand again, at the bottom of the card, in the easy looping cursive she had known her whole life:" },
+    { "type": "letter", "content": "Light the fireplace. Open the cider. Look at the mountain." },
+    { "type": "letter", "content": "Be happy. That is the only instruction we have left for you." },
+    { "type": "letter", "content": "All our love — Mom and Dad" },
+    { "type": "narration", "content": "Cassandra stood very still." },
+    { "type": "narration", "content": "And then she wasn't still anymore." }
+  ]
+}

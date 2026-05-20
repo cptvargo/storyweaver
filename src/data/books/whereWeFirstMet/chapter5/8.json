@@ -1,0 +1,23 @@
+{
+  "page": 8,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "She set the brush down." },
+    { "type": "narration", "content": "Not because she was done — the painting wasn't done — but because there was something she seemed to need to say while she was standing still, before the evening moved too far into ordinary things and she lost the nerve." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I need to tell you something." },
+    { "type": "narration", "content": "She said it carefully. Not like she was performing a speech — like she was deciding, right now, whether to say the next sentence." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been careful. About this. About people. Not the way most people are careful — not for the reasons you'd expect. Different ones." },
+    { "type": "narration", "content": "He waited. He was good at waiting." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "There's something about me. Something I'm not ready to explain yet. And I need you to know it's not because I don't trust you." },
+    { "type": "narration", "content": "She paused. The apartment was very quiet." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm just — still figuring out how to say it to someone who—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Someone who matters." },
+    { "type": "narration", "content": "The word landed in the room and stayed there." }
+  ]
+}

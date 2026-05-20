@@ -1,0 +1,33 @@
+{
+  "page": 11,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Dinner was everything she had wanted it to be." },
+    { "type": "narration", "content": "Not in the abstract way that good dinners sometimes are — where the food is fine and the company pleasant and you call it a success. In a specific way. Where the stories overlapped and someone laughed too loud and the candles went low and nobody thought to check the time." },
+    { "type": "narration", "content": "Nathan told a story about Ethan — something from years ago, something mortifying — and Ethan refused to confirm any detail and that made it better. Maya laughed the real laugh, the one she used to keep under lock and key. The one that had come out more and more since Nathan and now arrived without calculation, filling rooms instead of escaping from them." },
+    { "type": "narration", "content": "Her father watched Maya laugh and went quiet." },
+    { "type": "narration", "content": "Cassandra saw it. She had been seeing her father's face her whole life." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Dad." },
+    { "type": "narration", "content": "She said it quietly, just to him, across the table." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Your mother made me promise." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Promise what?" },
+    { "type": "dialogue", "speaker": "Thomas", "content": "Not to get like this." },
+    { "type": "narration", "content": "He gestured vaguely at the table. At all of them." },
+    { "type": "dialogue", "speaker": "Thomas", "content": "All at once." },
+    { "type": "narration", "content": "Her mother reached over and took his hand without looking at him, the unconscious touch of forty-three years." },
+    { "type": "narration", "content": "Cassandra's throat tightened." },
+    { "type": "narration", "content": "Lena was telling a story about something Mr. Alvarez had done at a gallery event — something characteristically precise and unexpected — and everyone was leaning in, because Lena had become someone people leaned in for. She had grown into herself in the years since the coffee shop. They all had. Over the dinners and the ordinary days and the slow accumulation of being known by people who chose to keep knowing you." },
+    { "type": "narration", "content": "Ethan was talking to Nathan — she could see them from her end of the table, the ease between them, the shorthand of two men who had come to understand each other by loving the same family from different angles." },
+    { "type": "narration", "content": "Cassandra held her glass and looked around the table." },
+    { "type": "narration", "content": "Every single person." },
+    { "type": "narration", "content": "All of it, at once." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I love all of you." },
+    { "type": "narration", "content": "She said it without thinking, into the general air of the table. A beat of surprised quiet, then everyone talking at once — Maya said something cutting and tender, her father raised his glass, Nathan nodded with the seriousness of a man who had recently been included in something and knew the weight of it." },
+    { "type": "narration", "content": "Ethan looked at her from across the table." },
+    { "type": "narration", "content": "Just looked. The way he did. The way she would know anywhere." },
+    { "type": "narration", "content": "She felt something she couldn't name but wanted to keep — like a cup held perfectly full, like a day that had given everything it promised." }
+  ]
+}

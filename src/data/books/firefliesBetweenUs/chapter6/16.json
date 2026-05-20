@@ -1,0 +1,24 @@
+﻿{
+  "page": 16,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He rode home fast." },
+    { "type": "narration", "content": "Not upset. He wasn't upset. He had no right to be upset, he understood that completely, and he was not. He just rode fast because riding fast was the thing that helped when there was something in his chest that didn't have a name and needed somewhere to go." },
+    { "type": "narration", "content": "He went past the field without looking at it." },
+    { "type": "narration", "content": "At home he sat at the kitchen table and his mom came in from the other room and looked at him and didn't say anything, just put a glass of water in front of him, and he looked at the table." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How do you know." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Know what?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "When you — when there's something you should say. How do you know when you've waited too long." },
+    { "type": "narration", "content": "His mom sat down across from him." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "What happened." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nothing. I'm asking in general." },
+    { "type": "narration", "content": "She looked at him the way she'd been looking at him his whole life — all the way through." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "You haven't waited too long." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I know that girl. I've known her since she was eight years old. And I know you." },
+    { "type": "narration", "content": "Kit looked at the glass of water." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "But Kit — you might be getting close." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The night had gone long in the way that good nights do — nobody watching the clock, the coffee long cold, the table still occupied because no one had given the signal." },
+    { "type": "narration", "content": "They were still at The Copper Mug. Still in the warmth of it. The record had ended and not been replaced, and the quiet that had moved in was comfortable rather than empty — the quiet of people who have been somewhere good and are not yet ready to leave it." },
+    { "type": "narration", "content": "It was Nathan who broke it. He had been looking at the wall near the register for the last few minutes, in the way he looked at things when something was forming in him, and then he reached out and unpinned a small flyer without asking and held it up." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Hartwell Fairgrounds. Traveling carnival. This weekend only." },
+    { "type": "narration", "content": "He held it the way he held ideas — like it was already decided and he was simply informing the room." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "We should all go tomorrow." },
+    { "type": "narration", "content": "The table's reaction arranged itself in the particular way this group's reactions always arranged themselves: Maya raised an eyebrow — skeptical, not opposed. Lena checked her phone for approximately one second before setting it face-down, which meant yes. Ethan looked at Cassandra." },
+    { "type": "narration", "content": "Cassandra looked at her hands." },
+    { "type": "narration", "content": "Then she looked up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Okay." },
+    { "type": "narration", "content": "She said it simply. One word that contained more than one word's worth." }
+  ]
+}

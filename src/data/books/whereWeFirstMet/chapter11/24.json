@@ -1,0 +1,22 @@
+{
+  "page": 24,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena listened. She didn't rush toward comfort or reassurance. She sat in the truth of what Cassandra had said and let it be the size it was." },
+    { "type": "narration", "content": "Then she said:" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Can I tell you what I actually think?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I think the version he loves is entirely real. I think you are the realest person I know, Cass, and the thing you're carrying is part of that realness — it's part of what made you who you are. The way you don't go past things. The way you notice everything. The way you stayed on that wall." },
+    { "type": "narration", "content": "Cassandra looked at her." },
+    { "type": "dialogue", "speaker": "Lena", "content": "He's not in love with an edited version of you. He's in love with the version that makes every day count, that sends songs at nine o'clock, that stood on a porch and said: I know, that's what makes it harder. That's not an edited version. That's all of you." },
+    { "type": "narration", "content": "A quiet. The carnival went on around them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I still have to tell him." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I know. I'm not saying you don't." },
+    { "type": "narration", "content": "She paused." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You don't have to say it perfectly, Cass. You just have to say it honestly. That's all it needs to be." },
+    { "type": "narration", "content": "The words arrived simply. Without performance. Exactly as they needed to arrive." },
+    { "type": "narration", "content": "Cassandra breathed." }
+  ]
+}

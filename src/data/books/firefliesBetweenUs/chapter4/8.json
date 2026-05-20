@@ -1,0 +1,21 @@
+{
+  "page": 8,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It started as a note in English class." },
+    { "type": "narration", "content": "Not from anyone they knew well — a girl named Tanya who sat two rows over and had the ability to run a parallel communication network while appearing to take notes. The note read: Lauren says Kit Jenkins and Daisy Jones have been dating since 5th grade is that true?? Three question marks. The middle school equivalent of a flare gun." },
+    { "type": "narration", "content": "Daisy found out about it at lunch from a girl named Chloe who told her the way people told you things in seventh grade — standing close, voice low, with the energy of someone who'd been holding the news all morning." },
+    { "type": "dialogue", "speaker": "Chloe", "content": "Okay don't be weird about this, but someone's been asking if you and Kit are together." },
+    { "type": "narration", "content": "Daisy kept her face very still." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're not." },
+    { "type": "dialogue", "speaker": "Chloe", "content": "I didn't say you were. I'm just saying people are asking." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "People can stop asking." },
+    { "type": "dialogue", "speaker": "Chloe", "content": "I mean, you two are always together." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We've been friends since we were eight." },
+    { "type": "dialogue", "speaker": "Chloe", "content": "I know, but—" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're not together." },
+    { "type": "narration", "content": "Chloe nodded and moved on, because it was the kind of answer that closed a conversation. Daisy stood at her locker and stared at nothing for three seconds and then closed the door." }
+  ]
+}

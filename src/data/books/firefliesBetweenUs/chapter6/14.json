@@ -1,0 +1,25 @@
+﻿{
+  "page": 14,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "February. Kit's mom asked him at dinner who he was taking to the Valentine's dance, which the high school did instead of a formal, and he said nobody." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Nobody?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not really my thing." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "You went to the football games." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Football games are outside. Dances are—" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Is there someone you want to take?" },
+    { "type": "narration", "content": "He looked at his plate." },
+    { "type": "dialogue", "speaker": "Kit", "content": "No." },
+    { "type": "narration", "content": "His mom cut a piece of chicken and didn't push. That was the thing about her — she knew the shape of a closed door and she didn't knock twice." },
+    { "type": "narration", "content": "He helped with the dishes afterward and she said, without turning from the sink:" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "You know you don't have to have everything figured out. You're fourteen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "But if there's something you've been not saying to someone — and I think there might be — that kind of thing doesn't get easier the longer you wait." },
+    { "type": "narration", "content": "Kit handed her a bowl." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't know what you're talking about." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I know exactly what I'm talking about." },
+    { "type": "narration", "content": "She said it lightly, without pressure. He went upstairs and opened his laptop and Daisy's MySpace showed the same song as last month, and Ryan's profile had added her to his top eight, first slot. Kit looked at that for a long second. Then he closed the browser." }
+  ]
+}

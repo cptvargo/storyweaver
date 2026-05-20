@@ -1,0 +1,19 @@
+{
+  "page": 20,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The small lamp went off sometime around eleven." },
+    { "type": "narration", "content": "She lay in the dark and let the quiet be the quiet. Outside her window, the ordinary sounds of the neighborhood finishing its night — a car somewhere distant, the particular dog down the street whose schedule aligned with no one else's, the trees doing their slow, indifferent thing against the sky." },
+    { "type": "narration", "content": "She thought of the song." },
+    { "type": "narration", "content": "She thought of what it said about what certain people brought out — the parts of yourself that lived underneath the careful ones, the ones that only emerged when the company was exactly right, when you felt safe enough to be unguarded." },
+    { "type": "narration", "content": "That was what he did." },
+    { "type": "narration", "content": "He made her feel like the whole of herself was acceptable. Not in spite of what she was carrying. Not in avoidance of it. She wasn't sure exactly why. She suspected it had something to do with how carefully he paid attention — how unhurriedly he looked at things, how he seemed to understand that what was worth knowing about a person was rarely what was announced." },
+    { "type": "narration", "content": "She was going to tell him." },
+    { "type": "narration", "content": "Not because she'd convinced herself it would be fine. She hadn't. She still didn't know what fine would look like. But she was going to tell him because he deserved to know, and she deserved to be known, and the thing between them — whatever it was becoming — deserved to be built on something real." },
+    { "type": "narration", "content": "She closed her eyes." },
+    { "type": "internalThought", "content": "Tomorrow." },
+    { "type": "narration", "content": "She was ready." }
+  ]
+}

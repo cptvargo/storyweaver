@@ -1,0 +1,20 @@
+{
+  "page": 4,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "Maya left at three-thirty." },
+    { "type": "narration", "content": "Cassandra walked her to the door, held it open, waited until the sound of her car had faded into the street noise before she leaned against the doorframe and just — breathed." },
+    { "type": "narration", "content": "In, four counts. Out, four more." },
+    { "type": "narration", "content": "Her eyes were still red." },
+    { "type": "narration", "content": "She went inside, bypassed the kitchen, and lay down on her bed. Didn't bother with the breathing exercise. Just lay there, staring at the ceiling, with the particular kind of tired that came from crying you hadn't seen coming." },
+    { "type": "narration", "content": "Maya wasn't wrong. That was the difficult part. Maya was never entirely wrong, which was why her concern had a way of landing somewhere it couldn't simply be dismissed. Everything she'd said was true — from the outside, and from the inside, and from every angle Cassandra had tried." },
+    { "type": "narration", "content": "But Cassandra had known all of that already. What she hadn't known — what she hadn't let herself fully reckon with — was the weight her sister had been carrying alone. Every morning. Every holiday table. The quiet math Maya had been doing in the background of every good day they'd ever had together." },
+    { "type": "narration", "content": "I don't know how to lose you." },
+    { "type": "narration", "content": "She closed her eyes." },
+    { "type": "narration", "content": "Outside, a car passed. Someone's music, low and indistinct, drifting through the window and then gone." },
+    { "type": "narration", "content": "The ceiling didn't have any answers." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page": 6,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Danny", "content": "You know they condemned this. It's a liability." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You're standing inside the condemned fence right now, man." },
+    { "type": "narration", "content": "Danny looked at Eli." },
+    { "type": "dialogue", "speaker": "Danny", "content": "What?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "You're literally inside the condemned fence right now." },
+    { "type": "narration", "content": "Danny's crew shuffled a little. This was Eli's contribution to most situations — he said the obvious thing that no one else had gotten to yet, usually at the exact moment when someone was trying to seem smart." },
+    { "type": "dialogue", "speaker": "Danny", "content": "Point is, we got here first. Tower's occupied." },
+    { "type": "narration", "content": "Kit was looking at the tower. It rose up maybe sixty feet above the field, rust-red and angular — the kind of structure that exists in every small town as both a utility and a landmark and a dare, depending on how old you are. The ladder rungs on the side were old enough to be interesting and solid enough to probably hold." },
+    { "type": "narration", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How far up did you get?" },
+    { "type": "narration", "content": "Danny hesitated one second too long." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Thought so." },
+    { "type": "dialogue", "speaker": "Danny", "content": "We got up—" },
+    { "type": "dialogue", "speaker": "Kit", "content": "You didn't go up. It's fine. Some people don't like heights." },
+    { "type": "dialogue", "speaker": "Danny", "content": "I'm not scared of heights." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nobody said you were." },
+    { "type": "narration", "content": "Danny's jaw tightened. Kit wasn't being mean about it — that was the thing about Kit that drove people like Danny Pruett absolutely insane. He was never trying to humiliate you. He was just genuinely indifferent to whether you came along or not, and that was somehow worse than cruelty would have been." },
+    { "type": "narration", "content": "Daisy, who had watched all of this the way you'd watch a weather system forming, touched Kit's elbow briefly." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're not racing." },
+    { "type": "narration", "content": "Quiet enough that only he could hear it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Your face says otherwise." },
+    { "type": "narration", "content": "He turned back to the tower. She was right. He was already thinking about the rungs." }
+  ]
+}

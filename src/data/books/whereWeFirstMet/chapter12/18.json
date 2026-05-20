@@ -1,0 +1,15 @@
+﻿{
+  "page": 18,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He forgot everything else." },
+    { "type": "narration", "content": "Not in the figurative way people say that. Actually: the room ceased to have edges. The music became background. Nathan beside him, Lena across the aisle, the people in the chairs, the candles, all of it — peripheral. The world narrowed to the woman at the end of the aisle and the way she was looking at him." },
+    { "type": "narration", "content": "She was walking toward him." },
+    { "type": "narration", "content": "Her father's arm through hers, her steps unhurried, her eyes on Ethan's face from the moment she found it and not leaving. She looked the way she always looked when she was fully, entirely somewhere — all the way in the room, all the way in the moment. Present in the way she had learned to be present, except that this time there was nothing underneath the presence. No weight. No managing. Just her, walking down the aisle, coming to him." },
+    { "type": "internalThought", "content": "There she is. There she is. There she is." },
+    { "type": "narration", "content": "His eyes went bright. He didn't try to stop it." },
+    { "type": "narration", "content": "She saw it happen. Something in her face softened — the last held thing, whatever fragment of composure she'd been keeping in reserve — and she smiled at him. The real one. The unguarded one that arrived before she decided to allow it." }
+  ]
+}

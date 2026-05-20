@@ -1,0 +1,28 @@
+{
+  "page": 7,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "October. Kit's film production class broke into project groups. He got paired with two other freshmen and a sophomore named Cassidy Walsh who immediately took over the organizational side of things, which Kit was fine with because it meant he could focus on the actual shooting." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "You have a good eye. Like genuinely good. Where are you from?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Georgia. Small town." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "That tracks actually. You see things differently than the LA kids." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Is that good or bad." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Really good. The LA kids all shoot the same things." },
+    { "type": "narration", "content": "She was easy to work with. Funny, direct, clearly talented. The group stayed late most Tuesdays in the film building editing bay, takeout containers spread across the desk, arguing about shot composition in the good-natured way that film students did." },
+    { "type": "narration", "content": "Kit texted Daisy from the editing bay one Tuesday at ten-thirty." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "still at school. editing project. send help" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "what kind of help" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "the kind that makes editing go faster" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "unfortunately i'm in minnesota" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "noted" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "who are you working with" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "two freshmen and a sophomore. group project. she's good at logistics which helps" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "she?" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "cassidy. the sophomore. she runs the schedule. good filmmaker" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "ok. don't stay too late" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yes ma'am" },
+    { "type": "narration", "content": "He noticed the slight pause before her last message. He told himself it was nothing." }
+  ]
+}

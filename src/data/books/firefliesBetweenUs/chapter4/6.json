@@ -1,0 +1,23 @@
+{
+  "page": 6,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "so you really climbed the water tower? derek said it was like a hundred feet up" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "it wasnt a hundred feet" },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "how high" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "high enough" },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "lol ok mysterious" },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "was it worth it" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah" },
+    { "type": "narration", "content": "In the group window, Eli was still typing. Kit's responses had slowed, and Daisy, apparently, noticed. A separate window blinked open." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you go idle or something" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "no still here" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "ok eli is spiraling about mr patterson if you want to weigh in" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "on it" },
+    { "type": "narration", "content": "He toggled back to the group chat. In the other window, Brooke sent one more message." },
+    { "type": "message", "platform": "AIM", "sender": "xoBrookeHx", "content": "well maybe you can show me sometime. the view i mean" },
+    { "type": "narration", "content": "Kit read it. Then read it again. Then closed the laptop lid halfway, because his mom had just walked through the den." }
+  ]
+}

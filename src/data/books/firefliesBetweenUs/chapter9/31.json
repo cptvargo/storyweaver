@@ -1,0 +1,29 @@
+{
+  "page": 31,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli found out that same night, from Kit, in the kitchen, while the girls were in the other room." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We figured it out." },
+    { "type": "narration", "content": "Eli turned from the counter very slowly." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Define figured it out." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I asked her. She said yes." },
+    { "type": "narration", "content": "Eli set down what he was holding." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit McKinley." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I have been watching you not do this for six years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Six. Years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know, Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I told you at the bike rack. I told you at homecoming. I told you at prom —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "You were right every time. Are you done." },
+    { "type": "narration", "content": "Eli picked up what he'd set down. Looked at Kit." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Genuinely proud of you, man." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Thank you." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She's going to wreck you if you're not careful." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Already has. Multiple times." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Good. That's how you know it's real." },
+    { "type": "narration", "content": "They went back to the living room. On the couch, Daisy was talking to Priya about something, and when Kit came back she shifted slightly and he sat down next to her and their shoulders met the way they always had — except now it had a name, and that was the whole difference." }
+  ]
+}

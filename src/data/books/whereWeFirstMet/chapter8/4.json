@@ -1,0 +1,29 @@
+{
+  "page": 4,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "Something isn't right." },
+    { "type": "narration", "content": "He said it simply, the way you say a thing you've been not-saying for long enough that the not-saying has become its own kind of weight." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Not with us. With Cassandra. There's something she's carrying that I can't see. I can feel the outline of it — the shape of the space around it — but not the thing itself. And the people who love her know. Her sister knows. Her father knows. They've both spoken to me in this particular way — carefully, not to alarm, not to explain. Just to prepare me for something." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "And you don't know what it is." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "No." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Have you asked her?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Not directly. She knows I sense it. I told her — on her porch, after dinner — that I notice. That I'm not pushing. That I'll wait for her to be ready." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "And how did she respond?" },
+    { "type": "narration", "content": "He thought about it honestly." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She said: 'I know. That's what makes it harder.'" },
+    { "type": "narration", "content": "Mr. Alvarez was very still. His expression was the one he had when he was deciding not what to do, but how to say something he had already understood." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "And you've been carrying that." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Since Saturday." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Four days." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Four days." },
+    { "type": "narration", "content": "A quiet beat. The grinder ran briefly in the back." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Ethan. Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "When you are with her — when she is in front of you and things are easy between you, and the difficult thing is not in the room — how do you feel?" },
+    { "type": "narration", "content": "He didn't have to think about that one." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Like I'm exactly where I'm supposed to be." }
+  ]
+}

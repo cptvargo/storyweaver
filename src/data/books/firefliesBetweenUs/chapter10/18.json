@@ -1,0 +1,33 @@
+{
+  "page": 18,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The fireworks finished with Eli's finale — three in quick succession, all white and gold — and then the field went quiet except for the fire and the fireflies and the fading echo of the municipal display dying out across town." },
+    { "type": "narration", "content": "Kit and Daisy came back to the group." },
+    { "type": "narration", "content": "Eli looked at Kit. Kit shook his head — don't. Eli absolutely did not honor that." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay I have to —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I planned this whole night." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know you did." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The lanterns. The cooler. The fireworks. The warm white specifically — neutral white is too harsh for emotional moments, I did the research —" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm just saying I'm invested." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're always invested." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because I care about people." },
+    { "type": "narration", "content": "He stopped. Looked at the two of them — really looked. The way they were standing. Something in his face went quiet and genuine underneath all the Eli of it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You two are good. You're actually — yeah. You're good." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We're good." },
+    { "type": "narration", "content": "Eli pulled Kit into a hug — sudden and real — and Kit went with it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I've been rooting for you both since ninth grade. Don't mess it up." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's the plan." },
+    { "type": "narration", "content": "Savannah caught Daisy's hand." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You look different." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I feel different." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Good different." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The best kind." }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "page": 27,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They walked back down the aisle together." },
+    { "type": "narration", "content": "Her hand in his arm. His hand over hers. The music rising, the faces turning toward them — his mother, her father, Mr. Alvarez on the aisle with his quiet nod, Nathan grinning wider than she had ever seen him grin, Maya in the second row with her arms folded and her eyes bright and a look on her face that said: I would never cry at a wedding, followed immediately by the look of someone crying at a wedding." },
+    { "type": "narration", "content": "Cassandra laughed. She couldn't stop laughing. Something about it — the aliveness of the room, the faces of the people she loved, the ring on her finger, his hand over hers, the whole improbable fact of being here — made her feel lighter than she had felt since she was fifteen years old, before October, before the cardiologist's office, before the beige walls." },
+    { "type": "narration", "content": "This was different from the lightness after the Ferris wheel." },
+    { "type": "narration", "content": "That had been relief: the weight of the secret, finally set down." },
+    { "type": "narration", "content": "This was something else. This was the feeling of having given the weight to someone and watched them not just hold it but carry it proudly, forward, into the light." }
+  ]
+}

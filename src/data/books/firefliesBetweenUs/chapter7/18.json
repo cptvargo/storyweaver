@@ -1,0 +1,26 @@
+{
+  "page": 18,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "hey" },
+    { "type": "narration", "content": "She stared at it." },
+    { "type": "narration", "content": "One word. The same word she'd sent him a hundred times, the same word he'd sent her. But this one sat differently on the screen. It sat like something he'd typed and deleted and typed again." },
+    { "type": "narration", "content": "She typed: hey back." },
+    { "type": "narration", "content": "Then deleted it." },
+    { "type": "narration", "content": "Typed: tonight was fun." },
+    { "type": "narration", "content": "Deleted it." },
+    { "type": "narration", "content": "Typed: kit." },
+    { "type": "narration", "content": "Stared at that for a long moment." },
+    { "type": "narration", "content": "Deleted it." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "hey" },
+    { "type": "narration", "content": "A long pause on his end. She could see the icon that meant he was typing. Then it stopped. Then started again." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "good night right" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "good night kit" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "good night daisy" },
+    { "type": "narration", "content": "She closed the chat. Sat in the quiet." },
+    { "type": "narration", "content": "There were a hundred things he hadn't said in that conversation. She'd counted all of them." }
+  ]
+}

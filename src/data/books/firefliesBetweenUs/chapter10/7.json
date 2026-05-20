@@ -1,0 +1,25 @@
+{
+  "page": 7,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They walked. The neighborhood was doing what it always did on the Fourth — kids with sparklers, a radio going somewhere, the smell of someone else's cookout still on the air. The light was low and golden and everything had the particular softness that only happened in the hour before dark." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I walked this street every day for six years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. I was usually ahead of you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You were always ahead of me. You walked too fast." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I walk at a normal pace." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You have long legs. That's not a normal pace for everyone." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You could've said something." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "In sixth grade I told you and you slowed down for exactly one block and then forgot." },
+    { "type": "narration", "content": "He slowed. She caught up. He reached for her hand without thinking about it and she let him take it without making it a thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "This whole summer feels like something I knew was coming but still didn't know how to prepare for." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good thing or bad thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Extremely good thing." },
+    { "type": "narration", "content": "They turned the corner at the end of his block. The field opened up ahead of them — the same one it had always been, wide and dark at the edges and lit up in the middle with lanterns Eli had clearly spent real time on." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He actually pulled this off." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Did you doubt him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I doubted the cooler." },
+    { "type": "narration", "content": "The cooler was, in fact, unreasonably large." }
+  ]
+}

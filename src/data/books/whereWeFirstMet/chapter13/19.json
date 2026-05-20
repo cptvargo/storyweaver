@@ -1,0 +1,19 @@
+{
+  "page": 19,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She reached up and touched his face." },
+    { "type": "narration", "content": "Not the way you touch something to check if it's real. The way you touch something because you know it is and you want to hold the knowing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "This matters." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want you to know that I know it does." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know you know." },
+    { "type": "narration", "content": "She laughed very quietly — the soft kind, the kind that releases tension without breaking it — and he kissed her." },
+    { "type": "narration", "content": "The fire behind them. The dark mountain outside. The card on the counter, their names written together in her father's hand." },
+    { "type": "narration", "content": "The bedroom door was ajar, the bed with linen turned down, the lamp throwing one warm circle of light." },
+    { "type": "narration", "content": "She took his hand." },
+    { "type": "narration", "content": "And that was the night." }
+  ]
+}

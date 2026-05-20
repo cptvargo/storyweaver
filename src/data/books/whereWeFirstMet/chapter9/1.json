@@ -1,0 +1,24 @@
+{
+  "page": 1,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She showed up at Lena's without calling." },
+    { "type": "narration", "content": "That was the thing about Cassandra and Lena — certain conversations didn't announce themselves. You just arrived at the door, and the other person looked at you and understood without being told that something had crossed a threshold." },
+    { "type": "narration", "content": "Lena opened the door, read her face in approximately three seconds, and said: \"I'll make the good tea.\"" },
+    { "type": "narration", "content": "Not: what's wrong. Not: are you okay. Just the tea." },
+    { "type": "narration", "content": "They sat in the kitchen where they always sat for things that mattered — at the small table by the window, the one with the chipped corner from when they'd moved it themselves and dropped it on the stairs. Neither of them had ever fixed it. It had become a kind of landmark." },
+    { "type": "narration", "content": "Cassandra wrapped both hands around her mug. The tea was still too hot to drink, but holding it felt like an anchor." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You're deciding something." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I already decided. I'm just—" },
+    { "type": "narration", "content": "She stopped. Started again." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm just figuring out how to say it out loud." },
+    { "type": "narration", "content": "Lena nodded. She waited. Outside, the street was doing its morning things — a car pulling out of a driveway, someone's dog being walked too fast for the dog's preference. Ordinary sounds. The world that didn't know anything was different today." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm going to tell him." },
+    { "type": "narration", "content": "The words arrived simply. Not dramatically. Just — true." },
+    { "type": "narration", "content": "Lena looked at her. Something in her face softened, but she didn't reach immediately for comfort or reassurance. She sat with it first, the way she always did with the things that mattered — letting the weight of a thing settle before she touched it." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm terrified." }
+  ]
+}

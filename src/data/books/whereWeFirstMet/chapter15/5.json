@@ -1,0 +1,16 @@
+{
+  "page": 5,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He sat on the edge of the bed." },
+    { "type": "narration", "content": "He sat there for a moment that had no length — not a second, not a minute. Something outside of time entirely." },
+    { "type": "narration", "content": "Her face." },
+    { "type": "narration", "content": "Still. The way a face is still when the person who lived in it has left. He had never seen it before. He had hoped he would never see it. He recognized it immediately." },
+    { "type": "narration", "content": "He had always known this day existed. They both had. They had chosen not to live in fear of it and they had succeeded — fifteen years of not living in fear of it, fifteen years of just living — and still, now that it had arrived, it was the most unexpected thing in the world." },
+    { "type": "narration", "content": "He said her name once more, into the room." },
+    { "type": "narration", "content": "The room held it." },
+    { "type": "narration", "content": "And then everything came at once." }
+  ]
+}

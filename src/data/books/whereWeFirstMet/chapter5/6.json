@@ -1,0 +1,30 @@
+{
+  "page": 6,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Teach me something." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Now?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You have a spare canvas. You have two brushes. The math is right there." },
+    { "type": "narration", "content": "He set her up with a small canvas and walked her through the basics — how to load a brush without overloading it, how wet paint behaves differently from what you expect, how to look at what you're seeing rather than what you think you're seeing." },
+    { "type": "narration", "content": "She chose to paint the view from the window: the rain-grey street, one yellow awning across the way, a streetlamp not yet lit." },
+    { "type": "narration", "content": "The result was ambitious." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "This is—" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Bad." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Expressive." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "My cloud looks like it's having an identity crisis." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Clouds can have range." },
+    { "type": "narration", "content": "She laughed, which made the brush slip, which sent a streak of cerulean blue across the upper right corner that was, objectively, an improvement." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I did that on purpose." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know you did." },
+    { "type": "narration", "content": "She reached past him for the cobalt, and in the process knocked the small jar of water they were using to rinse brushes." },
+    { "type": "narration", "content": "It went across the corner of the paint table and onto the floor in a pale blue-grey tide." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I—" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It's happened before." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm a menace." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You're learning." },
+    { "type": "narration", "content": "They cleaned it up together, both crouched over the floor with paper towels and the particular low-grade helpless laughter that disasters of that size always produce. Their hands touched twice and neither of them mentioned it." }
+  ]
+}

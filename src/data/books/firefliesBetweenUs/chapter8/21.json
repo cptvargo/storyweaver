@@ -1,0 +1,30 @@
+{
+  "page": 21,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Late. He got home and sat on the edge of his bed with his shoes still on and his phone in his hand for a long time." },
+    { "type": "narration", "content": "Then he texted her." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "hey" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "hey" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "you okay" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "yeah. you?" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i meant what i said tonight" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i know" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "me too" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "we'll figure it out" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "kit" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "tonight was exactly right. even the end of it" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it was" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "goodnight" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "goodnight daisy" },
+    { "type": "narration", "content": "He set the phone on his nightstand. Took his shoes off. Lay back and looked at the ceiling." },
+    { "type": "narration", "content": "August. Three months. He'd spent four years telling himself he had time." },
+    { "type": "narration", "content": "Now the time had a shape." }
+  ]
+}

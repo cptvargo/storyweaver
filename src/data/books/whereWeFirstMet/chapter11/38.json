@@ -1,0 +1,20 @@
+{
+  "page": 38,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to come to the appointments." },
+    { "type": "narration", "content": "She stops." },
+    { "type": "narration", "content": "He turns to look at her. His eyes are red at the edges — she realizes he has been fighting that since the river, holding it back while he sat with everything she'd given him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "The monitoring ones. The check-ins. I want to be there." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan—" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You said you've always gone alone. You don't have to go alone anymore." },
+    { "type": "narration", "content": "The simplicity of it. The specific, practical, un-performed simplicity of it — not a declaration about forever, not a promise to fix anything — just: I will be there. In the beige-walled room. I will sit in the chair next to you." },
+    { "type": "narration", "content": "She stares at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You don't know what you're signing up for." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You just told me what I'm signing up for. I was listening." },
+    { "type": "narration", "content": "The gondola rocks. The wheel begins to descend. The carnival rises toward them." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not trying to save you, Cass. I know I can't. I just don't want you to be alone in those rooms anymore." }
+  ]
+}

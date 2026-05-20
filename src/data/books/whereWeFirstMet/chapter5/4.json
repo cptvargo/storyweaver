@@ -1,0 +1,29 @@
+{
+  "page": 4,
+  "chapter": 5,
+  "chapterTitle": "Something True",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "They stayed at the table until the rain had settled into something steadier, less event than atmosphere." },
+    { "type": "narration", "content": "At some point Mr. Alvarez brought Cassandra a second coffee she also hadn't ordered. She looked at it, then at him." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "On the house." },
+    { "type": "narration", "content": "He returned to the counter without further explanation." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Does he do that often?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Only when he approves." },
+    { "type": "narration", "content": "She smiled at her cup." },
+    { "type": "narration", "content": "Eventually he pushed his sketchbook across the table toward her. She looked at what he'd drawn while she was talking — a loose study of the window, the rain on the glass, and in the lower corner, a hand around a coffee cup. Her hand, though he hadn't said so." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Is that—" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Observational." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's a word for it." },
+    { "type": "narration", "content": "She looked at it longer than he expected. Long enough that he wondered what she was finding in it." },
+    { "type": "narration", "content": "When she finally looked up, she pulled her phone from her jacket pocket and slid it across the table toward him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You should have my number. In case you want to sketch my hands more." },
+    { "type": "narration", "content": "He typed his name in. Paused." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How should I save yours?" },
+    { "type": "narration", "content": "She thought about it with exaggerated seriousness." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Cassandra. The one who talked to you." },
+    { "type": "narration", "content": "He typed it exactly." },
+    { "type": "narration", "content": "When she took the phone back and saw it, she didn't change it." }
+  ]
+}

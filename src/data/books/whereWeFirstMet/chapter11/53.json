@@ -1,0 +1,17 @@
+{
+  "page": 53,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "At the gate, she turns to look back." },
+    { "type": "narration", "content": "The Ferris wheel is still turning. It will be turning when the last visitors leave. It will be turning when the field empties and the lights go dark and the carnival packs itself away and the fairgrounds return to ordinary grass." },
+    { "type": "narration", "content": "The wheel does not require an audience. It turns because it turns. Patient and certain, in the way of things that have been doing this for a very long time." },
+    { "type": "narration", "content": "The gondola that held them rises to the apex again. Pauses there. It doesn't know what happened inside it. It doesn't need to." },
+    { "type": "narration", "content": "The river is still visible beyond the fairgrounds, silver in the last light of the evening. Still. Permanent, from this distance." },
+    { "type": "narration", "content": "Cassandra looks at it for a moment." },
+    { "type": "narration", "content": "Then she turns back to the gate, to the five of them, to Ethan holding the gate open with his shoulder and looking at her with the expression she is going to spend the rest of her life not taking for granted." },
+    { "type": "narration", "content": "She walks through." },
+    { "type": "narration", "content": "The wheel turns behind her." }
+  ]
+}

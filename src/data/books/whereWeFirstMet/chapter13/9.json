@@ -1,0 +1,27 @@
+{
+  "page": 9,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The address led them off the main road onto a two-lane that became a one-lane that became a gravel drive winding upward through the trees. Ethan drove slowly. The trees were close on both sides — Douglas fir, he thought, though he was working from instinct rather than knowledge — and the light came through them in long columns, the way it came through gallery windows." },
+    { "type": "narration", "content": "Cassandra sat forward in her seat." },
+    { "type": "narration", "content": "The drive curved once, twice, and then the trees opened." },
+    { "type": "narration", "content": "The cabin sat in a clearing at the top of the rise: a single-story structure built from dark wood and stone, a porch wrapping two sides of it, a fieldstone chimney at one end. Behind it, visible past the roofline, the mountain itself — close enough now to seem like a wall, close enough to see the individual tree lines on the ridge." },
+    { "type": "narration", "content": "There was, on the porch railing, a hanging arrangement of wildflowers — mountain flowers, deep purple and yellow, tied with simple twine." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Dad." },
+    { "type": "narration", "content": "She said it very quietly." },
+    { "type": "narration", "content": "They got out. Ethan took out his phone and photographed the cabin exactly as it was: the wildflowers on the railing, the mountain in the background, his wife standing in the foreground without knowing it." },
+    { "type": "narration", "content": "She didn't tell him to save it this time." },
+    { "type": "narration", "content": "She walked to the porch. On the door something was pinned — a note in her mother's handwriting: The key is under the mat. It always has been." },
+    { "type": "narration", "content": "She lifted the mat. Found the key." },
+    { "type": "narration", "content": "Her hand was steady when she put it in the lock, and she was glad about that." },
+    { "type": "narration", "content": "She pushed the door open." },
+    { "type": "embed", "src": "/road_trip_pic_7.png" },
+    { "type": "narration", "content": "She stood in the doorway and didn't move." },
+    { "type": "narration", "content": "For a long moment she just stood there, taking it in. The warmth of it. The way it smelled like wood and something faint and sweet she couldn't name. The light through the windows." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I see it." },
+    { "type": "narration", "content": "He set his hand on her shoulder. They looked at it together from the doorway — the inside of the place her parents had loved for forty-one years, laid out and waiting for them." }
+  ]
+}

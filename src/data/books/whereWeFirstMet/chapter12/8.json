@@ -1,0 +1,21 @@
+﻿{
+  "page": 8,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Mr. Alvarez topped off both their cups. Then he set the carafe down and looked at Ethan with the expression he reserved for things that required both precision and care." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Before you do anything else — before the ring, before the question — there is one conversation you must have first." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Her father." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Her father." },
+    { "type": "narration", "content": "He leaned forward slightly." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Thomas Hailey has been watching his daughter for twenty-two years. He has watched everyone she brings close, and he has watched them carefully, the way a man watches when he knows that whoever loves his child will one day be in a room with the weight of things that cannot be fixed. He has a very good sense of who is capable of that room and who is not." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "He has already seen you. He has been seeing you. Go to him. Look him in the eye. Tell him what you told me just now — plainly, the way you said it. Don't prepare a speech. Just tell him the truth." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "And if he says no?" },
+    { "type": "narration", "content": "Mr. Alvarez almost smiled." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "He will not say no." },
+    { "type": "narration", "content": "He stood, picked up the carafe, and paused at the edge of the table." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "But do it right. She deserves a man who does it right." },
+    { "type": "narration", "content": "He walked back toward the counter. Ethan sat with his coffee. Then he pulled out his phone and typed a name he had never called before." }
+  ]
+}

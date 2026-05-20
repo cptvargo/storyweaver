@@ -1,0 +1,22 @@
+{
+  "page": 14,
+  "chapter": 8,
+  "chapterTitle": "Before the Answer",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He sat with the drawing for a long time." },
+    { "type": "narration", "content": "He'd been circling the same territory all day — from the park, to the coffee shop, to Nathan's voice across the table, to the phone on the counter — and everywhere he'd looked, the question had looked back: what do you do with something you love that is carrying something you can't see?" },
+    { "type": "narration", "content": "He thought about what Mr. Alvarez had said. You don't always get the full story before you decide to stay. Sometimes you decide to stay, and then you get the story, and then you stay because of the deciding — not because of what you learned." },
+    { "type": "narration", "content": "He thought about the father, at the dinner table. The way he'd looked at Ethan: measuring, but not suspicious. Weighing him the way you weigh someone you are considering trusting with something precious." },
+    { "type": "narration", "content": "He thought about Maya. I love her more than I've loved anything in my entire life. The way that sentence didn't end in warmth. The way it ended in something close to grief — not for the present, but for a future that hadn't been decided yet." },
+    { "type": "narration", "content": "She was carrying something. Her family was carrying it with her. And it was heavy enough that the people who loved her most had developed a particular way of speaking — careful, not to alarm, not to explain — as if they'd learned to hold it without showing the strain." },
+    { "type": "internalThought", "content": "She doesn't need someone to solve it. She needs someone to sit in the room with it." },
+    { "type": "narration", "content": "Don't force the truth. Make it safe enough to be given." },
+    { "type": "narration", "content": "He understood that differently now than he had at eight in the morning. In the morning, it had sounded like patience — a virtue, a technique, a thing you practiced. Now it sounded like something older. A kind of love that didn't require the full picture before it decided to show up." },
+    { "type": "narration", "content": "He wanted to carry some of it. Whatever it was. He wanted to be someone she could set a portion of it down with — not because she had to, not because he'd asked, but because she trusted him enough to believe that he could hold part of what she'd been holding alone." },
+    { "type": "narration", "content": "He couldn't force that. He knew he couldn't force it." },
+    { "type": "narration", "content": "He could only make the room safe enough." },
+    { "type": "internalThought", "content": "Don't force the truth. Make it safe enough to be given." },
+    { "type": "narration", "content": "He said it quietly, alone in his apartment, as if saying it aloud would help him remember that he'd decided." }
+  ]
+}

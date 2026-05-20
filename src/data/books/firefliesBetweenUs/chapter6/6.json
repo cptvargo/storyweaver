@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The problem with Ryan Callaway was that there was no problem with Ryan Callaway." },
+    { "type": "narration", "content": "Kit had spent a week waiting for one. For him to say something wrong, be wrong about something, reveal the thing that would explain why the feeling in Kit's stomach every time Daisy mentioned his name wasn't just nothing. But Ryan was thoughtful and he was funny without working too hard at it and he held doors open not in a performative way but in the genuine way of someone who just did that. He was good at listening. Kit noticed that especially — the way Ryan actually listened when Daisy talked, not just waiting for his turn." },
+    { "type": "narration", "content": "Kit liked to think he listened. Now he was less sure." },
+    { "type": "narration", "content": "Eli pulled him aside after school on a Tuesday." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You've met Ryan." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "And?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "And what." },
+    { "type": "dialogue", "speaker": "Eli", "content": "And what do you think." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He seems fine." },
+    { "type": "dialogue", "speaker": "Eli", "content": "He seems fine." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What do you want me to say?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "I want you to say what you actually think." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He seems fine, Eli." },
+    { "type": "narration", "content": "Eli looked at him the way he'd been looking at him since seventh grade — like he was watching a slow-motion thing happen and had already done the math on how it ended." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay." },
+    { "type": "narration", "content": "He dropped it. Kit was grateful and annoyed in equal measure." }
+  ]
+}

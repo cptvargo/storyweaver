@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"e:\\\\StoryWeaver\\\\src\\\\data\\\\books\\\\firefliesBetweenUs\\\\chapter6\" | ForEach-Object { $_.Name } | Sort-Object)",
+      "Bash(git push *)",
+      "Bash(python3 -c 'import json,sys; json.load\\(open\\('\\\\''__TRACKED_VAR__'\\\\''\\)\\)')",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}

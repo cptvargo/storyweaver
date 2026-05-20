@@ -1,0 +1,30 @@
+{
+  "page": 1,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The reception disappeared behind them in the dark." },
+    { "type": "narration", "content": "One turn of the road and then the torchlight was gone, the fire was gone, the beach was gone. The ordinary world came back — streetlamps, pavement, the particular quiet of a highway at the edge of a night that didn't know what had happened in it." },
+    { "type": "narration", "content": "Cassandra watched the darkness through her window. The radio was low, something instrumental they'd agreed on without discussing it. Ethan drove the way he did everything: attentively, without performance." },
+    { "type": "narration", "content": "Five hours to the mountains. Three tonight, two tomorrow. The plan had been simple when they'd made it. Now that it was happening, nothing about it felt simple." },
+    { "type": "narration", "content": "Not bad." },
+    { "type": "narration", "content": "Just — real in a way plans aren't, until they are." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "We're married." },
+    { "type": "narration", "content": "She said it to the window, mostly. Testing it again." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's — I keep saying it to myself and it keeps feeling like I'm describing someone else." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Give it a few miles." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Did it feel real to you? When it was happening?" },
+    { "type": "narration", "content": "He thought about it. Not the performative pause — the real one." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "When you walked in." },
+    { "type": "narration", "content": "She waited." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Before that I was just managing the morning. But when I saw you in the doorway — that was when it was real." },
+    { "type": "narration", "content": "She held that. Outside, the city thinned and the road opened up — longer stretches between lights, more sky. The mountains were still five hours away but the direction was set." },
+    { "type": "narration", "content": "She reached across the console and put her hand in his." },
+    { "type": "narration", "content": "He turned his hand over without looking." },
+    { "type": "narration", "content": "The radio played something without words." },
+    { "type": "narration", "content": "The road kept going." }
+  ]
+}

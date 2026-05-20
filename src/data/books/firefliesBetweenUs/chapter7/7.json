@@ -1,0 +1,20 @@
+{
+  "page": 7,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The week before homecoming Daisy found a dress at a shop on Main Street — dark green, simple — and sent Savannah a picture of it on her disposable camera that she'd have to wait to develop. She described it on AIM instead." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "it's dark green. kind of simple. i think it works" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "it's going to look amazing on you" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you haven't seen it" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "i don't need to. kit's going to lose his mind" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "savannah" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "what. i'm just saying" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "we're going as a group" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "yes. a group that includes kit. who is going to lose his mind." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "goodnight savannah" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "lol goodnight" },
+    { "type": "narration", "content": "Daisy closed the chat. Looked at the dress on its hanger on the back of her door. Thought about something for a moment. Then went to bed." }
+  ]
+}

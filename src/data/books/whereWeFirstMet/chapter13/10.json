@@ -1,0 +1,29 @@
+{
+  "page": 10,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Inside, Thomas Hailey had thought of everything." },
+    { "type": "narration", "content": "Not in the overstated way of someone trying to impress — in the careful way of someone who had paid attention for years and was now quietly applying what he knew." },
+    { "type": "narration", "content": "Cassandra stepped in and turned slowly, taking it all in." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Wildflowers." },
+    { "type": "narration", "content": "They were everywhere — not arranged formally, just gathered into jars and set on surfaces the way you'd put them in a house where you wanted it to feel like a home. The windowsill above the sink. The small table by the door. A low jar on the mantle." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You called it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I knew. He's always done wildflowers." },
+    { "type": "narration", "content": "She moved to the kitchen counter. The fireplace was laid and ready to light — wood stacked clean, kindling set below it, exactly the way her father built a fire at home, the same method he'd used every winter she could remember." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The fireplace. Laid already." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'll light it tonight." },
+    { "type": "narration", "content": "On the counter: a bottle of sparkling cider she recognized immediately — the same label her parents always kept for celebrations, the one her father ordered specially and kept for moments that deserved it. Beside it, a basket of food that would last two days, put together with the same quiet attention as everything else." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "The sparkling cider. I told you he'd spend forever choosing it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You were right about everything." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He always has been the kind of person who shows love through preparation. He researches everything. He'd have spent two weeks on this sparkling cider." },
+    { "type": "narration", "content": "Her voice was steady but her eyes weren't entirely." },
+    { "type": "narration", "content": "The main room was open and warm: wood floors, a couch that faced the fireplace, a window above the kitchen sink that looked directly up the mountain face. The bedroom door was ajar and through it, visible from the entrance, a bed with linen that had been turned down." },
+    { "type": "narration", "content": "She stopped at the counter. There was a small card, their names on the front in her father's handwriting — Cassandra and Ethan, written together the way people write names when they have decided those names belong together." },
+    { "type": "narration", "content": "She held it for a moment without opening it." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "You okay?" },
+    { "type": "narration", "content": "She nodded. Not a dismissal — the real answer. She was okay. She was, in fact, something considerably better than okay. She just needed a moment before the card, because she knew her father, and she knew the card would require a minute from her." },
+    { "type": "narration", "content": "She opened it." }
+  ]
+}

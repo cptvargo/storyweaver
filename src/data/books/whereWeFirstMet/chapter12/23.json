@@ -1,0 +1,18 @@
+﻿{
+  "page": 23,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Pastor", "content": "The rings, please." },
+    { "type": "narration", "content": "Nathan reached into his jacket pocket. He produced the ring with the careful ceremony of a man who has not lost it, which Ethan appreciated." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "These rings are a symbol of the vows you have just made — a circle with no beginning and no end, a promise made visible. May they remind you, on every ordinary day and every extraordinary one, of what you have chosen here." },
+    { "type": "narration", "content": "Ethan took the ring." },
+    { "type": "narration", "content": "He held her left hand — the hand with the engagement ring she'd been wearing for two months, the warm-stoned ring he'd chosen in an estate jewelry shop on a Tuesday afternoon because it looked like the afternoon light through arcade windows. He moved it aside. He held the wedding band over her finger." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Ethan, repeat after me. With this ring, I thee wed." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "With this ring, I thee wed." },
+    { "type": "narration", "content": "He slid it onto her finger." },
+    { "type": "narration", "content": "He looked at her hand. The band there, catching the candlelight. Simple and permanent and entirely right." },
+    { "type": "narration", "content": "He looked at her face." }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿{
+  "page": 3,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "pov": "Ethan",
+  "blocks": [
+    { "type": "narration", "content": "Six months ago. The night of the carnival." },
+    { "type": "narration", "content": "Ethan sat in his car in the parking lot of his apartment building for a long time after he got home. Not because he couldn't go inside. Just because the car felt like a place where he was allowed to sit with everything that had happened before he carried it through a door." },
+    { "type": "narration", "content": "His phone lit up." },
+    { "type": "message", "sender": "Cassandra", "content": "You home?" },
+    { "type": "message", "sender": "Ethan", "content": "In my car. Not quite." },
+    { "type": "message", "sender": "Cassandra", "content": "Me too. Well. Lena's couch. Same concept." },
+    { "type": "message", "sender": "Ethan", "content": "How are you?" },
+    { "type": "narration", "content": "A pause. Three dots. They disappeared. Then came back." },
+    { "type": "message", "sender": "Cassandra", "content": "I feel like I put something down that I've been carrying for a very long time and my arms don't know what to do yet." },
+    { "type": "message", "sender": "Ethan", "content": "That makes sense." },
+    { "type": "message", "sender": "Cassandra", "content": "Are you okay? Be honest." },
+    { "type": "narration", "content": "He looked out through the windshield at the apartment building. The lights in the windows. People going about their evenings, ordinary and unknowing." },
+    { "type": "message", "sender": "Ethan", "content": "I'm okay. Not the pretending kind. The real kind." },
+    { "type": "message", "sender": "Ethan", "content": "I've been sitting here thinking about what I want to say and I keep not finding the right words so I'm going to say the true ones instead." },
+    { "type": "message", "sender": "Cassandra", "content": "Okay." }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": 14,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The phone rang at nine-fifteen. Kit's mom called upstairs that it was Eli, and Kit came down and took the receiver to the corner of the kitchen where the cord stretched." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay hold on Savannah's getting on." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Why is Savannah getting on." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Because I'm conferencing. Hold on." },
+    { "type": "narration", "content": "A click, some static, and then Savannah's voice." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay. Kit. What is happening with you and Daisy." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nothing is happening." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Savannah." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She didn't sit with you at lunch." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The table was full." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit. You told her about the water tower thing with Brooke." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I just mentioned it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The water tower is yours and Daisy's thing." },
+    { "type": "narration", "content": "Silence on the line." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not our—" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit. I say this with love. You are genuinely the least self-aware person I know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm helping." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I gotta go." },
+    { "type": "narration", "content": "He hung up. Stood in the kitchen for a second. The water tower is yours and Daisy's thing. He went back upstairs and didn't go back on AIM." }
+  ]
+}

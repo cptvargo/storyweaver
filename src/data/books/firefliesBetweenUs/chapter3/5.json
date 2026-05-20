@@ -1,0 +1,29 @@
+{
+  "page": 5,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Savannah", "content": "I have a new binder system." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Of course you do." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Color-coded by subject. It's actually really satisfying." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'll take your word for it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I haven't bought anything yet." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'll get it the weekend before." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That's this weekend." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
+    { "type": "narration", "content": "Savannah made a face that communicated something complex about preparedness and love, but let it go." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I have last year's notebooks still." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Kit, you can't use last year's notebooks." },
+    { "type": "dialogue", "speaker": "Kit", "content": "There's still blank pages in them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What class?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Math. I think." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You think." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll check." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You two are genuinely the least prepared people I know and somehow you always survive the year." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's a gift." },
+    { "type": "dialogue", "speaker": "Kit", "content": "A gift we share." },
+    { "type": "narration", "content": "He meant it as a joke but it landed somewhere slightly more true than that, and he looked at his burger instead of at her." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page": 6,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena had left The Copper Cup the summer after the wedding." },
+    { "type": "narration", "content": "It hadn't been a dramatic departure — no ultimatum, no bad ending. Just a conversation with Mr. Alvarez at a small gallery opening he'd invited her to, where he'd watched her explain a painting to a stranger for ten minutes with a precision and passion that had nothing to do with art school, and afterward had said: I'd like you to come work with me." },
+    { "type": "narration", "content": "She had said yes before he finished the sentence." },
+    { "type": "narration", "content": "Two years in, she was not the girl who had stocked shelves and called Cassandra from the back room when it was slow. She ran his client correspondence. She sourced pieces. She sat in on meetings and sometimes ran them. Mr. Alvarez had a habit of introducing her to people as 'the person who actually keeps this operation honest,' which made her uncomfortable in a way she suspected he knew and intended." },
+    { "type": "narration", "content": "The pay was better. The work was better. She had grown in ways she hadn't anticipated growing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You're different." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Good different or bad different?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Like yourself. More like yourself." },
+    { "type": "narration", "content": "Lena had thought about that for a while." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I think Mr. Alvarez just kept treating me like I was capable until I started believing it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's what good mentors do." },
+    { "type": "narration", "content": "She still called Cassandra from work sometimes. Habit, now. Affection." },
+    { "type": "narration", "content": "The best kind of both." }
+  ]
+}

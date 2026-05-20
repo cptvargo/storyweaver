@@ -1,0 +1,20 @@
+{
+  "page": 19,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Post-storm Millhaven was its own particular thing." },
+    { "type": "narration", "content": "Porches that had been empty were filling up again — people coming out to check the damage, which was never much. Some branches down. Whatever had been in the yard that wasn't supposed to be there. Mr. Whitaker was already in his front yard inspecting his garden with the expression of a general reviewing a successful campaign. He raised his hand at them without looking up." },
+    { "type": "narration", "content": "They rode slow, because there was no reason not to. The streets were wet and the puddles were worth navigating around. The light was changing fast now — the post-storm gold deepening toward orange, the streetlights on Cedar coming on early, their sensors confused by how dark the storm had made the afternoon." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Today was good." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Today was wet." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Today was good and wet." },
+    { "type": "narration", "content": "She looked at him sideways, then back at the road, and the corner of her mouth did the thing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. It was." },
+    { "type": "narration", "content": "He liked it when she didn't give him a hard time just for the sake of it. She was fully capable of it — had been doing it since third grade, where she'd sat next to him alphabetically (Jones after Jenkins) and established her right to call him on his nonsense with such consistency that he'd stopped thinking of it as anything but a feature of the universe." },
+    { "type": "narration", "content": "The teasing was there. The pushback was there. The look that said you're being an idiot right now and I'm going to let you figure that out was there. All of it was just part of the negotiation of being around Daisy May Jones." },
+    { "type": "narration", "content": "But sometimes she'd just say yeah, it was, and mean it." },
+    { "type": "narration", "content": "Those were the better moments. He wasn't going to tell her that." }
+  ]
+}

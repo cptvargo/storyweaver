@@ -1,0 +1,29 @@
+{
+  "page": 9,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Her father had set the book down entirely. He was in the doorway — not quite joining the conversation, not quite leaving it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Dad. You can come in." },
+    { "type": "narration", "content": "He came in and took the third chair without ceremony, and for a moment none of them said anything. It wasn't awkward — it was the three of them in a kitchen they'd been in together for twenty years, and silence between them had never needed to be filled." },
+    { "type": "dialogue", "speaker": "Father", "content": "Do you remember when you were eleven and you decided you were going to learn to ride without hands on the bike?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You told me not to." },
+    { "type": "dialogue", "speaker": "Father", "content": "I did. And you did it anyway, and you fell, and your mother and I had to resist the urge to say we told you so while we were cleaning the scrape on your knee." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Father", "content": "Do you remember what you said when we asked why you'd done it?" },
+    { "type": "narration", "content": "She thought." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I said I needed to know if I could." },
+    { "type": "dialogue", "speaker": "Father", "content": "Yes. And then you learned, and then you could." },
+    { "type": "narration", "content": "He looked at her directly." },
+    { "type": "dialogue", "speaker": "Father", "content": "You have always been someone who needed to know the full scope of a thing. Not just the safe part. All of it." },
+    { "type": "dialogue", "speaker": "Father", "content": "This boy — does he strike you as someone who needs to be protected from the full scope?" },
+    { "type": "narration", "content": "She thought about it honestly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "No." },
+    { "type": "dialogue", "speaker": "Father", "content": "Then trust what you know about him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm not worried about him being able to handle it. I'm worried about what it costs. Both of us. When it's real and he knows and there's no version left where things are simple." },
+    { "type": "dialogue", "speaker": "Father", "content": "Things have never been simple. They've only looked simple from certain angles." },
+    { "type": "narration", "content": "He folded his hands on the table." },
+    { "type": "dialogue", "speaker": "Father", "content": "And I would argue that a thing is worth more when it has been looked at fully and chosen anyway. Not despite the difficulty. Including it." }
+  ]
+}

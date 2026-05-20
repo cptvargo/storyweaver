@@ -1,0 +1,32 @@
+{
+  "page": 11,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli materialized at Kit's shoulder with a level of subtlety that was not Eli's natural mode." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Can I say something." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You're going to." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Tonight's the night." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli —" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Not a question. Not a suggestion. A statement of fact." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I set up this entire field for this night. I have been planning since February. I put the lanterns at a specific height for good ambience. I know." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You planned this field for your Fourth of July event." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I planned this field for your moment. The Fourth of July is the occasion." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You are unbelievable." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I am extremely consistent. There is a difference." },
+    { "type": "narration", "content": "Kit looked at him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The lanterns." },
+    { "type": "dialogue", "speaker": "Eli", "content": "The lanterns." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "A man is allowed to curate the environment. Does Priya know? Priya helped me pick the color. Warm white. Neutral white is too harsh." },
+    { "type": "narration", "content": "Kit laughed — the kind that was half disbelief — and shook his head." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You've been waiting long enough. She has too. Stop overthinking it and just let it happen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not overthinking it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You think about things approximately four times longer than necessary. Always have." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's fair." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Go be with her. The rest of it will happen when it happens." },
+    { "type": "narration", "content": "He clapped Kit once on the back and walked away like a man who had done his job." }
+  ]
+}

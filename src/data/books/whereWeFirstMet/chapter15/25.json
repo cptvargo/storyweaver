@@ -1,0 +1,20 @@
+{
+  "page": 25,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Grey sky." },
+    { "type": "narration", "content": "The ground cold and quiet. The trees bare. The specific stillness of a day that has agreed to hold something important without making a fuss about it." },
+    { "type": "narration", "content": "Thomas Hailey stood on one side of Ethan and said nothing. He had been saying nothing for hours. It was exactly right." },
+    { "type": "narration", "content": "Ethan put his hand on the casket before they lowered it." },
+    { "type": "narration", "content": "He pressed his palm flat against the wood." },
+    { "type": "narration", "content": "He stood like that for a moment." },
+    { "type": "narration", "content": "Whatever he said, he said in the private language of fifteen years — the language of two people who had learned each other completely, down to the last word, the last gesture. It didn't need to be heard by anyone else to be real." },
+    { "type": "narration", "content": "He took his hand away." },
+    { "type": "narration", "content": "Thomas put his hand on his shoulder." },
+    { "type": "narration", "content": "They stood together in the grey quiet." },
+    { "type": "narration", "content": "Father and husband, the two men who had loved her most, standing at the end of her." },
+    { "type": "narration", "content": "They stood until there was nothing left to stand for." }
+  ]
+}

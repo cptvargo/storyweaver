@@ -1,0 +1,25 @@
+{
+  "page": 11,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The game ended without a definitive winner, which seemed appropriate given Mr. Alvarez's approach to scoring. He declared it a draw with the kind of finality that foreclosed argument." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "There was absolutely a winner." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "There were several. Which is better." },
+    { "type": "narration", "content": "They broke from the table and spread into the room in the organic way groups do after sitting together. New pairings formed around the coffee and the music. Mr. Alvarez put on a different record — something with slightly more energy — and the room shifted its quality accordingly." },
+    { "type": "narration", "content": "Maya was at the window when Nathan found her, which he managed while appearing not to have been looking for her, which Cassandra clocked from across the room and filed away without comment." },
+    { "type": "narration", "content": "Maya was looking at the street. Nathan came to stand beside her, not quite facing her — that sideways position people take when they don't want to seem like they're doing exactly what they're doing." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Good game." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You lost." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I performed admirably given the circumstances." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Your circumstances were fine. You just had bad luck on the last three questions." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I had borderline calls on the last three questions. Different thing." },
+    { "type": "narration", "content": "Maya looked at him." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You've been very strategically placed all evening." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm socially engaged. It's different." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Is it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Marginally." },
+    { "type": "narration", "content": "She went back to looking at the window. He stayed where he was." }
+  ]
+}

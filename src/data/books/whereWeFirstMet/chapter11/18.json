@@ -1,0 +1,23 @@
+{
+  "page": 18,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They walked the quieter edge of the fairgrounds, away from the main midway. Nathan wasn't pushing toward anything and Maya noticed that. He had the quality, she'd been observing, of someone who understood that the most interesting things happened when you didn't chase them." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're not what I expected." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "What did you expect?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "More." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "More what?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "More effort. Most people try harder when they're interested." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "What makes you think I'm interested?" },
+    { "type": "narration", "content": "She looked at him then — fully, for a moment, the wall dropping just a degree." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're carrying a penguin for me." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm carrying it for the penguin. It seemed scared." },
+    { "type": "narration", "content": "She laughed again. The same one — the surprised kind. She caught it this time but let it happen anyway. It had been a long time since she'd let something catch her off guard." },
+    { "type": "narration", "content": "She didn't take his hand. But when they turned toward the main midway she walked closer to him than she had before, and their arms nearly touched, and she didn't move away." },
+    { "type": "narration", "content": "Nathan felt this." },
+    { "type": "narration", "content": "He didn't press it. He stored it. He walked beside her, the penguin under his arm, and said nothing, and let the almost be what it was: a door left open." }
+  ]
+}

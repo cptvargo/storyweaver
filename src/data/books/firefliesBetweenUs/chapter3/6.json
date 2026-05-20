@@ -1,0 +1,24 @@
+{
+  "page": 6,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Eli", "content": "Okay. New tradition. Last Saturday before school, Hester's, then the movie in the park." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That's not a new tradition, we did that last year." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Which means it's officially a tradition. Even better." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What's playing?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "No idea. Doesn't matter. It's the park, it's free, it's the last night." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You really don't care what we're watching?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "We're not going for the movie. We're going for the going." },
+    { "type": "narration", "content": "Nobody argued with this because it was the most Eli thing he'd ever said and also completely correct." },
+    { "type": "narration", "content": "Savannah paid her share first and left exact change, which she always did. Eli left a pile of dollars and let Gloria sort it out, which he always did. Kit and Daisy split a check in the way they'd been splitting checks since Kit was ten — he covered the tip, she did the math, and neither of them had ever discussed this arrangement." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You undertipped." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I left two dollars." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Gloria's been serving us since we were in elementary school." },
+    { "type": "narration", "content": "Kit fished another dollar out of his pocket without being told and put it on the table. Daisy picked up her milkshake glass and got the last of it, and Gloria appeared from somewhere like she always did, right as they were leaving." },
+    { "type": "dialogue", "speaker": "Gloria", "content": "You hons have a good year now." },
+    { "type": "dialogue", "speaker": "Eli", "content": "We will, Gloria. We always do." },
+    { "type": "narration", "content": "They walked out into the August afternoon and the heat hit them like stepping out of a film." }
+  ]
+}

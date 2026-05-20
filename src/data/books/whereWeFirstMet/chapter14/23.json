@@ -1,0 +1,26 @@
+{
+  "page": 23,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He didn't leave her side." },
+    { "type": "narration", "content": "Not in a hovering way — not in the way she would have needed to ask him to stop. He was just always near. Working at the kitchen table instead of the studio so he could hear her in the next room. Going to bed when she went to bed, waking when she woke. Making tea without announcing it." },
+    { "type": "narration", "content": "She noticed. She didn't say anything about it. She was grateful for it." },
+    { "type": "narration", "content": "The first thing she did when they got home was go to the dining room." },
+    { "type": "narration", "content": "Someone had cleaned it — Lena, probably. The table was clear, the candles gone, the plates put away. The chairs were pushed back in but shifted slightly from their usual positions, moved by the motion of that night." },
+    { "type": "narration", "content": "She stood in the doorway and looked at it." },
+    { "type": "narration", "content": "Ethan came up behind her. He stood close but didn't crowd." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "She got every dish." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She got every dish." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'll do it again sometime. Get everyone back." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know you will." },
+    { "type": "narration", "content": "She turned away from the dining room." },
+    { "type": "narration", "content": "She went to the bedroom and sat on the edge of the bed and looked at Harold on his shelf." },
+    { "type": "narration", "content": "Harold looked back with the placid expression of a stuffed bear who had been watching over her for years and intended to keep doing it." },
+    { "type": "narration", "content": "She had been carrying something since the hospital — not fear exactly, not grief. Something harder to name. A kind of gratitude so large it didn't fit inside an ordinary feeling. The only way it knew to leave was through tears." },
+    { "type": "narration", "content": "She let it." },
+    { "type": "narration", "content": "Quietly. Into the pillow. Not from sadness." },
+    { "type": "narration", "content": "From being home." }
+  ]
+}

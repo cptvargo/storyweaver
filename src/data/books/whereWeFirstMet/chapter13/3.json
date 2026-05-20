@@ -1,0 +1,29 @@
+{
+  "page": 3,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What do you want? From this. From us." },
+    { "type": "narration", "content": "She asked it the way she asked most important things — without building up to it, without softening the edges. Just plainly, as though they'd been married long enough for plainness to be safe." },
+    { "type": "narration", "content": "Maybe they had." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Everything. I want all of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's not specific enough." },
+    { "type": "narration", "content": "He was quiet for a moment — not because he didn't have an answer, but because he wanted to give her the real one." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to love you without conditions. Not the version of that where I'm waiting to see what the conditions end up being and deciding then — I mean I've already decided. Whatever comes with you, whatever comes at you, I'm on that side of it. That's not me being noble. That's just what loving you actually means to me." },
+    { "type": "narration", "content": "She watched him. He kept his eyes on the road." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to be selfish with you. Which sounds wrong but I mean it right — I want to take every minute we have and use it. Not because I'm afraid of running out of them, but because I know what they're worth. I want ordinary Tuesdays that we didn't waste. I want to mean every single day on purpose." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Ethan—" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm not finished." },
+    { "type": "narration", "content": "She let him continue." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to be there for your condition the way you deserve — not walking on eggshells around it, not treating you like something fragile, but actually showing up. Knowing your medication. Knowing which days are harder before you tell me. Being the person you call first, not the one you protect from the news." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want a family with you, Cass. I don't know what that looks like yet and I know it's complicated and I'm not asking you to have that conversation right now. But I want it on the table. I want us to want things together, even the things we're not sure we can have. Because not wanting them isn't the same as being okay with not having them." },
+    { "type": "narration", "content": "The highway stretched out ahead of them, wide and dark and open." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I want to move your things into our apartment and fight about where the couch goes. I want to make coffee before you're awake. I want Harold on a shelf where I can see him every day and remember the day I gave him to you and you looked at me like I'd done something worth doing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know what the future looks like. But I know I want to walk into it next to you with intention. Every day that's given to us." },
+    { "type": "narration", "content": "She didn't say anything for a long moment." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I want to stop carrying things alone. I've been doing it for so long I'm not sure I know how to do anything else. But I want to learn." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Then we learn together. That's exactly what I'm here for." },
+    { "type": "narration", "content": "She leaned her head back against the seat and closed her eyes. Outside, the sky was very dark and very wide, and she felt — for the first time in longer than she could name — like it was wide enough for both of them." }
+  ]
+}

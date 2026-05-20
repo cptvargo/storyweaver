@@ -1,0 +1,33 @@
+{
+  "page": 10,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Savannah pulled Daisy away from the fire at some point — nothing dramatic, just a hand on her arm and a look that meant come with me." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "How are you actually." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Good. Really good." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You look nervous." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm not nervous." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "You keep watching him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm not watching —" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Daisy." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We haven't kissed yet." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I've known since December. The way you two have been with each other — you're holding something back. Something specific." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Is it that obvious." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Only to me. I've been watching you two since we were fourteen." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I keep thinking it's going to happen and then the moment passes." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Tonight." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I do. I know the way he looks at you, Daisy. I've been watching it for years. Tonight is different." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Like he made a decision. Like he walked into this field already knowing." },
+    { "type": "narration", "content": "Daisy looked across the fire to where Kit was talking to Eli. Like he felt it, he glanced up. Found her. Looked away first — but not fast." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't say anything to him." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I would never." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm just going to stand right here and watch it happen." }
+  ]
+}

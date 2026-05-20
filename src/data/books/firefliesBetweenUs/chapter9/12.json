@@ -1,0 +1,24 @@
+{
+  "page": 12,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It was a girl from Millhaven who lit the fuse. Not maliciously — she'd just seen the photo on Facebook. Kit and Cassidy at the party, her hand on his arm mid-conversation, both of them laughing at something. The kind of photo that looked like nothing and could be made into something." },
+    { "type": "narration", "content": "She texted Daisy on a Tuesday afternoon." },
+    { "type": "message", "platform": "SMS", "sender": "Becca H.", "content": "hey!! saw something on FB thought you should see" },
+    { "type": "narration", "content": "The photo came through a second later. Daisy looked at it for a long time." },
+    { "type": "message", "platform": "SMS", "sender": "Becca H.", "content": "isn't that kit? who's the girl lol" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "yeah that's kit. thanks becca" },
+    { "type": "narration", "content": "She put the phone face-down on her desk. Picked it back up. Looked at the photo again. Cassidy's hand on his arm. His face turned toward her, grinning at something." },
+    { "type": "narration", "content": "She thought about the Thursday call. The pause when she mentioned Jordan. The way Kit had said yeah, she was there — like it was casual, like it was nothing." },
+    { "type": "narration", "content": "She didn't call. She texted." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "someone sent me a photo. from the party friday" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "what photo" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you and cassidy. becca hensley saw it on facebook" },
+    { "type": "narration", "content": "Three minutes passed. Then:" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it's not what it looks like" },
+    { "type": "narration", "content": "She stared at that sentence. Of all the things he could have said." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "call me" }
+  ]
+}

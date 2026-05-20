@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eighth grade started the way things started when you already knew how they worked. No first-day nerves, no recalibration — just the same building, one year heavier, with the understanding that this was the last year before everything changed again." },
+    { "type": "narration", "content": "Kit had spent most of the summer not thinking about Brooke Hadley and thinking about her anyway. They'd talked on AIM through July and August — nothing serious, nothing named — and by the time school started again, the thing between them had the shape of something without being called anything. She sat at their lunch table now without it being a question. She and Daisy were friendly in the way that two people were friendly when they understood each other perfectly and didn't need to discuss it." },
+    { "type": "narration", "content": "Daisy hadn't said anything about Brooke since April, which was either fine or not fine, and Kit had made the choice not to find out which." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Presidential campaign. Year two. I need a slogan." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You already won. Why do you need a slogan?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Incumbents need slogans more than challengers. It's about maintaining momentum." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "How about: still here, still Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I love that. I'm using that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I was joking." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I wasn't." },
+    { "type": "narration", "content": "Kit watched Daisy laugh at that and looked back at his lunch and thought: fine. Everything was fine." }
+  ]
+}

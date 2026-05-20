@@ -1,0 +1,24 @@
+{
+  "page": 7,
+  "chapter": 4,
+  "chapterTitle": "Away Message",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The cafeteria at Millhaven Middle had long tables that sat twelve and round tables that sat six, and by the second week of school every table had already calcified into a fixed social unit that would remain unchanged for the rest of the year. This was not official policy. It was just how seventh grade worked." },
+    { "type": "narration", "content": "Their table was in the middle section — Kit and Eli on one side, Daisy and Savannah across, the arrangement unchanged since fifth grade. On Tuesday of the second week, Brooke Hadley stopped at the end of their table and looked at the open seat next to Eli." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Is anyone sitting here?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "It's yours." },
+    { "type": "narration", "content": "She sat down. Eli introduced everyone with the efficiency of a man who ran meetings. Brooke smiled at Daisy, who smiled back, and then Brooke turned to Kit and the conversation moved on, easy and normal, and Daisy looked at her tray and ate her lunch." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "Eli says you guys have been friends since like forever." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Since fourth grade." },
+    { "type": "dialogue", "speaker": "Brooke", "content": "That's forever in school years." },
+    { "type": "dialogue", "speaker": "Eli", "content": "It truly is. I basically raised them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You absolutely did not." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I provided formative social experiences." },
+    { "type": "narration", "content": "After lunch, in the hallway, Savannah fell into step beside Daisy." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She seems nice." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She does." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She was looking at Kit the whole time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I didn't notice." }
+  ]
+}

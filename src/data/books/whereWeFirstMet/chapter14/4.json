@@ -1,0 +1,21 @@
+{
+  "page": 4,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They asked the doctor about children on a Tuesday afternoon in early spring, fourteen months into the marriage." },
+    { "type": "narration", "content": "The doctor was a good one — the kind who answered questions fully and didn't perform optimism she didn't have. She sat across from both of them and she laid it out plainly." },
+    { "type": "narration", "content": "Possible. Not impossible. But the condition created compounding risk during pregnancy — elevated stress on the heart, medication adjustments that carried their own uncertainties, delivery as a period of particular concern. The odds were not insurmountable. But they were real." },
+    { "type": "narration", "content": "And then she asked the question." },
+    { "type": "dialogue", "speaker": "Doctor", "content": "There's something I want both of you to sit with, not just as a medical question. If something were to go wrong — not because we didn't try, but because these things sometimes go wrong — is that something you could carry? Both of you. On your consciences. Knowing you made the choice with full information." },
+    { "type": "narration", "content": "The room was very quiet." },
+    { "type": "narration", "content": "Cassandra looked at her hands. Ethan looked at the doctor, then at Cassandra." },
+    { "type": "narration", "content": "They didn't answer right away. They weren't supposed to." },
+    { "type": "narration", "content": "They talked about it for weeks afterward. In the kitchen. In bed before sleep. On a Sunday walk around the neighborhood when the silence between them was the right kind — working silence, thinking silence." },
+    { "type": "narration", "content": "What they arrived at, slowly and without drama, was this: they were not closed to it. They were not rushing toward it. If it happened, they would meet it with everything they had. If it didn't — if the body decided no, or if they decided the risk was more than they wanted to ask of each other — that was a complete life too. They already had a complete life." },
+    { "type": "narration", "content": "Cassandra told her mother on the phone. Her mother was quiet for a moment." },
+    { "type": "narration", "content": "Then she said: whatever you decide, we are with you." },
+    { "type": "narration", "content": "That was the end of the conversation and the beginning of the peace." }
+  ]
+}

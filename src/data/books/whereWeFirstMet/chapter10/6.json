@@ -1,0 +1,21 @@
+{
+  "page": 6,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They were all five of them, plus Mr. Alvarez — six, in a room designed for many more, which gave the evening an intimacy that felt chosen rather than accidental." },
+    { "type": "narration", "content": "The long table became the center of it. Nathan had organized himself at one end with the casual authority of someone who intuitively understood social arrangements and always found his way to the right position within them. Lena was beside him, which had happened organically — they had discovered, in the first ten minutes, that they had a shared reference point in some obscure board game series that no one else in the room had heard of, and were now in the middle of what appeared to be a moderately intense disagreement about the rules of the third expansion." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The rules explicitly state —" },
+    { "type": "dialogue", "speaker": "Lena", "content": "The rules state that, yes, but the interpretation of that rule in competitive play is —" },
+    { "type": "dialogue", "speaker": "Nathan", "content": "There is no competitive play for this game. It was designed for living rooms —" },
+    { "type": "dialogue", "speaker": "Lena", "content": "Everything can be played competitively if you care enough." },
+    { "type": "narration", "content": "Cassandra was sitting beside Ethan with her shoulder close to his, watching Lena and Nathan with the affectionate expression she had for Lena when Lena was being completely herself. Maya was at the opposite end, which was either coincidence or her particular instinct for positioning, and she was listening to the argument with an expression that sat precisely between amusement and mild alarm." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Is she always like this?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I have limited data. But consistent." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Lena has opinions about everything. It's one of her finest qualities." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I heard that." },
+    { "type": "narration", "content": "She said it without looking up from her argument." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I meant you to." }
+  ]
+}

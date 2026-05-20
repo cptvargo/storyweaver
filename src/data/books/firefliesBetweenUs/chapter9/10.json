@@ -1,0 +1,29 @@
+{
+  "page": 10,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Jordan escalated the following Monday." },
+    { "type": "narration", "content": "Study group ended early. The other two left. Jordan closed his book and looked at Daisy across the table with the particular expression of someone who had decided to stop being patient." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "Can I ask you something directly." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're going to anyway." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "This person back home. Is it an actual relationship or is it a — situation." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's a personal question." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "It is. I'm asking it." },
+    { "type": "narration", "content": "She closed her own book. Looked at him." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It's complicated." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "That word again." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because it's true." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "Daisy. You're nineteen. You're smart and you're here and you're spending your first semester of college waiting on something that doesn't even have a name yet. Whatever you two are — is that a relationship or is it a feeling you haven't dealt with?" },
+    { "type": "narration", "content": "That landed. She didn't let it show." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "He's in California. You're here. Nobody's keeping score out here." },
+    { "type": "narration", "content": "He left it open. The way Cassidy had — that specific kind of open that only meant one thing. She knew what he was offering." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I hear what you're saying." },
+    { "type": "dialogue", "speaker": "Jordan", "content": "But." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "But no. Thank you for being direct. The answer is no." },
+    { "type": "narration", "content": "He nodded. Not upset about it — she'd give him that. He packed his bag and left without making it awkward. She sat alone in the library with her hands flat on the table and Jordan's question sitting right in the middle of her chest where she couldn't ignore it." },
+    { "type": "narration", "content": "Whatever you two are — is that a relationship or is it a feeling you haven't dealt with?" },
+    { "type": "narration", "content": "She picked up her phone. Didn't call. She needed to think first." }
+  ]
+}

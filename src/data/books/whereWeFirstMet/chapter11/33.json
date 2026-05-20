@@ -1,0 +1,14 @@
+{
+  "page": 33,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cassandra", "content": "After that — the years after — I had the ritual. Every morning. The pills. They're small, two of them, takes thirty seconds. But you can't take that kind of thing every day without thinking about what it's for. Without being reminded, every single morning, that you are working to keep yourself here." },
+    { "type": "narration", "content": "Her voice is steady. She has said pieces of this before — to herself, to Lena, in her own head in the dark. But she has never said all of it, in order, to another person. The whole shape of it." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I started noticing time differently. Not obsessing over it. Just — noticing it. The way an afternoon could be enormous if I let it. The way a conversation could matter. I started being very present, because future was something I couldn't assume, so I just — lived in the now I had." },
+    { "type": "narration", "content": "She turns to look at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Lena always said I was the most present person she'd ever met. She thought it was a personality trait. I never told her where it came from." },
+    { "type": "internalThought", "content": "I never told anyone where it came from. Until now." }
+  ]
+}

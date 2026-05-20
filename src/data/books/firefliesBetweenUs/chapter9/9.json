@@ -1,0 +1,33 @@
+{
+  "page": 9,
+  "chapter": 9,
+  "chapterTitle": "The Distance",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The project wrapped on a Friday. The group went to an off-campus party to celebrate — one of those sprawling LA house parties where the backyard had string lights and someone was always playing guitar badly near the fire pit." },
+    { "type": "narration", "content": "Cassidy found Kit near the drinks around eleven." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "You look like you're doing math in your head." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Just thinking." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "About what." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Home." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Girlfriend back home?" },
+    { "type": "narration", "content": "He turned the cup in his hand." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Complicated." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Complicated like you don't know what it is, or complicated like you don't want to say." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Both, maybe." },
+    { "type": "narration", "content": "She leaned against the wall beside him. Not subtle about being beside him." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "My roommate's gone for the weekend." },
+    { "type": "narration", "content": "He knew what that meant. She wasn't being unclear about it." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Nobody has to know what happens here, Kit. She's all the way in Minnesota. What's a little fun gonna hurt. We don't have to tell." },
+    { "type": "narration", "content": "He looked at her. Cassidy was watching him with an expression that was patient and certain at the same time — like she'd already decided how this ended and was waiting for him to catch up." },
+    { "type": "narration", "content": "The worst part wasn't that she said it. The worst part was the two seconds before he answered — when he was aware, very specifically, that a choice was being made. That he was making it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I can't." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Can't or won't." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Won't." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "She's lucky." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's not about that." },
+    { "type": "dialogue", "speaker": "Cassidy", "content": "Yeah it is. It's completely about that." },
+    { "type": "narration", "content": "She pushed off the wall and disappeared back into the party. Kit stood where he was for a moment, then walked out to the front steps and sat down and pulled out his phone and stared at Daisy's name for a long time." },
+    { "type": "narration", "content": "He didn't text her. Not yet. He needed to figure out what he was going to say — and what he was going to leave out." }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "page": 24,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "hey. you still up" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "yeah what's wrong" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "nothing. i don't know. have you looked at kit's myspace tonight" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "hold on" },
+    { "type": "narration", "content": "A few minutes passed." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "Wow..........." },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "daisy" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i know" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "how long" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "what" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "don't. you know what i mean" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "..." },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "a long time" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "how long is a long time" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "since we were twelve probably" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "yeah. yeah that's what i thought" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "is that bad" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "no. it's just a lot to carry by yourself" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "what am i supposed to do with it" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "what are you feeling RIGHT NOW. like actually" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "like something cracked open and i can't get it back closed" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i've been crying for like 20 minutes and i don't even know how to explain it" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "you don't have to explain it" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "it makes sense daisy. it makes complete sense" }
+  ]
+}

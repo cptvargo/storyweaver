@@ -1,0 +1,33 @@
+{
+  "page": 19,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The doctor came to speak with them the next morning." },
+    { "type": "narration", "content": "She sat across from the two of them — Cassandra propped up in the hospital bed, Ethan in the chair he had not left — and she explained it plainly." },
+    { "type": "narration", "content": "Cardiac arrhythmia. The underlying condition had always carried this risk — a sudden disruption in the heart's electrical signaling, unpredictable, not always preceded by warning. The medication managed the risk but did not eliminate it. Last night the odds had gone the wrong way." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She's never missed a dose. Not once in the time I've known her." },
+    { "type": "dialogue", "speaker": "Doctor", "content": "I know. Her records are consistent. This isn't about compliance — she's done everything right. The condition progresses in some patients regardless of adherence. This event tells us she may be in that category." },
+    { "type": "narration", "content": "Cassandra asked the question she had needed to ask since she woke up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can anything be done? Going forward." },
+    { "type": "narration", "content": "The doctor took a breath." },
+    { "type": "dialogue", "speaker": "Doctor", "content": "There is an option worth discussing. An implantable cardioverter-defibrillator. A small device placed near the heart that monitors rhythm and delivers a corrective shock if an event occurs. For patients in your risk category, it can be lifesaving." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "But." },
+    { "type": "dialogue", "speaker": "Doctor", "content": "The implantation procedure carries risk for someone with your specific anatomy and condition history. And in some patients the device introduces a significant source of anxiety that affects quality of life." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "What would you do?" },
+    { "type": "narration", "content": "The doctor was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Doctor", "content": "I would want to go home first. I would want some time before making a decision." },
+    { "type": "narration", "content": "The doctor left." },
+    { "type": "narration", "content": "The room went quiet. Just the monitor. Just them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "She's telling me this could happen again." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Even though I've done everything right." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "narration", "content": "She looked out the window. Grey sky. Cold and ordinary and beautiful in the specific way that grey skies are beautiful when you are looking at them instead of not looking at anything." },
+    { "type": "narration", "content": "She wasn't afraid. But she was aware. There was a difference — she had learned the difference over many years — and she was sitting squarely in the second one." },
+    { "type": "narration", "content": "Ethan reached over and took her hand." },
+    { "type": "narration", "content": "He didn't say anything." },
+    { "type": "narration", "content": "He didn't need to." }
+  ]
+}

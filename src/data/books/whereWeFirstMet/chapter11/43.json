@@ -1,0 +1,21 @@
+{
+  "page": 43,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "When the crying stops, it doesn't stop all at once. It stops in waves — subsiding and returning and subsiding again, the way things that have been held for a long time don't release cleanly." },
+    { "type": "narration", "content": "She pulls back. She presses the napkin from her pocket to her face — she had tucked it there that morning, without knowing why, the way you sometimes prepare for things before you're conscious of preparing." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm crying on a Ferris wheel." },
+    { "type": "narration", "content": "Her voice is wrecked. She says it to the space between them, not quite looking at him." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's embarrassing." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's not what I'd call it." },
+    { "type": "narration", "content": "She looks at him. He looks at her — eyes still red, face completely open, not a single thing in it that she needs to interpret or manage or worry about." },
+    { "type": "narration", "content": "She laughs." },
+    { "type": "narration", "content": "Small, and wet, and surprised. But real." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "There she is." },
+    { "type": "narration", "content": "She laughs again. She presses the napkin to her face one more time. She breathes. She breathes again. Slow, full breaths — the body finding its way back to normal, the way it always does, the faithful machinery of her doing what it's always done." },
+    { "type": "narration", "content": "She is here. She is still here." }
+  ]
+}

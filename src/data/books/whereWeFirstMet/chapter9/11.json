@@ -1,0 +1,20 @@
+{
+  "page": 11,
+  "chapter": 9,
+  "chapterTitle": "The Day Before",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She sat for a long time." },
+    { "type": "narration", "content": "The fountain ran its ordinary course. The evening went about its business. She let both of those things happen while she sat with the thing that had brought her there." },
+    { "type": "narration", "content": "She had been trying, for a long time, to hold the two things separately. The thing she was carrying and the thing she had with him. To keep them in different rooms. To exist with him in the space where the difficult thing wasn't present, and to deal with the difficult thing in other spaces — with her family, with Lena, with herself." },
+    { "type": "narration", "content": "She had told herself she was protecting him. But she understood now, sitting on this wall, that she had also been protecting herself. Protecting the version of herself that existed with him when the difficult thing wasn't in the room. The one who sat with coffee and laughed at spring roll orders and texted breakfast rubrics and felt, for stretches of time, like someone who was simply living rather than someone who was managing a careful inventory." },
+    { "type": "narration", "content": "She had wanted to keep that. She understood why. It was the best version of herself she'd been in a long time." },
+    { "type": "narration", "content": "But she could feel, sitting here, that the keeping had started to cost something. That the longer the two things stayed separate, the more the separation itself became a weight." },
+    { "type": "internalThought", "content": "If I don't tell him, I lose him in a different way. Not because he'll leave. Because I'll keep being someone with him who isn't entirely real. And he'll love the version he has instead of the whole thing." },
+    { "type": "narration", "content": "She didn't want that." },
+    { "type": "narration", "content": "She stood. She looked at the fountain for another moment — the light on it, the spray." },
+    { "type": "internalThought", "content": "Small physics. The way everything follows from something else." },
+    { "type": "narration", "content": "One thing, and then the next, and then the next." },
+    { "type": "narration", "content": "She walked home." }
+  ]
+}

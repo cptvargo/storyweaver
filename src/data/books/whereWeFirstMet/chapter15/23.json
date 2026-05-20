@@ -1,0 +1,22 @@
+{
+  "page": 23,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Ethan was the last." },
+    { "type": "narration", "content": "He stood up slowly and walked to the front and looked at the room — all the people, all the faces, everyone who had loved her — and he said:" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I was sitting on a park bench, drawing, when I first saw her. She was walking past and she turned around and looked at me for a second. Just a second. I don't know what I thought in that moment. I don't think I thought anything. I just knew I was going to remember that face." },
+    { "type": "narration", "content": "His voice was steady. He didn't know how." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She told me about her condition on a November night. I walked home afterward and I thought about what it meant — the kind of love that has a specific weight to it, a specific kind of courage required. And I thought: I want to be the person who is capable of that. I want to be worthy of it." },
+    { "type": "narration", "content": "He looked at the casket." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I don't know if I always was. I tried. Every single day I tried to see her the way she deserved to be seen. To hold everything she gave me without dropping any of it." },
+    { "type": "narration", "content": "He stopped for a moment." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I have two hundred and forty sketchbooks. Her name is in every one of them. From the first page of the first one to the last thing I drew before—" },
+    { "type": "narration", "content": "He stopped again." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "She is the best thing that ever happened to me. She is the reason I know what I am capable of. And I am going to love her for the rest of my life." },
+    { "type": "narration", "content": "He sat down." },
+    { "type": "narration", "content": "The room was completely silent." },
+    { "type": "narration", "content": "The good kind of silent." }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 5,
+  "chapter": 7,
+  "chapterTitle": "What We Carry",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The arcade before opening had a specific quality of quiet that Cassandra had always found more comforting than silence in most places. The machines were dark and still but not absent — they held the potential of all the noise they'd been and would be again, like an orchestra at rest." },
+    { "type": "narration", "content": "Lena was already in the back when she arrived, tea made, the bench near the window already occupied by the deliberate absence of Lena's jacket — her way of saving a seat without making it a whole thing." },
+    { "type": "narration", "content": "Cassandra sat. She wrapped both hands around the cup." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I almost told him. At dinner. I was — the words were right there. There was a moment where it fit perfectly into what we were talking about, and I thought: this is it, this is when I say it—" },
+    { "type": "dialogue", "speaker": "Lena", "content": "What happened?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I put it back. I said something else instead. Something true, just not — the whole truth." },
+    { "type": "narration", "content": "Lena was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Were you scared?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Not of him, specifically. I'm not scared that he'll be unkind — that's not what it is. I'm scared of the moment his face changes. Before he figures out how to put it back. That gap between when I say it and when he finds his footing — I can prepare for almost everything else. Not that." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You've thought about this a lot." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I think about it every time I see him." },
+    { "type": "narration", "content": "Lena turned her cup in her hands." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Okay. Tell me what you think he'll do. When you tell him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I don't know. And that's exactly it — that's the thing that keeps me from doing it. I know him well enough now to trust him in all the ways I can observe. But this is something I can't observe in advance. I have to say it and find out." },
+    { "type": "dialogue", "speaker": "Lena", "content": "And you're not ready to find out." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Not yet. No." },
+    { "type": "narration", "content": "She looked at the machines — all their dark, patient shapes — and thought about what it would feel like to just say it. To put it down in front of him and let him pick it up and see what he did with it." },
+    { "type": "narration", "content": "Not yet, she thought. But soon." }
+  ]
+}

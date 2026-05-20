@@ -1,0 +1,18 @@
+{
+  "page": 30,
+  "chapter": 15,
+  "chapterTitle": "Where We First Met",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The idea came to him on a Sunday morning in May." },
+    { "type": "narration", "content": "He was at the kitchen window — one cup, the yard going into its spring, the first green coming back — and he was thinking about her the way he thought about her all the time now. A background presence he had stopped trying to contain. It was everywhere. So was she." },
+    { "type": "narration", "content": "He was thinking about the park." },
+    { "type": "narration", "content": "The fountain. The bench. The wall beside the fountain where the afternoon light hit at a particular angle." },
+    { "type": "narration", "content": "He had painted murals before. Not many — it wasn't his primary work — but he understood scale. He understood how something small in a sketchbook could become something that filled a wall. He understood how to make something that the world could see." },
+    { "type": "narration", "content": "He stood at the window for a long time." },
+    { "type": "narration", "content": "Then he set down his cup." },
+    { "type": "narration", "content": "He went to the studio." },
+    { "type": "narration", "content": "He picked up his pencil." },
+    { "type": "narration", "content": "He started sketching." }
+  ]
+}

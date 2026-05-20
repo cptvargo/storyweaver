@@ -1,0 +1,17 @@
+﻿{
+  "page": 15,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Present." },
+    { "type": "narration", "content": "The chapel was small in the way that intimate things are small — not lacking, just exactly the right size. Afternoon light came through windows that ran the length of the south wall, throwing long warm rectangles across the wooden floor and the rows of chairs filled with the people who mattered. White flowers at the ends of each row. Candles at the altar — real ones, the kind that made the room smell like beeswax and occasion." },
+    { "type": "narration", "content": "In the back room, the doors to the aisle were still closed." },
+    { "type": "narration", "content": "Nathan came to stand at Ethan's left." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You ready?" },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I've been ready." },
+    { "type": "narration", "content": "The string quartet at the front left of the room played the low warm notes of the prelude — nothing dramatic, not yet, just the sound of gathering, the musical equivalent of the room holding its breath." },
+    { "type": "narration", "content": "The pastor stood at the altar, unhurried, with the stillness of someone who has stood at this particular threshold many times and understands its weight." },
+    { "type": "narration", "content": "Ethan walked out." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 8,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "That was when they heard it." },
+    { "type": "narration", "content": "Not from outside. From below." },
+    { "type": "narration", "content": "A door — the specific sound of a stuck door opened hard, wood unsticking from its frame with a thud. And then under it, rising up through the floor like something the house had swallowed and couldn't hold anymore: voices." },
+    { "type": "narration", "content": "Two of them." },
+    { "type": "narration", "content": "Kit was in the hallway in two steps. Daisy was right behind him. Across the hall, Eli's face appeared in the bathroom doorway — eyes wide, mouth closed. Savannah was already at his shoulder. Nobody spoke. Kit put one finger to his lips, which was completely unnecessary because none of them were breathing." },
+    { "type": "narration", "content": "The voices got clearer. Men. Both of them — rough, loose at the edges, the words sliding together in a way that made Kit's stomach drop. Because there was a particular kind of adult that was more frightening than the strict kind or the loud kind, and it was the kind that moved through the world like consequence was someone else's problem." },
+    { "type": "dialogue", "speaker": "Voice", "content": "Said the back door was unlocked—" },
+    { "type": "dialogue", "speaker": "Voice", "content": "I'm telling you nobody's here, would you just—" },
+    { "type": "narration", "content": "A crash. Something knocked from a surface. A laugh that didn't connect to anything funny." },
+    { "type": "narration", "content": "Kit looked at the window at the end of the hall. Looked at the staircase. Looked at the four of them standing in an upstairs hallway with one exit and two men below it, and his brain ran the math fast and didn't like the answer." },
+    { "type": "narration", "content": "He pointed at the child's room. Everyone went." }
+  ]
+}

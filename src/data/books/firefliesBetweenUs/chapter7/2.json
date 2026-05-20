@@ -1,0 +1,31 @@
+{
+  "page": 2,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He found out from Eli, the way he found out most things he wasn't sure he was ready to know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Ryan and Daisy broke up." },
+    { "type": "narration", "content": "Bike rack. Tuesday. Kit finished locking up before he answered." },
+    { "type": "dialogue", "speaker": "Kit", "content": "When." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Last week. She didn't make a thing of it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You going to say something to her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'll check in. Make sure she's okay." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's not what I meant." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "narration", "content": "He rode home. Opened AIM. Daisy was online." },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "hey. you good?" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "yeah. i'm okay" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "okay" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "eli told you" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "figured" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "you sure you're okay" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "kit" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "i know i know" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i'm fine. i promise" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "okay. i'm here" },
+    { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "i know. thank you" },
+    { "type": "narration", "content": "He closed the chat. Sat in the quiet. Told himself that was enough for tonight." }
+  ]
+}

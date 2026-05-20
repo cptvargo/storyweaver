@@ -1,0 +1,19 @@
+{
+  "page": 48,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Lena looks over Cassandra's shoulder at Ethan." },
+    { "type": "narration", "content": "He is standing a few steps back, giving them the space the moment needs, the penguin-less hands loose at his sides. He looks like a man who has had something very large placed inside him and has found that he can hold it." },
+    { "type": "narration", "content": "Lena crosses the distance to him." },
+    { "type": "narration", "content": "She doesn't ask. She wraps her arms around him — fierce, intentional, the hug of someone who has something specific to say and has chosen to say it with her whole self. He stands very still for a moment, caught off guard, and then his arms come up and he holds on." },
+    { "type": "dialogue", "speaker": "Lena", "content": "She is so lucky. To have found someone willing to stay." },
+    { "type": "narration", "content": "She says it quietly, against his shoulder." },
+    { "type": "narration", "content": "He takes a breath. When he answers, his voice is rough." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm the lucky one." },
+    { "type": "narration", "content": "Lena holds on for another moment. She believes him. She knows people who say that and don't mean it, and people who say it and mean it and don't know what it will cost them, and she can tell from the way he says it that he means it and he knows. Both things at once." },
+    { "type": "narration", "content": "She steps back. She looks at him." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Good." }
+  ]
+}

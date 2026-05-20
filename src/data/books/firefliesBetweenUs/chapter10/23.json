@@ -1,0 +1,24 @@
+{
+  "page": 23,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He got home and sat on his bed in the dark for a while. His mom was asleep. The house was quiet." },
+    { "type": "narration", "content": "He thought about a summer when he was twelve and a girl on a bike with her chin up taking a dare she didn't have to take. He thought about the water tower and the walk home and the moment in seventh grade when he started to understand what the feeling in his chest actually was. He thought about all of it — every almost, every wrong moment, every year of careful — and none of it felt wasted from here. All of it was the road." },
+    { "type": "narration", "content": "His phone buzzed." },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I need you to know. Warm white. I chose warm white for the lanterns specifically. Neutral white is too harsh for emotional moments. I did the research." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "Eli." },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "Lighting matters." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "thank you for tonight" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "yeah man" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "she's been waiting on you to figure it out for a long time. you both have" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I know" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "you good?" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "really good" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "good. goodnight man" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "goodnight eli" },
+    { "type": "narration", "content": "He set his phone on the nightstand. Outside his window, Millhaven was completely still. Down the block, in the house he'd known his whole life, there was a light still on." }
+  ]
+}

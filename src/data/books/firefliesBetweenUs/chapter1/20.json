@@ -1,0 +1,32 @@
+{
+  "page": 20,
+  "chapter": 1,
+  "chapterTitle": "The Last Light of Summer",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Their block was the one just before they had to split off — Daisy on Magnolia, Kit on the street past it. They always slowed down here. Neither of them ever said why." },
+    { "type": "narration", "content": "Mrs. Jones was on the front porch when they got there. She had the same watchful warmth as Daisy, except that in Mrs. Jones it came with the added layer of a woman who had been watching Kit and Daisy do exactly this for four years and therefore knew the geometry of it by heart." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Lord Almighty. You get caught in that?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yes ma'am. Hardware store overhang on Cedar." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Whose idea was it to wait until the last minute?" },
+    { "type": "narration", "content": "Daisy looked at Kit." },
+    { "type": "narration", "content": "Kit studied the porch railing with great interest." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Mmhm." },
+    { "type": "narration", "content": "The sound covered everything that needed saying." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Get inside and change. Kit, you want to call your mama from here?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "No ma'am, she's at work." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Your grandma home?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes ma'am." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "All right. You ride careful — there are puddles on the corner." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes ma'am." },
+    { "type": "narration", "content": "He waited while Daisy walked her bike up to the porch. She turned at the top of the steps." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Tomorrow." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Tomorrow." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Don't go to the Henderson property without me." },
+    { "type": "narration", "content": "He hadn't said anything about the Henderson property. He had, throughout the afternoon, been thinking about it on and off with increasing specificity." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I wasn't—" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Without me." },
+    { "type": "narration", "content": "She went inside. The screen door closed." },
+    { "type": "narration", "content": "He pushed off on his bike. Smiled at the road." }
+  ]
+}

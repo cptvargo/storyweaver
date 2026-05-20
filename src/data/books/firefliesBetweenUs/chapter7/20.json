@@ -1,0 +1,24 @@
+{
+  "page": 20,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "December. The last day before winter break." },
+    { "type": "narration", "content": "They walked to school together in the cold the way they had since they were eight — Daisy on the inside of the sidewalk, Kit on the street side, her breath visible in the morning air. The neighborhood looked the same it always had. It was possible that everything looked the same." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Going anywhere for break?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "No, just here. You?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "My aunt's. For Christmas. Back before New Year's." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good." },
+    { "type": "narration", "content": "That was the whole conversation." },
+    { "type": "narration", "content": "At the school doors she stopped and turned, backpack over one shoulder, and looked at him in the cold morning air with her cheeks pink from the walk." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "She seemed to decide something. Then she seemed to decide not to." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Merry Christmas. In case I don't see you before." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Merry Christmas, Daisy." },
+    { "type": "narration", "content": "She went inside. He stood on the steps for a moment after the door closed, in the cold, with the particular weight of a thing that had almost been said twice now — at the dance, and just now — and still hadn't been." },
+    { "type": "narration", "content": "Junior year was eight months away. He kept thinking he had time." },
+    { "type": "narration", "content": "He was starting to wonder if that was true." }
+  ]
+}

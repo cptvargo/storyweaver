@@ -1,0 +1,27 @@
+{
+  "page": 17,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They worked for the better part of two hours." },
+    { "type": "narration", "content": "The sun moved in the way it moves at altitude — faster than you expect, the shadows pivoting as it climbed and the light quality changing from the cold blue of early morning into something warmer and more settled. By the time they stopped, the granite shelf was fully lit and the mountains had gone from their early blue-grey to the more complex colors of full sun." },
+    { "type": "narration", "content": "She set her sketchbook on her knee and looked at what she'd made. It was not a finished piece. It was a true piece — the actual trees as they actually were, with her actual limitations and her actual careful attention both visible at once. She liked it more for that." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Can I see yours?" },
+    { "type": "narration", "content": "He held it up." },
+    { "type": "narration", "content": "She looked at it for a while. He'd done something she hadn't expected — the mountains were there, the ridge, the tree line, but in the foreground, barely more than an impression, a suggestion of a person sitting on a granite ledge, looking away. Not a portrait. Not even a full figure. Just enough that you knew someone was there." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That's me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "It was a good composition." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You painted me without telling me." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I paint you all the time." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Show me." },
+    { "type": "narration", "content": "He opened the sketchbook to earlier pages — not far back, just a few. Pages she hadn't seen. And there she was: at the kitchen counter of their apartment, her back to him, coffee in hand. On the fire escape in summer. In the passenger seat, face turned toward a window she was looking through." },
+    { "type": "narration", "content": "Not staged. Not posed. Just there, in the middle of ordinary things." },
+    { "type": "narration", "content": "She looked through them quietly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "You see me a lot." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Yes." },
+    { "type": "narration", "content": "She closed the sketchbook and handed it back. Sat with that for a moment — with the specific weight of being known that way, of someone paying that kind of attention without requiring anything in return for it." },
+    { "type": "narration", "content": "The mountain held very still around them." }
+  ]
+}

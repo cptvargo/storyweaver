@@ -1,0 +1,32 @@
+{
+  "page": 12,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Outside, the lamp post was doing its ordinary thing, which included the carnival poster that caught the light at certain angles. Maya hadn't been reading it — she'd been looking past it — but Nathan turned to see what had drawn her eye." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "The carnival." },
+    { "type": "dialogue", "speaker": "Maya", "content": "It's been up for a few days." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "You going?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I don't know. Maybe." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I might go. I haven't been to one since I was fifteen. Somehow they always seemed like things I'd do and then I'd never actually do them." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's a particular habit." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Yeah." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "What's the last thing you did that you'd been meaning to do for a long time?" },
+    { "type": "narration", "content": "Maya looked at him. There was something in the question that was different from the ones before it — less performance, more genuine curiosity." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I came here tonight. I'd been putting it off." },
+    { "type": "narration", "content": "He took that in without making anything of it." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I'm glad you came." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You barely know me." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "I know you're here for your sister. I know you're paying attention to everything, even when you look like you're not. I know you answered a geography question that stopped the table cold and didn't say anything about it after." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "That's not nothing." },
+    { "type": "narration", "content": "Maya looked at him for a moment that was slightly longer than the one before it." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're better at this than I expected." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "Better at what?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Not performing." },
+    { "type": "dialogue", "speaker": "Nathan", "content": "It's a recent development." },
+    { "type": "narration", "content": "And it was." }
+  ]
+}

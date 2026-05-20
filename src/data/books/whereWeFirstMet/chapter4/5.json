@@ -1,0 +1,22 @@
+{
+  "page": 5,
+  "chapter": 4,
+  "chapterTitle": "What Remains",
+  "bookId": "whereWeFirstMet",
+  "pov": "Cassandra",
+  "blocks": [
+    { "type": "narration", "content": "She turned onto her side." },
+    { "type": "narration", "content": "Harold was still against the pillow. She had put him there before Maya arrived — some reflex she couldn't quite name, the way you reach for the things that predate whatever is about to happen." },
+    { "type": "narration", "content": "Harold was from the day they met. That was the thing about him. He hadn't come from a shelf or a childhood or a calculated gesture. He'd come from a claw machine at Lena's arcade on a Tuesday afternoon when Ethan had spent an unreasonable number of tokens on a game he was losing, and then just held the bear out without making anything of it." },
+    { "type": "narration", "content": "'Here,' he'd said. Just that." },
+    { "type": "narration", "content": "She'd taken Harold and looked at him and then looked at Ethan and thought: this is the kind of person he is. He doesn't calculate the weight of small things. He just does them." },
+    { "type": "narration", "content": "She lay beside Harold now and didn't try to organize what she was feeling into anything useful. Some things didn't need to be organized. They just needed to be felt and then set down." },
+    { "type": "narration", "content": "Maya was not wrong. That was what made the conversation so difficult — Maya was never entirely wrong, which was why her concern had a way of landing somewhere it couldn't simply be dismissed. Everything she'd said was true from the outside. The risks were real. The arithmetic was what it was." },
+    { "type": "narration", "content": "And Cassandra had been doing that math long enough to know exactly where the numbers led." },
+    { "type": "narration", "content": "But she also knew something the numbers didn't account for. She'd decided a long time ago — the day she first understood what the cardiologist was actually telling her, the day she sat in that office and felt the future rearrange itself — that she was not going to spend whatever time she had in rehearsal for after. She was going to be in the room for all of it." },
+    { "type": "narration", "content": "Harold was from the day she'd chosen to be present again. He was three weeks old and already doing more symbolic work than most objects managed in years." },
+    { "type": "narration", "content": "After a while she sat up. Ran a hand through her hair. Reached for her phone." },
+    { "type": "message", "sender": "Cassandra", "content": "I'm coming in." },
+    { "type": "message", "sender": "Lena", "content": "I'll put something in the machine for you." }
+  ]
+}

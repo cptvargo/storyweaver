@@ -1,0 +1,27 @@
+{
+  "page": 10,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They arrived between six and six-thirty, the way people always do when you tell them six." },
+    { "type": "narration", "content": "Her parents first — her father with a bottle of sparkling cider because he never came empty-handed, her mother with a dish that Cassandra had not asked for and was glad was there. Thomas Hailey stood in the doorway of their house and looked around it with the expression of a man who had worried about his daughter for a long time and was, in this moment, not worrying." },
+    { "type": "narration", "content": "He shook Ethan's hand and held it a moment longer than a handshake required." },
+    { "type": "narration", "content": "Maya and Nathan came together, Nathan's hand at the small of Maya's back. Maya had stopped pretending this was anything other than exactly what it was — she leaned into him in doorways now, reached for him without thinking. The girl who had spent years building careful distance had spent one year with Nathan dismantling every wall she had, and she had not rebuilt a single one." },
+    { "type": "dialogue", "speaker": "Maya", "content": "This house smells incredible." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Don't come in the kitchen." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I wasn't going to help anyway." },
+    { "type": "narration", "content": "Lena arrived last, a little breathless, apologizing for a parking situation she described in more detail than anyone needed." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I brought dessert. Mr. Alvarez recommended the place." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Of course he did." },
+    { "type": "narration", "content": "The house was full. It was loud in the way only a room full of people who actually like each other is loud — layered, warm, everyone talking, nobody performing." },
+    { "type": "narration", "content": "Cassandra stood at the kitchen doorway and looked at all of them." },
+    { "type": "narration", "content": "Ethan appeared behind her. Set his chin on her shoulder." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "Good?" },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Really good." },
+    { "type": "narration", "content": "He kissed the side of her head. She went back to the kitchen." },
+    { "type": "narration", "content": "He stood in the doorway a moment longer. The lamp light. The smell of the food. The sound of all the people he had come to love." },
+    { "type": "narration", "content": "He wanted to hold the whole room in his memory." },
+    { "type": "narration", "content": "So he did." }
+  ]
+}

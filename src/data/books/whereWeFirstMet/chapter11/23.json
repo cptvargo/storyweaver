@@ -1,0 +1,21 @@
+{
+  "page": 23,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "They found a low concrete barrier near one of the quieter rides — not a bench, just a ledge, the way two people who have been friends long enough can make any surface do." },
+    { "type": "narration", "content": "The carnival continued around them. Here, in this corner, it was muted — the noise a background thing rather than a foreground one." },
+    { "type": "narration", "content": "Lena didn't open with the subject. She looked at the afternoon for a moment, said something about the light on the Ferris wheel doing something interesting. Then she went quiet in the particular way that meant she was making room." },
+    { "type": "narration", "content": "Cassandra looked at her hands." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I've been trying to figure out how to say it for months. And I still don't—" },
+    { "type": "narration", "content": "She stopped." },
+    { "type": "dialogue", "speaker": "Lena", "content": "What are you most afraid of? Right now. Today." },
+    { "type": "narration", "content": "Cassandra thought about it honestly." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That it changes how he holds things. The way he carries it. That knowing will be — a weight for him that I put there, that I can't take back." },
+    { "type": "narration", "content": "Lena listened." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "He's already chosen. I know he has. I could feel it even before he said anything. And I — I want him to have made that choice with the full picture. Because he deserves that. And because without it—" },
+    { "type": "narration", "content": "She stopped again." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Without it, I feel like I'm letting him love something that isn't entirely real." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 8,
+  "chapter": 7,
+  "chapterTitle": "Almost",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "On the other side of town, Kit was standing in front of his closet trying to figure out what counted as effort without being obvious about it." },
+    { "type": "narration", "content": "His mom appeared in the doorway." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Button-down. The dark blue one." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I was already looking at that one." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Sure you were." },
+    { "type": "narration", "content": "She leaned against the door frame with her coffee." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy going?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "The whole group is going." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "That's not what I asked." },
+    { "type": "narration", "content": "Kit pulled the blue button-down off the hanger." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes. She's going." },
+    { "type": "narration", "content": "His mom smiled into her coffee — the small private one she used when she knew something and was choosing not to say it — and pushed off the doorframe." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Have fun." },
+    { "type": "narration", "content": "He held the shirt up in front of the mirror. Thought about it. Put it on." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 11,
+  "chapter": 2,
+  "chapterTitle": "Something to Lose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Kit pulled back from the window and flattened himself against the wall beside it." },
+    { "type": "narration", "content": "The man filled the doorway. The light was behind him — Kit couldn't see his face, just his shape, big and loose, leaning against the frame like the door needed him more than he needed it." },
+    { "type": "narration", "content": "One second passed. Neither of them moved." },
+    { "type": "narration", "content": "Kit grabbed the only thing on the shelf — the picture frame, hollow wood and old glass, light as nothing — and threw it hard at the far wall." },
+    { "type": "narration", "content": "It hit with a crack. The man's head swung toward the sound." },
+    { "type": "narration", "content": "Kit went." },
+    { "type": "narration", "content": "Out the door, past the man so close he could smell him — stale clothes and something sharp underneath — into the hallway, and the man was already shouting, something wordless and enraged that echoed through the whole house. Kit took the stairs the way he'd come up: outer edge, skip the soft spots. Third step. Skip it. Eighth step—" },
+    { "type": "narration", "content": "He didn't skip the eighth." },
+    { "type": "narration", "content": "His foot went through." },
+    { "type": "narration", "content": "Not all the way — ankle-deep, the rotten wood giving way around his sneaker like it had been waiting for exactly this — and he pitched sideways, grabbed the banister, the banister pulled clean from the wall, and he went down two steps on his side and stopped himself with both hands flat on the stairs and looked up." },
+    { "type": "narration", "content": "The man from the bedroom was at the top of the stairs. The second one had appeared in the hallway below." },
+    { "type": "narration", "content": "His ankle was caught in the hole. The banister was in his hand and attached to nothing. Both exits were covered." },
+    { "type": "narration", "content": "He thought, very clearly: this is the part where I needed a better plan." },
+    { "type": "dialogue", "speaker": "Voice", "content": "Don't you move, kid." }
+  ]
+}

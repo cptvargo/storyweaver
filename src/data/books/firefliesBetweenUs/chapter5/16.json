@@ -1,0 +1,22 @@
+﻿{
+  "page": 16,
+  "chapter": 5,
+  "chapterTitle": "Offline",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The week moved the way bad weeks moved — slowly in the moment, and then all at once gone." },
+    { "type": "narration", "content": "Daisy came to school. She sat in homeroom and said hey and answered questions in class and ate lunch with Savannah. She wasn't cold to him — it was somehow worse than cold. She was just slightly less available, like a radio station going just a little off frequency. Still there. Just with static now." },
+    { "type": "narration", "content": "Kit tried twice more to catch her alone at her locker. Both times she had somewhere to be." },
+    { "type": "narration", "content": "Eli watched all of this and said nothing, which was the most alarming thing Eli had ever done." },
+    { "type": "narration", "content": "On Thursday Savannah stopped at Kit's locker in a way that was not accidental." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She's not going to bring it up. You know that, right." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "She's going to let you off the hook if you let it go. And you're going to let it go because it's easier." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Savannah—" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I'm not trying to be hard on you. I just — you know her. She'll bury it and act fine until she actually is fine and you'll never know the difference. Is that what you want?" },
+    { "type": "narration", "content": "Kit looked at her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "No." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Then go find her." },
+    { "type": "narration", "content": "She walked away. Kit stood at his locker for a long moment. Then he closed it and went to C-wing." }
+  ]
+}

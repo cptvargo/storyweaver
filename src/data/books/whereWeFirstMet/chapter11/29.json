@@ -1,0 +1,15 @@
+{
+  "page": 29,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She does not start with the cardiologist." },
+    { "type": "narration", "content": "She starts with a Tuesday in October. She was sixteen. She was in AP Chemistry, third period, and the room smelled like the chemical sharpness of whatever they'd used the period before, and she was writing notes she would never look at again because the next thing that happened was a pressure in her chest that was different from any pressure she'd felt before." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Not pain. Not exactly. More like — something sitting on me. From the inside. I thought I was anxious. I'd been anxious about a test and I thought that was it." },
+    { "type": "narration", "content": "The gondola rises. The carnival falls below." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "It went away. I finished the class. I went to lunch. I told myself it was nothing." },
+    { "type": "narration", "content": "She is looking at the river. Ethan is looking at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "That night I was doing homework at my desk and it came back. Worse. It sat on me differently — not pressure anymore. Like a fist. And I knew, sitting there with my pencil in my hand, that something was wrong. Not — I didn't know what. I just knew wrong." }
+  ]
+}

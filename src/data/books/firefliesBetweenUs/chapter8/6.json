@@ -1,0 +1,28 @@
+{
+  "page": 6,
+  "chapter": 8,
+  "chapterTitle": "Before August",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "January. The USC acceptance came on a Wednesday." },
+    { "type": "narration", "content": "Kit stared at the email for a long time. Then he printed it out, folded it, and put it in the drawer of his nightstand. He needed a minute to let it be real before it became a conversation." },
+    { "type": "narration", "content": "He told his mom first." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "USC." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "California." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Los Angeles." },
+    { "type": "narration", "content": "She sat down at the kitchen table. Looked at the email he'd set in front of her. Then she looked at him." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Is this what you want?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I mean it. Is this what you want? Because we can talk about money, we can figure that out. I just need to know if it's real." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's real." },
+    { "type": "narration", "content": "She looked at the email again. He watched her read it — really read it — and then she did something he hadn't expected. She reached across the table and put her hand over his." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I'm proud of you." },
+    { "type": "narration", "content": "He looked at the table." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Thanks, Mom." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Have you told Daisy?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Tell her soon." },
+    { "type": "narration", "content": "He folded the email back up. Put it in his pocket. He'd tell her. He just needed to figure out what he was going to say around it first." }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "page": 25,
+  "chapter": 12,
+  "chapterTitle": "Mr. and Mrs. Carter",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Pastor", "content": "Ethan and Cassandra, you have come before your families and friends to make your promises to each other, and you have done so with honesty and with love. You have exchanged vows that are not merely beautiful words but a covenant — a binding together of two lives, willingly, completely." },
+    { "type": "narration", "content": "He looked at both of them." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "It is now my honor and privilege, by the authority vested in me, to pronounce you husband and wife." },
+    { "type": "narration", "content": "A breath." },
+    { "type": "dialogue", "speaker": "Pastor", "content": "Ethan — you may kiss your bride." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "narration", "content": "And it was the same look it had always been — the look from across the fountain on an ordinary morning, from a booth at The Copper Mug, from the gondola of a Ferris wheel above a county carnival — the look that meant: I see you. All of you. I am not going anywhere." },
+    { "type": "narration", "content": "He kissed her." },
+    { "type": "narration", "content": "The room erupted." }
+  ]
+}

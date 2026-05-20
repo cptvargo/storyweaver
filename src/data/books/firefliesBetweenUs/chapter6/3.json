@@ -1,0 +1,22 @@
+{
+  "page": 3,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli showed up at Kit's locker in late September with his laptop bag over one shoulder and the energy of someone who had discovered something." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Are you on MySpace." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What's MySpace." },
+    { "type": "dialogue", "speaker": "Eli", "content": "It's the future. Also Marcus is on it. Also half the junior class. Also I've already customized my profile." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You made a profile before you told me what it was?" },
+    { "type": "dialogue", "speaker": "Eli", "content": "I move fast." },
+    { "type": "narration", "content": "That night Eli sent Kit the link and Kit spent forty-five minutes on it, which was thirty-five minutes longer than he'd planned. You picked a song for your profile. You had a top eight — eight people you listed, in order, publicly, for everyone to see. The social implications of the top eight alone kept Eli occupied for a week." },
+    { "type": "narration", "content": "Kit made a profile because Eli made him. He put Eli first in his top eight because Eli would notice the order, and then Daisy, and then left the rest blank." },
+    { "type": "narration", "content": "He picked a song. He didn't think too hard about which one." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "your profile song is interesting" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "it's just a song" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "sure" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "anyway daisy just made a profile" },
+    { "type": "narration", "content": "Kit opened a new tab." }
+  ]
+}

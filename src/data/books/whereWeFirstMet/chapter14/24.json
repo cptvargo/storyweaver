@@ -1,0 +1,33 @@
+{
+  "page": 24,
+  "chapter": 14,
+  "chapterTitle": "Still Here",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "He had been crying since it happened." },
+    { "type": "narration", "content": "Not constantly — not in front of her, not in ways that required her to manage it. But she had heard him once from the hallway, when he thought she was asleep. The specific sound of someone crying quietly and trying not to. She had stood on the other side of the door for a moment and then gone back to bed." },
+    { "type": "narration", "content": "She had let him have that. He had let her have so much." },
+    { "type": "narration", "content": "On the fourth day home he came into the bedroom with tea and found her sitting up, Harold in her lap, looking at nothing in particular." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How are you feeling?" },
+    { "type": "narration", "content": "The specific question. Always." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Tired. A little strange. Like I'm still catching up to having been back in the world for a week." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "That's allowed." },
+    { "type": "narration", "content": "He sat on the edge of the bed. She leaned against him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm glad I was home when it happened. I'm glad everyone was there." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I'm glad Lena kept her head." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "She always does. I should have known." },
+    { "type": "narration", "content": "They sat for a while without talking. Harold between them." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm not afraid. I want you to know that." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "I'm not afraid. I've had so much. I'm so grateful for so much." },
+    { "type": "narration", "content": "His jaw tightened. He looked at the window. The grey November sky." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "I know." },
+    { "type": "narration", "content": "His voice was steady. Just barely." },
+    { "type": "narration", "content": "The nights were the hardest for him." },
+    { "type": "narration", "content": "She slept deeply — the sleep of a body doing its work, rebuilding whatever it had spent. He lay beside her and listened. That was what it had become: listening. The monitors in the hospital had done it for him, and now they were gone and it was just him, in the dark, listening." },
+    { "type": "narration", "content": "He memorized the sound of her breathing." },
+    { "type": "narration", "content": "He had been doing it without knowing it for years — the rhythm of it, the particular quality, what it sounded like in deep sleep versus the light morning kind. He had a catalog of her, stored in a part of him that functioned before words." },
+    { "type": "narration", "content": "He lay in the dark and listened." },
+    { "type": "narration", "content": "And on the hard nights — when the memory of those six minutes came back and settled on his chest — he lay very still and listened to her breathe until it passed." }
+  ]
+}

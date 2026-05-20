@@ -1,0 +1,32 @@
+{
+  "page": 13,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli caught up with him at the bike rack after school." },
+    { "type": "dialogue", "speaker": "Eli", "content": "What was that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What." },
+    { "type": "dialogue", "speaker": "Eli", "content": "At lunch. With Ryan." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't know what you're talking about." },
+    { "type": "narration", "content": "Eli had an expression he used when he'd already decided how direct to be and was giving Kit one last chance to make it unnecessary. He had it now." },
+    { "type": "dialogue", "speaker": "Eli", "content": "He was trying to talk to you. Like a normal person. And you shut him down." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I was just eating lunch." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Daisy saw it." },
+    { "type": "narration", "content": "Kit said nothing. He unlocked his bike." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I know what this is." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nothing is going on." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You've had feelings for Daisy since we were twelve. Probably before that." },
+    { "type": "narration", "content": "The air went quiet. A car passed on the street. Kit kept his eyes on the bike lock." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's not —" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Don't." },
+    { "type": "narration", "content": "No heat in it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Don't do that. Not with me." },
+    { "type": "narration", "content": "Kit let go of the lock. Didn't look at him." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm not telling you what to do. I'm telling you that taking it out on Ryan isn't going to fix anything. All it does is make it weird for her. And you don't want that." },
+    { "type": "narration", "content": "Kit didn't answer." },
+    { "type": "dialogue", "speaker": "Eli", "content": "He's not the problem, man." },
+    { "type": "narration", "content": "He got on his bike and went. Didn't look back." },
+    { "type": "narration", "content": "Kit stood at the rack while the school emptied out around him. Eli was right. He knew Eli was right. He wasn't ready to say it out loud — wasn't sure he was ready to say it to himself — but he knew." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 16,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "The others had drifted from the table in ones and twos — Nathan and Maya to look at the photographs on the far wall, Ethan and Cassandra to the record player, some question about what was on the next side. Lena had stayed. She had understood, without being told, that this conversation was going to continue." },
+    { "type": "dialogue", "speaker": "Lena", "content": "What was it? If not the coffee." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "The consistency. The fact that when people came back, the thing they had trusted would be there still was. People don't return to places. They return to feelings. The feeling of being welcomed. Of knowing where to sit. Of not having to explain themselves because they have been here before and been received well." },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "The coffee is the reason they come the first time. Everything else is why they keep coming back." },
+    { "type": "narration", "content": "Lena was watching him with the direct attention she had — the kind that didn't look away and didn't pretend to." },
+    { "type": "dialogue", "speaker": "Lena", "content": "You're not just talking about the coffee shop." },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "I'm talking about the coffee shop. The other applications are yours to make." },
+    { "type": "narration", "content": "She turned that over for a moment." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I've been worried. About Cassandra. About what comes next. About whether I know how to be what she needs when it gets harder." },
+    { "type": "narration", "content": "She said it carefully, in the understated way she had when something was actually very large." },
+    { "type": "dialogue", "speaker": "Lena", "content": "I keep trying to figure out what I should say. What I should do. When she tells him — when it gets —" },
+    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "When it gets real." },
+    { "type": "dialogue", "speaker": "Lena", "content": "Yes." }
+  ]
+}

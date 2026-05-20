@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're going to be okay in seventh grade." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because we were okay in sixth grade and we were okay in fifth grade and we were okay in fourth grade when Eli moved here and thought he was going to run everything." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He kind of does run everything." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He kind of does, but the point is we were okay." },
+    { "type": "narration", "content": "The oak trees on her street were old and big enough to block the streetlights. It got darker for half a block and then lighter again, and in the darker parts the sky came through — more stars than you could see from most of Millhaven, because of the canopy." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What if we're different after?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Different how?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't know. Just different. People change." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We'll still be us." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You sound sure." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I am sure." },
+    { "type": "narration", "content": "He looked at her sideways in the dark. She was walking with her hands in her jacket pockets even though it wasn't actually cold enough for a jacket." },
+    { "type": "dialogue", "speaker": "Kit", "content": "How are you always so sure about things?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm not always sure. I'm just sure about the ones that matter." }
+  ]
+}

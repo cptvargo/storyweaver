@@ -1,0 +1,29 @@
+{
+  "page": 7,
+  "chapter": 13,
+  "chapterTitle": "Every First",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "She woke before he did." },
+    { "type": "narration", "content": "This was not unusual. She had spent years waking early, lying still, doing the internal inventory the morning required of her. She did it now — the quiet listening, the check-in with her body, the slow breath in and slow breath out. Everything was its familiar self. The fatigue that lived behind her eyes on hard mornings was there, mild and manageable. The tightness in her chest, faint. Nothing sharp. Nothing she needed to act on." },
+    { "type": "narration", "content": "Good morning." },
+    { "type": "narration", "content": "She said it to the ceiling. The ceiling said nothing." },
+    { "type": "narration", "content": "Ethan was asleep on his side, facing her. She looked at him — properly looked, without the awareness of being looked back at. The particular restfulness of someone who had given everything the day asked and had nothing left to manage. He had, she'd noticed over the months, a very specific expression in sleep: entirely unguarded, the way he looked when he was in the middle of painting something and had stopped thinking about what he was doing and was just doing it." },
+    { "type": "narration", "content": "She did not draw it. She held it." },
+    { "type": "narration", "content": "The light through the window had the quality of early mountain morning — not the flat light of the city but something angled and specific, the kind that arrived with an actual color and asked you to notice." },
+    { "type": "narration", "content": "She reached for her medication on the nightstand. The small ritual, complete. She set the glass down." },
+    { "type": "narration", "content": "He opened his eyes." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Good morning." },
+    { "type": "narration", "content": "Out loud this time." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How long have you been up." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Not long." },
+    { "type": "narration", "content": "A pause. The morning settled around them." },
+    { "type": "dialogue", "speaker": "Ethan", "content": "How are you feeling?" },
+    { "type": "narration", "content": "Not the generic check-in — the specific one. He had learned, quietly and without her explaining it, the difference." },
+    { "type": "dialogue", "speaker": "Cassandra", "content": "Good. I'm good today." },
+    { "type": "narration", "content": "He nodded. Believed her. That was one of the things about him — he took the real answer at face value, didn't second-guess it, didn't need her to perform certainty she didn't have. If she said good, he trusted good." },
+    { "type": "narration", "content": "Two more hours to the cabin." },
+    { "type": "narration", "content": "She was ready." }
+  ]
+}

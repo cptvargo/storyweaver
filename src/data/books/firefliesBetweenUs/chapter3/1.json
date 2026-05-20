@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "chapter": 3,
+  "chapterTitle": "The Long Way Home",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "By the last week of August, summer in Millhaven started to smell different. Still hot, still thick — but underneath the honeysuckle and the cut grass and the asphalt, something else came in. Something you couldn't name exactly. The particular quality of light at four in the afternoon. The way the cicadas changed pitch. The feeling that the days had weight in a way they hadn't in June, because June had been infinite and August was not." },
+    { "type": "narration", "content": "School started in nine days. Kit had been not-thinking about this for two weeks." },
+    { "type": "narration", "content": "He showed up at Daisy's door at noon because that was what you did on the last good Saturdays. Mrs. Jones answered, looked at him with the expression of a woman who had been answering this door for four years and was not surprised by what was on the other side of it." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "She's in the kitchen. Go on through." },
+    { "type": "narration", "content": "Daisy was at the kitchen table eating cereal and reading something, her hair still damp from a shower, and she looked up when he came in and said, with the easy comfort of someone who had not been startled by Kit Jenkins showing up in their kitchen in a very long time:" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You ate?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
+    { "type": "narration", "content": "She pushed the box of cereal across the table without being asked. He got a bowl from the cabinet he already knew — third shelf, left side — and sat down across from her, and they ate in the comfortable silence of people who didn't need to fill it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli called. He wants Hester's for lunch." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Of course he does." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Savannah's in. They're meeting us at noon-thirty." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Noon-thirty isn't a time." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eli's been saying noon-thirty since fourth grade and we've never corrected him, so at this point it's basically a time." },
+    { "type": "narration", "content": "Kit ate his cereal. Through the kitchen window the backyard was full of summer — the same summer it had always been, the grass and the heat and the oak tree at the back fence doing its slow work. Nine days." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What are you reading?" },
+    { "type": "narration", "content": "She held up the cover. He didn't recognize it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Any good?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Really good." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What's it about?" },
+    { "type": "dialogue", "speaker": "Daisy", "content": "People not saying what they mean." },
+    { "type": "narration", "content": "He looked at her. She looked at the book. The kitchen was quiet." }
+  ]
+}

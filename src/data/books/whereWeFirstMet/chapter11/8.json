@@ -1,0 +1,15 @@
+{
+  "page": 8,
+  "chapter": 11,
+  "chapterTitle": "All of It",
+  "bookId": "whereWeFirstMet",
+  "blocks": [
+    { "type": "narration", "content": "Cassandra's morning." },
+    { "type": "narration", "content": "She woke before her alarm — her body had learned, over years, to know when something was coming. Not because of fear. Because of a kind of heightened attention that she'd developed so gradually she no longer noticed it most of the time. It only became visible on mornings like this one, when she lay in the early light and felt the particular quality of the day before anything had happened in it." },
+    { "type": "narration", "content": "She got up and went to the kitchen. She filled the glass of water. She counted the pills — the ritual she had been performing every morning since she was sixteen, which she had long since stopped thinking of as a burden and now simply thought of as a fact, the way breakfast was a fact, the way brushing your teeth was a fact." },
+    { "type": "narration", "content": "The pills went down. She stood at the counter with her hand flat on the cool surface and waited, the way she always waited — not for anything specific. Just for the body to continue. It always did." },
+    { "type": "narration", "content": "She was grateful. She was also, in the way she'd been since she was sixteen, privately furious. Not at anything in particular. Just at the fact of it. The fact that there was a ritual at all. She had learned to hold both of those things at once — the gratitude and the fury — and to let neither one win." },
+    { "type": "narration", "content": "She made tea. She opened her journal and didn't write. She read instead — months back, the months of Ethan. The entries didn't say his name at first. They described a man with a sketchbook and then a man who brought coffee without being asked and then simply him, Ethan, named at last when the naming felt inevitable." },
+    { "type": "narration", "content": "She closed the journal." }
+  ]
+}

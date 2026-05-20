@@ -1,0 +1,31 @@
+{
+  "page": 1,
+  "chapter": 10,
+  "chapterTitle": "This Kind of Night",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Friday dinner at the Jones house. The table was set the way it always was — extra plate for Kit, sweet tea already poured, Mrs. Jones moving between the kitchen and the dining room with the particular efficiency of a woman who had been feeding this boy since he was twelve." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Kit Jenkins. You look thin." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Mrs. Jones, I'm the same as I was at Christmas." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "California doesn't feed people right. Sit down." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She's been saying that since you left in August." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Have you been defending me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've been letting her worry. It's her hobby." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I can hear you both." },
+    { "type": "narration", "content": "Dinner was pot roast and biscuits and sweet tea and exactly what Georgia in May felt like. Kit ate two plates. Mrs. Jones looked satisfied about it." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Daisy tells me your film screened in a class." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Professor used it as an example. I'm still not totally sure what kind." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "The good kind. I can tell by how you said it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's what I told him." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She said it had emotional architecture." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Well. That sounds like a compliment to me." },
+    { "type": "narration", "content": "After dinner, Daisy walked him to the porch. The night was warm — Georgia warm, the kind that sat on your shoulders. Fireflies had already started at the edges of the yard." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She's going to feed you every week this summer." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not complaining." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know you're not." },
+    { "type": "narration", "content": "He stood at the edge of the porch steps. She leaned against the post. The yard between them was full of soft light." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's good to be home." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "It is." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 7,
+  "chapter": 6,
+  "chapterTitle": "Somebody",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "November. Daisy's MySpace profile had a new song." },
+    { "type": "narration", "content": "Kit noticed because he checked it occasionally and he was not going to examine why he checked it occasionally. The song was different from last month's. He didn't know it, which bothered him in a low-grade way he couldn't justify." },
+    { "type": "narration", "content": "He looked up the song." },
+    { "type": "narration", "content": "It was a love song. Not obviously, not the kind that announced itself — just the slow kind, the kind about wanting to say something and not knowing how. He listened to thirty seconds of it and closed the browser." },
+    { "type": "narration", "content": "That night in the group chat, Eli was being Eli." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok who noticed daisy changed her myspace song" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "I noticed" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "and" },
+    { "type": "message", "platform": "AIM", "sender": "savannah_b", "content": "and nothing. it's her song." },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "kit you're quiet" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "doing homework" },
+    { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "no you're not" },
+    { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "goodnight eli" },
+    { "type": "narration", "content": "He closed the laptop. Opened it again. Looked at the buddy list. Daisy's icon showed active. He did not open a window." },
+    { "type": "narration", "content": "He was doing homework." }
+  ]
+}
