@@ -1,0 +1,28 @@
+{
+  "page": 19,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session One. Communication." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "I want to start with how you two actually talk to each other. Not what you say — how you say it. When things are hard, what does that look like." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I go quiet first. I need to process before I can talk. If I try to talk before I'm ready I say things I don't mean." },
+    { "type": "dialogue", "speaker": "Kit", "content": "And I read the quiet as distance. So I push." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "And then I feel cornered." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Has this caused conflict." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Walk me through one." },
+    { "type": "narration", "content": "They walked her through October of freshman year. The girl at the party. Jordan in the library. The phone call that turned into the fight that turned into the real conversation. Kit pushed and Daisy got cornered and they both said true things badly." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And how did you come back from it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He called back. He said he wasn't done. We kept talking until we actually understood each other." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit, what made you call back." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Because losing the fight mattered less than keeping her." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That's repair. You both did something important there without having a word for it. Here's the word: you chose the relationship over being right." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What I want you to carry from this session is that both of your instincts — Daisy's need to process and Kit's need to stay connected — are valid. The problem is the timing. You need a signal. Something simple. Something that tells Kit: I'm not gone, I just need time. And tells Daisy: I'm not going anywhere, I'm just scared." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "A signal." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Something you both agree on before the next hard conversation happens. Not during. Before." },
+    { "type": "narration", "content": "Kit and Daisy looked at each other through the screen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We can figure that out." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. We can." }
+  ]
+}

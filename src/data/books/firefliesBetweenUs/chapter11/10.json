@@ -1,0 +1,24 @@
+{
+  "page": 10,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The last thing he filmed was the field at night." },
+    { "type": "narration", "content": "Eli came with him. They stood out there in the dark with the camera on the tripod and the October cold coming down and the field doing what the field always did — being completely itself, indifferent and patient and full of everything they'd put into it over the years." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You're going to talk to her. On camera." },
+    { "type": "dialogue", "speaker": "Kit", "content": "At the end. Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You want me to go." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Give me five minutes." },
+    { "type": "narration", "content": "Eli walked back toward the tree line. Kit set the camera on the tripod. Stepped in front of it. The field was dark and quiet behind him. He stood there for a second — just himself and the camera and everything he needed to say." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
+    { "type": "narration", "content": "He took a breath." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I came home to film this because you deserve more than a restaurant and a ring box. You deserve something I made. Something that could only come from me, and only be for you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Everything in this film is us. Every place is ours. Every person in it loves you, and loves us, and has been rooting for us since before we had anything to root for." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I have spent ten years figuring out how to say this right. And I think the thing I've finally learned is that there is no right. There's just true. So here's the true thing:" },
+    { "type": "dialogue", "speaker": "Kit", "content": "You are the person I want to do every hard thing with. Every good thing. Every ordinary Tuesday and every impossible moment. I don't want to do any of it without you. I have never wanted to do any of it without you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy May Jones. Will you marry me." },
+    { "type": "narration", "content": "The field was quiet. Somewhere behind him, he heard Eli make a sound he'd never heard Eli make before." },
+    { "type": "narration", "content": "He looked at the camera for one more second. Then he reached over and turned it off." }
+  ]
+}

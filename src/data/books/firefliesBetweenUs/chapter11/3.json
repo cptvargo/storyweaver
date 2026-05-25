@@ -1,0 +1,29 @@
+{
+  "page": 3,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He called Eli that same night." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I've been waiting for this call." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You don't even know what I'm calling about." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit. I have known you for fourteen years. I know exactly what you're calling about." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I need to come home without her knowing." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Done." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I want to film everything. The street. The field. The diner. I want to get Mrs. Jones on camera. Savannah. Maybe my mom." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'll handle Mrs. Jones. She's going to cry." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I might cry." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know that too." },
+    { "type": "dialogue", "speaker": "Eli", "content": "When." },
+    { "type": "dialogue", "speaker": "Kit", "content": "October break. Four days. I'm going to tell Daisy I'm staying in LA to work on a project." },
+    { "type": "dialogue", "speaker": "Eli", "content": "That's not a total lie." },
+    { "type": "dialogue", "speaker": "Kit", "content": "No. It's not." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm proud of you. In advance. Whatever this ends up being — I'm proud of you for doing it on purpose." },
+    { "type": "narration", "content": "On purpose. He held that for a second." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That's the whole thing, isn't it. Doing it on purpose." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Always has been." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "page": 7,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Mrs. Jones answered the door holding a dish towel and wearing the expression of someone who had no idea what was about to happen to them." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Kit Jenkins." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hi, Mrs. Jones." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "What are you — Daisy's not here, she's in Minnesota —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know. I came for you, actually. Can I come in?" },
+    { "type": "narration", "content": "She looked at the camera. Then at him. Something shifted in her face — not confusion anymore. Understanding." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Is that —" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm making something for her. Something I want her to have when I ask her." },
+    { "type": "narration", "content": "Mrs. Jones pressed her lips together. Looked away for a second. Then she stepped back and held the door open." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Come in. Let me fix my hair." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You look perfect." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I look like I've been doing laundry. Give me two minutes." },
+    { "type": "narration", "content": "He waited in the hallway — the same hallway he'd walked into hundreds of times over twenty years. The same photographs on the wall. Daisy at six, gap-toothed and grinning. Daisy at twelve, squinting into the sun at some beach he didn't recognize. He stood there and looked at all of it and felt the full weight of what he was doing." },
+    { "type": "narration", "content": "Mrs. Jones came back. She'd fixed her hair. Her eyes were already wet." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Tell me what you want to tell her." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I've watched you love my daughter since you were eight years old and didn't have a word for it yet. And I want her to know —" she stopped. Breathed. "I want her to know that the person she's choosing has always chosen her back. Every single time." },
+    { "type": "narration", "content": "He kept the camera steady. Barely." }
+  ]
+}

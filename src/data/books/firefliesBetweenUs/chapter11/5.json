@@ -1,0 +1,25 @@
+{
+  "page": 5,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli was at arrivals with coffee and the expression of a man participating in something historic." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Welcome home." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She doesn't know I'm here." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Nobody knows you're here. I told Savannah you were staying in LA." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Mrs. Jones thinks I'm bringing her a casserole dish I borrowed. She has no idea." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Perfect." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Your mom?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm going to show up at the door. I want to catch her real." },
+    { "type": "narration", "content": "Eli looked at him over the roof of the car." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She's going to fall apart." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Good. I need it real." },
+    { "type": "narration", "content": "Millhaven in October was all copper and gold, the trees doing their annual slow fire, the air carrying that first edge of cold that Georgia only got for about six weeks before winter gave up. He'd forgotten how beautiful it was. LA had its own beauty but it didn't look like this — didn't smell like this, didn't have this particular quality of light that hit the old houses at four in the afternoon like something out of a painting." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I want to start at the street." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Our street." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Where it all started." },
+    { "type": "narration", "content": "Eli drove them there without another word." }
+  ]
+}

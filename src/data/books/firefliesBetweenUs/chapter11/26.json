@@ -1,0 +1,24 @@
+{
+  "page": 26,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Eight. The Covenant." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Last session. I don't want to give you a summary or a list. I want to end with one question and I want you both to actually answer it." },
+    { "type": "narration", "content": "She looked at them through the screen." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What are you promising." },
+    { "type": "narration", "content": "A beat. Daisy answered first." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm promising to tell the truth even when it's hard. I'm promising to not go quiet when he needs to hear me. I'm promising to stay in the room — to not let the distance between us stay comfortable enough that we stop trying to close it." },
+    { "type": "narration", "content": "She paused." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm promising to love him on the days when it's easy. And on the days when it's a choice." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
+    { "type": "narration", "content": "He took a breath. The kind that came before something real." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm promising to show up. Not the version of me that seems okay. The actual one. I'm promising to let her into the hard parts — to not disappear when something costs me. To not protect her from me." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm promising that I will not be my father. Not by accident. On purpose. Every day — on purpose." },
+    { "type": "narration", "content": "The room was very still." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That is what a covenant is. Not a feeling. Not a ceremony. A decision, remade. Every morning. On purpose." },
+    { "type": "narration", "content": "She smiled. The kind that had something worn into it." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "You are ready. You have done the work. Whatever comes next — you have the vocabulary for it now. Go get married." }
+  ]
+}

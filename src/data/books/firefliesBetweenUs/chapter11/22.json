@@ -1,0 +1,23 @@
+{
+  "page": 22,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Four. Finances." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Two creative careers. Film. Writing. I'm not going to ask whether you can make a living — you'll figure that out. I want to know what money means to each of you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Security. My parents never had a lot but they always had enough. Enough was the goal. Enough meant safe." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "My mom did everything by herself after my dad left. She picked up a second job when I was in high school. She never said anything about it but I know what it cost her. Money is — not something I take lightly." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What does that look like as a pattern for you. When money is tight." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I go internal. I stop spending on anything I don't have to. I don't like asking for help." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Daisy, if Kit goes internal over money — how does that land with you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Like he's shutting me out. Like I'm not part of what he's carrying." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That's the intersection. Kit, your instinct to protect and manage alone — that comes from watching your mom do exactly that. It's not a flaw. It's a learned language. But Daisy is not your mom. She is your partner. She needs access to the worry, not just the resolution." },
+    { "type": "narration", "content": "Kit nodded slowly." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't want her to feel like she has to carry it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't want you to carry it alone." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That is a marriage. Right there. That exchange. Hold onto it." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "One practical note: whatever your income looks like, decide together what 'enough' means before you need to. Not after the first hard month. Before. You don't have to solve the future today. But name the number — or at least name the principle — while you're warm toward each other." }
+  ]
+}

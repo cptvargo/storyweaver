@@ -1,0 +1,33 @@
+{
+  "page": 17,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "so" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "so" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I asked priya" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "and" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "she said yes" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "ELI" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I know" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "MAN" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I KNOW" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I'm calling you right now" },
+    { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I know you are" },
+    { "type": "narration", "content": "The call lasted an hour. Mostly Eli telling the story of the street corner and the please and Priya laughing through crying, and Kit listening with the kind of full attention he only gave to things that mattered." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The please." },
+    { "type": "dialogue", "speaker": "Eli", "content": "It came out. I didn't plan it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "It's the best part of the story." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She thinks so too. She told her mom tonight and led with the please. I am now known as the man who said please." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Worse things to be known as." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Yeah." },
+    { "type": "narration", "content": "A comfortable quiet between them." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You realize what this means." },
+    { "type": "dialogue", "speaker": "Kit", "content": "What." },
+    { "type": "dialogue", "speaker": "Eli", "content": "We're going to be in each other's weddings." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Was there ever a version where we weren't." },
+    { "type": "dialogue", "speaker": "Eli", "content": "No. But now it's official." },
+    { "type": "narration", "content": "Kit smiled at the ceiling of his dorm room in LA while his best friend did the same thing in Millhaven." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page": 25,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Seven. Faith and Foundation." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "I want to spend today on something underneath all the rest of this. What do you each believe about marriage. Not practically. Fundamentally." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I was raised in a faith tradition. I believe marriage is a covenant. That it's made before God and it's held by something larger than just two people's feelings." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
+    { "type": "narration", "content": "He was quiet for a long moment." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I grew up with it too. I don't know what I believe about a lot of things anymore. But I believe — I know — that what I feel about Daisy is not something I want to put a condition on. It's not 'unless.' It's not 'until things get hard.' It's unconditional in a way I don't have language for outside of that framework." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That is faith, Kit. You may not carry the vocabulary the same way she does. But what you're describing — that's the same thing." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What I want you both to name is this: when the marriage is hard — and it will be hard, every marriage has its winters — what is the thing you're going to reach for. What holds when feelings don't." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "The promise. The fact of having made it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Her. The person she actually is, not who I'm afraid she'll become." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Good. Both of those are good. Here is what I've observed over eight months of working with you: you are not people who quit. You have patterns you'll need to work through. You will have seasons where you are more roommates than lovers, seasons where the distance is emotional even if you're in the same bed. But I have never once seen either of you stop moving toward each other." },
+    { "type": "narration", "content": "She paused." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That matters more than almost anything else I could tell you." }
+  ]
+}

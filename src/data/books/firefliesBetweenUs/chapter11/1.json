@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "August again. Different this time." },
+    { "type": "narration", "content": "Same airports. Same distances. Same two schools pulling in opposite directions. But the thing between them had a name now, and a shape, and the weight of it was the good kind — the kind you carry because you chose to." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "back in LA. darius already reorganized the room" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "some things are constants" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "it's actually kind of comforting at this point" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you've grown" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "don't tell anyone" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "negative 6 degrees already. I checked" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "my girlfriend is in negative 6 degrees" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "your fiancée is going to be in negative 6 degrees if you don't hurry up" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "..." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "is that a hint" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "it's a joke. mostly" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "mostly" },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "go unpack kit" },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yeah" },
+    { "type": "narration", "content": "He set his phone down. Looked at his bag still zipped on the bed. Outside, LA was doing what LA did — loud and bright and indifferent to everything happening in his chest." },
+    { "type": "narration", "content": "He'd been thinking about it since before July. Since longer than that, if he was honest." }
+  ]
+}

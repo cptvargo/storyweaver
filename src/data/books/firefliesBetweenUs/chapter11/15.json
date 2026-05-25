@@ -1,0 +1,33 @@
+{
+  "page": 15,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Eli called Kit at eight AM Pacific time, which meant he had been sitting on it since at least midnight." },
+    { "type": "dialogue", "speaker": "Eli", "content": "She said yes." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She said yes." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I already knew she was going to say yes. I need you to know I knew." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You've always known everything five minutes before it happens." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I have good instincts. Kit. We're engaged." },
+    { "type": "dialogue", "speaker": "Kit", "content": "We." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I mean you and Daisy. Obviously. But also — I was in that field at midnight in October. I am emotionally invested." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You cried." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I did not cry." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eli." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I had something in both eyes simultaneously. Different thing." },
+    { "type": "narration", "content": "Kit laughed. On his end of the line, he heard Eli go quiet in the way he only did when something real was happening underneath." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I'm happy for you, man. Both of you. You did this right." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Still have to actually get married." },
+    { "type": "dialogue", "speaker": "Eli", "content": "You'll do that right too." },
+    { "type": "narration", "content": "A pause. Then, carefully:" },
+    { "type": "dialogue", "speaker": "Eli", "content": "Can I ask you something." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "How did you know. Not that it was her — I've known that since ninth grade. How did you know you were ready to ask." },
+    { "type": "narration", "content": "Kit thought about it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I stopped waiting to feel ready. I decided to be ready. There's a difference." },
+    { "type": "narration", "content": "Eli was quiet for a long moment." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Yeah, there is." }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "page": 20,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Two. Family of Origin." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Before we can talk about the marriage you're building, I need to understand the homes you came from. Not to diagnose anything — to understand what you're each carrying in. Daisy, let's start with you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "My parents have been married for thirty years. My dad works in insurance. My mom taught elementary school. They fight sometimes but they always come back to each other. It was — stable. Safe. I knew what my house was going to feel like when I walked in." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What did you learn about commitment from watching them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That it's not always easy but it's always a choice. My mom used to say love is a verb. You do it every day, whether you feel like it or not." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Good. Hold that." },
+    { "type": "narration", "content": "She turned to Kit." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
+    { "type": "narration", "content": "He was quiet for a moment. The kind of quiet that had weight." },
+    { "type": "dialogue", "speaker": "Kit", "content": "My parents aren't together. My dad left when I was eleven." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What does left mean. In your experience of it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He cheated on my mom. And then he left. One morning he was just — not there anymore. There was no conversation. No real explanation. Just a choice he made that ended everything." },
+    { "type": "narration", "content": "The room — both rooms, two thousand miles apart — was very quiet." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "How old were you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eleven." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What did that teach you about commitment." },
+    { "type": "narration", "content": "He looked at his hands." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That it can break. That someone can look you in the eye every day for years and still leave. That love isn't the same thing as staying." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And what has that fear done to how you love people." },
+    { "type": "narration", "content": "A long pause." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Made me careful. Made me slow. Made me — scared to name things because if you don't name them you can't lose them." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And now you're naming the biggest thing there is." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That took courage. I want you to hear that." }
+  ]
+}

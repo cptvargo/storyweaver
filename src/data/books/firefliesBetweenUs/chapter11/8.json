@@ -1,0 +1,25 @@
+{
+  "page": 8,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Savannah picked up on the second ring." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Kit. Why is your name showing up on my phone when you're supposed to be in California." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Look out your front window." },
+    { "type": "narration", "content": "A pause. Then the sound of footsteps. Then:" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Kit McKinley you better not be doing what I think you're doing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Come outside." },
+    { "type": "narration", "content": "She came out in socks, one hand over her mouth, the other gripping her phone. He had the camera up. She looked at it and then at him and she was already crying before he said a word." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I just need you to talk to her. Whatever you want her to know." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "I hate you for not warning me." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I needed it real." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "It's real. Okay. Okay." },
+    { "type": "narration", "content": "She looked into the camera. Took a breath." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Daisy. I have been your best friend since we were nine years old and I have watched you love this person — quietly, carefully, the way you do everything — for as long as I can remember. And I just need you to know that you deserve every single thing he's about to give you. You have always deserved it. Say yes. Say it as many times as it takes." },
+    { "type": "narration", "content": "She wiped her face with the back of her hand." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Are you going to cry when she watches this." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not going to answer that." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "That's a yes." }
+  ]
+}

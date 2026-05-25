@@ -1,0 +1,25 @@
+{
+  "page": 18,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "They found Dr. Carol Reeves in December — a licensed marriage counselor in Atlanta with a Skype practice for couples doing long-distance sessions. Her profile said she specialized in intentional commitment. That phrase was what made Daisy send the inquiry." },
+    { "type": "narration", "content": "The first call was just the three of them getting acquainted." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Tell me about yourselves. Not the story — I'll get to that. Just who you are right now. Where you are." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I'm a junior at the University of Minnesota. English. I go home to Georgia in the summers." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Film studies at USC. I make things. Short films mostly." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And you're engaged." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "How long have you known each other." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Since we were eight." },
+    { "type": "narration", "content": "Dr. Reeves wrote something." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Why counseling. Before the wedding. What brought you to this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Because we've known each other our whole lives and we still want to do this right. Not just assume we know everything about each other. We want to understand what we're building." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I've seen what it looks like when a commitment breaks. I don't want that. I want to go in with my eyes open." },
+    { "type": "narration", "content": "Dr. Reeves looked at them both through the screen." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That is one of the most honest answers I have heard in this work. Both of them." },
+    { "type": "narration", "content": "She smiled." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Let's get started." }
+  ]
+}

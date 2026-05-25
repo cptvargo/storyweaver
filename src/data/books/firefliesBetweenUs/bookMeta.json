@@ -52,11 +52,11 @@
     "The field behind Kit's block",
     "Main Street"
   ],
-  "totalChapters": 10,
+  "totalChapters": 11,
   "chapterCountPlanned": 12,
   "status": "in-progress",
   "author": "StoryWeaver",
-  "readingTime": "~12 hrs (Chapters 1-10)",
+  "readingTime": "~14 hrs (Chapters 1-11)",
   "contentRating": "Clean",
   "cover": "/fireflies_between_us.png",
   "coverTone": "warm, nostalgic, golden, hopeful",
@@ -130,6 +130,13 @@
       "image": "/this_kind_of_night_fireflies.PNG",
       "mood": "July Fourth. The field. Ten years in the making. Fireflies, fireworks, and the moment they stopped waiting.",
       "totalPages": 26
+    },
+    {
+      "chapterIndex": 11,
+      "title": "On Purpose",
+      "image": "/on_purpose_fireflies.png",
+      "mood": "A film made in secret. A question asked from a thousand miles away. Eight sessions and everything they needed to say. Four months.",
+      "totalPages": 27
     }
   ],
   "themes": [

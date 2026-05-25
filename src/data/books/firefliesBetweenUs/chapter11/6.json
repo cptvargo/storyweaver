@@ -1,0 +1,22 @@
+{
+  "page": 6,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He filmed the street first. Walked it alone with the camera — slow, the way he'd learned to move with it, letting the place speak instead of directing it. The sidewalk they'd walked a thousand times. The corner where he used to wait for her in the morning without admitting he was waiting." },
+    { "type": "narration", "content": "Then the field." },
+    { "type": "narration", "content": "Empty in October. Quiet. The lantern poles Eli had used in July were long gone but the field itself was the same — wide and honest and full of everything that had happened in it since they were nine years old catching fireflies in the dark." },
+    { "type": "narration", "content": "He stood in the center of it with the camera and didn't say anything for a long time. Just let it be what it was." },
+    { "type": "narration", "content": "Then the diner. Their booth. He talked to Rhonda, who'd been working there since before either of them was born and who remembered Kit ordering a grilled cheese every Saturday in seventh grade like it was yesterday." },
+    { "type": "dialogue", "speaker": "Rhonda", "content": "That girl of yours know you're in town?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
+    { "type": "dialogue", "speaker": "Rhonda", "content": "You doing something for her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Trying to." },
+    { "type": "narration", "content": "Rhonda looked at the camera. Then at him." },
+    { "type": "dialogue", "speaker": "Rhonda", "content": "You want me to say something? For the camera?" },
+    { "type": "dialogue", "speaker": "Kit", "content": "Only if it's real." },
+    { "type": "dialogue", "speaker": "Rhonda", "content": "Honey, I've been watching you two sit in that booth for seven years. You want real? — I knew before you knew. And I'm glad you finally caught up." },
+    { "type": "narration", "content": "He laughed. She went back to work. He sat in their booth alone for a while and let the camera run and didn't turn it off." }
+  ]
+}

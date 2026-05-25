@@ -1,0 +1,30 @@
+{
+  "page": 24,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Six. Conflict and Repair." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "We started with how you fight. I want to go deeper now. You've had six months of being engaged. Has there been a conflict since we started that you'd like to bring in." },
+    { "type": "narration", "content": "They exchanged a look through their respective screens." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Spring break." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Tell me." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I was going to visit him in LA. And then a friend from my program needed help with something urgent — an essay submission, a deadline I can't fully explain without details — and I asked Kit if I could come one day later. And he said fine. But the way he said fine." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I was disappointed. I'd rearranged my schedule." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know. But you didn't say that. You said fine and then you were quiet for two days." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit. Why didn't you say you were disappointed." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Because I didn't want to make her feel guilty for something she couldn't control." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What happened instead." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She felt guilty anyway. And distant. And then she called me on it." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Daisy, how did you call him on it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I said: I'd rather you tell me you're disappointed than disappear on me. Because the disappearing hurts more than the honesty would." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She was right. I said that. I apologized." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "How long from the conflict to the repair." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Two days." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "I want you to notice something. You repaired. That is not small. Many couples let those silences calcify. You moved toward each other. What I want to challenge — Kit — is the interval. Two days is long. Is there a version where you name the disappointment in the moment, even imperfectly, and you get that time back." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "You are allowed to be disappointed. You are allowed to say: this is hard for me right now. That is not a burden to Daisy. It is the opposite. It is the thing she is asking you for." }
+  ]
+}

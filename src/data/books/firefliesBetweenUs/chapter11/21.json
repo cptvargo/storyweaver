@@ -1,0 +1,32 @@
+{
+  "page": 21,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Three. Expectations." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "You graduate in a year. Both of you. I want to talk about what happens after the ceremony. Not the wedding — graduation. Where do you live." },
+    { "type": "narration", "content": "The silence was different this time. Not weighted. Careful." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I've been in contact with a production company in Los Angeles. There's a possibility of a junior editing position. Nothing confirmed. But that's where the work is." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I don't have a city. I have — a direction. I want to write. I can do that from anywhere." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Have you two talked about this directly. Not around it. About it." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Some." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We've talked about LA." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And what came out of that conversation." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I said I could go. And I meant it." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit, what did you hear when she said that." },
+    { "type": "narration", "content": "He was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I heard someone trying to make it easier for me." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Is that different from someone who genuinely wants to go." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Daisy. Is there a difference." },
+    { "type": "narration", "content": "She thought about it. Really thought." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I want to be where he is. That's true. But I also grew up in Georgia. My parents are in Georgia. And I don't know what I'm going to lose by leaving that behind. I haven't let myself fully sit with that yet." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "That's honest. That's very honest. Kit — did you know she was carrying that." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Not like that." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Here is what I want you to hear. Neither of you is asking too much. Daisy is not wrong to grieve her roots. Kit is not wrong to pursue his work. The question is not who sacrifices for whom. The question is: are you building something together, or are you each accommodating the other until one of you runs out of room." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Compromise that comes from love feels different in the body than compromise that comes from fear. I want you to know the difference before you make the choice." },
+    { "type": "narration", "content": "Neither of them answered. They didn't need to. Something had shifted in the room." }
+  ]
+}

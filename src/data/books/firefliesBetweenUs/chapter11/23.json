@@ -1,0 +1,27 @@
+{
+  "page": 23,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Session Five. Intimacy." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "I want to spend this session on emotional presence. Not physical intimacy — we'll get there if it's relevant — but this: what does it mean to you when someone is fully with you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Eye contact. Putting the phone down. When someone is with you and you can actually feel that they're not anywhere else." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Asking the second question. When someone doesn't just accept your first answer. When they — stay in the conversation." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Do either of you feel like the other person does this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He does. When he's not in his head." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She does. Every time." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit. When you are in your head. What's in there." },
+    { "type": "narration", "content": "A long beat." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Whether I'm enough. Whether what I'm building is worth anything. Whether she's going to wake up in ten years and wonder why she stayed." },
+    { "type": "narration", "content": "Daisy didn't say anything. Her expression across the screen said everything." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit, I want you to hear what you just said. That is not a thought about the present. That is a story you are telling about the future based on a wound from the past. Your father's absence is not a prophecy about yours." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "When you go into your head and disappear from Daisy — she is not the cause of that. But she does live inside the consequence. That's worth knowing." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know he's not going anywhere." },
+    { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Tell him that. Not me." },
+    { "type": "narration", "content": "She looked straight into the camera." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I know you're not going anywhere. And I need you to know I'm not either. Whatever's in your head — bring it here. That's what here is for." },
+    { "type": "narration", "content": "He was quiet. Not the weighted kind. The kind that was trying to hold something." }
+  ]
+}

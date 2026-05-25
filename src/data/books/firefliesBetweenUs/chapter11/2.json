@@ -1,0 +1,32 @@
+{
+  "page": 2,
+  "chapter": 11,
+  "chapterTitle": "On Purpose",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Sophomore year found its pace faster than freshman year had. They knew the schools now, knew the distance, knew which nights were for phone calls and which were just for texts. The rhythm was theirs." },
+    { "type": "narration", "content": "But something was different in Kit this year. Darius noticed first." },
+    { "type": "dialogue", "speaker": "Darius", "content": "You're quieter this year." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm thinking." },
+    { "type": "dialogue", "speaker": "Darius", "content": "About Daisy." },
+    { "type": "dialogue", "speaker": "Kit", "content": "About something." },
+    { "type": "dialogue", "speaker": "Darius", "content": "About Daisy." },
+    { "type": "narration", "content": "Kit didn't answer. Darius had learned to read that as a yes." },
+    { "type": "dialogue", "speaker": "Darius", "content": "You going to ask her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Ask her what." },
+    { "type": "dialogue", "speaker": "Darius", "content": "Don't do that." },
+    { "type": "narration", "content": "Kit leaned back in his chair. Looked at the ceiling." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm working something out." },
+    { "type": "dialogue", "speaker": "Darius", "content": "How long have you been working it out." },
+    { "type": "dialogue", "speaker": "Kit", "content": "A while." },
+    { "type": "dialogue", "speaker": "Darius", "content": "Is this a feelings thing or a logistics thing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The feelings have been sorted since we were twelve. It's the how." },
+    { "type": "dialogue", "speaker": "Darius", "content": "The how." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I need it to mean something. Something real. Not a restaurant and a ring box. Something she'll remember the way I'll remember it." },
+    { "type": "narration", "content": "Darius looked at him for a moment." },
+    { "type": "dialogue", "speaker": "Darius", "content": "You're a filmmaker." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Darius", "content": "So make something." },
+    { "type": "narration", "content": "Kit looked at him. It was the simplest thing anyone had said to him in months. He didn't know why he hadn't gotten there himself." }
+  ]
+}
