@@ -19,7 +19,9 @@
     { "type": "narration", "content": "He waited in the hallway — the same hallway he'd walked into hundreds of times over twenty years. The same photographs on the wall. Daisy at six, gap-toothed and grinning. Daisy at twelve, squinting into the sun at some beach he didn't recognize. He stood there and looked at all of it and felt the full weight of what he was doing." },
     { "type": "narration", "content": "Mrs. Jones came back. She'd fixed her hair. Her eyes were already wet." },
     { "type": "dialogue", "speaker": "Kit", "content": "Tell me what you want to tell her." },
-    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I've watched you love my daughter since you were eight years old and didn't have a word for it yet. And I want her to know —" she stopped. Breathed. "I want her to know that the person she's choosing has always chosen her back. Every single time." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I've watched you love my daughter since you were eight years old and didn't have a word for it yet. And I want her to know —" },
+    { "type": "narration", "content": "She stopped. Breathed." },
+    { "type": "dialogue", "speaker": "Mrs. Jones", "content": "I want her to know that the person she's choosing has always chosen her back. Every single time." },
     { "type": "narration", "content": "He kept the camera steady. Barely." }
   ]
 }
