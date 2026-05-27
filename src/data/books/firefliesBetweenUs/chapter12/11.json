@@ -1,0 +1,24 @@
+{
+  "page": 11,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "He went quiet." },
+    { "type": "narration", "content": "Not all at once. It happened gradually — the way a tide goes out, too slow to watch but undeniable when you look at where the waterline used to be. He came home from work. He ate. He asked how she was. He did the dishes. He came to bed. And somewhere inside all of that doing, he disappeared." },
+    { "type": "narration", "content": "Daisy knew this version of him. She had learned it in the counseling room, in the sessions where Dr. Reeves had named what Kit did when something cost too much — the retreat inward, the protection that looked like functioning but was actually a door closing." },
+    { "type": "narration", "content": "She had promised herself she would not let the door close." },
+    { "type": "narration", "content": "She tried three times in the first week. Gentle. Direct. Once she simply sat beside him on the couch and turned the television off and said nothing — just waited. He sat with her for twenty minutes, quiet, and then said he was tired and went to bed." },
+    { "type": "narration", "content": "She lay awake beside him and listened to him breathe and felt the distance between them that had nothing to do with the size of the bed." },
+    { "type": "narration", "content": "On day nine she stopped being gentle." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit. I need you to come back." },
+    { "type": "narration", "content": "He was at the editing table. He kept his eyes on the screen." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm right here." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "No you're not. You haven't been here in a week and a half and I need — I am asking you — to stop protecting me from whatever you're carrying and just bring it into the room." },
+    { "type": "narration", "content": "A long silence." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I don't want to make it worse for you." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You going silent is making it worse for me. I lost something too, Kit. And I need my husband." },
+    { "type": "narration", "content": "He turned from the screen. His jaw was tight. His eyes were the kind of not-wet that takes real effort to maintain." },
+    { "type": "narration", "content": "She waited." }
+  ]
+}

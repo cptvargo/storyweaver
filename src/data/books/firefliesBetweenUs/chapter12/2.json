@@ -1,0 +1,17 @@
+{
+  "page": 2,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The vows they'd written themselves." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I've known you my whole life and I still don't have words big enough for what you are to me. So I'm going to say the small ones. I'll show up. I'll tell you the truth. I'll name the hard things instead of going quiet. I'll choose you on purpose — every morning, on purpose — for the rest of my life." },
+    { "type": "narration", "content": "Daisy pressed her lips together. Her eyes were bright." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I used to think love was a feeling. My mom taught me it's a verb. You do it every day whether you feel like it or not. I've watched you do it for years before you had a name for it. Before either of us did. So here's my promise: I will be here. In the room. For all of it — the good years and the hard ones and everything in between. And I will love you like it's a choice. Because it is. And I keep choosing it." },
+    { "type": "narration", "content": "Somewhere in the third pew, Mrs. Jones stopped pretending she was not crying." },
+    { "type": "narration", "content": "Somewhere behind her, Kit's mother sat with her hands folded in her lap and her chin up and her eyes full of something that had nothing to do with sadness." },
+    { "type": "narration", "content": "The pastor said the words that mattered. Kit and Daisy said the word that mattered most." },
+    { "type": "narration", "content": "He kissed her." },
+    { "type": "narration", "content": "The room came back." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "page": 22,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "It was the same field." },
+    { "type": "narration", "content": "Of course it was the same field — fields don't change the way people do, don't carry years visibly, don't bear evidence of what happened inside them. The grass was April-high and damp, the tree line the same dark shape against the same dark sky. It was the field they had run through at eight years old. The field of the fireworks. The field he had filmed in January and June. The field where, on a July night three years before, all of it had finally become what it was always going to be." },
+    { "type": "narration", "content": "They stopped at the edge of it." },
+    { "type": "narration", "content": "The fireflies were out." },
+    { "type": "narration", "content": "Not the full summer display — April was too early for that — but a few, here and there, blinking in and out of the dark like small uncertain questions." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Look at that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Early." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Eager." },
+    { "type": "narration", "content": "She laughed, soft, and the laugh loosened something that had been tight in her chest for five days. He reached out and took her hand in the dark. She held it." },
+    { "type": "narration", "content": "He reached into his jacket with his free hand and came out with his phone — the camera, always the camera, she had never once in ten years known him to see something worth keeping and not reach for it." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're filming this." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm filming this." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Why." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Because it's ours. Because I want to remember it the right way." },
+    { "type": "narration", "content": "He raised the phone. The fireflies drifted. She stood beside him and watched them and felt the field around them and the town behind them and all the years that had made them, and she thought about something she needed to tell him." },
+    { "type": "narration", "content": "She had been waiting for the right moment." },
+    { "type": "narration", "content": "She thought: this is it." }
+  ]
+}

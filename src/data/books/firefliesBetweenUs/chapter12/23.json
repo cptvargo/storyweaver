@@ -1,0 +1,26 @@
+{
+  "page": 23,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "She turned toward him. He lowered the phone." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I took a test this morning. Before we left the house." },
+    { "type": "narration", "content": "He went still." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I wasn't going to tell you tonight. Tonight wasn't supposed to be about that. But I've been standing here and I keep thinking — your mom knew every time something big was coming. She always knew. And I think she'd want us to have this." },
+    { "type": "narration", "content": "He looked at her for a long moment. The fireflies moved between them." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're going to have a baby." },
+    { "type": "narration", "content": "He didn't say anything." },
+    { "type": "narration", "content": "He looked out at the field. Up at the sky — the particular April sky of Millhaven, Georgia, the same sky from forty years of history they hadn't even lived yet. Then he looked back at her and she could see it happening in his face — the grief and the joy arriving together the way they often do, the two of them having learned by now that these things don't take turns, that life doesn't organize itself cleanly into before and after." },
+    { "type": "narration", "content": "He reached out and pulled her close. Her head against his chest. His arms around her in the field, in the dark, in the town where they had started." },
+    { "type": "narration", "content": "He didn't say: are you sure. He didn't say: what if. He didn't go inside his head or close the door or carry it quietly by himself." },
+    { "type": "narration", "content": "He said:" },
+    { "type": "dialogue", "speaker": "Kit", "content": "She knew." },
+    { "type": "narration", "content": "His voice was broken in the best way." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She knew." },
+    { "type": "narration", "content": "Above them, the April sky. Around them, the field. Between them — blinking in and out of the dark, small and persistent and unconcerned with what they had been through to get here — the first fireflies of the season." }
+  ]
+}

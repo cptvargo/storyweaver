@@ -1,0 +1,20 @@
+{
+  "page": 10,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The doctor was kind. That was the detail Daisy would remember later — not the words, not the specific shape of what was said, but the way the woman sat forward in her chair and spoke slowly, like she understood that what she was telling them needed room to land." },
+    { "type": "narration", "content": "She held Kit's hand the whole time. He didn't move." },
+    { "type": "narration", "content": "Somewhere in the middle of the explanation she stopped hearing the words and started hearing only the sound of them — the careful, even cadence of someone delivering a thing they have delivered before and have not yet become numb to. She was grateful for that. She would think later that she was grateful for that." },
+    { "type": "narration", "content": "There were things the doctor said about the body. About what this was and what it wasn't. About what it meant and what it didn't. About next steps, about time, about the fact that this was not something either of them had done or failed to do." },
+    { "type": "narration", "content": "Kit thanked her. His voice was flat and even and she could hear what it was costing him to keep it that way." },
+    { "type": "narration", "content": "They walked to the car. He opened her door. He got in on his side. He sat for a moment with both hands on the wheel and did not start the engine." },
+    { "type": "narration", "content": "The parking structure was quiet at nine in the morning. The sound of the city existed somewhere far above them." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "narration", "content": "He nodded. Like he'd heard her. Like he was still in there." },
+    { "type": "narration", "content": "She didn't ask him to be okay. She didn't say it was going to be okay. She reached across and put her hand over his on the wheel and they sat in the concrete quiet and let the thing be what it was." },
+    { "type": "narration", "content": "After a while he started the car." },
+    { "type": "narration", "content": "He drove them home." }
+  ]
+}

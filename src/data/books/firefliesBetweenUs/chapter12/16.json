@@ -1,0 +1,21 @@
+{
+  "page": 16,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "Millhaven premiered at a small documentary festival in Austin on a Thursday in March." },
+    { "type": "narration", "content": "Kit's mother flew in. She wore a green dress and sat in the third row and did not say a word through the entire forty-two minutes. When the lights came up she remained seated for a moment — hands in her lap, eyes straight ahead." },
+    { "type": "narration", "content": "Then she turned to Daisy, who was seated beside her, and said:" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "He got it right." },
+    { "type": "narration", "content": "Daisy took her hand. Held it." },
+    { "type": "narration", "content": "In the Q&A afterward, someone asked Kit what the film was really about — underneath the town, underneath the images. He looked out at the audience for a moment. Then he said:" },
+    { "type": "dialogue", "speaker": "Kit", "content": "What happens to love when it doesn't have anywhere to go. And whether it turns into something else, or whether it just — stays. Waiting." },
+    { "type": "narration", "content": "Another question: was it autobiographical." },
+    { "type": "dialogue", "speaker": "Kit", "content": "The narration isn't mine. My wife wrote it. And she's a better writer than I'll ever be, so the true parts — those are hers." },
+    { "type": "narration", "content": "Daisy, in the third row, looked at her lap and smiled." },
+    { "type": "narration", "content": "The film won the jury prize for documentary short. Kit accepted the award, thanked the production company, thanked the festival. Then he held the small glass trophy up and said one more thing:" },
+    { "type": "dialogue", "speaker": "Kit", "content": "This is for my mom. Who stayed." },
+    { "type": "narration", "content": "In the third row, Ruth Jenkins pressed two fingers to her lips." }
+  ]
+}

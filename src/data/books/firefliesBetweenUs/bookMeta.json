@@ -52,11 +52,11 @@
     "The field behind Kit's block",
     "Main Street"
   ],
-  "totalChapters": 11,
+  "totalChapters": 12,
   "chapterCountPlanned": 12,
-  "status": "in-progress",
+  "status": "complete",
   "author": "StoryWeaver",
-  "readingTime": "~14 hrs (Chapters 1-11)",
+  "readingTime": "~16 hrs (Complete)",
   "contentRating": "Clean",
   "cover": "/fireflies_between_us.png",
   "coverTone": "warm, nostalgic, golden, hopeful",
@@ -137,6 +137,13 @@
       "image": "/on_purpose_fireflies.png",
       "mood": "A film made in secret. A question asked from a thousand miles away. Eight sessions and everything they needed to say. Four months.",
       "totalPages": 27
+    },
+    {
+      "chapterIndex": 12,
+      "title": "The Field",
+      "image": "/the_field_fireflies.png",
+      "mood": "A wedding. A city. A loss that broke them open and a love that held. The film that was really about his father. A mother who stayed. And a field in April, with the first fireflies of the season, where everything that had ever mattered came back home.",
+      "totalPages": 25
     }
   ],
   "themes": [

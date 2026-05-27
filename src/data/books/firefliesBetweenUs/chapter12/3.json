@@ -1,0 +1,22 @@
+{
+  "page": 3,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The reception was at the Joneses' backyard — string lights, round tables, the smell of late June and catered barbecue that Mrs. Jones had spent three weeks negotiating over. Savannah cried through her maid of honor speech and then immediately denied it. Eli's toast was four minutes long, perfectly written, and ended with:" },
+    { "type": "dialogue", "speaker": "Eli", "content": "I've known Kit Jenkins since we were nine years old and I watched him fall for this woman in slow motion for the next fifteen years. The only person in Millhaven who didn't see it was him. So Daisy — thank you for being patient. And Kit — congratulations on finally catching up to the rest of us." },
+    { "type": "narration", "content": "The yard laughed. Kit raised his glass." },
+    { "type": "narration", "content": "Later, past nine, when the dancing had gone soft and the little kids were asleep on chairs, Kit found his mother at the edge of the lights. She had taken her heels off. She was watching the yard with the unhurried attention of someone who knew how to hold a moment." },
+    { "type": "dialogue", "speaker": "Kit", "content": "You okay?" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "More than okay." },
+    { "type": "narration", "content": "She looked at him the way she had when he graduated, when he got into USC, when he called to tell her about the ring — with that particular expression she'd developed over twenty years of raising him alone, the one that said: I made something good." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "She's going to be the best thing that ever happened to you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "She already is." },
+    { "type": "narration", "content": "His mother nodded. Squeezed his hand once. Then she walked back toward the lights and asked Mr. Jones to dance, and he obliged, and Kit stood at the edge of the yard and watched his mother laugh." },
+    { "type": "narration", "content": "Daisy appeared beside him. Took his arm." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "What are you thinking." },
+    { "type": "dialogue", "speaker": "Kit", "content": "That I want to remember exactly this." },
+    { "type": "narration", "content": "She rested her head against his shoulder. The lights swayed in a soft wind coming off the field behind the yard. Somewhere out past the fence, a firefly blinked on and off and on." }
+  ]
+}

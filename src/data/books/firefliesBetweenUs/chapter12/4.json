@@ -1,0 +1,28 @@
+{
+  "page": 4,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The hotel was twelve minutes from the house. They'd laughed at that — the most romantic night of their lives and they were staying at the only hotel in Millhaven, a place Kit had driven past ten thousand times without once thinking about it." },
+    { "type": "narration", "content": "None of that mattered when the door closed behind them." },
+    { "type": "narration", "content": "They stood in the quiet of the room — the noise of the day still ringing somewhere behind them, the DJ and the dancing and the aunts and the goodbyes — and it went still. Just them. The first time in their entire lives they'd been alone in a room without a clock running somewhere." },
+    { "type": "narration", "content": "She still had her hair up. A few pieces had come loose through the night, the way they always did, the way he'd watched happen at every summer thing since they were children. He crossed the room." },
+    { "type": "narration", "content": "He reached up and pulled the last pin free. Her hair fell." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Twenty years." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Twenty years." },
+    { "type": "narration", "content": "He tilted his head and pressed his lips to the side of her neck — slow, deliberate, the way you do something you have been imagining for longer than you want to admit." },
+    { "type": "narration", "content": "She exhaled. Her hands found the buttons at her back." },
+    { "type": "narration", "content": "He helped her." },
+    { "type": "narration", "content": "—" },
+    { "type": "narration", "content": "Morning came through the gap in the curtains in a long stripe of gold. The city — such as Millhaven was a city — was already awake, already moving." },
+    { "type": "narration", "content": "She was still asleep." },
+    { "type": "narration", "content": "He lay on his side and looked at her the way he'd always wanted to — without the glass of a screen between them, without a phone call ending, without a goodbye. Just her. Her hair across the pillow, her hand open beside her face, the particular stillness of a person sleeping without worry." },
+    { "type": "narration", "content": "He thought: this is what I was waiting for. Not the ceremony. Not the vows. This." },
+    { "type": "narration", "content": "She stirred. One eye opened." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Stop watching me sleep." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm not." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You absolutely are." },
+    { "type": "narration", "content": "She turned toward him. He didn't look away." }
+  ]
+}

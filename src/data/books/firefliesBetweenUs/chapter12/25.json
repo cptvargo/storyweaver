@@ -1,0 +1,22 @@
+{
+  "page": 25,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "There is a video on Kit Jenkins' phone, unlabeled, filed between footage from the festival and a grocery list voice memo he never deleted." },
+    { "type": "narration", "content": "Four minutes and twelve seconds." },
+    { "type": "narration", "content": "It begins with the field. The April dark, the sound of the town somewhere behind it, the particular silence of a piece of land at the edge of night. Then the fireflies — a few, blinking in and out, too early in the season to be sure of themselves." },
+    { "type": "narration", "content": "Then it turns. A woman's face in low light. Dark hair. Eyes that have been crying and aren't quite done and don't seem to care. She is looking at something just above the lens — at him, past the glass — and the look on her face is the particular look of someone who has just given a person the most important news of their life and is watching it land." },
+    { "type": "narration", "content": "She says: don't." },
+    { "type": "narration", "content": "He says: you look — I want to remember how you look right now." },
+    { "type": "narration", "content": "She says: I've been crying for four days." },
+    { "type": "narration", "content": "He says: I know. That's part of it." },
+    { "type": "narration", "content": "She looks at the lens. She is still. She lets herself be seen." },
+    { "type": "narration", "content": "She says: what are you going to do with all this footage." },
+    { "type": "narration", "content": "He says: give it to our kid. One day." },
+    { "type": "narration", "content": "And in the four minutes and twelve seconds of that video — in the field, in the dark, with the early fireflies and the town behind them and everything that came before them pressing in from both sides — you can see exactly what twenty years of knowing someone looks like when it finally comes home to rest." },
+    { "type": "narration", "content": "It looks like that." },
+    { "type": "narration", "content": "It looks exactly like that." }
+  ]
+}

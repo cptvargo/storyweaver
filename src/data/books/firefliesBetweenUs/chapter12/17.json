@@ -1,0 +1,21 @@
+{
+  "page": 17,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The call came on a Wednesday in November." },
+    { "type": "narration", "content": "Kit was at the studio. Daisy was at her desk, manuscript open, the particular mid-afternoon quiet she'd learned to protect. Her phone lit up and she saw the name and something tightened in her chest before she answered — a reflex, the body registering something the mind hadn't caught up to yet." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy, sweetheart. I need to tell you something before I tell Kit, because I want someone to know how to help him hear it." },
+    { "type": "narration", "content": "She closed the manuscript." },
+    { "type": "narration", "content": "Ruth Jenkins had been diagnosed in the summer — had known since August, had told no one, had kept it the way she kept everything, quietly and without fuss, handling it in the space between the things she let other people see. The word she used was manageable. She said it the way she said everything: matter-of-factly, with the particular calm of someone who had been holding hard things alone for so long it had become the only way she knew to hold them." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I'm telling him on Sunday. I just needed you to know first." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ruth. Why didn't you —" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Because I didn't want a fuss. And I knew there'd be a fuss." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He's going to want to come home." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I know. Let him. Don't talk him out of it." },
+    { "type": "narration", "content": "Daisy sat at her desk for a long time after the call ended. The manuscript on the screen. The cursor blinking." },
+    { "type": "narration", "content": "She thought about Ruth in the green dress at the festival, pressing two fingers to her lips." },
+    { "type": "narration", "content": "She thought about what it means to carry a thing alone your whole life and finally, in the last chapter, let someone else in." }
+  ]
+}

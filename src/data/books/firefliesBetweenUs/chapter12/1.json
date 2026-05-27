@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "June. Millhaven Baptist Church. The same building Kit Jenkins had sat in on forty-two consecutive Christmas Eves and fallen asleep during every single one." },
+    { "type": "narration", "content": "He was not asleep now." },
+    { "type": "narration", "content": "He stood at the front of the sanctuary in a charcoal suit his mother had picked out and Eli had pressed that morning, and he watched the doors at the back of the room the way a person watches something they have been waiting for so long that when it finally begins to happen they are not entirely sure it is real." },
+    { "type": "narration", "content": "The music changed." },
+    { "type": "narration", "content": "The doors opened." },
+    { "type": "narration", "content": "And there she was." },
+    { "type": "narration", "content": "Daisy May Jones, in ivory, with her mother's pearls at her collarbone and her hair the way it got in Georgia summers — soft, a little loose, like she'd stopped trying to control it and the result was something better than any plan. She was holding her father's arm and looking straight ahead and when she found him — when their eyes met across the full length of the room — she smiled." },
+    { "type": "narration", "content": "Not the polished smile. Not the camera smile. The real one. The one that had been getting him into trouble since he was eight years old." },
+    { "type": "narration", "content": "Eli leaned close." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Breathe, man." },
+    { "type": "narration", "content": "Kit breathed." },
+    { "type": "narration", "content": "She reached him. Her father placed her hand in his — the handoff that every person in the room understood the weight of — and then it was just the two of them, standing close, and the rest of the room went somewhere else." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Hi." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "You're shaking." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I'm aware." },
+    { "type": "narration", "content": "She tightened her hand around his. Steady. That was Daisy — she'd always been the steadier one when it counted." },
+    { "type": "narration", "content": "The pastor began." }
+  ]
+}

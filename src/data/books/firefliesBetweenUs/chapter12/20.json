@@ -1,0 +1,26 @@
+{
+  "page": 20,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "narration", "content": "The funeral was on a Saturday." },
+    { "type": "narration", "content": "Small, the way Ruth had wanted it. Millhaven Baptist — the same church, the same pews — but lighter now, the windows full of April light, the service less about mourning and more about account: here is what she did, here is what she built, here is what she left behind that will outlast the leaving." },
+    { "type": "narration", "content": "Kit spoke." },
+    { "type": "narration", "content": "He'd written it the night before. Daisy had stayed up with him, not writing it for him but sitting nearby — the way you sit near someone who is working through something that belongs to them alone, not helping but being present, which is sometimes the most useful thing." },
+    { "type": "dialogue", "speaker": "Kit", "content": "My mother taught me that showing up is a form of love. That staying is a form of love. She never said that in words — she just did it, every day, for twenty years, in a house that was quieter than it should have been. She showed me that love is not what you feel when things are easy. It's what you do when things are hard. I learned that from watching her. I hope I've been worth what she gave." },
+    { "type": "narration", "content": "In the front row, Daisy kept her eyes on him." },
+    { "type": "narration", "content": "After the service, people moved through the fellowship hall with coffee and the particular careful tenderness of a community that has known a family long enough to know what they need and when to stop talking. Millhaven was good at this. Small towns were good at this — the casseroles and the silence and the knowing when to simply stand nearby." },
+    { "type": "narration", "content": "By late afternoon the house was quiet again. Eli and Priya had gone back to their hotel. The neighbors had come and gone. Kit and Daisy sat on the back porch of his mother's house in the cool evening — the same porch he'd sat on as a boy, the same view of the yard sloping down toward the neighbor's fence — and didn't say much." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She was so proud of you." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I know." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Not just the film. All of it. You." },
+    { "type": "narration", "content": "He nodded. Looked out at the yard." },
+    { "type": "dialogue", "speaker": "Kit", "content": "I want to stay a few more days." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I already cancelled our flights." },
+    { "type": "narration", "content": "He looked at her." },
+    { "type": "dialogue", "speaker": "Kit", "content": "When." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yesterday." },
+    { "type": "narration", "content": "He put his arm around her. She leaned in. The yard went dark slowly, the way it always had, the way it always would." }
+  ]
+}
