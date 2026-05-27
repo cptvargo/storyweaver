@@ -1,0 +1,22 @@
+{
+  "page": 6,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Pelican Shore announced itself the way small coastal towns do — a narrowing of the road, a salt smell pushing in through the vents, the first glimpse of water between houses that got lower and wider as the highway became a two-lane and the two-lane became a shore road with speed bumps every quarter mile." },
+    { "type": "narration", "content": "Marcus turned off the main road onto a private lane that curved toward the water, and the house appeared at the end of it the way things appear in rental photos — bigger than you expected, and closer to the ocean than anything had a right to be." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Okay. Okay, I take it back. This is legit." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I told you." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You did tell me. I'm admitting you told me. That's growth." },
+    { "type": "narration", "content": "The house was weathered cedar shingles and wide windows, two stories, a wraparound porch on the ground floor and balconies off the second-floor bedrooms. A wooden walkway led from the back door across a stretch of dune grass to the beach itself, where the Atlantic was doing what the Atlantic does — indifferent, enormous, beautiful in a way that made everything else feel smaller." },
+    { "type": "narration", "content": "The second car pulled up alongside them. Doors opened. The six of them stood in the gravel drive for a moment, stretching, taking it in." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Marc. This is perfect." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Owner's a client of mine. Got the friends-and-family rate." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I love that you have clients who own beach houses." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Occupational perk." },
+    { "type": "narration", "content": "Wren had already walked to the edge of the dune grass and was looking at the ocean. The wind off the water lifted her hair. She stood there for a moment without saying anything, which was entirely consistent with everything else she did." },
+    { "type": "narration", "content": "Nadia pulled her bag from the trunk and looked at the house. Second floor. The balconies. The windows. She'd studied the rental listing long enough to know which room she wanted, which room she'd asked for in the group chat three weeks ago, citing a preference for the east-facing light in the mornings. Nobody had questioned it." },
+    { "type": "narration", "content": "The room she wanted was next to Marcus's." }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "page": 25,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "This is what the house looked like at two in the morning on the first night." },
+    { "type": "narration", "content": "From the outside: dark, mostly. A light on in one upstairs room — Nadia's, though anyone watching from the beach wouldn't have known whose. The curtains were open. The balcony door was latched. The light went out at two-fourteen." },
+    { "type": "narration", "content": "From the lane at the front: six cars in the gravel, a welcome mat from the previous renters that the current ones hadn't noticed, a recycling bin someone had left at the curb two days ago." },
+    { "type": "narration", "content": "From the inside: three people sleeping, two people somewhere between sleep and not, one person in the kitchen at two-oh-seven refilling her water glass and standing at the window for a moment before going back to bed." },
+    { "type": "narration", "content": "And on the desk in the front bedroom — the one Marcus had taken because it was closest to the bathroom and he hadn't thought about it beyond that — the dark blue canvas bag, the zip pocket, the sealed envelope." },
+    { "type": "narration", "content": "Everything was still. Everything looked ordinary." },
+    { "type": "narration", "content": "This is always how it looks the night before." }
+  ]
+}

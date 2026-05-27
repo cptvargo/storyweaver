@@ -1,0 +1,29 @@
+{
+  "page": 11,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The afternoon moved the way beach afternoons do — slowly, generously, without urgency. People drifted between the porch and the sand and the kitchen and the living room in the loose, unhurried way that only happens when there's nowhere to be and everyone quietly knows it." },
+    { "type": "narration", "content": "Marcus and Dean walked the beach together after lunch, the way they had since college — side by side, not needing to fill every gap, comfortable in the conversational rhythm of people who had known each other long enough to say more with less." },
+    { "type": "dialogue", "speaker": "Dean", "content": "How's work." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Busy. Good busy. Landed the Henderson account finally." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You've been after that for a year." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Fourteen months. Not that I was counting." },
+    { "type": "dialogue", "speaker": "Dean", "content": "That's counting." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Accurate." },
+    { "type": "narration", "content": "They walked in silence for a while. A pelican tracked something in the shallow water twenty feet offshore. The wind was mild, warm for the season — the kind of afternoon that made the rest of the year seem like the price you paid for this." },
+    { "type": "dialogue", "speaker": "Dean", "content": "It's good to see everyone. Feels like it's been forever." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Eight months since we were all in the same room. Cade's birthday." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Eight months. That went fast." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "It always does." },
+    { "type": "narration", "content": "Marcus picked up a flat stone and skipped it — three jumps, then gone. He watched it disappear with a small, private satisfaction." },
+    { "type": "dialogue", "speaker": "Dean", "content": "How are you. Actually." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Good. Actually. Why." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You just seem — I don't know. Settled." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I feel settled. Is that bad." },
+    { "type": "dialogue", "speaker": "Dean", "content": "No. It's good. It's really good." },
+    { "type": "narration", "content": "Marcus smiled. Picked up another stone. The ocean took it on the second skip." },
+    { "type": "narration", "content": "He had no idea. That was the impossible thing — walking here beside his oldest friend in the afternoon sun, feeling genuinely, unguardedly settled, he had absolutely no idea what was already in motion." }
+  ]
+}

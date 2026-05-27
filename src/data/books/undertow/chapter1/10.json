@@ -1,0 +1,26 @@
+{
+  "page": 10,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Lunch was good. It was always good when Marcus made it. He had this quality — a hospitality that wasn't performance, that didn't require acknowledgment, that simply existed as a byproduct of him caring about the people in his orbit. The basil, as he'd predicted, made the sandwiches substantially better, which Cade admitted in the specific way that Cade admitted things — loudly and without real reluctance." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Okay. The basil is doing something. I'm not going to apologize but I'm acknowledging it." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "That's all I ask." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Noted. Logged. Moving on." },
+    { "type": "narration", "content": "They ate on the back porch, all six of them around a table that was one person too small for comfort, which meant elbows and shared napkins and the kind of close physical proximity that only old friends can do without thinking about it. The ocean filled the silence when conversation dipped. It was good silence — earned, not awkward." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Okay, honest question. When did we get old enough to need a trip like this to decompress." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "We've always needed this. We just couldn't afford it before." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Speak for yourself. I'm as irresponsible with money as I've ever been." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "That's not the flex you think it is, Cade." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I know. But it's honest." },
+    { "type": "narration", "content": "Wren set her sandwich down and looked at the water. She did this — removed herself from conversations briefly, without announcement, to look at something else entirely. People who didn't know her found it strange. People who did had stopped noticing." },
+    { "type": "dialogue", "speaker": "Wren", "content": "It's good to all be in the same place again." },
+    { "type": "narration", "content": "She said it quietly, without sentimentality. Just a fact she was registering." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Yeah." },
+    { "type": "narration", "content": "The word came out warm. It came out the way Marcus's words always came out — like he meant them fully, like he'd never had a reason to mean anything less." },
+    { "type": "narration", "content": "Across the table, Nadia set her glass down." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "narration", "content": "Yeah, she thought. It really is." }
+  ]
+}

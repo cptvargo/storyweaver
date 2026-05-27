@@ -1,0 +1,26 @@
+{
+  "page": 16,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Dinner at the long table inside, windows open to the sound of the water, candles that Sophie found in a drawer and lit without anyone asking her to. The food was good. The conversation moved the way it did with people who had years of material between them — broad, associative, full of references that required no explanation." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Do you remember the camping trip junior year. When Cade convinced us the trail was a loop." },
+    { "type": "dialogue", "speaker": "Cade", "content": "It looked like a loop on the map." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You had the map upside down, Cade." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I have since developed a healthy respect for compass direction." },
+    { "type": "dialogue", "speaker": "Wren", "content": "We walked fourteen miles." },
+    { "type": "dialogue", "speaker": "Cade", "content": "And we were stronger for it." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I had blisters for a week." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Character-building blisters." },
+    { "type": "narration", "content": "Nadia laughed with them. She had been on that trip. She remembered the blisters and the argument and Marcus carrying Wren's bag the last three miles because her shoulder was bothering her and nobody asking him to. She remembered feeling — back then, before everything — that these were her people. That she had found something real." },
+    { "type": "narration", "content": "She still believed they were her people. She just also believed that what she was doing this weekend was something her people would understand, eventually, if they knew the whole story." },
+    { "type": "narration", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Nadia. You're quiet again." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Sorry. Just — it's nice. Being here. All of us. I was just taking it in." },
+    { "type": "narration", "content": "Marcus raised his glass toward her across the table." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "To taking it in." },
+    { "type": "narration", "content": "Glasses lifted. The candlelight moved." },
+    { "type": "narration", "content": "Nadia raised her glass and looked at Marcus and thought: tomorrow." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 7,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The house had six bedrooms and smelled like cedar and salt and the particular brand of air freshener that rental properties everywhere seemed to agree upon. The kitchen was large and open-plan, running into a living room with floor-to-ceiling windows facing the water. Someone had left a jar of sea glass on the windowsill. The whole thing had the slightly curated feel of a place that wanted you to believe you were the first people to have loved it." },
+    { "type": "narration", "content": "Marcus found the welcome packet and started reading it aloud while the others distributed bags and debated rooms with the cheerful low-stakes urgency that only happens when everyone is genuinely happy to be somewhere." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Okay — trash goes in the bin outside the left of the garage, not the right, the right one is for recyclables. WiFi password is Pelican2019 — Cade, please don't put that on the internet." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I would never." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You absolutely would." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I would. But I won't." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "There's a grill on the back porch, propane tank is full. Kayaks in the garage if anyone wants them. And it says here — no glass on the beach, please use the plastic cups in the cabinet above the stove." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Already a war crime." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Plastic cups are fine, Cade." },
+    { "type": "dialogue", "speaker": "Cade", "content": "They are not fine, Dean. A man has standards." },
+    { "type": "narration", "content": "Sophie had already claimed the room at the end of the hall — biggest closet, Sophie logic — and Dean had followed her without discussion, which was the comfortable shorthand of two people who'd been together long enough to not fight about rooms." },
+    { "type": "narration", "content": "Wren took the smallest room without being asked, the one with the single window facing the dunes rather than the ocean. When Marcus tried to argue her into one of the better ones she shook her head once — firm, final — and carried her bag inside." },
+    { "type": "narration", "content": "Nadia went upstairs. Found her room. Set her bag on the bed." },
+    { "type": "narration", "content": "Tried the wall between hers and the next room. Solid. Good." },
+    { "type": "narration", "content": "She stood at her balcony door and looked out at the ocean and breathed." }
+  ]
+}

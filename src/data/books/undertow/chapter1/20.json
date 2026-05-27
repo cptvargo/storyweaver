@@ -1,0 +1,29 @@
+{
+  "page": 20,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The bonfire burned down slowly. They let it." },
+    { "type": "narration", "content": "Cade fell asleep sitting up at some point past ten, which everyone agreed was both impressive and deeply on-brand, and Dean and Sophie drifted inside not long after. Wren sat until the fire was mostly embers, then stood, brushed sand off her legs, and said goodnight in the quiet way she said most things." },
+    { "type": "narration", "content": "Which left Marcus and Nadia." },
+    { "type": "narration", "content": "They sat in the orange glow of what remained, the ocean louder now that the conversation had gone. Marcus was in that particular mode he got — post-people, post-effort, genuinely at ease, the version of himself that existed when he wasn't actively holding anything together. He stared at the embers and breathed slowly." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Good first day." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Really good." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I needed this. Didn't realize how much until we got here." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Me too." },
+    { "type": "narration", "content": "He looked at her sideways with the comfortable directness of someone who'd known her for ten years." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You okay? You seemed a little somewhere else tonight." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Just tired from the drive. I'm good." },
+    { "type": "narration", "content": "He nodded. Believed her. That was the thing about Marcus — he believed people because he had no architecture for suspicion. He met everyone at face value because he'd never really needed not to." },
+    { "type": "narration", "content": "He poked at the embers. A few sparks lifted and died." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "It's good having everyone here. Really good." },
+    { "type": "narration", "content": "He said it with his whole chest. He meant it completely." },
+    { "type": "narration", "content": "Nadia looked at him in the dying light." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Yeah. It really is." },
+    { "type": "narration", "content": "She stood. Said goodnight. Walked back up the wooden walkway to the house." },
+    { "type": "narration", "content": "Marcus sat alone for a few more minutes, listening to the water, looking at the last of the fire." },
+    { "type": "narration", "content": "Then he went inside, went upstairs, put his water bottle on the nightstand, and went to sleep." },
+    { "type": "narration", "content": "He slept well. He always slept well. He was the kind of person who did." }
+  ]
+}

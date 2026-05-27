@@ -1,0 +1,24 @@
+{
+  "page": 29,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Marcus felt it around eleven-thirty." },
+    { "type": "narration", "content": "Not dramatically — that was the thing. It wasn't a sudden collapse or a sharp wrongness. It was a gradual thickening, like the air around him had become slightly more resistant. His thoughts, which were normally fast and clear, began to feel like they were arriving from a greater distance. His limbs were heavy in the way they got sometimes after a run, except he hadn't run." },
+    { "type": "narration", "content": "He'd been in and out of the water twice. He'd had more water than coffee. He was healthy. He was always healthy." },
+    { "type": "narration", "content": "He put it down to sun and a later-than-normal sleep schedule and the particular kind of decompression that happened when a person who'd been running at full speed for months finally stopped." },
+    { "type": "narration", "content": "He told Dean he was going to lie down for a bit." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You okay?" },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Yeah. Just tired. Probably the sun." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Grab some water." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I will." },
+    { "type": "narration", "content": "He walked back up the beach, up the wooden walkway, through the back door. Upstairs. His room. He took off his shoes. He lay on the bed on top of the covers." },
+    { "type": "narration", "content": "He thought: I'll sleep for an hour and then I'll feel fine." },
+    { "type": "narration", "content": "He was asleep in four minutes." },
+    { "type": "narration", "content": "On the beach, Nadia watched him go through the sunglasses she had not removed all morning." },
+    { "type": "narration", "content": "She waited five minutes." },
+    { "type": "narration", "content": "Then she said she'd forgotten something inside and would be right back." },
+    { "type": "narration", "content": "Nobody thought anything of it." }
+  ]
+}

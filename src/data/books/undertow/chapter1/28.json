@@ -1,0 +1,26 @@
+{
+  "page": 28,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Two houses down, Julian Cross was on the porch with his second coffee and the growing, irritating awareness that he had spent most of the night thinking about something he had decided was not his business." },
+    { "type": "narration", "content": "He was reviewing it in the way he reviewed things — systematically, without attachment to a particular conclusion, just examining the data." },
+    { "type": "narration", "content": "The look. The transition when spoken to. The precision of the recovery. These were observable facts. Everything else — interpretation, implication, conclusion — was inference built on a forty-foot sightline in firelight, which was not, by any standard, sufficient basis for anything." },
+    { "type": "narration", "content": "People had complicated feelings about people they'd known for a long time. That was not news. That was not a case. That was Tuesday." },
+    { "type": "narration", "content": "He drank his coffee." },
+    { "type": "narration", "content": "Mara appeared in the doorway with her own cup and the cheerful resolve of someone who had decided today was going to be normal." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Beach day. We're doing a beach day. I will hear no arguments." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I wasn't going to argue." },
+    { "type": "dialogue", "speaker": "Mara", "content": "You had the posture of someone about to argue." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I was just sitting." },
+    { "type": "dialogue", "speaker": "Mara", "content": "With that expression." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I don't control my expression." },
+    { "type": "dialogue", "speaker": "Mara", "content": "That is the most Julian thing you've ever said to me. Get your sunscreen." },
+    { "type": "narration", "content": "He got his sunscreen." },
+    { "type": "narration", "content": "They walked to the beach. It was a good morning for it — warm, clear, the kind of morning that required nothing from you except to be there. Julian walked. Mara walked beside him. The neighbor group was visible down the beach — most of them, at least, arranged in chairs and on towels, the specific leisure of people who had made it somewhere they'd been looking forward to." },
+    { "type": "narration", "content": "One chair was empty." },
+    { "type": "narration", "content": "He noticed it the way he noticed everything." },
+    { "type": "narration", "content": "He kept walking." }
+  ]
+}

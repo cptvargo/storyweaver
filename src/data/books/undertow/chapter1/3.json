@@ -1,0 +1,17 @@
+{
+  "page": 3,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "I used to think I was a good person." },
+    { "type": "narration", "content": "I don't think about that anymore. Good and bad are words people use when they haven't been pushed far enough to understand that the line between them is not a line at all — it's a distance. A distance that gets shorter the longer you carry something alone." },
+    { "type": "narration", "content": "Eight years." },
+    { "type": "narration", "content": "By the time this weekend is over, it will be finished. The weight I've been carrying will have somewhere to go. And he will finally understand — in whatever way a person understands something at the very end — what it cost me. What he cost me." },
+    { "type": "narration", "content": "I've said his name so many times in my head, in the dark, going over everything. I've rehearsed this." },
+    { "type": "narration", "content": "I am ready." },
+    { "type": "narration", "content": "Today is the day I finally do it." },
+    { "type": "narration", "content": "—" },
+    { "type": "narration", "content": "Two days earlier." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page": 13,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Sophie Marsh had been with Dean for three years and understood him with the particular fluency of someone who had studied a person long enough to know their patterns. She knew that he got quiet when he was thinking about something he didn't know how to say. She knew that he ordered the same thing at restaurants until he found something better and then felt quietly disloyal about it. She knew that his friendships — the old ones, the ones from before her — were the geography of him. The map beneath the surface." },
+    { "type": "narration", "content": "She wasn't threatened by his friends. She wanted to be clear about that, at least in her own head. She wasn't threatened by Marcus or Cade or Wren or the ten years of shared history they represented." },
+    { "type": "narration", "content": "She was, if she was being honest, slightly threatened by Nadia." },
+    { "type": "narration", "content": "Not because anything had ever happened. Nothing had ever happened. She had asked Dean once — early on, carefully — and he'd seemed genuinely confused by the question, which was either the truth or very good acting, and Sophie had always believed it was the truth. Dean wasn't built for acting." },
+    { "type": "narration", "content": "It was just something she'd noticed. A quality to Nadia's attention when Dean was in the room. A precision to the way she listened to him that was different from how she listened to everyone else." },
+    { "type": "narration", "content": "Sophie had never said anything. The evidence was too thin, too much in the register of feeling rather than fact, and Sophie prided herself on not making things out of feelings alone." },
+    { "type": "narration", "content": "She found Dean in the kitchen refilling his water glass and put her hand on his back when she passed and he turned and kissed her forehead with the ease of a man who had no idea he was the center of anything." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "What's the plan for tonight." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Marcus wants to grill. I think Cade mentioned a bonfire." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Classic." },
+    { "type": "dialogue", "speaker": "Dean", "content": "It's a classic for a reason." },
+    { "type": "narration", "content": "She smiled. She loved him. That was real and it was enough." },
+    { "type": "narration", "content": "She just sometimes wished she could account for all the other real things in the room." }
+  ]
+}

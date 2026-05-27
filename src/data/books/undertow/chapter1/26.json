@@ -1,0 +1,26 @@
+{
+  "page": 26,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Saturday began the way the best beach days do — with light arriving before anyone was ready for it, pressing through curtains and under doors, indifferent to whoever was still asleep." },
+    { "type": "narration", "content": "Marcus was downstairs by seven-fifteen. He'd slept well. He filled his water bottle at the tap, drank half of it standing at the kitchen window looking at the ocean, refilled it. Set it on the counter while he started the coffee." },
+    { "type": "narration", "content": "Nadia came downstairs at seven forty-three." },
+    { "type": "narration", "content": "She was dressed. Hair up. She looked the way she always looked — composed, present, ready for whatever the day required. She said good morning. She asked if the coffee was ready. Marcus said almost, handed her a cup from the cabinet, told her there was milk in the fridge." },
+    { "type": "narration", "content": "He went to check something on the grill outside." },
+    { "type": "narration", "content": "The kitchen was empty." },
+    { "type": "narration", "content": "The water bottle was on the counter." },
+    { "type": "narration", "content": "Nadia stood at the counter for a moment. She listened for footsteps. She heard the back door, then Marcus's voice somewhere outside — he'd run into the early-rising version of Cade, who had apparently woken on the couch and gone directly to the back porch, which was exactly the kind of thing Cade did." },
+    { "type": "narration", "content": "She moved." },
+    { "type": "narration", "content": "Her hands were steady. She had always had steady hands. She unfolded the square of paper from her cardigan pocket and tilted the contents into the water bottle and replaced the cap and set it back exactly where it had been." },
+    { "type": "narration", "content": "Ninety-one seconds." },
+    { "type": "narration", "content": "She poured her coffee." },
+    { "type": "narration", "content": "Marcus came back inside." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Cade somehow already found a crab. I don't know how. He's been outside for five minutes." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "That's very Cade." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "It really is." },
+    { "type": "narration", "content": "He poured his coffee. Picked up his water bottle. Drank." },
+    { "type": "narration", "content": "Nadia looked at the ocean." }
+  ]
+}

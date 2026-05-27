@@ -1,0 +1,26 @@
+{
+  "page": 17,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "After dinner the bonfire was Cade's production — he had located the fire pit at the end of the wooden walkway, sourced wood from the garage, and built it with the specific overconfident competence of someone who had watched enough survival content to be enthusiastic without being skilled. It took four attempts and a lighter that Marcus found in the kitchen junk drawer. The result was substantial." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I want everyone to know I did this." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You did great, buddy." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Four attempts." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Still counts." },
+    { "type": "narration", "content": "They settled around it in the dark. The ocean was a sound more than a sight now — present, rhythmic, enormous in a way that made the fire and the circle around it feel small and very specifically human." },
+    { "type": "narration", "content": "Marcus sat back on his hands in the sand and looked up at a sky that had opened considerably since sunset — more stars than you ever got in the city, the kind of display that made you briefly aware of how much you'd been missing without knowing you were missing it." },
+    { "type": "narration", "content": "Wren was next to him. She had sand on her feet and her knees pulled up and she was looking at the fire with the same quality of attention she gave everything — not vacant, deeply present." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I forgot it looked like this." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "What." },
+    { "type": "dialogue", "speaker": "Wren", "content": "The sky. Away from the city." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "We should do this more. Not wait so long between trips." },
+    { "type": "dialogue", "speaker": "Wren", "content": "We always say that." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "We should mean it this time." },
+    { "type": "narration", "content": "She looked at him sideways. A small smile. The particular expression of someone who was fond of a person in a way they'd never found the right moment to say." },
+    { "type": "narration", "content": "Across the fire, Nadia watched them both." },
+    { "type": "narration", "content": "Dean was saying something to Sophie. Cade was looking for his phone. The fire popped and threw a small spray of sparks." },
+    { "type": "narration", "content": "Nobody noticed where Nadia was looking." }
+  ]
+}

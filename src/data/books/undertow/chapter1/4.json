@@ -1,0 +1,25 @@
+{
+  "page": 4,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The drive from Charlotte to Pelican Shore was four hours and twelve minutes, which Cade Rutherford announced at the forty-minute mark with the confidence of someone who had not been the one to look it up." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Four hours twelve. I've done this drive before. I know this drive." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You've done it once. In 2019." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Twice. I went back." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Why did you go back." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I left my phone charger." },
+    { "type": "narration", "content": "Wren Alcott, in the backseat behind the passenger window, said nothing. She'd been watching the highway unspool through the glass since they left the city, her chin in her hand, her expression the particular kind of quiet that people who are paying close attention to everything tend to wear in rooms — or cars — where the conversation doesn't require them." },
+    { "type": "narration", "content": "Marcus Webb was driving. He drove the way he did everything — steadily, without fuss, one hand on the wheel. He had the kind of face that defaulted to warmth even in neutral, the kind of person you remembered as smiling even when he wasn't. He'd remembered to bring the aux cord. He'd brought snacks for the car without being asked. He'd confirmed the house address with the rental company the night before and screenshot it to the group chat just in case." },
+    { "type": "narration", "content": "That was Marcus." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What's the over-under on the house actually looking like the photos." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I called ahead. Spoke to the owner. It's legit." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You called ahead." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "I called ahead." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Who does that." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "People who don't want to show up to a nightmare." },
+    { "type": "narration", "content": "Cade thought about this." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Fair enough." }
+  ]
+}

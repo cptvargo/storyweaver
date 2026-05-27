@@ -1,0 +1,30 @@
+{
+  "page": 19,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Mara was on the porch when he got back, wrapped in a blanket with a book and the particular expression of someone who was enjoying the night air but would not admit that the book had been set face-down for some time." },
+    { "type": "dialogue", "speaker": "Mara", "content": "How was the walk." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Fine." },
+    { "type": "dialogue", "speaker": "Mara", "content": "You have a face." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I have a face. Yes." },
+    { "type": "dialogue", "speaker": "Mara", "content": "You have a specific face. The one where something registered and you're deciding if it's worth saying." },
+    { "type": "narration", "content": "He sat in the chair beside her. Looked at the section of beach he could see from the porch — dark now, the bonfire around the point of the dune and out of sightline." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The neighbors. Walked past their bonfire." },
+    { "type": "dialogue", "speaker": "Mara", "content": "And." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Probably nothing." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian", "content": "One of them was watching one of the others in a way that I couldn't account for. The way a person looks at something they've been building toward. It was—" },
+    { "type": "narration", "content": "He paused." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It was probably nothing. People look at each other in strange ways at beach bonfires. Context I don't have. None of my business." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Correct. On vacation. Not your case. Not your problem." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Correct." },
+    { "type": "narration", "content": "Mara picked her book back up." },
+    { "type": "narration", "content": "Julian looked at the dark section of beach." },
+    { "type": "narration", "content": "There was a specific quality to the look he'd seen — the woman across the fire, the flawless transition when someone spoke to her. He'd seen that quality once before, in the eyes of a man in an interview room who was explaining very calmly where he'd been on a Thursday evening, and Julian had known before the man finished the sentence that every word of it was something he'd constructed well in advance." },
+    { "type": "narration", "content": "Probably nothing." },
+    { "type": "narration", "content": "He went inside." },
+    { "type": "narration", "content": "He did not sleep well." }
+  ]
+}

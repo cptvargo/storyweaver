@@ -1,0 +1,22 @@
+{
+  "page": 14,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian Cross had been a forensic consultant for three years, having left the state police analyst division after what his supervisor called a communication issue and what Julian called a disagreement about the meaning of obvious." },
+    { "type": "narration", "content": "What had happened was this: Julian had identified the perpetrator of a series of white-collar crimes in forty-eight hours using publicly available financial records, a library card database, and a gas station receipt. He had then presented his findings to a twelve-person task force that had been working the case for four months. The task force had not received this well. Julian had not handled their reception well. Words were said. Paperwork was filed." },
+    { "type": "narration", "content": "He did not regret the words. He had done some retrospective work on the delivery." },
+    { "type": "narration", "content": "Independent consulting suited him better. He chose his cases. He worked alone except for Mara, who had been his handler, his emergency contact, and the only person who could reliably get him to eat a full meal since they were in graduate school together. She described her role in his life as part agent, part babysitter, part intervention specialist. He described it as assistant. She found this hilarious." },
+    { "type": "narration", "content": "The vacation had been her idea, or more precisely her ultimatum. Three months without a day off, she'd said. Three months of case files and cold coffee and sleeping four hours a night and claiming to be fine. So either you take a week or I take your laptop. And I will take it, Julian. Don't test me." },
+    { "type": "narration", "content": "He'd taken the week." },
+    { "type": "narration", "content": "It had been forty-one hours. He had read every book he'd brought and started working through the rental property's guest logbook as a recreational exercise in pattern recognition." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Put the logbook down." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm just reading it." },
+    { "type": "dialogue", "speaker": "Mara", "content": "You've categorized the guests by frequency of return visits." },
+    { "type": "dialogue", "speaker": "Julian", "content": "There are behavioral patterns in vacation habits that are genuinely—" },
+    { "type": "dialogue", "speaker": "Mara", "content": "Put. The logbook. Down." },
+    { "type": "narration", "content": "He put the logbook down." },
+    { "type": "narration", "content": "He lasted twenty minutes before picking it back up." }
+  ]
+}

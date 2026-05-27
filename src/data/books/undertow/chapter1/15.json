@@ -1,0 +1,20 @@
+{
+  "page": 15,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Evening came in off the water in gradients — gold first, then the particular muted orange of a coastal sunset filtered through low cloud, then the soft grey-blue that preceded dark. Marcus had the grill going by five-thirty. The smell of it carried down the beach in a way that seemed like an announcement." },
+    { "type": "narration", "content": "They gathered on the back porch and the steps down to the walkway — the natural staging of a group that had done this before, everyone finding a position without negotiating it. Cade on the railing. Dean and Sophie in the two chairs. Wren on the top step with her glass. Marcus at the grill, moving between things with the unhurried competence of a man who liked feeding people." },
+    { "type": "narration", "content": "Nadia stood at the kitchen window for a moment before coming out." },
+    { "type": "narration", "content": "She looked at them. The picture they made. All of them golden in the evening light, comfortable and easy and exactly as they appeared — old friends at a beach house. A good thing. A simple thing." },
+    { "type": "narration", "content": "She thought: they'll grieve. They will be devastated. I've known them long enough to know how much this will cost them." },
+    { "type": "narration", "content": "Then she opened the door and stepped out and smiled and someone handed her a glass of wine and the evening absorbed her exactly as it was supposed to." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus, I need you to know that whatever you're doing to that fish right now smells like a spiritual experience." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Lemon and dill. Don't overthink it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Lemon and dill. I could live on that." },
+    { "type": "dialogue", "speaker": "Wren", "content": "You literally could not. Your diet is seventy percent takeout." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's a strong seventy percent, Wren." },
+    { "type": "narration", "content": "The laughter came easy. That was the thing about this group in the right conditions — the laughter came easy, and it was real, and for a little while everything that was underneath it stayed underneath it." }
+  ]
+}

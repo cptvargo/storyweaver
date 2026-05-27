@@ -1,0 +1,88 @@
+{
+  "id": "undertow",
+  "title": "Undertow",
+  "subtitle": "Some secrets don't stay buried. Some people don't stay alive.",
+  "genre": "Mystery",
+  "subgenre": "Psychological Thriller / Locked Room Mystery",
+  "tags": [
+    "murder mystery",
+    "locked room",
+    "psychological thriller",
+    "suspense",
+    "detective",
+    "beach house",
+    "obsession",
+    "deception",
+    "justice",
+    "secrets",
+    "page-turner"
+  ],
+  "description": "Six friends. One beach house on the Carolina coast. A weekend that was supposed to feel like old times. By Saturday morning, one of them is dead — door locked from the inside, window facing a twenty-foot drop to the beach, and an argument the group heard through the door at nine PM that turns out to be something far more sinister than a bad phone call. Julian Cross wasn't supposed to be involved. He was on vacation. But Julian Cross has never been able to walk past something that doesn't add up.",
+  "shortDescription": "A locked-room murder at a Carolina beach house. A detective on vacation who can't turn his mind off. And a killer who almost got away with it.",
+  "mainCharacters": [
+    {
+      "name": "Julian Cross",
+      "age": 28,
+      "role": "Detective / Protagonist",
+      "description": "Independent forensic consultant. Photographic memory, razor-sharp deductive reasoning, and a fundamental inability to let something wrong go unexplained. On forced vacation when the case finds him."
+    },
+    {
+      "name": "Nadia Cole",
+      "age": 30,
+      "role": "Killer / Antagonist",
+      "description": "Composed, precise, devastatingly controlled. She has been patient for eight years. This weekend, her patience runs out."
+    },
+    {
+      "name": "Marcus Webb",
+      "age": 30,
+      "role": "Victim",
+      "description": "The warmest person in any room. The one who held the group together. He had no idea what he was carrying."
+    },
+    {
+      "name": "Dean Hartley",
+      "age": 30,
+      "role": "Supporting — The One Who Never Knew",
+      "description": "Genuinely good, quietly oblivious. He never got the letter. He has no idea what was done in his name."
+    }
+  ],
+  "supportingCharacters": [
+    "Mara Voss",
+    "Inspector Ray Davenport",
+    "Sophie Marsh",
+    "Cade Rutherford",
+    "Wren Alcott"
+  ],
+  "setting": [
+    "Pelican Shore, North Carolina",
+    "The beach house",
+    "Julian's rental",
+    "The beach",
+    "The locked room"
+  ],
+  "totalChapters": 1,
+  "chapterCountPlanned": 10,
+  "status": "in-progress",
+  "author": "StoryWeaver",
+  "readingTime": "~2 hrs (Chapter 1)",
+  "contentRating": "Teen+",
+  "cover": "/undertow.png",
+  "coverTone": "dark, coastal, moody, suspenseful",
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "title": "Arrival",
+      "image": "/undertow_ch1.png",
+      "mood": "Someone has been waiting a very long time. The house is beautiful. The weekend is supposed to be perfect.",
+      "totalPages": 30
+    }
+  ],
+  "themes": [
+    "obsession",
+    "misunderstanding",
+    "justice and its limits",
+    "the cost of silence",
+    "grief",
+    "what we carry",
+    "truth arriving too late"
+  ]
+}

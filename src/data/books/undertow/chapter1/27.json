@@ -1,0 +1,24 @@
+{
+  "page": 27,
+  "chapter": 1,
+  "chapterTitle": "Arrival",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The morning was beautiful. This made it worse, somehow, or perhaps it was just that beautiful mornings have a way of making everything feel more permanent than it is — the light, the sound of the water, the smell of coffee and salt air combining into something that felt like an argument for staying." },
+    { "type": "narration", "content": "By nine o'clock the whole group was up and the house had its daytime energy — louder, more overlapping, the kitchen busy with multiple breakfast agendas operating simultaneously. Cade made eggs. Dean discovered the house had a waffle iron. Sophie found fruit in a bowl she hadn't noticed the night before. Wren stood at the counter with her coffee and her book and was unbothered by all of it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I want everyone to know the crab situation this morning was significant." },
+    { "type": "dialogue", "speaker": "Dean", "content": "How significant." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Significant enough that I considered it. Briefly." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Considered what." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Keeping it. As a pet." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Cade. You live in a studio apartment." },
+    { "type": "dialogue", "speaker": "Cade", "content": "A studio can have a crab, Marcus. People think small spaces limit you but they don't, they focus you." },
+    { "type": "dialogue", "speaker": "Wren", "content": "You let it go." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I let it go. I'm not a monster. But I thought about it." },
+    { "type": "narration", "content": "Marcus laughed from somewhere behind the refrigerator door. It was a real laugh — unguarded, full." },
+    { "type": "narration", "content": "He was moving well. Alert. The medication was in his system but it worked slowly at this dose — she'd been precise about this. It would build through the morning, find him somewhere between noon and two, leave him foggy and tired in the way the sun and the salt air and a good night's sleep might naturally leave a person. He would excuse himself. It would seem unremarkable." },
+    { "type": "narration", "content": "Nadia ate her breakfast." },
+    { "type": "narration", "content": "She laughed at the crab story." },
+    { "type": "narration", "content": "She was very good at this." }
+  ]
+}
