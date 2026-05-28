@@ -1219,16 +1219,38 @@ body {
   border-left: 2px solid var(--border);
 }
 
-/* Feature 4: premium internal thought — literary, intimate, no background box */
+/* Internal thought — frosted card with thought bubble icon */
 .block--thought {
+  position: relative;
+  margin-bottom: 28px;
+  border-radius: 16px;
+  padding: 16px 18px 16px 48px;
+  background: rgba(123, 94, 167, 0.12);
+  border: 1px solid rgba(150, 100, 210, 0.22);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow:
+    0 0 0 1px rgba(123, 94, 167, 0.08) inset,
+    0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.block--thought::before {
+  content: '💭';
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-size: 1.1rem;
+  line-height: 1;
+  opacity: 0.85;
+}
+
+.block--thought p {
   font-family: var(--font-serif);
   font-style: italic;
-  color: rgba(196, 175, 230, 0.82);
+  color: rgba(210, 190, 240, 0.9);
   font-size: 1rem;
-  line-height: 1.85;
-  padding: 0 0 0 20px;
-  margin-bottom: 22px;
-  border-left: 1.5px solid rgba(150, 100, 210, 0.28);
+  line-height: 1.8;
+  margin: 0;
 }
 
 /* Feature 3: premium message bubbles — phone conversation style */
