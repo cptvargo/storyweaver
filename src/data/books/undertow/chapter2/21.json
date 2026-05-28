@@ -1,0 +1,23 @@
+{
+  "page": 21,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian was on the front porch of the neighboring house when Davenport came out." },
+    { "type": "narration", "content": "He had a mug of coffee. He was not pretending to just happen to be there — the hour made pretense impossible, and Davenport was the kind of man who would notice pretense and like you less for it." },
+    { "type": "narration", "content": "He waited." },
+    { "type": "narration", "content": "Davenport saw him. Stopped on the path between the two houses and looked at him with the expression of a man who had been doing this long enough to know when someone was waiting for him specifically." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You're in the rental next door." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Hear anything tonight?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Through the wall. Voices, elevated. I couldn't make out words." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What time?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "I noticed it around ten fifty. I was already awake." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Already awake." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
+    { "type": "narration", "content": "Davenport looked at the mug. Then at Julian. The kind of look that takes its time." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Because I noticed something last night. Walking the beach. And it was the kind of thing I couldn't set down." }
+  ]
+}

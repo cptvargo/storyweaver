@@ -1,0 +1,18 @@
+{
+  "page": 11,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "In the house next door, Julian was awake." },
+    { "type": "narration", "content": "He'd been awake since nine. He hadn't tried to sleep — there was no point trying when his mind was doing the thing it did, turning something over and over like a stone, looking at every side." },
+    { "type": "narration", "content": "The bonfire. The detail. The thing he'd noticed walking past." },
+    { "type": "narration", "content": "It was small. The kind of thing most people would have filtered out before it even reached the conscious part of the brain. Most people's minds weren't built to catch small things — they were built to survive, to notice the big and obvious, the threat and the opportunity. Julian's mind was different. Julian's mind was the thing that saw the small thing and refused to let it go until it knew what to do with it." },
+    { "type": "internalThought", "content": "One person not watching the fire. Watching something else. Watching someone." },
+    { "type": "narration", "content": "He'd told himself it was nothing. Six old friends at a bonfire — people watch each other, that's what people do. There didn't have to be a reason." },
+    { "type": "internalThought", "content": "But the quality of the watching." },
+    { "type": "narration", "content": "He'd been lying on top of the covers in the dark for two hours with that. The quality of the watching." },
+    { "type": "narration", "content": "And then, at ten fifty-three, he heard something through the shared wall." },
+    { "type": "narration", "content": "Voices — sharp, elevated. Then a sound he couldn't identify. Then more voices, lower, the quality of them different now. The quality of voices that had learned something." }
+  ]
+}

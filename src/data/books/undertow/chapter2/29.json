@@ -1,0 +1,24 @@
+{
+  "page": 29,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian sat in the dark of the study next door." },
+    { "type": "narration", "content": "He didn't sleep either. He had a legal pad on the table in front of him and a pen and the coffee that had gone cold an hour ago." },
+    { "type": "narration", "content": "He wrote down what he knew. Not what he suspected — what he knew. There was a difference and he was careful about the difference." },
+    { "type": "narration", "content": "A group of six people. A bonfire Friday night. One person watching another with a quality of attention that was not warmth." },
+    { "type": "narration", "content": "The one being watched: tall, at the edge of the group, fire to his right. Consistent with the man found dead tonight." },
+    { "type": "narration", "content": "Open window in a forty-seven-degree night. A man who locked his own door, lay down to rest, and didn't get up. A body running warm in its final hours." },
+    { "type": "narration", "content": "A phone call — heated, forty-five minutes before the estimates placed death." },
+    { "type": "narration", "content": "He looked at the list." },
+    { "type": "internalThought", "content": "Not enough. Not yet. But enough to know it's something." },
+    { "type": "narration", "content": "He thought about the medical examiner. Tox screen. Six to eight weeks standard. Rushed would be faster but not fast enough for what was going to happen in that house in the next forty-eight hours." },
+    { "type": "narration", "content": "He thought about Davenport. The hat. The way the man had gone still when Julian mentioned the window." },
+    { "type": "internalThought", "content": "He knows. He doesn't have evidence yet but he knows. That's a good sign." },
+    { "type": "narration", "content": "He turned the legal pad to a clean page." },
+    { "type": "narration", "content": "Wrote a name at the top." },
+    { "type": "narration", "content": "Then he wrote a question mark beside it." },
+    { "type": "narration", "content": "Then he wrote five more names underneath. Because in this kind of room, everyone is a question mark until they aren't." }
+  ]
+}

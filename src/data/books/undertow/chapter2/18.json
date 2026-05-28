@@ -1,0 +1,26 @@
+{
+  "page": 18,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The coroner arrived at twelve forty." },
+    { "type": "narration", "content": "Dr. Audra Mills, county medical examiner, had the manner of someone who had been woken at midnight enough times that she'd stopped finding it remarkable. She went upstairs with her bag and was up there for twenty-two minutes." },
+    { "type": "narration", "content": "Davenport waited in the hallway." },
+    { "type": "narration", "content": "When she came out, she stopped beside him and kept her voice low." },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "Healthy male, mid-thirties. Outwardly there's no obvious cause. No trauma, no signs of distress. Lividity's consistent with the position he was found in, so he didn't move after." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Time of death." },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "The window complicates that. Open like that all night, the room temperature dropped significantly. Body temp's going to throw off my estimate. Roughly — sometime between nine and midnight. I'll know more from tox." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What's your gut?" },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "My gut says cardiac event pending tox. Young for it, but not unheard of, especially with blood pressure history." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The water glass." },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "Bagged it. We'll run everything we can find in the room." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How long for tox?" },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "Standard? Six to eight weeks." },
+    { "type": "narration", "content": "Davenport looked at the closed door at the end of the hallway." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Rush it." },
+    { "type": "narration", "content": "She looked at him." },
+    { "type": "dialogue", "speaker": "Dr. Mills", "content": "You seeing something?" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm not seeing anything yet. That's why I want it rushed." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 12,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "He sat up." },
+    { "type": "narration", "content": "He went to the window — not his room's window but the one in the small study that faced the shared driveway between the two properties. Kept the light off. Watched." },
+    { "type": "narration", "content": "At eleven oh-four the first blue pulse came across the driveway. A sheriff's unit pulling up in front of the neighboring house. Then a second vehicle. Then an ambulance — lights only, no siren, which was its own kind of information." },
+    { "type": "internalThought", "content": "No siren means no urgency. No urgency means no hope." },
+    { "type": "narration", "content": "He watched people move from the house to the vehicles. Paramedics going in and then coming back out slowly. Deputies. Someone with a notepad." },
+    { "type": "narration", "content": "He watched the five people gathered on the back porch of the neighboring house. He could see them from the angle of the study window — not their faces, not at this distance, but their postures. The shapes they made standing in the blue and red light." },
+    { "type": "narration", "content": "One sitting. One with her face in her hands. One at the railing, turned toward the water. One steady in the center of it, holding the group together with his body language alone. One at the edge, arms crossed, face angled toward the door instead of the others." },
+    { "type": "internalThought", "content": "Someone died in that house tonight." },
+    { "type": "internalThought", "content": "And I walked past their bonfire twenty-four hours ago and noticed something." },
+    { "type": "narration", "content": "He stood at the window for a long time." },
+    { "type": "narration", "content": "Then he went to make coffee. Because what came next was going to require being fully awake." }
+  ]
+}

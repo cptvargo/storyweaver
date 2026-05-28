@@ -1,0 +1,22 @@
+{
+  "page": 13,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Inspector Ray Davenport arrived at eleven thirty-eight." },
+    { "type": "narration", "content": "He drove himself. A navy sedan, a little dented on the back quarter panel. He was a large man — not fat, just constructed on a bigger frame than most, the kind that made doorways notice him. Mid-fifties. A coat he'd had for too long. A hat he would have told you he wore for the cold, though it sat on his head with the ease of a habit that went back twenty years." },
+    { "type": "narration", "content": "He stood outside the house for a moment before going in — just stood there, looking at the building the way he always did. New scene. Fresh eyes. Don't go in with a theory." },
+    { "type": "narration", "content": "It was the first rule. The one he'd broken three times in thirty years and regretted all three." },
+    { "type": "narration", "content": "He went inside." },
+    { "type": "narration", "content": "The deputy — Briggs, young, still ironed — gave him the rundown in the hallway." },
+    { "type": "dialogue", "speaker": "Deputy Briggs", "content": "Male, thirty-seven. Party of six, weekend stay. Found unresponsive at approximately ten-fifty by his housemates. Locked from the inside — they had to force the door. Paramedics confirm no pulse at eleven-oh-two. No visible trauma. Window was open. Medical history possibly includes blood pressure medication." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The window." },
+    { "type": "dialogue", "speaker": "Deputy Briggs", "content": "Open all the way. Cold night, too. Forty-seven degrees." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "His housemates know it was open?" },
+    { "type": "dialogue", "speaker": "Deputy Briggs", "content": "One of them asked about it. The small woman, dark hair. She noticed when they first went in." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What'd they say?" },
+    { "type": "dialogue", "speaker": "Deputy Briggs", "content": "Nobody had an answer." },
+    { "type": "narration", "content": "Davenport looked at the staircase. Then he went up." }
+  ]
+}

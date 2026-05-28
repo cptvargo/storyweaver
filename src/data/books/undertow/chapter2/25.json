@@ -1,0 +1,25 @@
+{
+  "page": 25,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'll need a formal statement from you. Tomorrow morning, at the station." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Of course." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "And I'll need you not to discuss this with anyone — specifically not with anyone from that house." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I haven't spoken to them. I don't know them." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Keep it that way for now." },
+    { "type": "narration", "content": "He put his hat back on. Started down the path." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Inspector." },
+    { "type": "narration", "content": "Davenport turned." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The window. In the room where he was found." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What about it." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It was a cold night. Forty-seven degrees. A man goes upstairs to rest for an hour. He locks the door — from the inside. He takes off his shoes. He lies down on top of the covers." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "And?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "A man who lies down for an hour in a cold house does not open his window all the way. Not unless he's very warm. Not unless something in his body is making him very warm." },
+    { "type": "narration", "content": "Davenport stood on the path between the two houses and said nothing." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Good night, Inspector." },
+    { "type": "narration", "content": "He went inside. Left Davenport standing there in the dark with his hat in his hands." }
+  ]
+}

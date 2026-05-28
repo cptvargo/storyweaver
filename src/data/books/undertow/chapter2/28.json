@@ -1,0 +1,27 @@
+{
+  "page": 28,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Nadia looked at her for a moment. Then she looked away. Out the window. The dark." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I keep thinking about the last time I saw him. Before today. It was three weeks ago — he came through the city for work and we had dinner. Just the two of us. He seemed — he seemed exactly like himself." },
+    { "type": "dialogue", "speaker": "Wren", "content": "That's good." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Is it?" },
+    { "type": "dialogue", "speaker": "Wren", "content": "Better than it being something you could have seen coming." },
+    { "type": "narration", "content": "Nadia was quiet." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Maybe." },
+    { "type": "narration", "content": "Wren watched her. Nadia had always been the composed one — even in college, even in the moments that undid everyone else, she stayed still. Wren had admired it once. Now, sitting in the low light at two in the morning with Marcus dead upstairs, she wasn't sure what to make of it." },
+    { "type": "narration", "content": "Still wasn't grief, exactly. Still wasn't shock. Just — still." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Nadia. Are you alright?" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "No." },
+    { "type": "narration", "content": "She said it simply. Without elaborating. Without looking at Wren." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I'm not alright. I don't think any of us are." },
+    { "type": "narration", "content": "She stood. Smoothed her shirt. Set her phone face-down on the chair." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I'm going to try to sleep. Wake me if anything happens." },
+    { "type": "narration", "content": "She went upstairs without looking back." },
+    { "type": "narration", "content": "Wren watched her go. The stairs. The hallway above. The door to Nadia's room, closing." },
+    { "type": "narration", "content": "Sophie shifted in her sleep. Murmured something." },
+    { "type": "narration", "content": "Wren put a hand gently on her shoulder and stayed awake." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 20,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport came back downstairs at one-fifteen. He had his coat on." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Alright. Here's where we are. We're treating this as an unexplained death pending examination by the medical examiner. That means I'd like all of you to remain available — either here or somewhere local — for the next forty-eight hours. If any of you had plans to leave tomorrow, I need you to hold off on that." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Is he—" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We don't have a determination yet. That takes time. For now, we treat the situation with appropriate care and thoroughness." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What does that mean?" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "It means we don't jump to conclusions. It means we do this right." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Could it have been his heart? His blood pressure—" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's one possibility being considered, yes. The medical examiner will be thorough." },
+    { "type": "narration", "content": "He looked at each of them. Long enough to be certain, not long enough to be searching." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Is there anything else any of you want to tell me tonight? Anything you remembered after we spoke, or anything you didn't think to mention?" },
+    { "type": "narration", "content": "Silence. Five people with everything and nothing to say." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Alright. Deputy Briggs will be outside tonight. Try to get some rest." },
+    { "type": "narration", "content": "He headed for the front door. Put his hat on. Paused with his hand on the frame." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm sorry about your friend." },
+    { "type": "narration", "content": "He meant it. He always meant it. It never got easier to mean it and that was probably a good sign." }
+  ]
+}

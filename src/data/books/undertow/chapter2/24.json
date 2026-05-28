@@ -1,0 +1,23 @@
+{
+  "page": 24,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Julian", "content": "Taller than average. The way he sat — back straight even at ease. At the edge of the group rather than the center." },
+    { "type": "narration", "content": "Davenport was very still." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That matches the individual who was found tonight." },
+    { "type": "narration", "content": "Julian set his mug down on the porch rail." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Then the one watching him was someone who knew they were looking at a man who wouldn't be there much longer." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Or they were looking at a friend. People look at their friends, Mr. Crane. Especially in a group, at a fire, at night." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes. They do." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "But." },
+    { "type": "dialogue", "speaker": "Julian", "content": "But the quality of the looking was wrong. You spend enough time watching people watch people and you know the difference between someone who cares about a person and someone who is tracking a person. This was tracking." },
+    { "type": "narration", "content": "The night was very quiet. The ocean was a constant underneath everything." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You understand this is a significant thing to say." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You understand what you're implying." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm not implying anything. I'm telling you what I observed. What it means is your job." },
+    { "type": "narration", "content": "Davenport looked at him for a long moment. Then he looked at the house next door. Then at the hat in his hands — he'd taken it off again without noticing." }
+  ]
+}

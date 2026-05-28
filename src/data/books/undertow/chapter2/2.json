@@ -1,0 +1,23 @@
+{
+  "page": 2,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Sophie was in the doorway. She had seen enough. Wren stood just behind her with one hand pressed flat to the wall like she needed something solid." },
+    { "type": "narration", "content": "Nadia came last. She stepped into the room, looked at Marcus in the bed, and stood very still." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Don't touch anything." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Dean—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "I mean it. Don't touch anything. We need to call somebody." },
+    { "type": "narration", "content": "His voice was steady. The kind of steady that costs something." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He might just need—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Cade." },
+    { "type": "narration", "content": "He said it once. That was enough." },
+    { "type": "narration", "content": "Cade straightened up from the bed. His hands were shaking. He pressed them together in front of him like he was trying to hold himself still." },
+    { "type": "narration", "content": "Sophie made a sound in the doorway — not words, just sound, the kind that comes before words when words haven't caught up yet." },
+    { "type": "narration", "content": "The window was open all the way. The curtain moved. Outside, the ocean was doing what the ocean always does." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Why is the window open." },
+    { "type": "narration", "content": "Nobody answered. It wasn't a question anyone could answer." },
+    { "type": "narration", "content": "On the nightstand: a glass of water, half empty. His phone, face-down. His watch. Nothing else." }
+  ]
+}

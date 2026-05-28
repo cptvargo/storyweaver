@@ -1,0 +1,25 @@
+{
+  "page": 7,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "They went inside and sat in the living room — the same room where they had eaten dinner two nights ago, laughed about the camping trip, raised their glasses. The candles Sophie had lit were still in the middle of the table, burned down to nothing now." },
+    { "type": "narration", "content": "The deputy asked them to stay together and wait. Then he went back upstairs." },
+    { "type": "narration", "content": "Nobody spoke for a while." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "His family. Someone needs to call his family." },
+    { "type": "dialogue", "speaker": "Dean", "content": "The police will handle that." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "His mom, Dean. She needs to hear it from someone who knew him. She can't just—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Not yet. We wait until someone tells us we can." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Because that's how this works. That's what we're supposed to do." },
+    { "type": "narration", "content": "Sophie looked like she wanted to argue and didn't have the energy." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He seemed fine this morning. You all saw — breakfast. He was laughing. He made the fish. He was completely fine." },
+    { "type": "dialogue", "speaker": "Wren", "content": "He wasn't fine on the beach." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He said he was tired. That's all. People get tired." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's not — being tired is not—" },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know, Cade. I'm not saying it is." },
+    { "type": "narration", "content": "Cade pressed his palms flat on the table. Breathed. Nodded." }
+  ]
+}

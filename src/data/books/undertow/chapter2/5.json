@@ -1,0 +1,23 @@
+{
+  "page": 5,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Eleven minutes. That was how long it took for the first unit to arrive — a county sheriff's cruiser, lights going, no siren. Then an ambulance. Then a second cruiser. The lights painted the whole front of the house blue and red in rotating pulses, and the beach on either side of them went briefly visible and invisible with each pass." },
+    { "type": "narration", "content": "A deputy came around the back of the house and found them on the porch." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Which of you made the call?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "I did." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "And the individual — where is he?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Upstairs. Second door on the right. We didn't — we left the room. The door's broken. We had to force it, he wasn't answering." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Anyone else go in or out of the room after you found him?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "No. We came straight downstairs." },
+    { "type": "narration", "content": "The deputy nodded and went inside. Through the glass doors they watched him go up the stairs, watched a second shape follow — paramedics with a bag. The house swallowed them." },
+    { "type": "narration", "content": "Cade had his hands over his face." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "What do we do?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "We wait. We answer their questions. We tell them everything we know." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "What do we know?" },
+    { "type": "narration", "content": "Dean didn't have an answer for that. None of them did." },
+    { "type": "narration", "content": "What they knew was: Marcus had been alive at four o'clock. And now it was nearly eleven. And seven hours was an enormous amount of time that suddenly felt like no time at all." }
+  ]
+}

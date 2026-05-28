@@ -1,0 +1,21 @@
+{
+  "page": 27,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Two in the morning. The living room." },
+    { "type": "narration", "content": "They had been told to stay. They were staying. There was a deputy outside and the lights of the official vehicles had faded but not entirely gone, and the house had that quality it gets when it's been entered by too many people with purpose — stripped of something, rearranged without anyone moving the furniture." },
+    { "type": "narration", "content": "Sophie had fallen asleep on the couch with her head on Wren's lap. Wren sat very straight and did not move and watched the room." },
+    { "type": "narration", "content": "Dean had gone to his room. He'd asked if that was alright. The deputy said yes, stay in the house, door open. He'd gone up and hadn't come back down." },
+    { "type": "narration", "content": "Cade was at the kitchen table. He had a glass of water in front of him and had not touched it and was looking at it like it had done something to him." },
+    { "type": "narration", "content": "Nadia sat in the armchair in the corner. Phone in her lap. Quiet." },
+    { "type": "narration", "content": "Wren looked at her from across the room. Nadia's face in the low light was unreadable in the way that faces are when someone has decided, a long time ago, to make their face unreadable." },
+    { "type": "dialogue", "speaker": "Wren", "content": "You should sleep." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "So should you." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Someone should stay awake." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Why." },
+    { "type": "narration", "content": "It wasn't a challenge. It was a genuine question. Wren didn't have a real answer — just the feeling that in a night like this, someone should be watching. Should be paying attention." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I don't know." }
+  ]
+}

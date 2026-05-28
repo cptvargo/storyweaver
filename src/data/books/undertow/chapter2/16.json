@@ -1,0 +1,25 @@
+{
+  "page": 16,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Davenport", "content": "How long have you known Marcus?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Twenty-three years. We met freshman year of college." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Whose idea was this trip?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Mine. I mean — I suggested the house. The group's done trips before, it's something we try to do once a year. This one was my idea." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "When did you last see Marcus alive?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "On the beach. Around four. He wasn't — he seemed off. Not sick, just quiet. In his head. I went over to check on him and he said he was going to rest before dinner." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Did he seem like himself otherwise? This weekend?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Mostly. Breakfast this morning he was great — laughing, making everyone food. But there were moments. Little moments where he'd just go somewhere inside himself." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Any idea what might have been on his mind?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I asked. He said nothing. That was Marcus — he'd carry things." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Tell me about the argument. Through the ceiling." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Around nine-fifteen, nine-twenty — we heard him upstairs. Voices. His voice and another one. It was heated. We assumed it was a phone call." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The second voice — could you make out anything? Anything at all?" },
+    { "type": "narration", "content": "Cade shook his head slowly." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Just the tone. Muffled. It was — it sounded like someone angry. Or scared. I couldn't tell which." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How long did it last?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Maybe twenty, twenty-five minutes. It stopped around nine forty-five. We figured it was over. We finished the dishes. And then when he still hadn't come down by ten-thirty I went up." }
+  ]
+}

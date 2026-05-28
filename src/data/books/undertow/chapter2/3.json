@@ -1,0 +1,21 @@
+{
+  "page": 3,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "Everyone out. Now. Please." },
+    { "type": "narration", "content": "They went. Sophie first, then Wren, then Nadia. Cade stayed one more second — looking at Marcus like he was trying to memorize something — and then Dean's hand was on his arm and they were in the hallway and the door was as closed as a broken door could be." },
+    { "type": "narration", "content": "The hallway felt narrow. Five people and all the air seemed to have gone out of it." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Is he— I mean, is he—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "I'm calling 911." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Dean. Is he—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes." },
+    { "type": "narration", "content": "She covered her mouth with both hands. Wren put an arm around her without being asked. Cade sat down on the floor against the wall, back straight, knees up, staring at the opposite wall with the expression of someone who had just been told something in a language he understood but could not accept." },
+    { "type": "narration", "content": "Nadia leaned against the banister. She said nothing. Her face had the look of controlled shock — the look of someone processing something enormous and choosing, very deliberately, how much of that to show." },
+    { "type": "narration", "content": "Dean dialed." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes. I need to report — I think someone has died. My friend. We're at a beach house on Outer Bank Road, it's called the Sandpiper — yes. Yes, we're here. Please come quickly." },
+    { "type": "narration", "content": "He hung up. He looked at the four of them in the hallway." },
+    { "type": "dialogue", "speaker": "Dean", "content": "They're coming. We need to go downstairs and wait outside." }
+  ]
+}

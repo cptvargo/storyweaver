@@ -1,0 +1,21 @@
+{
+  "page": 26,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport went back inside the house." },
+    { "type": "narration", "content": "He went upstairs." },
+    { "type": "narration", "content": "He stood in the doorway of the room and looked at it again. This time with different eyes. Not the eyes of a man processing an unexplained death. The eyes of a man who had just been told something that didn't fit the first reading." },
+    { "type": "narration", "content": "A very warm body opening a window. A locked door. A glass of water half consumed." },
+    { "type": "narration", "content": "He thought about how a man who had been poisoned might feel in his last hour. His heart working too hard or not hard enough. His temperature spiking. A body trying to regulate itself, fighting something it didn't know was there." },
+    { "type": "narration", "content": "He thought about how that man might reach out and push a window open. Trying to cool down. Trying to breathe." },
+    { "type": "narration", "content": "He thought about how that man would have no reason to know he needed to do anything else." },
+    { "type": "narration", "content": "He crossed to the nightstand. Looked at the water glass without touching it — already bagged and tagged, a number on the evidence label." },
+    { "type": "internalThought", "content": "Someone put something in the water. Or in something he drank. And then left. And then the room was locked and the window was open and the cold came in and slowed everything down and made the time of death harder to read." },
+    { "type": "narration", "content": "He pulled his notepad out." },
+    { "type": "narration", "content": "He wrote three words." },
+    { "type": "narration", "content": "Suspicious. Possible homicide." },
+    { "type": "narration", "content": "Then he went back downstairs. He needed to make some calls." }
+  ]
+}

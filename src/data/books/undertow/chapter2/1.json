@@ -1,0 +1,21 @@
+{
+  "page": 1,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The cold hit them first." },
+    { "type": "narration", "content": "Not the sight of him. Not yet. Just the air — a wall of it coming through the open window, salt and night and something wrong in the way only cold in a closed room is wrong." },
+    { "type": "narration", "content": "Dean had been the one to break through. He went in first. He stopped two steps inside the door and didn't move." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Dean." },
+    { "type": "narration", "content": "Cade pushed past him." },
+    { "type": "narration", "content": "Marcus was in the bed. On top of the covers, still dressed from the afternoon — the same shirt, the same jeans. One arm at his side. One hand open on the pillow beside his face. Like he had lain down meaning to rest for an hour and simply hadn't woken up." },
+    { "type": "narration", "content": "He looked exactly like someone sleeping." },
+    { "type": "narration", "content": "That was the part that was hardest to understand. That the face you had known for twenty years could be that still and look that peaceful and still be gone." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus." },
+    { "type": "narration", "content": "He said it quietly. The way you say a name when you already know." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus, hey. Come on." },
+    { "type": "narration", "content": "He touched his shoulder. Shook it once." },
+    { "type": "narration", "content": "Nothing." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 10,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Please don't discuss the details of the evening with each other." },
+    { "type": "narration", "content": "They sat in the same room and didn't talk. Five people who had known each other for over two decades, and suddenly words required careful navigation — what was yours to say, what belonged to the story, what might sound different out of context." },
+    { "type": "narration", "content": "Sophie got up and poured herself a glass of water. Stood at the sink and drank it facing the window. Outside was dark, outside was the beach, outside was the ocean being the ocean." },
+    { "type": "narration", "content": "She refilled the glass. Set it down. Didn't come back to the table." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I'm going to be sick." },
+    { "type": "narration", "content": "She made it to the bathroom." },
+    { "type": "narration", "content": "Cade looked at the ceiling. Then at his hands. Then at the door of the bathroom. He started to get up." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I'll go." },
+    { "type": "narration", "content": "She went. The sound of the bathroom door closing, then water running." },
+    { "type": "narration", "content": "Dean and Cade and Nadia sat at the table in the living room that smelled like food they'd made together twelve hours ago. The plate of ribs for Marcus was still on the stove." },
+    { "type": "narration", "content": "Nobody moved it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He was my best friend." },
+    { "type": "narration", "content": "He said it to no one. Or to all of them. Or to the room." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Twenty-three years. Since freshman orientation." },
+    { "type": "narration", "content": "Dean put a hand on his arm. Left it there." },
+    { "type": "narration", "content": "Nadia looked at Cade's hand. Then at Dean's. Then she looked away." }
+  ]
+}

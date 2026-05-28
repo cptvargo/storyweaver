@@ -1,0 +1,26 @@
+{
+  "page": 19,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "It was after one in the morning. The five of them were still in the living room." },
+    { "type": "narration", "content": "Cade had his eyes closed, head back, not sleeping — just somewhere. Sophie had stopped crying and moved into a quieter kind of distress, the kind that doesn't have a sound. Wren sat with her hands in her lap and watched the deputies move in and out of the house. Dean had made coffee nobody touched." },
+    { "type": "narration", "content": "Nadia had her phone out. She was looking at the screen." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Who are you texting?" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Nobody. I'm looking at flights." },
+    { "type": "dialogue", "speaker": "Dean", "content": "They're not going to let us leave." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I know. I'm just looking." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I don't want to be in this house." },
+    { "type": "dialogue", "speaker": "Dean", "content": "We don't have a choice right now." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "There's a body upstairs, Dean." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Marcus is upstairs." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Sophie—" },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Don't say I know again. Say something else." },
+    { "type": "narration", "content": "Dean opened his mouth. Closed it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "We're going to get through tonight. That's all we need to do right now. Get through tonight." },
+    { "type": "narration", "content": "His eyes were still closed. But his voice was steady and it was the right thing to say and the room held it." }
+  ]
+}

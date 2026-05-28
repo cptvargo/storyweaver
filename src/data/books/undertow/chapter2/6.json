@@ -1,0 +1,20 @@
+{
+  "page": 6,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The paramedics came back down after six minutes." },
+    { "type": "narration", "content": "They came without the bag they went up with. Without urgency. That was how you knew, if you didn't already know — the speed they moved at, the way they talked to the deputy in low voices by the door without looking at the five people on the porch." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What are they saying." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I can't hear." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Why aren't they doing anything. Why are they just—" },
+    { "type": "dialogue", "speaker": "Wren", "content": "Cade." },
+    { "type": "narration", "content": "She said his name the way you say it when you want someone to stop saying the thing they're saying because the answer is already known." },
+    { "type": "narration", "content": "Cade fell quiet." },
+    { "type": "narration", "content": "Sophie leaned into Wren's shoulder. Wren held her. Dean sat very still with his phone in his hand, staring at the screen, not doing anything with it — not calling anyone, not texting. Just holding it like he needed something to hold." },
+    { "type": "narration", "content": "Nadia had turned away from the railing. She was watching the deputy now through the glass. Her arms were crossed, one hand at her mouth, fingers pressed to her lips. The posture of someone thinking." },
+    { "type": "narration", "content": "Or someone being very careful about what came next." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Folks. Can I get you all to come inside? Someone's going to want to speak with each of you." }
+  ]
+}

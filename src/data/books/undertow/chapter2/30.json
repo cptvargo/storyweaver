@@ -1,0 +1,21 @@
+{
+  "page": 30,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "At four seventeen in the morning, Inspector Ray Davenport sat in his car in the parking lot of the Outer Banks Diner and made a phone call." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "It's me. I need to change the filing on the Calloway death. From unexplained to suspicious." },
+    { "type": "narration", "content": "A pause on the other end." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "No, I don't have tox yet. I'm going on — call it thirty years and a conversation I had at one in the morning with a man I just met who noticed something I should have noticed first." },
+    { "type": "narration", "content": "Another pause." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Tell Sheriff Pruett in the morning. And tell him I'm going to need the five people in that house to stay local until further notice. They're not suspects. They're — everyone's a witness until I know different." },
+    { "type": "narration", "content": "He hung up. Sat for a moment looking at the diner's lit sign through the windshield." },
+    { "type": "narration", "content": "He thought about what Julian Crane had said. The quality of the watching." },
+    { "type": "narration", "content": "He had been doing this for three decades. He had worked forty-one homicides, cleared thirty-eight. The three he hadn't cleared still sat in a box in the back of a closet in his house and came out every year or two, when he thought he had enough distance." },
+    { "type": "narration", "content": "He didn't have distance on this one. This one was six hours old." },
+    { "type": "narration", "content": "He went into the diner. Ordered coffee and eggs and sat at the counter and thought." },
+    { "type": "narration", "content": "One question kept coming back." },
+    { "type": "narration", "content": "Which one." }
+  ]
+}

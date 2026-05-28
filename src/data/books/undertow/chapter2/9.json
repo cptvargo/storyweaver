@@ -1,0 +1,26 @@
+{
+  "page": 9,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Time moved strangely after that. Too slow, and then suddenly not slow at all — more people arriving, more footsteps on the stairs, voices above them in the room they weren't allowed back into." },
+    { "type": "narration", "content": "A deputy came down and asked if any of them had a medical history for Marcus. Allergies. Conditions. Medications." },
+    { "type": "dialogue", "speaker": "Dean", "content": "He was healthy. As far as I knew. He ran. He was careful about what he ate." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He had high blood pressure. A few years ago. He was on something for it but I thought he'd come off it." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Do you know the name of the medication?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "No. I'm sorry. I don't." },
+    { "type": "narration", "content": "The deputy wrote something down. Asked if any of them had heard or seen anything unusual earlier in the evening. They told him about the argument. He wrote that down too, face giving nothing away." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "And the door was locked from the inside?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes. The privacy latch — the kind you twist. He must have locked it when he went in." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Who broke the door?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "I did. Cade asked me to." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "How many of you went into the room?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "All five of us. Briefly. When we saw him we came straight back out." },
+    { "type": "narration", "content": "The deputy's pen stopped. He looked up from his notepad." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "All five." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes." },
+    { "type": "narration", "content": "He wrote it down. Capped his pen." },
+    { "type": "dialogue", "speaker": "Deputy", "content": "Inspector Davenport is on his way. He'll want to speak with each of you individually. Please don't discuss the details of the evening with each other until after he does." }
+  ]
+}

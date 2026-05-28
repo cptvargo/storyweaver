@@ -1,0 +1,23 @@
+{
+  "page": 4,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "They went downstairs. Dean turned on every light." },
+    { "type": "narration", "content": "The kitchen looked the same as it had two hours ago — dishes drying on the rack, a half-full bottle of wine on the counter, the plate Cade had set aside for Marcus still covered in foil on the stove. The ordinary cruelty of a house that doesn't know yet." },
+    { "type": "narration", "content": "They went out the back. The porch. The ocean was there, same as always, doing its indifferent thing." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He said he'd be down by six." },
+    { "type": "narration", "content": "Nobody responded." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He said he was fine. I looked right at him and he said he was fine." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Cade—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I should have gone back up. After dinner. When he didn't come down I should have gone up earlier." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You did go up." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not early enough." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You couldn't have known." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's not— that doesn't help, Dean. That's not the thing to say right now." },
+    { "type": "narration", "content": "Dean closed his mouth. He knew Cade was right. He sat down on the porch step and put his forearms on his knees and looked at the ground." },
+    { "type": "narration", "content": "Sophie was crying quietly. Wren sat beside her and didn't say anything and that was the right thing to do." },
+    { "type": "narration", "content": "Nadia stood at the railing, looking out at the water. Her back to all of them." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "page": 14,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The room told him what rooms always told him: the story without the explanation." },
+    { "type": "narration", "content": "Man on the bed. Fully clothed. On top of the covers. Shoes by the door, neatly placed — not dropped, placed, with the deliberateness of someone who intended to do something after. Sleep an hour. Come back down." },
+    { "type": "narration", "content": "The window. Open all the way, latch thrown back. Cold air moving through it freely, forty-seven degrees of it, for — Davenport checked the deputy's notes — at least seven hours." },
+    { "type": "narration", "content": "Nightstand: a glass of water, roughly half full. A phone, face-down. A watch, removed and set parallel to the edge of the table — the habit of someone tidy, or anxious, or both." },
+    { "type": "narration", "content": "Davenport stood in the center of the room and did not touch anything. He just looked." },
+    { "type": "narration", "content": "Thirty years. He had stood in a lot of rooms. He knew what a room looked like when someone had gone to sleep and not woken up. He knew what a room looked like when something had happened and someone had tried to make it look like sleep." },
+    { "type": "narration", "content": "This room looked like the first." },
+    { "type": "narration", "content": "Almost." },
+    { "type": "narration", "content": "He looked at the window again. At the glass of water. At the way the man's arm lay at his side — not across his body, not tucked, just at his side, the flat natural rest of someone fully unconscious. Not the position of a man who had gotten cold and not closed the window." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Get the coroner up here. I want eyes on this before anyone else touches anything." }
+  ]
+}

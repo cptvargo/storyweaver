@@ -1,0 +1,21 @@
+{
+  "page": 15,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport came downstairs and found them in the living room." },
+    { "type": "narration", "content": "He had a way of entering a space that other people had been sitting in for a while — quietly, without announcement, giving them a moment to see him before he spoke. You learned things in that moment. Who sat up straighter. Who looked relieved. Who looked at the floor." },
+    { "type": "narration", "content": "He set his notepad on the table and pulled out a chair. Sat down across from them. Unhurried." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm Inspector Ray Davenport, Carteret County. I'm sorry for what you're going through tonight. I know this is difficult and I'll try to make this as quick as I can. I need to speak with each of you separately — that's standard for a situation like this. Nothing to worry about. I just need to understand the evening, what everyone saw, how he seemed. Alright?" },
+    { "type": "narration", "content": "They nodded. Most of them." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Who wants to go first?" },
+    { "type": "narration", "content": "Nobody volunteered." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Then I'll choose." },
+    { "type": "narration", "content": "He looked at Cade." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You're the one who went to check on him. The deputy says you knocked first." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yes. That's me. Cade. Cade Mercer." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Alright, Mr. Mercer. Let's start with you. Is there somewhere private we can sit?" },
+    { "type": "narration", "content": "Cade stood up. He looked at the others briefly — a look that wasn't asking permission, just marking the moment — and followed Davenport down the hall toward the kitchen." }
+  ]
+}

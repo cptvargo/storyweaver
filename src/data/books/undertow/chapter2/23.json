@@ -1,0 +1,26 @@
+{
+  "page": 23,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Davenport", "content": "Who was it. The one doing the watching." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I couldn't tell you. It was dark. I was moving. I registered the pattern, not the face." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Man or woman." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Couldn't say with certainty. The firelight doesn't do detail at that distance." },
+    { "type": "narration", "content": "Davenport looked at him steadily. Evaluating. The look wasn't hostile — it was professional, the kind that reserves judgment until it has more to go on." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What do you do, Mr.—" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Crane. Julian Crane. I work in behavioral analysis. Consult, mostly. Fraud cases, corporate investigations. I notice patterns in how people behave and what those patterns mean." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Not law enforcement." },
+    { "type": "dialogue", "speaker": "Julian", "content": "No." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Not a private investigator." },
+    { "type": "dialogue", "speaker": "Julian", "content": "No." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Just a man who was walking the beach on a Friday night and noticed something." },
+    { "type": "dialogue", "speaker": "Julian", "content": "That's correct." },
+    { "type": "narration", "content": "Davenport took his hat off. Looked at the inside of it for a moment. Put it back on." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The person being watched. Can you describe them?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Taller than the others. Sitting at the outer edge of the group. The fire was to his right." },
+    { "type": "narration", "content": "A pause. Just long enough." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "His." }
+  ]
+}

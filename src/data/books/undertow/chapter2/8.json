@@ -1,0 +1,25 @@
+{
+  "page": 8,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Nadia", "content": "He mentioned he hadn't been sleeping well lately. A few weeks ago. We were on the phone and he said he'd been having trouble." },
+    { "type": "narration", "content": "Everyone looked at her." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He told you that?" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "It came up. We were talking about something else and it just came up. He said it wasn't a big deal." },
+    { "type": "dialogue", "speaker": "Dean", "content": "He never mentioned that to me." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "He probably didn't want to make it a thing. You know how he was about that. About asking for anything." },
+    { "type": "narration", "content": "A pause. Everyone did know that." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Do you think that's—" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I don't know. I'm just saying what he told me." },
+    { "type": "narration", "content": "It was a small thing. A reasonable thing to say. The kind of detail a grieving friend would offer to make sense of something that made no sense." },
+    { "type": "narration", "content": "Wren heard it. Filed it away. Said nothing." },
+    { "type": "narration", "content": "Nadia picked up her water glass and held it in both hands without drinking. Her eyes moved to the ceiling — the bedroom above them — and then back down. A second. No more." },
+    { "type": "dialogue", "speaker": "Dean", "content": "There was an argument. Tonight. We all heard it through the ceiling." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "A phone call." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Right. But with who. That's going to be one of the first things they ask." },
+    { "type": "dialogue", "speaker": "Cade", "content": "His phone is up there." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know." }
+  ]
+}

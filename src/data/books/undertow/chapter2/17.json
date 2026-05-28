@@ -1,0 +1,15 @@
+{
+  "page": 17,
+  "chapter": 2,
+  "chapterTitle": "The Room",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport interviewed them one by one. An hour and forty minutes in total, working through each account the way he worked through everything — methodically, without showing his hand." },
+    { "type": "narration", "content": "Dean Ashby: steady, factual, the kind of witness who described things in sequence and didn't volunteer more than he was asked. Last saw Marcus at four. Heard the argument. Broke the door when Cade asked him to. His voice had been steady the whole time except when he talked about Marcus being fine at breakfast, and then it had not been steady at all." },
+    { "type": "narration", "content": "Sophie Laurent: shaken, forthcoming, the kind of witness whose emotion made them easier and harder to read in equal measure. She'd been upstairs showering in the afternoon, she said. For maybe forty minutes. She knew Marcus had seemed off since the morning but she'd put it down to tiredness. She kept starting sentences and not finishing them." },
+    { "type": "narration", "content": "Wren Cole: the quiet one. Short answers, accurate ones. She had noticed Marcus on the beach — had thought, at the time, that he looked like someone hearing bad news in an empty room. She did not elaborate on that. She answered what she was asked." },
+    { "type": "narration", "content": "Nadia Reyes: composed. Almost too composed, though Davenport had seen grief look like composure plenty of times and knew better than to read it as cold. She'd had a phone call with Marcus a few weeks ago in which he'd mentioned trouble sleeping. She'd said nothing beyond that. Every answer precise. Every answer exactly what was asked, no more, no less." },
+    { "type": "narration", "content": "That last one stayed with him." },
+    { "type": "narration", "content": "Not because the answers were wrong. Because the answers were exactly right." }
+  ]
+}
