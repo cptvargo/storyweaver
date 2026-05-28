@@ -6,10 +6,12 @@
   "blocks": [
     { "type": "narration", "content": "The afternoon had settled into that loose, unhurried rhythm that only happens when nobody has anywhere to be. Someone had found a bluetooth speaker. The ribs had been on since noon — low and slow, the smoke doing something to the air that made the whole beach smell like a memory of every summer that had ever been good." },
     { "type": "narration", "content": "Marcus was in his chair at the edge of the group, close enough to be part of it, far enough that the waves came up near his feet. The music was something soft and vaguely familiar. The laughter kept coming in waves — Cade saying something, Sophie covering her mouth, Dean shaking his head with the particular expression he made when something was funnier than he wanted to admit." },
-    { "type": "narration", "content": "Marcus watched it and thought: I should be in that. And then: Why am I not in that?" },
-    { "type": "narration", "content": "What am I feeling right now?" },
-    { "type": "narration", "content": "He ran through it the way he sometimes did when something felt off and he couldn't name the thing. Tired? No — he'd slept fine. Better than fine. Out before midnight, up after seven, no interruptions. He was in shape. He'd run four miles on Wednesday. He wasn't sick. He'd eaten. He'd had two drinks and both were hours ago. The sun was warm. The company was good." },
-    { "type": "narration", "content": "So what was it." },
+    { "type": "narration", "content": "Marcus watched it and thought:" },
+    { "type": "internalThought", "content": "I should be in that. Why am I not in that?" },
+    { "type": "internalThought", "content": "What am I feeling right now?" },
+    { "type": "narration", "content": "He ran through it the way he sometimes did when something felt off and he couldn't name the thing." },
+    { "type": "internalThought", "content": "Tired? No — slept fine. Better than fine. Out before midnight, up after seven. I'm in shape. Ran four miles Wednesday. Not sick. Ate well. Two drinks, hours ago. Sun's warm. Company's good." },
+    { "type": "internalThought", "content": "So what is it." },
     { "type": "narration", "content": "The music kept going. The smoke drifted. Somewhere behind him Dean said something and Sophie laughed and Cade fired back and all of it reached Marcus like it was coming from a little further away than it actually was — not quiet, exactly, just muffled, like the world had turned down a notch while he wasn't paying attention. He was staring at the water. He wasn't sure how long he'd been doing that." },
     { "type": "dialogue", "speaker": "Cade", "content": "Marcus. Hey — Marcus." },
     { "type": "narration", "content": "He turned. Cade was standing a few feet away, arms crossed, looking at him with something that wasn't quite concern but was close to it." },
@@ -29,7 +31,8 @@
     { "type": "dialogue", "speaker": "Cade", "content": "Already told him the grill is off-limits." },
     { "type": "narration", "content": "Marcus smiled. It reached his eyes. He stood, said something brief to the group, got a wave from Sophie and a see-you-at-dinner from Wren without her looking up from her book." },
     { "type": "narration", "content": "He walked up the wooden walkway. Through the back door. Upstairs. His room." },
-    { "type": "narration", "content": "He took off his shoes. He lay on the bed on top of the covers and looked at the ceiling and thought: I'll sleep for an hour and then I'll feel fine." },
+    { "type": "narration", "content": "He took off his shoes. He lay on the bed on top of the covers and looked at the ceiling." },
+    { "type": "internalThought", "content": "I'll sleep for an hour and then I'll feel fine." },
     { "type": "narration", "content": "He was asleep in four minutes." }
   ]
 }

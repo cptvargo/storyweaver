@@ -5,12 +5,12 @@
   "bookId": "undertow",
   "blocks": [
     { "type": "narration", "content": "Before." },
-    { "type": "narration", "content": "Eight years is a long time to carry something." },
-    { "type": "narration", "content": "Most people would have let it go by now. That's what people do — they set things down and call it healing. They convince themselves it doesn't matter anymore, that they've grown past it, that some things aren't worth the weight. They forget what was taken from them and call it moving on." },
-    { "type": "narration", "content": "I never forgot." },
-    { "type": "narration", "content": "I've watched him across dinner tables and group chats and weekend trips for eight years. I've smiled at the right moments. Laughed at his jokes. Let him hug me hello, hugged him back, looked him in the eye like none of it was sitting inside me. I was so good at it that sometimes I almost believed it myself." },
-    { "type": "narration", "content": "Almost." },
-    { "type": "narration", "content": "People misunderstand patience. They think it means you've made peace with something. That if enough time has passed, the feeling behind it must have softened. That's not what patience is. Patience is time sharpened into a point. Patience is knowing exactly what you're going to do and choosing the right moment to do it." },
-    { "type": "narration", "content": "I've had eight years to sharpen." }
+    { "type": "internalThought", "content": "Eight years is a long time to carry something." },
+    { "type": "internalThought", "content": "Most people would have let it go by now. That's what people do — they set things down and call it healing. They convince themselves it doesn't matter anymore, that they've grown past it, that some things aren't worth the weight. They forget what was taken from them and call it moving on." },
+    { "type": "internalThought", "content": "I never forgot." },
+    { "type": "internalThought", "content": "I've watched him across dinner tables and group chats and weekend trips for eight years. I've smiled at the right moments. Laughed at his jokes. Let him hug me hello, hugged him back, looked him in the eye like none of it was sitting inside me. I was so good at it that sometimes I almost believed it myself." },
+    { "type": "internalThought", "content": "Almost." },
+    { "type": "internalThought", "content": "People misunderstand patience. They think it means you've made peace with something. That if enough time has passed, the feeling behind it must have softened. That's not what patience is. Patience is time sharpened into a point. Patience is knowing exactly what you're going to do and choosing the right moment to do it." },
+    { "type": "internalThought", "content": "I've had eight years to sharpen." }
   ]
 }
