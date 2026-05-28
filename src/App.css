@@ -1341,7 +1341,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  padding: 48px 32px 56px;
+  padding: 48px 32px max(64px, calc(48px + env(safe-area-inset-bottom, 16px)));
   background: linear-gradient(
     to top,
     rgba(5, 4, 14, 0.92) 0%,
@@ -1349,6 +1349,12 @@ body {
     rgba(5, 4, 14, 0.1) 75%,
     transparent 100%
   );
+  gap: 10px;
+}
+
+.chapter-intro__text {
+  display: flex;
+  flex-direction: column;
   gap: 10px;
 }
 
