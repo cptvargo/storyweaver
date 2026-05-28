@@ -4,20 +4,18 @@
   "chapterTitle": "Arrival",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Marcus felt it around eleven-thirty." },
-    { "type": "narration", "content": "Not dramatically — that was the thing. It wasn't a sudden collapse or a sharp wrongness. It was a gradual thickening, like the air around him had become slightly more resistant. His thoughts, which were normally fast and clear, began to feel like they were arriving from a greater distance. His limbs were heavy in the way they got sometimes after a run, except he hadn't run." },
-    { "type": "narration", "content": "He'd been in and out of the water twice. He'd had more water than coffee. He was healthy. He was always healthy." },
-    { "type": "narration", "content": "He put it down to sun and a later-than-normal sleep schedule and the particular kind of decompression that happened when a person who'd been running at full speed for months finally stopped." },
-    { "type": "narration", "content": "He told Dean he was going to lie down for a bit." },
-    { "type": "dialogue", "speaker": "Dean", "content": "You okay?" },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Yeah. Just tired. Probably the sun." },
-    { "type": "dialogue", "speaker": "Dean", "content": "Grab some water." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "I will." },
-    { "type": "narration", "content": "He walked back up the beach, up the wooden walkway, through the back door. Upstairs. His room. He took off his shoes. He lay on the bed on top of the covers." },
-    { "type": "narration", "content": "He thought: I'll sleep for an hour and then I'll feel fine." },
+    { "type": "narration", "content": "He walked back up the beach, up the wooden walkway, through the back door. Upstairs. His room. He took off his shoes. He lay on the bed on top of the covers and thought: I'll sleep for an hour and then I'll feel fine." },
     { "type": "narration", "content": "He was asleep in four minutes." },
-    { "type": "narration", "content": "Back on the beach, the group kept going. Cade found a second crab and held a brief funeral for the first one. Sophie drifted to the waterline and stood with her feet in the foam. Wren put her book down and looked at the sky. Dean topped off drinks. One by one, across the next hour, people found reasons to drift inside — sunscreen, snacks, a phone call, a bathroom." },
-    { "type": "narration", "content": "Nobody tracked who went when." },
-    { "type": "narration", "content": "Nobody thought to." }
+    { "type": "narration", "content": "On the beach, the afternoon kept going without him." },
+    { "type": "narration", "content": "Cade lasted maybe twenty minutes before he got restless. He announced he was going to walk the shore — there were shells apparently, good ones, further south where the tourists didn't get to. Nobody asked to come with him. Nobody tracked how long he was gone. Wren looked up from her book when he came back, sandy and empty-handed, and didn't comment." },
+    { "type": "dialogue", "speaker": "Cade", "content": "There were no shells. I just needed to walk." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know." },
+    { "type": "narration", "content": "Sophie went inside around two to shower before dinner. She had the upstairs to herself — everyone else was still on the beach or the porch. She was up there for a while. Nobody thought to time it." },
+    { "type": "narration", "content": "Dean made two trips to the kitchen across the afternoon. Ice, then drinks, then he stood at the counter for a few minutes doing something on his phone before coming back out. He didn't mention what." },
+    { "type": "narration", "content": "Wren stayed by the water the longest — book in her lap, feet in the wet sand where the tide came up. She could see the house from where she sat. She could also have walked to it in under a minute without anyone on the beach having a clear view of which door she used." },
+    { "type": "narration", "content": "Nadia stayed on the beach. She was there when Cade left and there when he came back. There when Dean made his kitchen trips. There when Sophie reappeared in fresh clothes with damp hair." },
+    { "type": "narration", "content": "Of everyone, she moved the least." },
+    { "type": "narration", "content": "Of everyone, she was the most consistently visible." },
+    { "type": "narration", "content": "Later, when it mattered, nobody could say with certainty where any of them had been and for how long. They'd been together all day — that much was true. But together, it turned out, had a lot of gaps in it." }
   ]
 }
