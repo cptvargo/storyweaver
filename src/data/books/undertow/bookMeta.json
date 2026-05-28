@@ -47,11 +47,15 @@
   ],
   "supportingCharacters": [
     "Inspector Ray Davenport",
+    "Mara Voss",
     "Sophie Laurent",
     "Cade Mercer",
     "Wren Cole",
     "Dr. Audra Mills"
   ],
+  "characterNotes": {
+    "Mara Voss": "Julian's colleague and closest contact. Dry humor, no nonsense, the one person who can get a real response out of him. She's the one who pushed him to take this vacation in the first place."
+  },
   "setting": [
     "Pelican Shore, North Carolina",
     "The beach house",
