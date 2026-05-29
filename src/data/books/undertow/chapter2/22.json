@@ -6,16 +6,14 @@
   "blocks": [
     { "type": "narration", "content": "Davenport came up to the porch. He didn't sit. He stood with his arms at his sides and his hat still on and looked at Julian the way he looked at things he was trying to decide how much weight to give." },
     { "type": "dialogue", "speaker": "Davenport", "content": "What did you notice?" },
-    { "type": "dialogue", "speaker": "Julian", "content": "I was walking the beach around eleven. Friday night. There was a bonfire — six people, the group next door. I wasn't watching them. I was passing. But I notice things." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "What kind of things." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The way people position themselves relative to each other. What they're looking at. What they're not looking at." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "What did you see in those six people." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Five of them were watching the fire or each other. The way people do at a bonfire. Easy, unguarded. The way you sit with people you know." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Friday night, around eleven. I was walking the beach. Your group next door had a fire going — six people. I wasn't stopping to watch. I was moving. But I read a room the same way other people breathe. I don't have to try." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What did you read." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Five of them were present. Watching the fire, watching each other, in the loose easy way people move when they're comfortable with the company. You know the posture — nobody's performing, nobody's tracking the time." },
     { "type": "dialogue", "speaker": "Davenport", "content": "And the sixth." },
-    { "type": "narration", "content": "Julian turned his mug in both hands." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The sixth was watching one specific person. Not the fire. Not the water. One person. Consistently. With the kind of attention that isn't conversation and isn't warmth. The kind that's — calculating is a strong word. Patient is more accurate." },
-    { "type": "narration", "content": "Davenport was quiet for a moment." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "And you're telling me this now because someone died in that house tonight." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I'm telling you because I noticed it last night, spent tonight trying to convince myself it was nothing, and then watched you arrive at one in the morning." }
+    { "type": "dialogue", "speaker": "Julian", "content": "The sixth had a fixed point. One person in that group, and only that person, for the entire time I was within line of sight. Not glancing. Not the way you look at someone you're fond of. Fixed. The attention was directional and deliberate and it had nothing warm in it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You got all of that walking past a bonfire at night." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I got all of that in about eight seconds. Yes." },
+    { "type": "narration", "content": "Davenport said nothing. Let it sit." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm telling you because I noticed it Friday, spent all of Saturday trying to file it away, and then watched you arrive with the lights going at one in the morning." }
   ]
 }
