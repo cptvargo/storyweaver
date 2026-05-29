@@ -14,6 +14,8 @@
     { "type": "dialogue", "speaker": "Marcus", "content": "I had blisters for a week." },
     { "type": "dialogue", "speaker": "Cade", "content": "Character-building blisters." },
     { "type": "narration", "content": "Nadia laughed with them. She had been on that trip. She remembered the blisters and the argument and Marcus carrying Wren's bag the last three miles because her shoulder was bothering her and nobody asking him to." },
+    { "type": "narration", "content": "Across the table, Dean said something low to Sophie that nobody else caught. She smiled at whatever it was — a private smile, the kind that belongs to two people and nobody else at the table. He refilled her glass without being asked. Small things. The kind that accumulate." },
+    { "type": "narration", "content": "The laughter continued. The candles moved." },
     { "type": "dialogue", "speaker": "Dean", "content": "Nadia. You're quiet again." },
     { "type": "dialogue", "speaker": "Nadia", "content": "Sorry. Just — it's nice. Being here. All of us. I was just taking it in." },
     { "type": "dialogue", "speaker": "Marcus", "content": "To taking it in." },
