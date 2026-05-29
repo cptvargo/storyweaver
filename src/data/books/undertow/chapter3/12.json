@@ -1,0 +1,23 @@
+{
+  "page": 12,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Back in the house next door, the conversation had moved to the living room. Nobody decided to move it — they just migrated, the way people do when they need a different room for a different kind of talking." },
+    { "type": "dialogue", "speaker": "Cade", "content": "The argument. Last night. Who was he calling?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Davenport has his phone. They'll pull the records." },
+    { "type": "dialogue", "speaker": "Cade", "content": "But we heard it. We all heard it. Two voices. His and someone else's." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "It could have been a client. You said yourself he always picked up." },
+    { "type": "dialogue", "speaker": "Dean", "content": "On a Saturday night that heated? That wasn't a client call." },
+    { "type": "dialogue", "speaker": "Cade", "content": "How do you know?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Because I've known Marcus for twenty-three years and I've heard him take client calls. He gets professional. He goes flat. What we heard through the ceiling was not flat." },
+    { "type": "narration", "content": "Nobody disagreed." },
+    { "type": "dialogue", "speaker": "Wren", "content": "It could have been someone from his past. Something we don't know about." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus didn't have enemies. He was the least — out of all of us, he was the one who didn't make enemies." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Everyone has something." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not Marcus." },
+    { "type": "narration", "content": "Wren looked at him for a moment. Then she looked out the window." },
+    { "type": "dialogue", "speaker": "Wren", "content": "We don't always know what people carry." }
+  ]
+}

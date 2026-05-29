@@ -1,0 +1,27 @@
+{
+  "page": 7,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "Sophie. You went upstairs to shower." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Around two. Yes. I was up there — I don't know. Forty minutes? Maybe more." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Alone." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Obviously alone, Dean." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I'm not implying anything. I'm asking the same questions Davenport is going to ask." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Then yes. I was alone. I showered, I dried my hair, I came back down in clean clothes. That's all." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I saw you come back down. Your hair was damp." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Thank you, Wren." },
+    { "type": "dialogue", "speaker": "Dean", "content": "But the forty minutes before that — no one can account for." },
+    { "type": "narration", "content": "Sophie stared at him." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I was in the shower, Dean. That's not a gap. That's just showering." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know that. I'm saying what it looks like from the outside." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "From the outside it looks like I took a shower on a beach trip. Which is what I did." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What about you, Dean. The kitchen." },
+    { "type": "narration", "content": "Dean didn't flinch." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I made two trips. Ice, then drinks. I stood at the counter for a few minutes on my phone — work thing, I was replying to an email. Then I came back out." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Anyone see you in the kitchen either time?" },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I don't think so. No." }
+  ]
+}

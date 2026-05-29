@@ -1,0 +1,20 @@
+{
+  "page": 5,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The word we landed on the table like something dropped from a height." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Wren." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I'm not saying anything you're not already thinking. I'm just saying it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's not — we've known each other for twenty years. We're not—" },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know that. I'm talking about what Davenport is thinking. Not what I'm thinking." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Which is why we need to be clear. About where everyone was. About everything that happened this weekend." },
+    { "type": "dialogue", "speaker": "Cade", "content": "We already talked to Davenport." },
+    { "type": "dialogue", "speaker": "Dean", "content": "We talked to Davenport individually. That's different. We haven't talked to each other." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "He told us not to." },
+    { "type": "dialogue", "speaker": "Dean", "content": "He told us not to discuss the details of the evening before we each gave our individual accounts. We've done that. We're past that." },
+    { "type": "narration", "content": "Nobody argued the point. Dean looked around the table — at Cade, at Sophie, at Wren, at Nadia." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I think we need to know where everyone was yesterday. All of us. Because if the police are going to look at us — and they are going to look at us — we need to understand what they're going to find." }
+  ]
+}

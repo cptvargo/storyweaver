@@ -1,0 +1,23 @@
+{
+  "page": 17,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "We tell the truth. Exactly what we told Davenport. We don't add to it, we don't change it, we don't try to fill in gaps that we genuinely don't remember. We stay consistent." },
+    { "type": "dialogue", "speaker": "Cade", "content": "And if they decide one of us did something." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Then they'll have to prove it. And they can't prove what didn't happen." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What if they decide it was me. The gambling thing — Marcus knew about Gideon. If that comes out, it gives me a motive. Money. Desperation." },
+    { "type": "narration", "content": "The word gambling landed in the room and reconfigured it slightly." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "What gambling thing." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I owe money. To someone I shouldn't owe money to. Marcus knew. He'd been — he was helping me figure out how to handle it." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "How much money." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Enough that it looks bad. Thirty-one thousand." },
+    { "type": "narration", "content": "Sophie looked at Dean. Dean looked at Cade." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You never told us." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I told Marcus. I was embarrassed." },
+    { "type": "dialogue", "speaker": "Dean", "content": "And now Marcus is dead and you're the one he was helping and you have no alibi for half the weekend." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I know how it sounds, Dean." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I'm not saying you did anything. I'm saying you need to get ahead of this before Davenport finds it himself." }
+  ]
+}

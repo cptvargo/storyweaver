@@ -1,0 +1,21 @@
+{
+  "page": 20,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Davenport", "content": "Say that again." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The locked door only eliminates one category of murder. Physical presence at the time of death. But whatever was done to Marcus — if something was done — didn't require being in the room with him when it happened. You do it before. He walks upstairs. He locks the door himself. And whatever is already inside him does the rest." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The water glass." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Something he consumed. Before he went up. The locked room isn't the alibi everyone thinks it is. It's actually evidence that the method was more deliberate than a crime of opportunity." },
+    { "type": "narration", "content": "Davenport leaned back in his chair. Looked at the ceiling for a moment. Then back at Julian." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "If you're right, we're looking at premeditation." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Someone who planned this before they arrived at that house." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Someone who planned it carefully enough that a locked door would do their work for them afterward. Make everyone conclude it was natural. Make the investigation difficult to sustain without physical evidence." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Tox screen takes six weeks standard." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I know. A good defense attorney knows that too. Six weeks is a long time. Long enough for a case to go cold if it doesn't have other legs." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You think this person knows how investigations work." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I think this person has thought about every variable. Including that one." }
+  ]
+}

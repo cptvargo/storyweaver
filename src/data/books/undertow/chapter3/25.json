@@ -1,0 +1,25 @@
+{
+  "page": 25,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian was back at his rental by one in the afternoon." },
+    { "type": "narration", "content": "He made coffee. Sat at the study table with the legal pad. Added what Davenport had told him — or rather, what Davenport had chosen not to tell him, which was sometimes more useful." },
+    { "type": "narration", "content": "They'd pulled the call records. Davenport had gone quiet at the mention of them. Quiet the way people go quiet when something is confirmed rather than when something is unknown." },
+    { "type": "internalThought", "content": "The call records tell him something. Something he's not sharing yet. Which means whoever Marcus was arguing with on Saturday night is either identifiable already — or connected to someone in that house." },
+    { "type": "narration", "content": "His phone buzzed. Mara." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Status report. And before you say you're not required to give me one — you're not, but you will anyway because that's how we work." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I gave my formal statement this morning." },
+    { "type": "dialogue", "speaker": "Mara", "content": "And?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "The inspector is sharper than he looks. He's holding something back on the phone records." },
+    { "type": "dialogue", "speaker": "Mara", "content": "So you're not done." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Not close." },
+    { "type": "dialogue", "speaker": "Mara", "content": "Julian. You were supposed to be back in the office on Wednesday." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Reschedule." },
+    { "type": "dialogue", "speaker": "Mara", "content": "I've rescheduled twice." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Then reschedule a third time. Mara — someone planned this carefully. I'm not leaving until I understand how." },
+    { "type": "narration", "content": "A long pause." },
+    { "type": "dialogue", "speaker": "Mara", "content": "I'll reschedule." }
+  ]
+}

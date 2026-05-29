@@ -1,0 +1,20 @@
+{
+  "page": 23,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Back at the house next door the afternoon had gone flat." },
+    { "type": "narration", "content": "After Cade's realization the conversation had mostly stopped. Not in an angry way — more the way conversations stop when they've arrived somewhere nobody wants to stay but nobody knows how to leave. Sophie had gone to lie down. Dean was on the porch with his phone. Cade was in the kitchen doing nothing in particular — opening the refrigerator, closing it, standing at the counter." },
+    { "type": "narration", "content": "Wren sat on the couch with her book open on her lap. She wasn't reading it." },
+    { "type": "narration", "content": "Nadia came downstairs at noon with her hair pulled back and fresh clothes. She looked at the room and registered its condition — the depleted energy, the separation." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Has anyone eaten anything." },
+    { "type": "dialogue", "speaker": "Cade", "content": "There's toast." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Real food. Let me make something." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You don't have to." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I need to do something with my hands." },
+    { "type": "narration", "content": "She went to the kitchen. Opened the refrigerator. Started pulling things out with the efficient quiet of someone who cooked to manage herself rather than for the pleasure of it." },
+    { "type": "narration", "content": "Cade watched her. He didn't say anything. He just watched." },
+    { "type": "narration", "content": "Wren, from the couch, watched too." }
+  ]
+}

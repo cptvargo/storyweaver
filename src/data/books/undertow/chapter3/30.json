@@ -1,0 +1,28 @@
+{
+  "page": 30,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "At seven o'clock Davenport called again." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The bracket. There are two fibers caught in the paint scrape. Synthetic. Dark colored. Consistent with athletic clothing." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Lab confirmation?" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Takes time. But it's enough for me to reclassify formally. This is a homicide investigation as of tonight." },
+    { "type": "narration", "content": "Julian let out a slow breath." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The house booking." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Working on it. The reservation was made through an intermediary — one member of the group suggested it but another one handled the actual booking." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Which one handled it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's an active part of the investigation, Mr. Crane." },
+    { "type": "narration", "content": "Julian almost smiled. Again." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I will say this — whoever handled the booking viewed the property listing seventeen times before making the reservation. Including the exterior photo gallery. Three times." },
+    { "type": "dialogue", "speaker": "Julian", "content": "They were looking at the window." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's one interpretation." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It's the right one." },
+    { "type": "narration", "content": "Davenport was quiet for a moment." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'll be at the house tomorrow morning. Eight o'clock." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'll be next door." },
+    { "type": "narration", "content": "He hung up. He sat in the dark study for a moment. The ocean was steady outside. Next door the lights were on — all of them, every room lit up as though the five people inside needed the brightness to hold off something that couldn't be held off." },
+    { "type": "narration", "content": "One of them had booked that house. Had looked at that window. Had counted on a locked door to close the case before it opened." },
+    { "type": "narration", "content": "The case was open." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 8,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cade", "content": "Wren." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I was by the water. The whole afternoon. I had my book." },
+    { "type": "dialogue", "speaker": "Cade", "content": "The whole afternoon." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Most of it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Most." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I went inside once for water. I was back in two minutes." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Did anyone see you at the water the whole time?" },
+    { "type": "dialogue", "speaker": "Wren", "content": "Nadia was on the beach. She could see me from where she was sitting." },
+    { "type": "narration", "content": "Everyone looked at Nadia." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I could see the water from where I was. I wasn't watching Wren specifically." },
+    { "type": "dialogue", "speaker": "Wren", "content": "That's fine. I'm just saying I was there." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Nadia. You stayed on the beach." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Yes. I was there when Cade left and when he came back. There when Sophie came out in clean clothes. There when Dean made his trips to the kitchen. I barely moved." },
+    { "type": "dialogue", "speaker": "Cade", "content": "So Nadia's the only one with a real alibi for the afternoon." },
+    { "type": "narration", "content": "He meant it as something close to a compliment. A relief. One person who could be cleanly accounted for." },
+    { "type": "narration", "content": "Nadia looked at her mug and said nothing." }
+  ]
+}

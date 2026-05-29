@@ -1,0 +1,23 @@
+{
+  "page": 10,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Dean's phone rang. He looked at the screen." },
+    { "type": "dialogue", "speaker": "Dean", "content": "It's Davenport." },
+    { "type": "narration", "content": "He answered on speaker without being asked. Nobody objected." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Inspector." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Ashby. I'm calling to let you all know the investigation is still active. I'll need you to remain at the property or within the immediate area for the next twenty-four to forty-eight hours." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Inspector — I want to ask you directly. The door to Marcus's room was locked from the inside. The window is a twenty-foot drop. Can you explain how you're treating this as anything other than natural causes?" },
+    { "type": "narration", "content": "A pause on the line." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I appreciate the question. I'm not in a position to discuss the specifics of an ongoing investigation." },
+    { "type": "dialogue", "speaker": "Dean", "content": "That's not an answer." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "No. It isn't. I'll be in touch." },
+    { "type": "narration", "content": "He hung up." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not in a position to discuss." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Which means there's something to discuss." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Which means we stay." },
+    { "type": "narration", "content": "He set the phone back down. The five of them sat in the kitchen of a beach house that no longer felt like a vacation." }
+  ]
+}

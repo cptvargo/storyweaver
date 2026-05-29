@@ -1,0 +1,20 @@
+{
+  "page": 15,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Cade stood up. Went to the window. Stood there with his back to the room looking at the beach." },
+    { "type": "narration", "content": "When he turned around his face had changed. Not broken — Cade didn't break easily — but something behind his eyes had shifted. Like a man who's been doing arithmetic for twenty minutes and finally arrived at a number he doesn't want." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yesterday afternoon — Cade alone on the beach, forty minutes, no one saw him. Sophie alone upstairs, forty minutes, no one saw her. Dean alone in the kitchen, no one saw him. Wren alone by the water, mostly." },
+    { "type": "narration", "content": "He held up a hand before anyone could speak." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Last night — everyone at the table, except everyone also got up at least once. Dean refills his drink, Wren uses the bathroom, Sophie gets wine, Nadia goes out for air." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Cade—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not one of us." },
+    { "type": "narration", "content": "He said it quietly. Almost to himself." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not one of us has a solid alibi. For any of it. The afternoon or the evening. Every single person in this room had time alone that nobody can confirm." },
+    { "type": "narration", "content": "The room went completely still." },
+    { "type": "narration", "content": "Outside the ocean kept going. Somewhere up the beach a gull called. The fan in the corner moved the air around." },
+    { "type": "narration", "content": "Five people who had known each other for over two decades sat in the silence of what Cade had just said and felt the ground shift beneath every assumption they'd walked in with." }
+  ]
+}

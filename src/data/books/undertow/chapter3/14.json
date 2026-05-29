@@ -1,0 +1,24 @@
+{
+  "page": 14,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "I was at the table. Almost the whole time." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Almost." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I got up once. To refill my drink." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "How long?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Two minutes. Three maybe." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I was at the table the whole time. I didn't move." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I went to the bathroom once. Around ten." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Me too. Getting the wine." },
+    { "type": "narration", "content": "They went quiet. Going through their own memories. The way you do when a normal evening suddenly requires accounting." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Nadia." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I was here. I stepped out to get some air — the back porch — for a few minutes. Maybe five, maybe ten. Then I came back in." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I didn't notice you go out." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "It wasn't a thing. I just needed air." },
+    { "type": "narration", "content": "A small silence. Not accusatory — just the silence of people filing information away without knowing why yet." },
+    { "type": "dialogue", "speaker": "Dean", "content": "So everyone had a gap. Somewhere in the evening. Even if it was small." },
+    { "type": "narration", "content": "He didn't say it like an accusation. He said it the way you state a fact when the fact is inconvenient." }
+  ]
+}

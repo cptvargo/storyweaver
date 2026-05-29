@@ -1,0 +1,21 @@
+{
+  "page": 24,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Dean came in from the porch. He looked at Nadia at the stove, at Cade at the counter, at Wren on the couch, and did the quiet inventory of a man who'd been watching people his whole life." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I spoke to Marcus's mother." },
+    { "type": "narration", "content": "Everything stopped." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Dean—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Davenport reached her last night. She already knew. I just — I needed to call her. I needed her to hear a voice she recognized." },
+    { "type": "dialogue", "speaker": "Cade", "content": "How is she." },
+    { "type": "dialogue", "speaker": "Dean", "content": "She's — she's his mother. She kept asking me what happened and I didn't have an answer and I just kept saying I don't know, I don't know, I'm so sorry." },
+    { "type": "narration", "content": "His voice broke slightly on the last word. He pressed his mouth together. Held it." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Dean." },
+    { "type": "narration", "content": "She had come downstairs at some point. She crossed the room and put her arms around him from behind and held on and Dean let her, one hand over hers." },
+    { "type": "narration", "content": "Cade looked at the ceiling. Blinked." },
+    { "type": "narration", "content": "Wren set her book down." },
+    { "type": "narration", "content": "Nadia turned back to the stove. Her jaw was tight. Her eyes were dry." }
+  ]
+}

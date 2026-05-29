@@ -1,0 +1,22 @@
+{
+  "page": 28,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport called back eleven minutes later." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm looking at it." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The porch roof is eight feet below the window ledge. The drainpipe bracket — third one up from the corner — it's been bent outward. Recently. The paint at the edge of the bracket is scraped." },
+    { "type": "narration", "content": "A pause. The sound of footsteps." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I see the bracket." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The window wasn't open because Marcus was warm. Or it wasn't only that. Someone came in through that window. After he was unconscious. The window was already open — the drugs made him feel overheated, he opened it himself before he went under. And someone used it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Used it to get in." },
+    { "type": "dialogue", "speaker": "Julian", "content": "And out. And then the door — locked from inside — becomes the perfect misdirection. Everyone looks at the door. Nobody looks at the window because it looks impossible. But it wasn't impossible. Not if you'd already planned your route. Not if you knew this house." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Who booked the house." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I don't know. But I'd start there." },
+    { "type": "narration", "content": "Another pause. Longer." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm going to need forensics on this bracket. And the porch roof." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Don't let the group see you looking at it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "This isn't my first time, Mr. Crane." }
+  ]
+}

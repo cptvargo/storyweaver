@@ -1,0 +1,22 @@
+{
+  "page": 13,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The morning stretched. Someone made more coffee. Someone turned on a fan. The house had that quality it gets when people have been inside it too long — slightly stale, slightly too warm, all the small irritants of other people's habits suddenly louder." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "We haven't talked about the evening. After dinner." },
+    { "type": "dialogue", "speaker": "Dean", "content": "What about it." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "We did the afternoon. But after dinner — after the argument stopped — what was everyone doing?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "We were all here. At the table. Doing dishes." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "All of us. The whole time." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yeah." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Are you sure? Because I remember getting up for wine. And going to the bathroom. People were moving around." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I mean — generally. We were all here." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "But not every minute." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Sophie, nobody tracks every minute at dinner." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "No. I know. I'm saying — after the argument stopped, between nine forty-five and when you went upstairs at ten-thirty — can any of us say exactly where everyone was every minute of that time?" },
+    { "type": "narration", "content": "Nobody answered. Which was an answer." }
+  ]
+}

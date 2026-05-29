@@ -1,0 +1,18 @@
+{
+  "page": 11,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian heard the phone call through the wall." },
+    { "type": "narration", "content": "Not the words — just the tenor. One voice that carried, the flat tone of a speaker. Then silence. Then the quality of five people processing something at the same time." },
+    { "type": "narration", "content": "He was at the kitchen table with his legal pad. He'd been up since five. He'd filled three pages." },
+    { "type": "narration", "content": "He looked at what he'd written." },
+    { "type": "internalThought", "content": "The locked door is the argument they're all making. The argument that almost works. Door locked from inside, window impossible, therefore nobody got in. Therefore natural." },
+    { "type": "internalThought", "content": "But natural causes don't open windows on cold nights. Natural causes don't explain someone tracking a man at a bonfire with the patience of someone who's already decided." },
+    { "type": "narration", "content": "He wrote a single line at the top of a clean page." },
+    { "type": "narration", "content": "The door was never the way in." },
+    { "type": "narration", "content": "He stared at it. Underlined it." },
+    { "type": "narration", "content": "His statement at the station was at ten o'clock. He had two hours. He was going to need them." }
+  ]
+}

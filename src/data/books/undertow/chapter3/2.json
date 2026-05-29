@@ -1,0 +1,20 @@
+{
+  "page": 2,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "I've been thinking about the door." },
+    { "type": "narration", "content": "Nobody asked him to continue. He continued anyway." },
+    { "type": "dialogue", "speaker": "Dean", "content": "The privacy latch. The kind you twist from inside. You can't turn it from outside — there's no mechanism for it. And the window—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Dean." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I need to say this out loud. The window is a twenty-foot drop to the beach. Nobody went out the window. And the door was locked from the inside. So whatever happened to Marcus — nobody did it. Nobody could have gotten in." },
+    { "type": "narration", "content": "The kitchen was quiet. The ocean came through the window screen." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You think it was natural." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I think the physical reality of that room makes it extremely difficult to conclude otherwise." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Then why are we still here? If it was natural why won't they let us leave?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "Because they have to rule things out formally. That's procedure. It doesn't mean—" },
+    { "type": "dialogue", "speaker": "Sophie", "content": "It means something, Dean. They don't keep five people from leaving a beach house because of procedure." },
+    { "type": "narration", "content": "Dean opened his mouth. Closed it. He didn't have a clean answer for that and everyone in the room knew it." }
+  ]
+}

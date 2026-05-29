@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cade", "content": "You want us to alibi each other." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I want us to understand what we can and can't account for. Before someone else does it for us." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "This feels wrong." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "These are our friends, Dean. Marcus just died. And we're sitting here—" },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know how it feels. But if there's any chance this wasn't natural — and Davenport clearly thinks there is — then we need to be ahead of it. Not behind it." },
+    { "type": "narration", "content": "Sophie looked at Wren. Wren gave the smallest nod — barely visible, the kind that said I don't like it either but he's right." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Fine. Yesterday afternoon then. After Marcus went upstairs." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Start there." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I walked the beach. Alone. I was gone maybe forty minutes, came back empty handed. You all remember I came back without any shells." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I remember." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Anyone see me out there?" },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I was inside by then. I didn't see you." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I saw you leave. I didn't watch where you went." },
+    { "type": "dialogue", "speaker": "Cade", "content": "So nobody can actually confirm where I was for forty minutes." },
+    { "type": "narration", "content": "He said it matter-of-factly. Like he was reporting something about someone else." }
+  ]
+}

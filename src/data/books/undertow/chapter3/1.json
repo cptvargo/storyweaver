@@ -1,0 +1,19 @@
+{
+  "page": 1,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Sunday morning arrived the way mornings do after the worst nights — indifferent, bright, the ocean doing its same thing it always did." },
+    { "type": "narration", "content": "The crime scene tape across Marcus's door was yellow. That was the part that felt wrong somehow, on top of everything else. Yellow was the wrong color for what it meant. It stretched across the door frame and nobody on the upper floor walked near it." },
+    { "type": "narration", "content": "By eight o'clock everyone was downstairs. Nobody had slept — or nobody had slept enough for it to count. Cade had a coffee he wasn't drinking. Sophie was at the window with her arms wrapped around herself looking at the beach like she was trying to remember what it had felt like to be happy to be here. Dean sat at the table with his phone face-down in front of him. Wren had made toast that nobody ate." },
+    { "type": "dialogue", "speaker": "Wren", "content": "There's eggs if anyone wants them." },
+    { "type": "narration", "content": "Nobody wanted them." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What time did Davenport say he'd be back?" },
+    { "type": "dialogue", "speaker": "Dean", "content": "He didn't. He said stay local. That was it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Stay local. So we just — what. Sit here." },
+    { "type": "dialogue", "speaker": "Dean", "content": "For now. Yes." },
+    { "type": "narration", "content": "Nadia sat at the far end of the table with her hands wrapped around her mug. She hadn't said much since the night before. Nobody had pushed her on it. Grief looked different on different people and everyone in the room was giving everyone else the space they needed." },
+    { "type": "narration", "content": "That was the last morning it would feel that simple." }
+  ]
+}

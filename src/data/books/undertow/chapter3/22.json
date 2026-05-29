@@ -1,0 +1,24 @@
+{
+  "page": 22,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "The formal statement took forty minutes. Davenport walked him through everything in sequence — the time of the walk, the exact position relative to the bonfire, the description of the group, the detail he'd flagged, the window observation, the timeline of what he'd heard through the wall after the police arrived. Julian gave it all in the same clean, unembellished way he gave everything. No speculation. Just what he'd observed and when." },
+    { "type": "narration", "content": "When it was done Davenport turned off the recorder." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Off record. Do you have a theory." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Theories come after evidence. I have a direction." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Give me the direction." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Someone in that group came to that beach house with a plan. The plan required being trusted. Being above suspicion. Being patient enough to wait for the right moment and disciplined enough not to break before it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That describes five different people." },
+    { "type": "dialogue", "speaker": "Julian", "content": "For now. Yes." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How do we narrow it." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The phone call. What Marcus argued about Saturday night — that matters. Not just who he was calling. What the call was about. Someone knew something that night and Marcus knew they knew it." },
+    { "type": "narration", "content": "Davenport looked at him steadily." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We pulled his call records this morning." },
+    { "type": "dialogue", "speaker": "Julian", "content": "And?" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "And that's an active part of the investigation, Mr. Crane." },
+    { "type": "narration", "content": "Julian almost smiled." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Of course." }
+  ]
+}

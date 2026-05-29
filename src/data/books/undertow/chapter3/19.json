@@ -1,0 +1,21 @@
+{
+  "page": 19,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian arrived at the Carteret County station at five to ten." },
+    { "type": "narration", "content": "It was a small building for a small jurisdiction — two deputies behind a front desk, a waiting area with four chairs, a coffee machine that looked like it had been there since the building was new. Davenport was waiting for him in a room just off the main hall. Hat on the table. Coffee in a styrofoam cup." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Crane. Sit down." },
+    { "type": "narration", "content": "Julian sat. Davenport had a recorder on the table and a notepad and the look of a man who hadn't slept but had made peace with it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Before we start — I spoke with the group this morning. They made the same argument you'd expect. Door locked from inside, window is a twenty-foot drop. They want me to close it as natural." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I know. I heard them talking." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Through the wall." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It travels." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Their logic isn't wrong. Technically." },
+    { "type": "dialogue", "speaker": "Julian", "content": "No. It's not wrong. It just starts from the wrong premise." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Meaning." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The locked room tells you nobody was in the room when he died. It doesn't tell you nobody did anything to him before he went into that room." },
+    { "type": "narration", "content": "Davenport's pen stopped." }
+  ]
+}

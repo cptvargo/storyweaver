@@ -1,0 +1,21 @@
+{
+  "page": 16,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Sophie", "content": "Stop. Just — stop. You can hear what you're saying, right?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I'm not accusing anyone." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "It sounds like you are." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I'm saying what Davenport is going to say. I'm saying what any investigator is going to look at when they go through this weekend. We spent the afternoon apart, one by one, no witnesses. We spent the evening together except when we weren't. Marcus is dead upstairs. And none of us can account for where we were during the windows that matter." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Which still doesn't explain the locked room." },
+    { "type": "dialogue", "speaker": "Cade", "content": "No. It doesn't. I'm not saying one of us did it. I'm saying if someone wanted to make a case — if someone was looking — they would look at us. All of us. Equally." },
+    { "type": "narration", "content": "Dean's jaw tightened. Sophie had her arms wrapped around herself again. Wren was very still." },
+    { "type": "dialogue", "speaker": "Wren", "content": "He's right." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Wren—" },
+    { "type": "dialogue", "speaker": "Wren", "content": "He's right. I don't like it any more than you do. But he's right. To anyone looking in from outside — we all had opportunity. We all had proximity. And none of us can prove we didn't." },
+    { "type": "narration", "content": "She said it the same way she said most things — quietly, carefully, like every word had been weighed before it was allowed out." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "So what do we do." },
+    { "type": "narration", "content": "Nobody had an answer for that." }
+  ]
+}

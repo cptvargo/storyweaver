@@ -1,0 +1,22 @@
+{
+  "page": 4,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cade", "content": "So you think someone—" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I think Davenport labeled it suspicious for a reason. And I think we're sitting here trying to talk ourselves into natural causes because the alternative is something none of us wants to say out loud." },
+    { "type": "narration", "content": "Another silence. Longer this time." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Say it then." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Someone in his life wanted him dead. And this weekend gave them the opportunity." },
+    { "type": "dialogue", "speaker": "Dean", "content": "His life. Not necessarily someone in this house." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "No. Not necessarily." },
+    { "type": "dialogue", "speaker": "Cade", "content": "The phone call. Whoever he was arguing with Saturday night." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Exactly. It could be someone completely outside this group. A business deal gone wrong. Someone we've never met." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Then why can't we leave." },
+    { "type": "narration", "content": "She kept coming back to that. It was the thing she couldn't get past and honestly nobody else could either. If the threat was external — if it was a business deal, a stranger, someone in Marcus's world they didn't know — then five grieving friends were irrelevant. You let them go home. You didn't hold them at a beach house while you figured it out." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Because we're the ones who were here." },
+    { "type": "narration", "content": "She said it simply. Like the answer had been obvious all along." },
+    { "type": "dialogue", "speaker": "Wren", "content": "We're the only people who were with him. Of course they're not letting us leave." }
+  ]
+}

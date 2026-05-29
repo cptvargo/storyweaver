@@ -1,0 +1,24 @@
+{
+  "page": 9,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Sophie", "content": "So Cade was alone on the beach. I was alone upstairs. Dean was alone in the kitchen. Wren was mostly alone at the water." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "And Marcus was upstairs. Alone. Door locked." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "So we were all just — separately, all at the same time, with no one to confirm where we were." },
+    { "type": "narration", "content": "She wasn't accusing anyone. She was doing the same math Dean had started. Just arriving at the answer out loud, for the whole room to hear." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's not unusual. We were on a beach trip. People drift apart. Nobody signs in and out." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I know. I'm just saying how it looks." },
+    { "type": "dialogue", "speaker": "Wren", "content": "It looks like a normal afternoon." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "It looks like nobody can confirm where anyone was for close to an hour." },
+    { "type": "narration", "content": "Cade pushed back from the table slightly. Not leaving — just needing space between himself and what was being said." },
+    { "type": "dialogue", "speaker": "Cade", "content": "We're talking about ourselves like we're— like any of us would actually—" },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cade", "content": "These are us. We've known each other since college." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I know, Cade." },
+    { "type": "narration", "content": "The ocean came through the screen. A cloud crossed the sun and the kitchen dimmed for a moment and then brightened again." }
+  ]
+}

@@ -63,11 +63,11 @@
     "The beach",
     "The locked room"
   ],
-  "totalChapters": 2,
+  "totalChapters": 3,
   "chapterCountPlanned": 10,
   "status": "in-progress",
   "author": "StoryWeaver",
-  "readingTime": "~4 hrs (Chapters 1–2)",
+  "readingTime": "~6 hrs (Chapters 1–3)",
   "contentRating": "Teen+",
   "cover": "/undertow.png",
   "coverTone": "dark, coastal, moody, suspenseful",
@@ -84,6 +84,13 @@
       "title": "The Room",
       "image": "/undertow_chapter2_theroom.png",
       "mood": "The door is open. The cold is already inside. Everything changes in the next five minutes.",
+      "totalPages": 30
+    },
+    {
+      "chapterIndex": 3,
+      "title": "No Alibi",
+      "image": "/undertow_chapter2_theroom.png",
+      "mood": "Sunday morning. Five friends. No one can account for where they were. And someone is starting to notice.",
       "totalPages": 30
     }
   ],

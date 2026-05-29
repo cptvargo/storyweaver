@@ -1,0 +1,19 @@
+{
+  "page": 18,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Cade's gambling debt was now in the room and it would not be leaving. Sophie looked at him the way you look at someone you've known for years and realize there are parts of them you didn't know at all. Wren said nothing, which was her way." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "For what it's worth — Cade, I don't think anyone here thinks you did anything." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You don't know that. You can't know that. I don't even know what any of you actually think right now." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I think we're all scared. I think we're all trying to make sense of something that doesn't make sense yet. And I think Marcus is gone and nothing we say in this room today changes that." },
+    { "type": "narration", "content": "It was a kind thing to say. A true thing. Cade looked at her and for a moment the gratitude on his face was raw and unguarded." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I just keep thinking about him on the beach yesterday. Telling me he was fine. Looking me in the eye." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "He probably was fine. He probably didn't know anything was wrong." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That doesn't make it better." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "I know." },
+    { "type": "narration", "content": "They sat with that. There wasn't anything to add to it." },
+    { "type": "narration", "content": "Across the room Nadia looked down at her hands. Quiet. Still. The same composure she'd worn since the night before, like a coat that fit too well." }
+  ]
+}

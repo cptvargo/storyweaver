@@ -1,0 +1,24 @@
+{
+  "page": 3,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Wren", "content": "His heart. Couldn't it have been his heart?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "He was thirty years old." },
+    { "type": "dialogue", "speaker": "Wren", "content": "It happens." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He ran. He ate clean. He went to the doctor every year, I know he did because he always texted me his results like I was his personal physician." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "The blood pressure." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He'd been off the medication for two years. He told me." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Maybe he went back on it. Maybe he didn't tell you." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Maybe." },
+    { "type": "narration", "content": "He didn't sound convinced. He sounded like someone trying to build a house out of materials that kept shifting." },
+    { "type": "dialogue", "speaker": "Dean", "content": "It doesn't matter what it was. The point is the door was locked and the window is impossible. Which means whatever happened, happened to him alone. Nobody else was in that room." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "We don't know that." },
+    { "type": "narration", "content": "She said it quietly. Still looking at her mug. Everyone turned to look at her." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "We know the door was locked. We know the window looks impossible. That's not the same as knowing nobody was in that room." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Nadia — how? How would someone get in and out?" },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I don't know. I'm just saying we don't know." },
+    { "type": "narration", "content": "The word hung there. Nobody picked it up." }
+  ]
+}
