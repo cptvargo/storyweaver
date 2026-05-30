@@ -1,0 +1,27 @@
+{
+  "page": 31,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport called back nine minutes later." },
+    { "type": "callStart", "caller": "Ray Davenport", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm looking at the bracket." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Someone accessed that window. I don't know how yet — the drop is twenty feet and there's nothing obvious to climb. But the bracket tells me they were there. The scrape is recent." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Twenty feet is twenty feet, Mr. Crane. Nobody goes in or out of a window twenty feet up without—" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Without what. Without leaving evidence on the bracket? They left evidence on the bracket." },
+    { "type": "narration", "content": "Silence." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm not telling you I know how they did it. I'm telling you they did it. The how comes later. What matters right now is the bracket says the window was used, the door was locked from the inside, and those two things together mean this room isn't as sealed as everyone thinks." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "If someone came in through the window — they couldn't have gone back out the same way. Not from inside." },
+    { "type": "dialogue", "speaker": "Julian", "content": "No. They went out the door." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Which was locked from the inside." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "So they locked it — from the outside — after leaving." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Now you're asking the right question." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Get forensics on that bracket tonight. Don't let the group see them working the exterior." },
+    { "type": "callEnd" },
+    { "type": "narration", "content": "He looked at what he'd written." },
+    { "type": "narration", "content": "Window used. How — unknown. Twenty feet. Figure it out." },
+    { "type": "narration", "content": "He underlined the last three words." }
+  ]
+}

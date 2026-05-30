@@ -4,16 +4,22 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "The afternoon next door had gone quiet. Julian could feel it more than hear it — the absence of the sharp overlapping voices from the morning. People had separated. The house had stopped trying to contain the conversation and let everyone drift to their own corners." },
-    { "type": "narration", "content": "He went for a walk at three. The beach was mostly empty — midweek, shoulder season, the vacationers mostly gone. He walked south, the same direction he'd walked Friday night." },
-    { "type": "narration", "content": "He stopped where the bonfire had been." },
-    { "type": "narration", "content": "Just a ring of sand now. Ash and the ghost of warmth that wasn't there anymore. He stood at the edge of it and looked back at the beach house from the angle he'd had Friday night — the distance, the firelight, the six shapes." },
-    { "type": "narration", "content": "He oriented himself. Where the fire had been. Where the six people had been arranged around it. Where he'd been walking." },
-    { "type": "internalThought", "content": "From this angle. Moving south. The fire to my left. Two people close to the flames, sitting forward. One standing just behind. One with her back to the water. One at the far right edge." },
-    { "type": "internalThought", "content": "And one — slightly behind the others, turned not toward the fire but toward the person at the edge. Consistently. The whole time I was in sightline." },
-    { "type": "narration", "content": "He looked at the ash ring." },
-    { "type": "narration", "content": "He looked at the house." },
-    { "type": "narration", "content": "He pulled out his notepad and sketched the arrangement from memory. Six positions. The fire. The angles." },
-    { "type": "narration", "content": "Then he circled one." }
+    { "type": "dialogue", "speaker": "Joyce", "content": "When they — when they release him. I need to know when they release him." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I'll find out. I'll call you as soon as I know anything." },
+    { "type": "dialogue", "speaker": "Joyce", "content": "I need to see him. I know that sounds — I just need to see my son." },
+    { "type": "dialogue", "speaker": "Dean", "content": "I know. We'll make sure that happens. I promise." },
+    { "type": "dialogue", "speaker": "Joyce", "content": "Promise me something else." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Anything." },
+    { "type": "dialogue", "speaker": "Joyce", "content": "Find out what happened to him. Whatever it takes. You find out." },
+    { "type": "narration", "content": "Dean stared at the water." },
+    { "type": "dialogue", "speaker": "Dean", "content": "We will. I promise you we will." },
+    { "type": "dialogue", "speaker": "Joyce", "content": "He loved you, you know. All of you. He used to say that group of people was his second family. He never stopped saying that." },
+    { "type": "dialogue", "speaker": "Dean", "content": "He was ours too." },
+    { "type": "narration", "content": "She said goodbye quietly. He said it back. Then the line went silent and he stood on the porch for a long time with his phone at his side and the ocean in front of him doing its indifferent thing." },
+    { "type": "callEnd" },
+    { "type": "narration", "content": "Find out what happened to him." },
+    { "type": "narration", "content": "He didn't know yet that there was something to find out. He thought he was making a promise to a grieving mother about a mystery that might never be solved." },
+    { "type": "narration", "content": "He would remember those words later. When everything changed. He would remember that she'd known before any of them — not what happened, but that it mattered. That it had to be found." },
+    { "type": "narration", "content": "He went back inside." }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "page": 33,
+  "chapter": 3,
+  "chapterTitle": "No Alibi",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "At seven o'clock Davenport called." },
+    { "type": "callStart", "caller": "Ray Davenport", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The bracket. Two synthetic fibers in the paint scrape. Dark colored. Athletic clothing, most likely." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The booking." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Working on it. One member suggested the trip. Another handled the actual reservation — viewed the property listing seventeen times. The exterior photo gallery, three times." },
+    { "type": "dialogue", "speaker": "Julian", "content": "They were looking at the window." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's one interpretation." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It's the only interpretation." },
+    { "type": "narration", "content": "A silence." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm reclassifying. Homicide investigation as of tonight." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Good." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'll be at the house tomorrow. Eight o'clock. I'd like you available." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'll be next door. Inspector — the phone call. Whatever you found in those records. You're going to need to tell me soon." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "When I'm ready." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Before that." },
+    { "type": "callEnd" },
+    { "type": "narration", "content": "He sat in the dark for a long moment. The ocean outside. The lit windows of the house next door — every room on, like the five people inside were afraid of what darkness might let them think about." },
+    { "type": "internalThought", "content": "One of them booked that house. Looked at that window. Counted on a locked door and a twenty-foot drop to close the case. They planned every detail of this." },
+    { "type": "internalThought", "content": "Every detail except me." },
+    { "type": "narration", "content": "He turned back to the legal pad. He had work to do." }
+  ]
+}
