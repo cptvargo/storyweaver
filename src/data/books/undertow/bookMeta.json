@@ -64,11 +64,11 @@
     "The locked room"
   ],
   "pov": "Julian",
-  "totalChapters": 3,
+  "totalChapters": 4,
   "chapterCountPlanned": 10,
   "status": "in-progress",
   "author": "StoryWeaver",
-  "readingTime": "~6 hrs (Chapters 1–3)",
+  "readingTime": "~8 hrs (Chapters 1–4)",
   "contentRating": "Teen+",
   "cover": "/undertow.png",
   "coverTone": "dark, coastal, moody, suspenseful",
@@ -93,6 +93,13 @@
       "image": "/undertow_chapter3_noalibi.png",
       "mood": "Sunday morning. Five friends. No one can account for where they were. And someone is starting to notice.",
       "totalPages": 33
+    },
+    {
+      "chapterIndex": 4,
+      "title": "The Call",
+      "image": "/undertow_chapter3_noalibi.png",
+      "mood": "The name Gideon Price changes everything. And then changes again when Julian says a different name out loud for the first time.",
+      "totalPages": 30
     }
   ],
   "themes": [

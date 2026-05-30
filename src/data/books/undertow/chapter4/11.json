@@ -1,0 +1,21 @@
+{
+  "page": 11,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "By noon Cade had made lunch nobody asked for. He put it on the kitchen table and went to get the others and everyone came because eating something was easier than explaining why they weren't eating something." },
+    { "type": "narration", "content": "They ate mostly in silence. The kind of silence that has given up trying to be comfortable." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I should have told you. All of you. About Price, about the debt. I'm sorry I didn't." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You don't have to—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I do. Because now it's out and it's in the middle of all of this and I put it there by not being honest sooner." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "You were embarrassed." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I was embarrassed. And I was scared. And I told Marcus because Marcus was the one person I could tell things to without feeling like they'd look at me differently afterward." },
+    { "type": "narration", "content": "Nobody spoke for a moment. The use of past tense hit the table." },
+    { "type": "dialogue", "speaker": "Wren", "content": "He wouldn't have looked at any of us differently. That was just who he was." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Wren", "content": "So stop apologizing for going to him. He would have wanted you to." },
+    { "type": "narration", "content": "Cade pressed his mouth together. Nodded once." },
+    { "type": "narration", "content": "Nadia picked up her fork. Ate." }
+  ]
+}

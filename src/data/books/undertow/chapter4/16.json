@@ -1,0 +1,21 @@
+{
+  "page": 16,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian texted Davenport." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Price is closed. Focus on the house." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Still have to run it out. Can't close a thread on instinct." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "I know. Run it out. But you already know where this ends." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "You don't know that." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "The booking. Who steered Marcus toward this house." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Working on it. Property manager confirmed reservation was in Calloway's name. But one member of the group emailed him a listing link three weeks before booking. Still tracing which member." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "When you find out - don't tell them you know. Not yet." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "You want them comfortable." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "I want them talking. Comfortable people talk." },
+    { "type": "narration", "content": "He put the phone down. Stood up. Went to the window." },
+    { "type": "narration", "content": "The house next door. All the lights on again as darkness came in from the water. Five people inside, each one carrying their version of the weekend, each one showing him something different every time he looked." },
+    { "type": "internalThought", "content": "Someone in there sent Marcus that listing. Someone looked at that exterior photo three times and saw exactly what they needed." }
+  ]
+}

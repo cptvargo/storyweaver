@@ -1,0 +1,21 @@
+{
+  "page": 12,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean", "content": "What do we actually know about Price. Any of us. Has anyone ever met him?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I haven't. I've spoken to people who work for him. That's as close as I've gotten." },
+    { "type": "dialogue", "speaker": "Dean", "content": "And Marcus called him directly." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Apparently." },
+    { "type": "dialogue", "speaker": "Dean", "content": "How would Marcus even get a direct number for someone like that." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus could get anything. You know that. He knew people who knew people and he was good enough with people that doors opened." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Do you think Price did it." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I told Davenport the same thing I'll tell you. It doesn't fit. Price doesn't work that way." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "People like that have people who do things for them." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Not like this. A hit from someone like Price looks like a car accident. Or a robbery. Or just someone disappearing. It doesn't look like — this." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Dean", "content": "So then what does it look like." },
+    { "type": "narration", "content": "Nobody answered. Because the answer was the same one they'd been circling since Sunday morning, and it was the one none of them wanted to land on." }
+  ]
+}

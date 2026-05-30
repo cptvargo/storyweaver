@@ -1,0 +1,20 @@
+{
+  "page": 24,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Tuesday morning. Day three." },
+    { "type": "narration", "content": "The house next door woke up slowly. Julian watched the lights come back on, room by room, the reverse of last night in rough order. The kitchen first — Cade, always Cade, making something — and then Dean, and then the others filtering down." },
+    { "type": "narration", "content": "He thought about how people could sustain this. Five people who had known each other for over twenty years, trapped in a house with a secret between them that most of them didn't know existed. Each morning they had to decide how to be in the same room as each other. Each meal they had to find something to say." },
+    { "type": "narration", "content": "And one of them sat down to breakfast every morning knowing exactly what had happened in that room upstairs." },
+    { "type": "internalThought", "content": "That's an almost impossible thing to sustain. The cognitive load of it — maintaining the performance, monitoring the investigation, tracking who knows what — for days on end, with no relief." },
+    { "type": "internalThought", "content": "Most people would crack. A tell, an overreaction, something." },
+    { "type": "internalThought", "content": "This person hasn't cracked. Which tells me exactly how long they've been doing this." },
+    { "type": "narration", "content": "His phone buzzed." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Provider came through. The listing email sent to Calloway traces to a secondary account registered under a false name. But the device that created the account—" },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "IP address places it at a coffee shop in Charlotte. Three weeks before the trip." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Who in the group is from Charlotte." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "One person." }
+  ]
+}

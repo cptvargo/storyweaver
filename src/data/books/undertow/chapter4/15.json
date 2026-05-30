@@ -1,0 +1,26 @@
+{
+  "page": 15,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport called Julian at four." },
+    { "type": "callStart", "caller": "Ray Davenport", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We located Price." },
+    { "type": "dialogue", "speaker": "Julian", "content": "And." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "He has an alibi for Saturday night. A very solid one involving approximately forty people at a private event in Raleigh. He was on camera multiple times between eight PM and one AM." },
+    { "type": "dialogue", "speaker": "Julian", "content": "So Price didn't do it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Price didn't do it himself. Doesn't eliminate him ordering it." },
+    { "type": "dialogue", "speaker": "Julian", "content": "A contract hit through a locked window and a piano wire lock. That's not how contracted violence works and you know it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You're very certain about how things work." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm certain about pattern. Whoever did this has been planning for a long time and has a specific, personal reason. You don't hire that out. You do it yourself." },
+    { "type": "narration", "content": "A pause." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Price confirmed the call happened. Said Marcus called to negotiate Mercer's debt. Said it was a productive conversation. Said he was considering the offer." },
+    { "type": "dialogue", "speaker": "Julian", "content": "And now Marcus is dead and the offer disappears." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Yes. Which is inconvenient for Price." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Which is why he didn't kill him." },
+    { "type": "callEnd" },
+    { "type": "narration", "content": "Julian set his phone down. He looked at his legal pad. The Price thread was closing." },
+    { "type": "narration", "content": "Which meant the only thread left ran back into that house." }
+  ]
+}

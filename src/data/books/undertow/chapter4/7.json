@@ -1,0 +1,22 @@
+{
+  "page": 7,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "They were in the kitchen for forty minutes." },
+    { "type": "narration", "content": "When Cade came back into the living room he looked like someone who had just spent forty minutes being the most honest they'd ever been about something they were deeply ashamed of. He sat back in his chair. He didn't look at anyone." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Are you okay." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Fine." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Cade—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I told him everything. The debt, how long, how I got into it, what Marcus knew. Everything. I figured it was better coming from me than from whatever they find when they start pulling records." },
+    { "type": "dialogue", "speaker": "Dean", "content": "That was the right call." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Is it. Because now there's a name — a name with a record — connected to Marcus on the night he died, and I'm the one who introduced that name into his life." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "That's not your fault." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Marcus called Gideon Price on Saturday night. Because of me. Whatever happened after that — whatever that call started—" },
+    { "type": "dialogue", "speaker": "Wren", "content": "Stop. Don't do that." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Don't do what." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Decide you caused it before you know what it is." },
+    { "type": "narration", "content": "Cade looked at her. His jaw worked. He looked away." }
+  ]
+}

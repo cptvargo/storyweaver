@@ -1,0 +1,24 @@
+{
+  "page": 29,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Wren came back an hour later." },
+    { "type": "narration", "content": "She came in through the front door and went straight to the kitchen and got a glass of water and stood at the counter with it. Her face was the same as always — quiet, composed. But her eyes were tired in a specific way that wasn't physical." },
+    { "type": "dialogue", "speaker": "Cade", "content": "How was it." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Fine. He was patient." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Did you tell him what you told me." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I told him what I remembered. Which wasn't enough to say anything specific." },
+    { "type": "dialogue", "speaker": "Cade", "content": "But you told him." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Yes." },
+    { "type": "narration", "content": "Nadia was at the table. Reading her book. She didn't look up during this conversation." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Good. That was the right thing." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know." },
+    { "type": "narration", "content": "She drank her water. Set the glass down." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I just want whoever did this to be found. That's all I want." },
+    { "type": "narration", "content": "She looked at the table when she said it." },
+    { "type": "narration", "content": "At no one in particular." },
+    { "type": "narration", "content": "At everyone." }
+  ]
+}

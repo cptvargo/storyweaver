@@ -1,0 +1,21 @@
+{
+  "page": 5,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "In the kitchen, Davenport sat across from Cade at the small table near the window. Detective Serrano had taken over the living room. Outside, the ocean was doing what it always did." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Start from the beginning. How long have you owed this money." },
+    { "type": "dialogue", "speaker": "Cade", "content": "The original debt was about two years ago. Sports betting. I got in deeper than I should have with a private bookmaker — not Price, someone else. That debt got sold about eight months ago. Price acquired it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "And the amount." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Started at eighteen. With interest and penalties it's thirty-one now." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "When did you tell Marcus." },
+    { "type": "dialogue", "speaker": "Cade", "content": "About six months ago. I'd been trying to handle it alone and it wasn't getting handled. Marcus found out something was wrong — he could always tell when something was wrong with me — and eventually I told him." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How did he react." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He was angry. Not at me — at the situation. He said we were going to fix it. He meant it the way Marcus always meant things." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Did you know he called Price on Saturday." },
+    { "type": "dialogue", "speaker": "Cade", "content": "No. I had no idea. If I'd known he was going to do that I would have told him not to." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Why." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Because you don't call Gideon Price. You don't call men like that. You pay them or you run. You don't call." }
+  ]
+}

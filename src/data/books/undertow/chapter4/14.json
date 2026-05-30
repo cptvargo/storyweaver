@@ -1,0 +1,24 @@
+{
+  "page": 14,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Nadia had been reading in the armchair for most of the afternoon. Or appearing to read — the book hadn't moved much." },
+    { "type": "narration", "content": "Around three she put it down and went to the kitchen and made tea. The sound of the kettle, the small domestic noise of cups being placed. She came back with two — one for herself, one which she set on the table in front of Wren without being asked." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Thank you." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "You looked cold." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I'm fine." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "You've been rubbing your arms since this morning." },
+    { "type": "narration", "content": "Wren looked at her own arms. She had been." },
+    { "type": "narration", "content": "They sat for a moment in a quiet that was almost comfortable — the nearest thing to comfortable the house had offered in two days." },
+    { "type": "dialogue", "speaker": "Wren", "content": "How are you doing. Actually." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I don't know. I keep waiting to feel more than I do and then feeling guilty for not feeling more." },
+    { "type": "dialogue", "speaker": "Wren", "content": "That's normal." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "Is it." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Shock does that. It spaces things out. You'll feel it all eventually." },
+    { "type": "narration", "content": "Nadia looked at her tea." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I hope so. It feels wrong not to." },
+    { "type": "narration", "content": "Wren watched her face for a moment. Said nothing. Drank her tea." }
+  ]
+}

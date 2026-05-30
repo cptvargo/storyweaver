@@ -1,0 +1,23 @@
+{
+  "page": 3,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Everyone looked at Cade." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Cade." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I know him. I know who he is." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "How do you know someone like that?" },
+    { "type": "dialogue", "speaker": "Cade", "content": "Because I owe him money. I've owed him money for eight months." },
+    { "type": "narration", "content": "The room went the particular quiet of people who already knew something was coming and still weren't ready when it arrived." },
+    { "type": "dialogue", "speaker": "Dean", "content": "You told us thirty-one thousand. You told us it was gambling." },
+    { "type": "dialogue", "speaker": "Cade", "content": "It is gambling. Price is who you end up with when the original lender sells your debt. I didn't go to him directly. It doesn't work that way." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "And Marcus knew about this." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yes. Marcus knew. He was the only one I told. He was trying to help me figure out how to handle it." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Handle it how." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I don't know exactly. He had a plan. He didn't share all the details with me because he said the less I knew the better while he was working on it." },
+    { "type": "narration", "content": "Davenport had not stopped watching Cade since the conversation started." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Mercer, I'd like to speak with you separately. Now, if you don't mind." }
+  ]
+}

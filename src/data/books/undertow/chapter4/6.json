@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Davenport", "content": "What do you think Marcus said to him." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I don't know. Marcus was — he was capable of things most people aren't. He could walk into a room with someone dangerous and make them feel like they were the ones at a disadvantage. He had that quality." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You think he was negotiating." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I think he was trying to buy me time or make some kind of arrangement. That would be exactly like him — going directly to the problem without telling me so I couldn't talk him out of it." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "And you believe Price might have had Marcus killed because of that call." },
+    { "type": "narration", "content": "Cade went still." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Is that what you think happened?" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm asking what you think." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Price is capable of it. I'm not going to pretend otherwise. But having someone killed in a locked bedroom in a beach house while five people are downstairs — that's not how men like Price operate. They're blunt. They're not subtle." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's an astute observation." },
+    { "type": "dialogue", "speaker": "Cade", "content": "I've had eight months to think about how men like Price operate." },
+    { "type": "narration", "content": "Davenport wrote something. Looked up." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Mercer. Where were you between nine forty-five and ten thirty Saturday evening." },
+    { "type": "dialogue", "speaker": "Cade", "content": "At the dinner table. With everyone else." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The whole time." },
+    { "type": "dialogue", "speaker": "Cade", "content": "The whole time." },
+    { "type": "narration", "content": "His eyes didn't move. Davenport's didn't either." }
+  ]
+}

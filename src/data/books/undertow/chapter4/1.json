@@ -1,0 +1,22 @@
+{
+  "page": 1,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport arrived at eight o'clock exactly." },
+    { "type": "narration", "content": "He came with a second person — Detective Serrano, forties, dark coat, notepad already open. He introduced her, caught himself on the name, glanced at Nadia, moved on. Nobody laughed." },
+    { "type": "narration", "content": "They sat in the living room. All five on one side. Davenport and Serrano on the other. The coffee table between them like a line nobody had crossed yet." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Thank you for staying. I'll be direct." },
+    { "type": "narration", "content": "He let that land first. Then:" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "As of last night, this is a formal homicide investigation." },
+    { "type": "narration", "content": "The word homicide entered the room and the room changed." },
+    { "type": "narration", "content": "Sophie's hand came up to her mouth. Not dramatically — just the body's instinct, the small protective gesture of someone trying to hold something in." },
+    { "type": "narration", "content": "Cade's eyes closed for exactly two seconds. When they opened he was looking at the floor." },
+    { "type": "narration", "content": "Dean went very still — the stillness of someone whose brain has already moved into a different mode, sorting, planning, looking for the thing to do next." },
+    { "type": "narration", "content": "Wren didn't move at all. But her hands, which had been loose in her lap, slowly pressed flat against her thighs." },
+    { "type": "narration", "content": "Nadia looked at Davenport. She didn't look away. Her face went through something — a flicker, brief and unnameable — and then it was composed again. Still. The way still is when someone chooses it." },
+    { "type": "narration", "content": "Five people. Five completely different ways of absorbing the same word." },
+    { "type": "narration", "content": "Davenport watched all of it." }
+  ]
+}

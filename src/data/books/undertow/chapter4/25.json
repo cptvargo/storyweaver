@@ -1,0 +1,25 @@
+{
+  "page": 25,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian called Davenport immediately." },
+    { "type": "callStart", "caller": "Ray Davenport", "direction": "outgoing" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I was about to call you." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The name." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Nadia Reyes. She's from Charlotte. Has been for four years — moved after grad school." },
+    { "type": "narration", "content": "Julian said nothing for a moment. The name on his legal pad. The name he'd turned over." },
+    { "type": "dialogue", "speaker": "Julian", "content": "You need to keep this between us. Don't approach her. Don't change anything in how you interact with that house. She's been managing this for a long time and she's very good at it. If she feels the net closing she'll have a plan for that too." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Crane. You understand I can't build a case on an IP address and a behavioral read." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I know. You need the tox. You need the physical evidence from the bracket. You need Wren." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Wren." },
+    { "type": "dialogue", "speaker": "Julian", "content": "She noticed someone missing from the table during the evening window. She told Cade last night. She's going to tell you today. When she does — be patient with her. She'll get there." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How do you know she told Cade." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Because I watched the lights in the house last night. Her room went dark at eleven-thirty. Nadia's was already off. They had a conversation Nadia may have partially overheard." },
+    { "type": "narration", "content": "A long pause." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You watched their lights." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It's what was available." },
+    { "type": "callEnd" }
+  ]
+}

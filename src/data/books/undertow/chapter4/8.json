@@ -1,0 +1,21 @@
+{
+  "page": 8,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport addressed the full group again before leaving for the morning." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We're going to be looking at two lines of inquiry simultaneously. Mr. Price and his potential involvement. And the circumstances within this house over the weekend. I want to be clear — we haven't concluded anything about anyone in this room. What I need from all of you is availability and honesty. Nothing else." },
+    { "type": "dialogue", "speaker": "Dean", "content": "When will you have the full medical examiner's report." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Some preliminary findings this week. Full toxicology takes time. I'll share what I can, when I can." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "When can we go home." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We'd like you to remain local through at least end of week. If that changes I'll let you know." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "End of week. That's five more days." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Yes. I understand that's an imposition. I appreciate your cooperation." },
+    { "type": "narration", "content": "He and Serrano left. The door closed. The five of them sat in the living room they had been sitting in for going on two days now and the walls felt closer than they had the day before." },
+    { "type": "dialogue", "speaker": "Dean", "content": "End of week." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Sorry." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Don't be. It's not your fault." },
+    { "type": "dialogue", "speaker": "Cade", "content": "That's a very generous reading of the situation." }
+  ]
+}

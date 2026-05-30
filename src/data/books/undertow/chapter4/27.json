@@ -1,0 +1,22 @@
+{
+  "page": 27,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Wren called Davenport's direct line at nine fifteen." },
+    { "type": "narration", "content": "Julian knew because Davenport texted him thirty seconds later." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Wren Cole just called. Said she has something she needs to tell me. Driving out now." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Good. She'll be nervous. Let her get there at her own pace." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "I know how to conduct an interview." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "I know you do. I'm saying she specifically needs patience. She's processing guilt about not saying it sooner." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Noted." },
+    { "type": "narration", "content": "Julian put the phone down and stood at his study window and watched the house." },
+    { "type": "narration", "content": "He saw Wren come out the front door ten minutes later, get into her car. She drove carefully, slowly, the way people drive when they're holding something large and fragile in their mind." },
+    { "type": "narration", "content": "Nadia came out onto the back porch four minutes after that." },
+    { "type": "narration", "content": "She stood at the railing. Looked at Wren's empty parking spot. Then at the road." },
+    { "type": "narration", "content": "She stood there for a long time." },
+    { "type": "internalThought", "content": "She knows Wren went to Davenport. She just watched her leave." },
+    { "type": "internalThought", "content": "She's calculating how much Wren knows and what it means for the timeline. She's still working it." }
+  ]
+}

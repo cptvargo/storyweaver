@@ -1,0 +1,21 @@
+{
+  "page": 26,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Julian set his phone down." },
+    { "type": "narration", "content": "He'd said the name out loud for the first time." },
+    { "type": "narration", "content": "To someone else. To a police inspector. On a recorded call, in all probability." },
+    { "type": "narration", "content": "He thought about what that meant. What it set in motion. The investigation would quietly tighten now — Davenport would be watching her differently, running her differently through the timeline, building the architecture of a case that would need to survive a courtroom." },
+    { "type": "narration", "content": "Julian's job was to give Davenport enough to build on. Not to build it himself. That was the line." },
+    { "type": "internalThought", "content": "She's been carrying this for eight years. Whatever Marcus did — whatever happened that she never recovered from — she made a decision and she executed it with more discipline than most people bring to anything in their lives." },
+    { "type": "internalThought", "content": "That's not nothing. That's a kind of grief so heavy and so old that it became something else entirely." },
+    { "type": "narration", "content": "He stood at the window." },
+    { "type": "narration", "content": "Nadia was in the kitchen next door. He could see her profile through the window — making tea, or coffee, moving with the quiet efficiency she brought to everything. She looked like a woman on a Tuesday morning at a beach house. She looked like someone's friend." },
+    { "type": "internalThought", "content": "She's also someone who came here with piano wire and a plan and waited for the right moment to use both." },
+    { "type": "narration", "content": "He turned away from the window. Went back to his legal pad." },
+    { "type": "narration", "content": "He turned the page back over." },
+    { "type": "narration", "content": "The name was still there." }
+  ]
+}

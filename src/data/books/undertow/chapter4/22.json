@@ -1,0 +1,20 @@
+{
+  "page": 22,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Davenport texted at ten forty-five." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Property manager confirmed. The listing link was emailed to Calloway from an address that traces to a secondary account. Working on whose." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "How long until you know." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Tomorrow morning if the provider cooperates. Evening if they don't." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "The account will trace back to someone in that house. Prepare for that." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "You're certain." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "I'm certain." },
+    { "type": "narration", "content": "He put the phone face-down. Looked at the ceiling." },
+    { "type": "narration", "content": "He thought about what Mara had said. *You've never cared about consequences before.*" },
+    { "type": "narration", "content": "That wasn't entirely true. He cared about consequences. He just didn't let them change what he saw." },
+    { "type": "narration", "content": "What he saw right now was a group of people who had been friends for over two decades. One of them was a killer. Three more were going to have their understanding of the world fundamentally altered when they found out who. And one of them — Wren, quiet precise Wren — was already closer to the truth than she knew." },
+    { "type": "internalThought", "content": "Don't let her get there alone. If she figures it out before Davenport has what he needs, she becomes a problem for the wrong person." }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 4,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Cade and Davenport went to the kitchen. Detective Serrano stayed in the living room with the other four, notepad open, face neutral." },
+    { "type": "narration", "content": "The remaining four sat with what had just been said." },
+    { "type": "dialogue", "speaker": "Dean", "content": "He never told me." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "He told Marcus." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Marcus never said anything." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Maybe he was protecting Cade." },
+    { "type": "dialogue", "speaker": "Dean", "content": "From us? We're his friends." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Sometimes you protect people from their friends more than from anyone else." },
+    { "type": "narration", "content": "Dean had no answer for that. He looked at the kitchen door." },
+    { "type": "dialogue", "speaker": "Wren", "content": "He didn't do anything." },
+    { "type": "narration", "content": "She said it quietly. Not a defense — a statement. The tone of someone who had already thought through it and arrived." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know Cade." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "We all know Cade. We thought we knew Marcus too." },
+    { "type": "narration", "content": "Nadia had said nothing since Gideon Price's name was spoken. She was looking at the kitchen door. Her expression was unreadable. Her hands were still in her lap." },
+    { "type": "dialogue", "speaker": "Dean", "content": "Nadia. What do you think." },
+    { "type": "dialogue", "speaker": "Nadia", "content": "I think we should let Davenport do his job." },
+    { "type": "narration", "content": "She looked at Dean. Then back at her hands." }
+  ]
+}

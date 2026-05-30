@@ -1,0 +1,26 @@
+{
+  "page": 2,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Sophie", "content": "Someone killed him." },
+    { "type": "narration", "content": "Not a question." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The medical examiner's preliminary findings combined with physical evidence support that conclusion. Yes." },
+    { "type": "dialogue", "speaker": "Sophie", "content": "Someone in this house." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "We're not making that determination yet." },
+    { "type": "dialogue", "speaker": "Dean", "content": "But you're not ruling it out." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm not ruling anything out." },
+    { "type": "narration", "content": "Cade put his elbows on his knees and covered his face with both hands. He stayed like that for a moment. When he lowered them his eyes were red." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He was fine at breakfast. He was laughing. He made the fish." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I know. I've heard that from all of you and I believe you." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Then how—" },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's what we're here to find out. And I have some information I want to share with you this morning that may help us understand what happened Saturday night." },
+    { "type": "narration", "content": "The room found a new quiet. The kind that means we're listening." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Saturday evening at nine seventeen, Marcus made a phone call. It lasted twenty-six minutes. You all heard it through the ceiling." },
+    { "type": "dialogue", "speaker": "Dean", "content": "We assumed it was work." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "It wasn't work. The number Marcus called is registered to a man named Gideon Price." },
+    { "type": "narration", "content": "And again — five faces. Four of them blank with a name they didn't recognize." },
+    { "type": "narration", "content": "One of them not blank at all." }
+  ]
+}

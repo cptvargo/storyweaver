@@ -1,0 +1,27 @@
+{
+  "page": 19,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "Cade found Wren in the hallway upstairs around eight." },
+    { "type": "narration", "content": "She was standing outside Marcus's door. Not close to it — just at the end of the hall, looking at the crime scene tape. The yellow line across a door they would never open again the same way." },
+    { "type": "dialogue", "speaker": "Cade", "content": "You shouldn't be up here." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What are you doing." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Trying to understand something." },
+    { "type": "dialogue", "speaker": "Cade", "content": "What." },
+    { "type": "narration", "content": "She looked at him. Then back at the door." },
+    { "type": "dialogue", "speaker": "Wren", "content": "Saturday night. After we heard the argument. After it stopped. We were all at the table, and then people were getting up and moving around. Dean got a refill. Sophie went for the wine. I used the bathroom." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Wren", "content": "And at some point — I'm not sure exactly when — I came back to the table and someone wasn't there." },
+    { "type": "narration", "content": "Cade went very still." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Who." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I'm not sure. It was a few minutes. And then they were back and the conversation moved on and I didn't think about it at the time." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Wren. You need to tell Davenport that." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Tomorrow. First thing." },
+    { "type": "dialogue", "speaker": "Wren", "content": "I know, Cade." },
+    { "type": "narration", "content": "She looked at the door one more time. Then she went back downstairs." }
+  ]
+}
