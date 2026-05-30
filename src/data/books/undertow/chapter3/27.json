@@ -12,9 +12,9 @@
     { "type": "internalThought", "content": "There it is." },
     { "type": "narration", "content": "Not twenty feet. Eight. And a drainpipe with enough purchase for someone who'd practiced this. Or measured it. Or both." },
     { "type": "internalThought", "content": "The window was never the impossible exit. It was the only exit. The one nobody looked at because everyone was too busy looking at the door." },
-    { "type": "narration", "content": "He didn't touch anything. He photographed the wall from where he stood — the window, the porch roof, the bracket — four shots from different angles. Then he pulled out his phone and opened Davenport's contact." },
-    { "type": "narration", "content": "He typed: *South-facing window. Look at the exterior wall below it. Porch roof. Gutter bracket, third from the top. Call me.*" },
-    { "type": "narration", "content": "He sent it." },
+    { "type": "narration", "content": "He didn't touch anything. He photographed the wall from where he stood — the window, the porch roof, the bracket — four shots from different angles. Then he pulled out his phone." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "South-facing window. Look at the exterior wall below it. Porch roof. Gutter bracket, third from the top." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Call me." },
     { "type": "narration", "content": "Then he went inside and wrote four words at the top of a clean page." },
     { "type": "narration", "content": "The door was never it." }
   ]
