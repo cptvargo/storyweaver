@@ -1,0 +1,24 @@
+{
+  "page": 32,
+  "chapter": 4,
+  "chapterTitle": "The Call",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "narration", "content": "That evening Julian sat on his porch with a cold coffee and his legal pad and the specific feeling of a case that had crossed from uncertain to inevitable." },
+    { "type": "narration", "content": "The evidence was building. Not enough yet — not nearly enough for a courtroom, not even enough for an arrest. But the architecture was there. The IP address. The bracket. The evening gap in Wren's memory. The tox that would come back and confirm what he already knew happened in that room." },
+    { "type": "narration", "content": "And the piano wire. The piece nobody knew to look for yet." },
+    { "type": "narration", "content": "He'd been thinking about it since the beginning — the door locked from inside, the window used from outside. If you came in through the window and went out through the door, you needed a way to lock the door from outside. A tool. Something specific. Something you brought with you." },
+    { "type": "internalThought", "content": "She still has it. Or she got rid of it. If she got rid of it — when? She hasn't left the house without someone seeing." },
+    { "type": "internalThought", "content": "Her walks. Both walks were alone. She walked south twenty minutes. Then north." },
+    { "type": "internalThought", "content": "South twenty minutes is far enough to reach the jetty at the end of the public beach. Far enough to drop something into deep water where it wouldn't be found." },
+    { "type": "narration", "content": "He wrote that down. Sent it to Davenport." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "The walks she took today. South route reaches the jetty. Check the water near the jetty rocks. You're looking for a short length of thin wire." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Piano wire." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "That's what locked the door from outside." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Divers in the morning." },
+    { "type": "narration", "content": "Julian set the phone down. Looked at the house." },
+    { "type": "narration", "content": "Nadia's light was still on." },
+    { "type": "narration", "content": "He wondered what she was thinking about." },
+    { "type": "narration", "content": "He wondered if she'd already thought of everything he'd just thought of." }
+  ]
+}

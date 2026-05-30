@@ -4,15 +4,22 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Julian had watched Davenport's car leave from his study window." },
-    { "type": "narration", "content": "He'd been up since five-thirty. The legal pad was on its fourth page. He'd been mapping it — not the events, those were clear enough. The people. Their positions relative to each other. What each person gained and lost from various outcomes." },
-    { "type": "internalThought", "content": "Gideon Price. Davenport called at seven this morning. Told me the name. Told me what Price's record looked like. Asked what I thought." },
-    { "type": "internalThought", "content": "I told him Price is a real thread but the wrong thread. A man like Price doesn't use sleeping pills and piano wire. He uses fear. He uses people who show up at your door. He doesn't plan for months and execute through a locked window." },
-    { "type": "narration", "content": "But Julian understood why Davenport had to pursue it. Because if Price was responsible, the case was clean. External actor, clear motive, known criminal record. The five people in the house next door went home. Everyone moved on." },
-    { "type": "internalThought", "content": "Davenport wants Price to be the answer. Not because he's lazy — because he's decent. Because the alternative means one of five people he's spent two days watching cry and grieve over their friend is performing it." },
-    { "type": "narration", "content": "Julian turned back to his page." },
-    { "type": "narration", "content": "He had drawn six circles. One was crossed out — Marcus. The remaining five had lines between them, weights attached, histories noted in shorthand." },
-    { "type": "narration", "content": "He looked at the circle he kept coming back to. Didn't write the name." },
-    { "type": "narration", "content": "Not yet." }
+    { "type": "narration", "content": "Davenport was almost at the door when he turned back." },
+    { "type": "narration", "content": "It was a small thing — a half-turn, unhurried, the way a man turns when he just remembered something. But in a room full of people reading every movement for meaning, it landed like a sound in a quiet house." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Mercer. One more thing. With Marcus gone — the debt arrangement with Price. Who handles that now? Is there any scenario in which his death financially benefits you?" },
+    { "type": "narration", "content": "The room went the kind of still that happens right before something breaks." },
+    { "type": "dialogue", "speaker": "Cade", "content": "Excuse me." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "It's a standard question in a financial—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "No. No, you don't get to—" },
+    { "type": "narration", "content": "He was on his feet. The chair scraped back. His voice, which had been controlled all morning with the effort of a man holding something very heavy, came apart." },
+    { "type": "dialogue", "speaker": "Cade", "content": "He was my best friend. Twenty-three years. I have known that man since we were eighteen years old and shared a dorm room and had nothing and I am standing in a house where he is dead and you are asking me if his death benefits me—" },
+    { "type": "dialogue", "speaker": "Cade", "content": "I would have paid that debt a hundred times over to have him back in that room right now. You understand that? A hundred times. So don't you stand there and ask me if I—" },
+    { "type": "narration", "content": "His voice broke completely on the last word. He turned away. Put both hands on the windowsill and looked out at the beach and breathed." },
+    { "type": "narration", "content": "Nobody moved." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Mercer. I hear you. And I believe you." },
+    { "type": "narration", "content": "He said it simply. No apology in it — it wasn't an apology — but something steadier. The tone of a man who asks hard questions and means no malice by them." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'll be in touch." },
+    { "type": "narration", "content": "He left. The door closed." },
+    { "type": "narration", "content": "Cade stayed at the window." }
   ]
 }

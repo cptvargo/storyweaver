@@ -4,15 +4,17 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "The house next door spent the morning in separate rooms." },
-    { "type": "narration", "content": "That was new. The first two days they'd stayed together — close, overlapping, the instinct of grief to keep the herd tight. But something about the Gideon Price revelation had shifted that. People needed walls between them." },
-    { "type": "narration", "content": "Dean went to the porch with his phone and stayed there for most of the morning, making calls Julian couldn't hear. Sophie sat on the beach — far enough down that she was a small shape against the water. Wren was in her room. Cade was in the kitchen, and Julian could hear the sound of him making things, moving pots, filling the silence with activity." },
-    { "type": "narration", "content": "Nadia walked." },
-    { "type": "narration", "content": "She came out the back door around nine-thirty and walked south along the beach. Slow, unhurried. She walked for twenty minutes and came back and went inside. An hour later she came out again and walked north. Same pace. Same stillness." },
-    { "type": "narration", "content": "Julian watched the second walk." },
-    { "type": "internalThought", "content": "Everyone else is using motion to manage anxiety. Cade cooks. Dean phones. Sophie sits with the water. These are people releasing pressure." },
-    { "type": "internalThought", "content": "Nadia walks the way someone walks when they're thinking. Not releasing — processing. Working through something in a specific order." },
-    { "type": "narration", "content": "He watched her come back inside. He wrote one word on the legal pad." },
-    { "type": "narration", "content": "Controlled." }
+    { "type": "narration", "content": "Julian heard it." },
+    { "type": "narration", "content": "Through the wall — not words, but the register of a voice pushed past its limit. The specific sound of someone who has been holding themselves together by force of will for two days and finally couldn't anymore." },
+    { "type": "narration", "content": "Then silence." },
+    { "type": "narration", "content": "Then a door." },
+    { "type": "narration", "content": "He set his pen down." },
+    { "type": "internalThought", "content": "Not him. That's grief. That's someone who lost his closest friend and is being asked if he benefited from it. Those are not the same emotion." },
+    { "type": "internalThought", "content": "The person who did this doesn't sound like that. The person who did this sounds like nothing — because they've had eight years to prepare for every question that gets asked in a room like that." },
+    { "type": "narration", "content": "He knew Davenport would be asking hard questions. He knew some of those questions would land on the wrong person. That was the nature of this — you pressed everyone and the innocent ones cracked and the guilty one held because they had to." },
+    { "type": "internalThought", "content": "I know who it is. I'm not wrong about this. But I can't say it — not yet, not without what I need — and so I have to sit here and listen to the wrong person break while the right one stays perfectly still." },
+    { "type": "narration", "content": "He looked at his legal pad." },
+    { "type": "narration", "content": "The page he'd turned over." },
+    { "type": "narration", "content": "He left it turned over and went back to work." }
   ]
 }

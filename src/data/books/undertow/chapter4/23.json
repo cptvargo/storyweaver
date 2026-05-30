@@ -4,17 +4,15 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "The house went quiet after eleven." },
-    { "type": "narration", "content": "Lights out one by one. Sophie's room first, then Dean's. Cade's light stayed on until almost midnight — Julian could see it from the study window, a thin line under the curtain." },
-    { "type": "narration", "content": "Wren's light went out at eleven thirty." },
-    { "type": "narration", "content": "Nadia's was already off." },
-    { "type": "narration", "content": "Julian worked through the night." },
-    { "type": "narration", "content": "He mapped everything he had — the bonfire, the bracket, the booking trail, the call to Price, the reaction to Gideon Price's name, the walks on the beach, the six minutes at the railing. He mapped what Davenport had and what Davenport didn't have yet. He mapped what the tox screen would show and what it wouldn't be able to prove on its own." },
-    { "type": "narration", "content": "He mapped Wren. What she had noticed — someone missing from the table during the evening window. She didn't know whose absence it was yet. But she would. Wren Cole was the kind of person who eventually arrived at the thing they were trying to remember." },
-    { "type": "internalThought", "content": "When she does — that's the piece I need. That's the one thing I don't have. A witness inside the house for the evening window." },
-    { "type": "narration", "content": "He looked at his map." },
-    { "type": "narration", "content": "The circle he kept coming back to had a name in it now. He'd written it finally, after fighting it all day, because the evidence wasn't complete but the direction was and he needed to see it on paper." },
-    { "type": "narration", "content": "He looked at it for a long time." },
-    { "type": "narration", "content": "Then he turned the page over." }
+    { "type": "narration", "content": "Julian had been on the porch of his rental when he saw the light go on in Nadia's room and then go off again." },
+    { "type": "narration", "content": "He'd been watching the house — not all of it, just the pattern of its lights. Who was where. Who moved. Who stayed still." },
+    { "type": "narration", "content": "The light in her room had been off for almost an hour. Then on for eight minutes. Then off again. Then he heard the back door of the house open and close and she was on their porch, standing at their railing, looking at the same water he was looking at." },
+    { "type": "narration", "content": "She didn't know he was there. Or if she did, she gave no sign." },
+    { "type": "narration", "content": "He watched her stand at the railing for six minutes. Completely still. Not the stillness of rest — the stillness of someone whose body had been trained to go quiet when their mind needed to work." },
+    { "type": "internalThought", "content": "Six minutes of standing absolutely still at ten o'clock at night after a day in which a name connected to her friend's debt came out, in which the official word homicide was said out loud, in which everything should be pushing her outward — and she's standing at a railing like she's solving a math problem." },
+    { "type": "narration", "content": "Then she went inside." },
+    { "type": "narration", "content": "Julian turned to his legal pad." },
+    { "type": "narration", "content": "He wrote: *The circle I keep coming back to. I know what it means. I need to be sure.*" },
+    { "type": "narration", "content": "He underlined the last four words." }
   ]
 }

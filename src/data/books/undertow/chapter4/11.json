@@ -4,18 +4,15 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "By noon Cade had made lunch nobody asked for. He put it on the kitchen table and went to get the others and everyone came because eating something was easier than explaining why they weren't eating something." },
-    { "type": "narration", "content": "They ate mostly in silence. The kind of silence that has given up trying to be comfortable." },
-    { "type": "dialogue", "speaker": "Cade", "content": "I should have told you. All of you. About Price, about the debt. I'm sorry I didn't." },
-    { "type": "dialogue", "speaker": "Dean", "content": "You don't have to—" },
-    { "type": "dialogue", "speaker": "Cade", "content": "I do. Because now it's out and it's in the middle of all of this and I put it there by not being honest sooner." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "You were embarrassed." },
-    { "type": "dialogue", "speaker": "Cade", "content": "I was embarrassed. And I was scared. And I told Marcus because Marcus was the one person I could tell things to without feeling like they'd look at me differently afterward." },
-    { "type": "narration", "content": "Nobody spoke for a moment. The use of past tense hit the table." },
-    { "type": "dialogue", "speaker": "Wren", "content": "He wouldn't have looked at any of us differently. That was just who he was." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Wren", "content": "So stop apologizing for going to him. He would have wanted you to." },
-    { "type": "narration", "content": "Cade pressed his mouth together. Nodded once." },
-    { "type": "narration", "content": "Nadia picked up her fork. Ate." }
+    { "type": "narration", "content": "Julian had watched Davenport's car leave from his study window." },
+    { "type": "narration", "content": "He'd been up since five-thirty. The legal pad was on its fourth page. He'd been mapping it — not the events, those were clear enough. The people. Their positions relative to each other. What each person gained and lost from various outcomes." },
+    { "type": "internalThought", "content": "Gideon Price. Davenport called at seven this morning. Told me the name. Told me what Price's record looked like. Asked what I thought." },
+    { "type": "internalThought", "content": "I told him Price is a real thread but the wrong thread. A man like Price doesn't use sleeping pills and piano wire. He uses fear. He uses people who show up at your door. He doesn't plan for months and execute through a locked window." },
+    { "type": "narration", "content": "But Julian understood why Davenport had to pursue it. Because if Price was responsible, the case was clean. External actor, clear motive, known criminal record. The five people in the house next door went home. Everyone moved on." },
+    { "type": "internalThought", "content": "Davenport wants Price to be the answer. Not because he's lazy — because he's decent. Because the alternative means one of five people he's spent two days watching cry and grieve over their friend is performing it." },
+    { "type": "narration", "content": "Julian turned back to his page." },
+    { "type": "narration", "content": "He had drawn six circles. One was crossed out — Marcus. The remaining five had lines between them, weights attached, histories noted in shorthand." },
+    { "type": "narration", "content": "He looked at the circle he kept coming back to. Didn't write the name." },
+    { "type": "narration", "content": "Not yet." }
   ]
 }

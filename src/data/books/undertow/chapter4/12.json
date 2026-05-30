@@ -4,18 +4,15 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Dean", "content": "What do we actually know about Price. Any of us. Has anyone ever met him?" },
-    { "type": "dialogue", "speaker": "Cade", "content": "I haven't. I've spoken to people who work for him. That's as close as I've gotten." },
-    { "type": "dialogue", "speaker": "Dean", "content": "And Marcus called him directly." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Apparently." },
-    { "type": "dialogue", "speaker": "Dean", "content": "How would Marcus even get a direct number for someone like that." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Marcus could get anything. You know that. He knew people who knew people and he was good enough with people that doors opened." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "Do you think Price did it." },
-    { "type": "dialogue", "speaker": "Cade", "content": "I told Davenport the same thing I'll tell you. It doesn't fit. Price doesn't work that way." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "People like that have people who do things for them." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Not like this. A hit from someone like Price looks like a car accident. Or a robbery. Or just someone disappearing. It doesn't look like — this." },
-    { "type": "narration", "content": "A beat." },
-    { "type": "dialogue", "speaker": "Dean", "content": "So then what does it look like." },
-    { "type": "narration", "content": "Nobody answered. Because the answer was the same one they'd been circling since Sunday morning, and it was the one none of them wanted to land on." }
+    { "type": "narration", "content": "The house next door spent the morning in separate rooms." },
+    { "type": "narration", "content": "That was new. The first two days they'd stayed together — close, overlapping, the instinct of grief to keep the herd tight. But something about the Gideon Price revelation had shifted that. People needed walls between them." },
+    { "type": "narration", "content": "Dean went to the porch with his phone and stayed there for most of the morning, making calls Julian couldn't hear. Sophie sat on the beach — far enough down that she was a small shape against the water. Wren was in her room. Cade was in the kitchen, and Julian could hear the sound of him making things, moving pots, filling the silence with activity." },
+    { "type": "narration", "content": "Nadia walked." },
+    { "type": "narration", "content": "She came out the back door around nine-thirty and walked south along the beach. Slow, unhurried. She walked for twenty minutes and came back and went inside. An hour later she came out again and walked north. Same pace. Same stillness." },
+    { "type": "narration", "content": "Julian watched the second walk." },
+    { "type": "internalThought", "content": "Everyone else is using motion to manage anxiety. Cade cooks. Dean phones. Sophie sits with the water. These are people releasing pressure." },
+    { "type": "internalThought", "content": "Nadia walks the way someone walks when they're thinking. Not releasing — processing. Working through something in a specific order." },
+    { "type": "narration", "content": "He watched her come back inside. He wrote one word on the legal pad." },
+    { "type": "narration", "content": "Controlled." }
   ]
 }

@@ -4,17 +4,17 @@
   "chapterTitle": "The Call",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Tuesday morning. Day three." },
-    { "type": "narration", "content": "The house next door woke up slowly. Julian watched the lights come back on, room by room, the reverse of last night in rough order. The kitchen first — Cade, always Cade, making something — and then Dean, and then the others filtering down." },
-    { "type": "narration", "content": "He thought about how people could sustain this. Five people who had known each other for over twenty years, trapped in a house with a secret between them that most of them didn't know existed. Each morning they had to decide how to be in the same room as each other. Each meal they had to find something to say." },
-    { "type": "narration", "content": "And one of them sat down to breakfast every morning knowing exactly what had happened in that room upstairs." },
-    { "type": "internalThought", "content": "That's an almost impossible thing to sustain. The cognitive load of it — maintaining the performance, monitoring the investigation, tracking who knows what — for days on end, with no relief." },
-    { "type": "internalThought", "content": "Most people would crack. A tell, an overreaction, something." },
-    { "type": "internalThought", "content": "This person hasn't cracked. Which tells me exactly how long they've been doing this." },
-    { "type": "narration", "content": "His phone buzzed." },
-    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Provider came through. The listing email sent to Calloway traces to a secondary account registered under a false name. But the device that created the account—" },
-    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "IP address places it at a coffee shop in Charlotte. Three weeks before the trip." },
-    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Who in the group is from Charlotte." },
-    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "One person." }
+    { "type": "narration", "content": "Davenport texted at ten forty-five." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Property manager confirmed. The listing link was emailed to Calloway from an address that traces to a secondary account. Working on whose." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "How long until you know." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "Tomorrow morning if the provider cooperates. Evening if they don't." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "The account will trace back to someone in that house. Prepare for that." },
+    { "type": "message", "sender": "Davenport", "recipient": "Julian", "content": "You're certain." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "I'm certain." },
+    { "type": "narration", "content": "He put the phone face-down. Looked at the ceiling." },
+    { "type": "narration", "content": "He thought about what Mara had said. *You've never cared about consequences before.*" },
+    { "type": "narration", "content": "That wasn't entirely true. He cared about consequences. He just didn't let them change what he saw." },
+    { "type": "narration", "content": "What he saw right now was a group of people who had been friends for over two decades. One of them was a killer. Three more were going to have their understanding of the world fundamentally altered when they found out who. And one of them — Wren, quiet precise Wren — was already closer to the truth than she knew." },
+    { "type": "internalThought", "content": "Don't let her get there alone. If she figures it out before Davenport has what he needs, she becomes a problem for the wrong person." }
   ]
 }
