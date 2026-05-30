@@ -4,19 +4,17 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Davenport", "content": "Tell me about the group. What did you observe at the bonfire beyond what you told me last night." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Six people. Easy body language overall — the ease of long familiarity. But even in comfortable groups there are fault lines. People who drift to each other, people who hold a certain distance." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Fault lines." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Subgroups. Tensions that don't announce themselves. There's always something underneath in a group that's known each other that long. Enough history to make the present complicated." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Anything specific." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The man being watched — the one who died — he was at the edge. Not excluded, but separate. The body language of someone with something on his mind that he hadn't shared. The group wasn't aware of it. They were reading him as present. He wasn't entirely present." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "His friends said he seemed off this weekend. One of them said he seemed like someone hearing bad news in an empty room." },
-    { "type": "dialogue", "speaker": "Julian", "content": "That's exactly right. She's observant." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "She." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The quiet one. Short answers, precise ones." },
-    { "type": "narration", "content": "Davenport wrote something down." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "What else." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Nothing I can quantify yet. Impressions. I'd rather give you evidence than impressions." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "I'll take both." }
+    { "type": "dialogue", "speaker": "Davenport", "content": "The group. Tell me what you observed at the bonfire beyond what you gave me last night." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Six people. Longstanding group — the body language of people who've moved past performance with each other. Easy. Unguarded. Except it wasn't entirely. Groups like that still have fault lines. History makes the present complicated." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Meaning." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Meaning I walked past that fire for eight seconds and read four distinct emotional states across six people. That's not a relaxed group on vacation. That's a group managing several things at once beneath the surface." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You got all that in eight seconds." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I got the outline in eight seconds. I've been filling in the detail since." },
+    { "type": "narration", "content": "Davenport set his pen down. The kind of gesture that means he's deciding something." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "One of my detectives has fifteen years and a criminology degree. She interviewed all five this morning and told me the group seemed genuinely devastated. Nothing stood out." },
+    { "type": "dialogue", "speaker": "Julian", "content": "She's right. Nothing stands out. That's the point. What you're looking for isn't going to stand out — it's going to look exactly like everything else around it. That's the only way this works." },
+    { "type": "narration", "content": "Davenport looked at him for a long moment." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "What else haven't you told me yet." },
+    { "type": "dialogue", "speaker": "Julian", "content": "One thing at a time, Inspector. Let's get through the statement first." }
   ]
 }

@@ -4,18 +4,16 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Davenport", "content": "Say that again." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The locked door only eliminates one category of murder. Physical presence at the time of death. But whatever was done to Marcus — if something was done — didn't require being in the room with him when it happened. You do it before. He walks upstairs. He locks the door himself. And whatever is already inside him does the rest." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "The water glass." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Something he consumed. Before he went up. The locked room isn't the alibi everyone thinks it is. It's actually evidence that the method was more deliberate than a crime of opportunity." },
-    { "type": "narration", "content": "Davenport leaned back in his chair. Looked at the ceiling for a moment. Then back at Julian." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "If you're right, we're looking at premeditation." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Someone who planned this before they arrived at that house." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Someone who planned it carefully enough that a locked door would do their work for them afterward. Make everyone conclude it was natural. Make the investigation difficult to sustain without physical evidence." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Tox screen takes six weeks standard." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I know. A good defense attorney knows that too. Six weeks is a long time. Long enough for a case to go cold if it doesn't have other legs." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "You think this person knows how investigations work." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I think this person has thought about every variable. Including that one." }
+    { "type": "dialogue", "speaker": "Davenport", "content": "Walk me through the locked room. Because right now that's the wall." },
+    { "type": "dialogue", "speaker": "Julian", "content": "It's not a wall. It's a misdirection. A very good one — good enough that it almost closed this case before it opened. Here's what the locked room actually tells you." },
+    { "type": "narration", "content": "He leaned forward slightly. Not for emphasis — it was just how he thought. Closer to the problem." },
+    { "type": "dialogue", "speaker": "Julian", "content": "A locked door eliminates one category of murder. Physical presence in the room at the time of death. That's all it eliminates. It says nothing about what happened to Marcus in the hours before he walked upstairs. If someone gave him something — something already working its way through his system — he could lock that door himself, lie down, and die completely alone. The locked room doesn't protect whoever did this. It's exactly what they wanted you to focus on." },
+    { "type": "narration", "content": "Davenport didn't write anything. He was looking at Julian the way experienced men look at something they'd almost missed." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Premeditation." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Months of it. Someone chose that house, that weekend, those people. Everything about this was decided long before any of them packed a bag." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "That's a significant claim without physical evidence." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The tox screen will give you your physical evidence. What I'm giving you now is the shape of what you're looking at so you know what to look for." },
+    { "type": "narration", "content": "A beat. Davenport picked up his pen." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Keep going." }
   ]
 }

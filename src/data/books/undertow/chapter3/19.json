@@ -5,17 +5,15 @@
   "bookId": "undertow",
   "blocks": [
     { "type": "narration", "content": "Julian arrived at the Carteret County station at five to ten." },
-    { "type": "narration", "content": "It was a small building for a small jurisdiction — two deputies behind a front desk, a waiting area with four chairs, a coffee machine that looked like it had been there since the building was new. Davenport was waiting for him in a room just off the main hall. Hat on the table. Coffee in a styrofoam cup." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Crane. Sit down." },
-    { "type": "narration", "content": "Julian sat. Davenport had a recorder on the table and a notepad and the look of a man who hadn't slept but had made peace with it." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Before we start — I spoke with the group this morning. They made the same argument you'd expect. Door locked from inside, window is a twenty-foot drop. They want me to close it as natural." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I know. I heard them talking." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Through the wall." },
-    { "type": "dialogue", "speaker": "Julian", "content": "It travels." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Their logic isn't wrong. Technically." },
-    { "type": "dialogue", "speaker": "Julian", "content": "No. It's not wrong. It just starts from the wrong premise." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Meaning." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The locked room tells you nobody was in the room when he died. It doesn't tell you nobody did anything to him before he went into that room." },
-    { "type": "narration", "content": "Davenport's pen stopped." }
+    { "type": "narration", "content": "He stood in the doorway of the interview room for a moment before going in. Davenport was already seated — hat on the table, coffee in a styrofoam cup, notepad open. The recorder was centered between the two chairs. The chair across from Davenport had been placed slightly too far from the table. An old interrogator's trick — put the subject slightly off-balance, slightly removed from the table, slightly less in control of the space." },
+    { "type": "narration", "content": "Julian moved the chair forward before sitting down." },
+    { "type": "narration", "content": "Davenport watched him do it. Said nothing." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Crane. Thanks for coming in." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Before we start — you spoke to the group this morning. They made the locked room argument. Door locked from inside, window is twenty feet, has to be natural." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "How do you know that?" },
+    { "type": "dialogue", "speaker": "Julian", "content": "Because it's the only argument available to them and it almost works. Almost. That's why you're still here instead of filing this as natural causes." },
+    { "type": "narration", "content": "Davenport looked at him steadily. Then he clicked on the recorder." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Let's start from the beginning." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The beginning isn't Friday night. The beginning is months ago, when someone started planning this. But we'll get there." }
   ]
 }

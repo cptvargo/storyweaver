@@ -4,18 +4,18 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "He walked back. As he passed the house he glanced up — habit, the same involuntary attention to environment he'd had since childhood. Second floor. Window facing south." },
-    { "type": "narration", "content": "The crime scene tape was visible through the glass. A yellow edge catching the afternoon light." },
+    { "type": "narration", "content": "He walked back. As he passed the house he glanced up — not habit. Instinct. Something his eye had caught before his mind caught up with it." },
     { "type": "narration", "content": "He stopped." },
-    { "type": "narration", "content": "He looked at the window. Then at the exterior wall below it. The porch roof that ran along the back of the house — maybe eight feet below the window ledge. The guttering. The drainpipe on the near corner." },
-    { "type": "internalThought", "content": "Eight feet. Not twenty." },
-    { "type": "narration", "content": "He moved to get a better angle. Stepped off the path and into the narrow strip of beach between the two houses. Looked up." },
-    { "type": "internalThought", "content": "From the window ledge to the porch roof — eight feet drop, if that. And the drainpipe bracket on the near side, the kind with enough purchase to take a foot if you knew it was there. If you'd measured it. If you'd been looking for exactly this." },
-    { "type": "narration", "content": "He didn't move closer. He didn't touch anything. He just looked." },
-    { "type": "narration", "content": "Then he took his phone out and photographed the exterior wall from where he stood. The window. The porch roof. The drainpipe. The bracket." },
-    { "type": "narration", "content": "He had Davenport's number in his phone now." },
-    { "type": "narration", "content": "He composed a text: *Look at the exterior wall below the south-facing window. Specifically the porch roof and the gutter bracket on the near corner. Then call me.*" },
-    { "type": "narration", "content": "He sent it. He went inside. He added a new page to the legal pad." },
-    { "type": "narration", "content": "At the top he wrote: *The door was never the way in. The window was.*" }
+    { "type": "narration", "content": "Second floor. The window with the crime scene tape visible behind the glass. And below it — the porch roof running along the back of the house. Not twenty feet. Eight. Maybe eight and a half." },
+    { "type": "narration", "content": "He stepped off the path into the narrow strip between the two houses. Looked up at the exterior wall. The drainpipe on the near corner. The gutter bracket — third one from the top — bent outward, paint scraped at the edge." },
+    { "type": "narration", "content": "He went very still." },
+    { "type": "internalThought", "content": "There it is." },
+    { "type": "narration", "content": "Not twenty feet. Eight. And a drainpipe with enough purchase for someone who'd practiced this. Or measured it. Or both." },
+    { "type": "internalThought", "content": "The window was never the impossible exit. It was the only exit. The one nobody looked at because everyone was too busy looking at the door." },
+    { "type": "narration", "content": "He didn't touch anything. He photographed the wall from where he stood — the window, the porch roof, the bracket — four shots from different angles. Then he pulled out his phone and opened Davenport's contact." },
+    { "type": "narration", "content": "He typed: *South-facing window. Look at the exterior wall below it. Porch roof. Gutter bracket, third from the top. Call me.*" },
+    { "type": "narration", "content": "He sent it." },
+    { "type": "narration", "content": "Then he went inside and wrote four words at the top of a clean page." },
+    { "type": "narration", "content": "The door was never it." }
   ]
 }

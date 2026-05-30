@@ -4,19 +4,19 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Davenport called back eleven minutes later." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "I'm looking at it." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The porch roof is eight feet below the window ledge. The drainpipe bracket — third one up from the corner — it's been bent outward. Recently. The paint at the edge of the bracket is scraped." },
-    { "type": "narration", "content": "A pause. The sound of footsteps." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "I see the bracket." },
-    { "type": "dialogue", "speaker": "Julian", "content": "The window wasn't open because Marcus was warm. Or it wasn't only that. Someone came in through that window. After he was unconscious. The window was already open — the drugs made him feel overheated, he opened it himself before he went under. And someone used it." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Used it to get in." },
-    { "type": "dialogue", "speaker": "Julian", "content": "And out. And then the door — locked from inside — becomes the perfect misdirection. Everyone looks at the door. Nobody looks at the window because it looks impossible. But it wasn't impossible. Not if you'd already planned your route. Not if you knew this house." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "Who booked the house." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I don't know. But I'd start there." },
-    { "type": "narration", "content": "Another pause. Longer." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "I'm going to need forensics on this bracket. And the porch roof." },
-    { "type": "dialogue", "speaker": "Julian", "content": "Don't let the group see you looking at it." },
-    { "type": "dialogue", "speaker": "Davenport", "content": "This isn't my first time, Mr. Crane." }
+    { "type": "narration", "content": "Davenport called back nine minutes later." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'm looking at the bracket." },
+    { "type": "dialogue", "speaker": "Julian", "content": "The paint scrape is recent. Someone put their weight on it going up. The porch roof gives you a landing — from the window ledge it's eight feet, maybe less. Manageable for someone who came prepared." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "You're saying someone climbed in through that window." },
+    { "type": "dialogue", "speaker": "Julian", "content": "I'm saying someone went in and out through that window while Marcus was unconscious. The door was never the way in. The window is why they left it open — couldn't close it cleanly from outside while climbing down. They left it and let the cold air work for them. Confuses the time of death. Sends everyone looking at the wrong thing." },
+    { "type": "narration", "content": "Silence on the line. Long enough that Julian could hear Davenport thinking." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "The booking. Who reserved this house." },
+    { "type": "dialogue", "speaker": "Julian", "content": "That's the right question. Whoever did this chose this property specifically. They knew what that window offered before they arrived." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "I'll get forensics on the bracket tonight." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Don't let them come through the front. The group is watching everything." },
+    { "type": "narration", "content": "A beat." },
+    { "type": "dialogue", "speaker": "Davenport", "content": "Mr. Crane. How certain are you." },
+    { "type": "dialogue", "speaker": "Julian", "content": "Certain enough that I'm not sleeping until the tox comes back." },
+    { "type": "narration", "content": "He ended the call." }
   ]
 }
