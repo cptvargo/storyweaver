@@ -74,19 +74,22 @@ Six old friends rent a beach house on the Carolina coast for a weekend. By Satur
 **Dr. Audra Mills** — County medical examiner. Called in Chapter 2. Bags the water glass. Initially reads as possible cardiac event pending tox.
 
 ### The Murder Method
-1. Nadia put sleeping pills in Marcus's bedside water glass (placed before he went upstairs)
+1. Nadia puts sleeping pills in Marcus's bedside water glass (placed before he went upstairs)
 2. Marcus drinks it, falls into deep unconscious sleep within the hour
 3. During the evening window (9:43–10:30pm) Nadia slips away from the group
-4. She goes OUTSIDE the house, climbs up to Marcus's window via the porch roof (8ft drop) and a drainpipe bracket
+4. She goes OUTSIDE and climbs up to Marcus's window (20ft drop — HOW she got up is unsolved in Ch3, revealed Ch8/9)
 5. She enters through the open window (Marcus opened it because the drugs made him feel overheated)
 6. She suffocates him with a pillow
-7. She exits back through the window, climbs down
-8. Uses piano wire — threaded through the door gap — to twist the privacy latch locked from outside
-9. Pulls the wire free. The room appears locked from inside.
-10. Returns to the group.
+7. She exits through the DOOR (unlocks the privacy latch from inside, steps into the hallway)
+8. Uses pre-cut piano wire looped around the thumb turn, threaded under the door gap, to relock from outside
+9. Pulls the wire free. Door appears locked from inside. She returns to the group.
+
+**The locked room has TWO impossibilities:**
+- Door locked from inside → piano wire trick (revealed Ch9)
+- Window is a 20ft drop → HOW Nadia got up there is unsolved in Ch3, revealed Ch8/9
 
 **Physical evidence:**
-- Bent drainpipe bracket with scraped paint and synthetic fibers (found by Julian in Ch3)
+- Bent drainpipe bracket with scraped paint and synthetic fibers (Ch3 — proves window was used, HOW unknown)
 - Water glass — sleeping pills (tox screen Ch5)
 - Petechial hemorrhaging / suffocation signs on re-examination (Ch7)
 - Piano wire score marks on the thumb turn of the latch (Ch9 deduction room)

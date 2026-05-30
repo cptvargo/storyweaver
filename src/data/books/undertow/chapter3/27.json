@@ -6,16 +6,16 @@
   "blocks": [
     { "type": "narration", "content": "He walked back. As he passed the house he glanced up — not habit. Instinct. Something his eye had caught before his mind caught up with it." },
     { "type": "narration", "content": "He stopped." },
-    { "type": "narration", "content": "Second floor. The window with the crime scene tape visible behind the glass. And below it — the porch roof running along the back of the house. Not twenty feet. Eight. Maybe eight and a half." },
-    { "type": "narration", "content": "He stepped off the path into the narrow strip between the two houses. Looked up at the exterior wall. The drainpipe on the near corner. The gutter bracket — third one from the top — bent outward, paint scraped at the edge." },
+    { "type": "narration", "content": "Second floor. The window with the crime scene tape visible behind the glass. Twenty feet up. Maybe more. A straight drop to the beach, no ledge, no landing. Impossible to exit through. Everyone had agreed on that." },
+    { "type": "narration", "content": "He stepped off the path into the narrow strip between the two houses and looked at the exterior wall. The drainpipe on the near corner. The gutter bracket — third one from the top — bent outward. Paint scraped at the edge." },
     { "type": "narration", "content": "He went very still." },
-    { "type": "internalThought", "content": "There it is." },
-    { "type": "narration", "content": "Not twenty feet. Eight. And a drainpipe with enough purchase for someone who'd practiced this. Or measured it. Or both." },
-    { "type": "internalThought", "content": "The window was never the impossible exit. It was the only exit. The one nobody looked at because everyone was too busy looking at the door." },
-    { "type": "narration", "content": "He didn't touch anything. He photographed the wall from where he stood — the window, the porch roof, the bracket — four shots from different angles. Then he pulled out his phone." },
-    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "South-facing window. Look at the exterior wall below it. Porch roof. Gutter bracket, third from the top." },
+    { "type": "internalThought", "content": "Someone was at that window." },
+    { "type": "narration", "content": "Not near it. At it. The bracket was at the right height for someone holding on while accessing the window ledge. The scrape was fresh. And twenty feet of drop didn't change what the bracket was telling him." },
+    { "type": "internalThought", "content": "I don't know how yet. But someone was there." },
+    { "type": "narration", "content": "He photographed the wall — the window, the bracket, the scrape — four shots from different angles. Then he pulled out his phone." },
+    { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "South-facing window. Look at the exterior wall below it. Gutter bracket, third from the top. Bent. Paint scraped." },
     { "type": "message", "sender": "Julian", "recipient": "Davenport", "content": "Call me." },
-    { "type": "narration", "content": "Then he went inside and wrote four words at the top of a clean page." },
-    { "type": "narration", "content": "The door was never it." }
+    { "type": "narration", "content": "He went inside. Wrote at the top of a clean page:" },
+    { "type": "narration", "content": "Window used. How — unknown. Twenty feet. Figure it out." }
   ]
 }
