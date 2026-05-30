@@ -1253,12 +1253,58 @@ body {
   margin: 0;
 }
 
-/* Feature 3: premium message bubbles — phone conversation style */
+/* ─── Phone call indicator ───────────────────────────────────── */
+.block--call-indicator {
+  margin: 24px 0 8px;
+}
+
+.call-indicator__bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  padding: 8px 16px;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.call-indicator__icon {
+  font-size: 0.85rem;
+}
+
+.call-indicator__name {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: 0.02em;
+}
+
+.call-indicator__label {
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  letter-spacing: 0.06em;
+}
+
+.block--call-end {
+  text-align: center;
+  margin: 8px 0 24px;
+}
+
+.call-end__label {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ─── iMessage-style bubbles ─────────────────────────────────── */
 .block--message {
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  margin-bottom: 14px;
+  gap: 3px;
+  margin-bottom: 10px;
 }
 
 .message--right { align-items: flex-end; }
@@ -1266,35 +1312,49 @@ body {
 
 .message__sender {
   font-size: 0.66rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  letter-spacing: 0.06em;
   color: var(--text-dim);
-  padding: 0 4px;
+  padding: 0 14px;
+  margin-bottom: 2px;
 }
 
 .message__bubble {
-  max-width: 75%;
-  padding: 11px 16px;
-  border-radius: 20px;
-  font-size: 0.93rem;
-  line-height: 1.55;
+  max-width: 78%;
+  padding: 10px 14px;
+  border-radius: 18px;
+  font-size: 0.95rem;
+  line-height: 1.5;
   font-family: var(--font-sans);
   position: relative;
+  word-break: break-word;
 }
 
 .message--right .message__bubble {
-  background: linear-gradient(135deg, #5b3fa8 0%, #3d2875 100%);
-  color: rgba(240, 232, 255, 0.95);
-  border-bottom-right-radius: 5px;
-  box-shadow: 0 4px 20px rgba(80, 50, 140, 0.35);
+  background: #007AFF;
+  color: #ffffff;
+  border-bottom-right-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 122, 255, 0.3);
 }
 
 .message--left .message__bubble {
-  background: rgba(255, 255, 255, 0.06);
-  color: var(--text-muted);
-  border: 1px solid rgba(255, 255, 255, 0.09);
-  border-bottom-left-radius: 5px;
-  backdrop-filter: blur(8px);
+  background: #2C2C2E;
+  color: #EBEBF5;
+  border-bottom-left-radius: 4px;
+}
+
+.message__bubble--image {
+  padding: 3px;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 14px;
+  overflow: hidden;
+  max-width: 220px;
+}
+
+.message__photo {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
 }
 
 .block--action {

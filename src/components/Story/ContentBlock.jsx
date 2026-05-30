@@ -22,13 +22,38 @@ export default function ContentBlock({ block, pov }) {
         </div>
       )
 
+    case 'callStart':
+      return (
+        <div className="block block--call-indicator">
+          <div className="call-indicator__bar">
+            <span className="call-indicator__icon">📞</span>
+            <span className="call-indicator__name">{block.caller}</span>
+            <span className="call-indicator__label">{block.direction === 'outgoing' ? 'Outgoing Call' : 'Incoming Call'}</span>
+          </div>
+        </div>
+      )
+
+    case 'callEnd':
+      return (
+        <div className="block block--call-end">
+          <span className="call-end__label">Call ended</span>
+        </div>
+      )
+
     case 'message': {
       const isSent = pov != null && block.sender === pov
       const side = isSent ? 'right' : 'left'
       return (
         <div className={`block block--message message--${side}`}>
           {!isSent && <span className="message__sender">{block.sender}</span>}
-          <div className="message__bubble">{block.content}</div>
+          {block.image && (
+            <div className="message__bubble message__bubble--image">
+              <img src={publicUrl(block.image)} alt="photo" className="message__photo" />
+            </div>
+          )}
+          {block.content && (
+            <div className="message__bubble">{block.content}</div>
+          )}
         </div>
       )
     }

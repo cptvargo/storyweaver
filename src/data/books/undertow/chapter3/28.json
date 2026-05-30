@@ -5,6 +5,7 @@
   "bookId": "undertow",
   "blocks": [
     { "type": "narration", "content": "Davenport called back nine minutes later." },
+    { "type": "callStart", "caller": "Ray Davenport", "direction": "incoming" },
     { "type": "dialogue", "speaker": "Davenport", "content": "I'm looking at the bracket." },
     { "type": "dialogue", "speaker": "Julian", "content": "Someone accessed that window. I don't know how yet — the drop is twenty feet and there's nothing obvious to climb. But the bracket tells me they were there. The scrape is recent." },
     { "type": "dialogue", "speaker": "Davenport", "content": "Twenty feet is twenty feet, Mr. Crane. Nobody goes in or out of a window twenty feet up without—" },
@@ -19,7 +20,8 @@
     { "type": "dialogue", "speaker": "Julian", "content": "Now you're asking the right question." },
     { "type": "dialogue", "speaker": "Davenport", "content": "Get forensics on that bracket tonight. I'll be in touch." },
     { "type": "dialogue", "speaker": "Julian", "content": "Don't let the group see them working the exterior." },
-    { "type": "narration", "content": "He ended the call. Looked at what he'd written." },
+    { "type": "callEnd" },
+    { "type": "narration", "content": "He looked at what he'd written." },
     { "type": "narration", "content": "Window used. How — unknown. Twenty feet. Figure it out." },
     { "type": "narration", "content": "He underlined the last three words." }
   ]

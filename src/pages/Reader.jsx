@@ -129,6 +129,7 @@ export default function Reader() {
   const pov =
     page?.pov ??
     page?.blocks?.find((b) => b.type === 'internalThought')?.character ??
+    selectedBook?.pov ??
     null
 
   const pageLabel = isIntroCard
