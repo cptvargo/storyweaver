@@ -8,7 +8,18 @@ Books live in `src/data/books/<bookId>/`. Each book has:
 - `bookMeta.json` — chapter list, cover, metadata
 - `chapter1/1.json` through `chapterN/30.json` — page files
 
-Each page file has a `blocks` array with types: `narration`, `dialogue`, `internalThought`, `message`.
+Each page file has a `blocks` array with types: `narration`, `dialogue`, `internalThought`, `message`, `callStart`, `callEnd`, `embed`.
+
+### Block writing conventions
+- **Phone calls**: always wrap with `callStart`/`callEnd`:
+  ```json
+  { "type": "callStart", "caller": "Ray Davenport", "direction": "incoming" }
+  { "type": "callEnd" }
+  ```
+- **Text messages**: use `message` blocks with `sender`/`recipient` fields. POV character appears on right (blue), others on left (gray). Set `"pov": "CharacterName"` in bookMeta for book-wide POV.
+- **Images in messages**: add `"image": "/filename.png"` field to a message block to render a photo bubble.
+- **Dialogue-heavy**: aim for 60%+ dialogue, minimal narration. Undertow especially.
+- **Internal thoughts** (`internalThought`): render as frosted purple 💭 cards. Use for first-person character thoughts only — not narration.
 
 `src/utils/storyEngine.js` — imports all bookMeta files and must be updated when adding a new book.
 
@@ -53,9 +64,9 @@ Six old friends rent a beach house on the Carolina coast for a weekend. By Satur
 
 ### Characters
 
-**Julian Crane** — Protagonist. Behavioral analyst, consults on fraud/corporate cases. Staying next door on vacation. Notices patterns in how people behave. Sharp, precise, confident — speaks with clinical accuracy not apology. His mind never stops. Think Shinichi Kudo.
+**Julian Crane** — Protagonist. Behavioral analyst, consults on fraud/corporate cases. Staying next door on vacation. Notices patterns in how people behave. Sharp, precise, confident — speaks with clinical accuracy not apology. His mind never stops. Think Shinichi Kudo. Early 30s. Owns every room he walks into — moves his chair before sitting, times his silences, never hedges. Signature: "Every detail except me."
 
-**Mara Voss** — Julian's colleague. Dry humor, no-nonsense. She pushed him to take this vacation. Checks in on him throughout. Her line when he tells her there's a case: *"So much for a vacation."* Julian: *"Fun can come after. There's a case that needs attention."*
+**Mara Voss** — Julian's colleague and closest person. Dry humor, no-nonsense. She pushed him to take this vacation. **She is Julian's "Ran"** — mutual feelings neither has named, both true to their work. Glimpses only: she says "be careful" and means more than the words. He holds the phone a beat longer than necessary after she hangs up. Never explicit. Her line: *"So much for a vacation."* Julian: *"Fun can come after. There's a case that needs attention."*
 
 **Inspector Ray Davenport** — Carteret County. Mid-50s, heavyset, salt-and-pepper, wears a hat. Experienced, by-the-book, competent but not brilliant. The Meguire to Julian's Shinichi. Skeptical of Julian at first, comes to rely on him. Good man.
 
@@ -72,6 +83,19 @@ Six old friends rent a beach house on the Carolina coast for a weekend. By Satur
 **Wren Cole** — The quiet observer. Short answers, precise ones. Described Marcus as looking like "someone hearing bad news in an empty room." She is the one who gives Julian the case-breaking detail in Chapter 8.
 
 **Dr. Audra Mills** — County medical examiner. Called in Chapter 2. Bags the water glass. Initially reads as possible cardiac event pending tox.
+
+### Character Appearances (for image generation)
+- **Julian Crane** — early 30s, lean, sharp features, observant eyes
+- **Mara Voss** — early 30s, professional, composed, quick smile
+- **Dean Ashby** — early 30s, Black, tall, clean cut even on no sleep
+- **Cade Mercer** — early 30s, white, sandy brown hair, naturally charming
+- **Nadia Reyes** — early 30s, Latina, dark hair, striking, holds herself very still
+- **Sophie Laurent** — early 30s, French-Algerian, warm features, expressive
+- **Wren Cole** — late 20s, East Asian, small frame, watchful eyes
+- **Inspector Davenport** — mid-50s, heavyset, salt-and-pepper, always has his hat
+
+### The House Booking (Option C — confirmed)
+Marcus booked the house. Nadia steered him toward it — casually mentioned the area, sent a link, suggested the coast. Marcus thought it was his idea. Julian discovers this in the booking trail — the suggestion originated with Nadia even though the reservation didn't. Nadia viewed the exterior photo gallery to study the window route. This is revealed in Chapter 7.
 
 ### The Murder Method
 1. Nadia puts sleeping pills in Marcus's bedside water glass (placed before he went upstairs)
