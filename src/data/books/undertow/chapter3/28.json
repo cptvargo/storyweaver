@@ -8,6 +8,7 @@
     { "type": "narration", "content": "He made coffee. Sat at the study table. Added what Davenport had told him — and more importantly, what Davenport hadn't." },
     { "type": "internalThought", "content": "The call records surprised him. Something he wasn't expecting. Which means whoever Marcus was arguing with at nine seventeen wasn't a client, wasn't a stranger. Was someone close enough to surprise a thirty-year veteran." },
     { "type": "narration", "content": "His phone buzzed. Mara." },
+    { "type": "callStart", "caller": "Mara Voss", "direction": "incoming" },
     { "type": "dialogue", "speaker": "Mara", "content": "Tell me you've slept." },
     { "type": "dialogue", "speaker": "Julian", "content": "I gave my formal statement this morning." },
     { "type": "dialogue", "speaker": "Mara", "content": "That's not what I asked." },
@@ -29,6 +30,7 @@
     { "type": "dialogue", "speaker": "Mara", "content": "Be careful. And I mean that in a way that actually means something — not the thing you say when you're already halfway out the door." },
     { "type": "dialogue", "speaker": "Julian", "content": "Mara." },
     { "type": "dialogue", "speaker": "Mara", "content": "I know. Go solve it." },
-    { "type": "narration", "content": "She hung up. He held the phone a moment longer than necessary. Then he set it down and looked at the legal pad." }
+    { "type": "callEnd" },
+    { "type": "narration", "content": "He held the phone a moment longer than necessary. Then he set it down and looked at the legal pad." }
   ]
 }
