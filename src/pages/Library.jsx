@@ -11,7 +11,6 @@ const BOOKS_PER_PAGE = 6;
 export default function Library() {
   const navigate = useNavigate();
   const [, setSelectedBook] = useLocalStorage("sw_selectedBook", null);
-  const [, setProgress] = useLocalStorage("sw_progress", null);
   const [detailBook, setDetailBook] = useState(null);
   const [page, setPage] = useState(1);
 
@@ -19,9 +18,26 @@ export default function Library() {
   const start = (page - 1) * BOOKS_PER_PAGE;
   const paginatedBooks = ALL_BOOKS.slice(start, start + BOOKS_PER_PAGE);
 
+  const getBookProgress = (bookId) => {
+    try {
+      const item = window.localStorage.getItem(`sw_progress_${bookId}`)
+      return item ? JSON.parse(item) : null
+    } catch {
+      return null
+    }
+  }
+
   const handleBeginReading = (book) => {
     setSelectedBook(book);
-    setProgress({ chapterIndex: 1, pageIndex: 0 });
+    navigate("/reader");
+  };
+
+  const handleStartOver = (book) => {
+    setSelectedBook(book);
+    window.localStorage.setItem(
+      `sw_progress_${book.id}`,
+      JSON.stringify({ chapterIndex: 1, pageIndex: 0 })
+    );
     navigate("/reader");
   };
 
@@ -98,6 +114,8 @@ export default function Library() {
           book={detailBook}
           onClose={() => setDetailBook(null)}
           onRead={handleBeginReading}
+          onStartOver={handleStartOver}
+          savedProgress={getBookProgress(detailBook.id)}
         />
       )}
     </div>

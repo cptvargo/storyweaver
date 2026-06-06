@@ -21,7 +21,8 @@ export default function Reader() {
   const selectedBook = storedBook
     ? (ALL_BOOKS.find((b) => b.id === storedBook.id) ?? storedBook)
     : null
-  const [progress, setProgress] = useLocalStorage('sw_progress', {
+  const progressKey = `sw_progress_${selectedBook?.id ?? 'default'}`
+  const [progress, setProgress] = useLocalStorage(progressKey, {
     chapterIndex: 1,
     pageIndex: 0,
   })

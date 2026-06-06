@@ -1,7 +1,11 @@
 import { publicUrl } from '../../utils/publicUrl'
 
-export default function BookDetail({ book, onClose, onRead }) {
+export default function BookDetail({ book, onClose, onRead, onStartOver, savedProgress }) {
   if (!book) return null
+
+  const resumeLabel = savedProgress
+    ? `Resume — Ch. ${savedProgress.chapterIndex}${savedProgress.pageIndex > 0 ? `, Page ${savedProgress.pageIndex}` : ' · Intro'}`
+    : null
 
   return (
     <div className="book-detail">
@@ -35,9 +39,20 @@ export default function BookDetail({ book, onClose, onRead }) {
             <span>{book.totalChapters} chapters</span>
           </div>
 
-          <button className="btn btn--primary" onClick={() => onRead(book)}>
-            Read This Story
-          </button>
+          {savedProgress ? (
+            <div className="book-detail__actions">
+              <button className="btn btn--primary" onClick={() => onRead(book)}>
+                {resumeLabel}
+              </button>
+              <button className="btn btn--ghost" onClick={() => onStartOver(book)}>
+                Start Over
+              </button>
+            </div>
+          ) : (
+            <button className="btn btn--primary" onClick={() => onRead(book)}>
+              Read This Story
+            </button>
+          )}
         </div>
       </div>
     </div>

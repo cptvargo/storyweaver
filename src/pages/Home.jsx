@@ -4,8 +4,9 @@ import logo from '/storyweaver_logo.png'
 
 export default function Home() {
   const navigate = useNavigate()
-  const [progress] = useLocalStorage('sw_progress', null)
   const [selectedBook] = useLocalStorage('sw_selectedBook', null)
+  const progressKey = selectedBook ? `sw_progress_${selectedBook.id}` : 'sw_progress_none'
+  const [progress] = useLocalStorage(progressKey, null)
 
   const hasProgress = progress !== null && selectedBook !== null
 
@@ -50,7 +51,7 @@ export default function Home() {
           >
             Continue Reading
             <span className="btn__sub">
-              {selectedBook.title} · Ch. {progress.chapterIndex}
+              {selectedBook.title} · Ch. {progress.chapterIndex}{progress.pageIndex > 0 ? `, Page ${progress.pageIndex}` : ''}
             </span>
           </button>
         )}
