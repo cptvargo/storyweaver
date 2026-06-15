@@ -38,6 +38,7 @@ export default function Library() {
       `sw_progress_${book.id}`,
       JSON.stringify({ chapterIndex: 1, pageIndex: 0 })
     );
+    window.localStorage.removeItem(`sw_choices_${book.id}`);
     navigate("/reader");
   };
 

@@ -1,0 +1,26 @@
+{
+  "page": 9,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "He was standing in the middle of the cafeteria holding a tray. People were starting to notice him standing there." },
+    {
+      "type": "choice",
+      "prompt": "Where does Larry sit?",
+      "options": [
+        {
+          "id": "sat_with_athletes",
+          "label": "Walk to the athlete table. You know Jonathan.",
+          "goto": 10
+        },
+        {
+          "id": "sat_elsewhere",
+          "label": "Find somewhere that isn't a test.",
+          "goto": 11,
+          "remember": "Jonathan"
+        }
+      ]
+    }
+  ]
+}

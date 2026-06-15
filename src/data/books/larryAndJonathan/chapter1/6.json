@@ -1,0 +1,16 @@
+{
+  "page": 6,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 8,
+  "blocks": [
+    { "type": "narration", "content": "Larry didn't say anything." },
+    { "type": "narration", "content": "Daniel held the look for another second — waiting to see if there was anything there. There wasn't. Silence wasn't interesting enough to hold his attention." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "That's what I thought." },
+    { "type": "narration", "content": "He was gone before Larry could decide whether he'd made the right call." },
+    { "type": "narration", "content": "Probably he had. Probably staying quiet was the smart play. Don't make enemies on the first day. Don't make yourself memorable for the wrong reasons." },
+    { "type": "narration", "content": "He told himself that all the way to third period." },
+    { "type": "narration", "content": "It didn't quite take." }
+  ]
+}

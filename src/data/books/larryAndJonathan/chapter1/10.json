@@ -1,0 +1,20 @@
+{
+  "page": 10,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 12,
+  "blocks": [
+    { "type": "narration", "content": "Larry walked across the cafeteria." },
+    { "type": "narration", "content": "It took about six steps for the table to notice him coming. The conversations didn't stop but they slowed — recalibrating. Who's this. How does he fit." },
+    { "type": "narration", "content": "Jonathan looked up and nodded at the open seat." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Sit down." },
+    { "type": "narration", "content": "Larry sat. A guy across the table — varsity jacket, the kind of big that didn't stop growing — glanced at Jonathan, then at Larry." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "This your boy?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's Larry. He's good." },
+    { "type": "narration", "content": "He's good." },
+    { "type": "narration", "content": "Not 'he's my friend.' Not 'we go way back.' He's good. Like vouching for someone at the door." },
+    { "type": "narration", "content": "Larry ate his lunch. He talked when someone talked to him. He laughed when it seemed like the right time to laugh. He did everything right." },
+    { "type": "narration", "content": "And the whole time a small, quiet part of him was keeping score." }
+  ]
+}

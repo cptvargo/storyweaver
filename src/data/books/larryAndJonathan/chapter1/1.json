@@ -1,0 +1,16 @@
+{
+  "page": 1,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "Lincoln High. 7:48 AM." },
+    { "type": "narration", "content": "Mr. Cole pulled the Town Car to the curb and put it in park. He didn't say anything. He never had to." },
+    { "type": "narration", "content": "Larry Jenkins sat in the back seat for three seconds longer than he needed to. Through the window the school looked the way every school looked on the first day — like something that had already decided what it thought of you." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You're going to be fine." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "No. But I know you." },
+    { "type": "narration", "content": "Larry opened the door. The Town Car pulled away without ceremony. He stood on the sidewalk with his backpack and watched the crowd move around him like water around a rock." },
+    { "type": "narration", "content": "He was looking for one face." }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "page": 8,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "The Lincoln High cafeteria at 12:10 PM was its own kind of ecosystem. Loud in a specific way — the sound of two hundred people figuring out where they belonged." },
+    { "type": "narration", "content": "Larry stood at the edge with his tray and did the math." },
+    { "type": "narration", "content": "The athlete table sat in the center of the room — it always did, in every school, like gravity arranged it that way. Jonathan was already there. He hadn't been in line. Someone had probably gotten his food for him. He was sitting like he'd sat at that table for three years already." },
+    { "type": "narration", "content": "There was an open seat. Two spots down from Jonathan. Not next to him. Two spots." },
+    { "type": "narration", "content": "Larry looked at the seat. He looked at Jonathan. Jonathan was in the middle of a story — hands moving, the table leaning in." }
+  ]
+}

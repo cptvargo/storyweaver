@@ -1,0 +1,18 @@
+{
+  "page": 7,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 8,
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "Figure it out." },
+    { "type": "narration", "content": "Daniel blinked. Just once. It wasn't much, but it was enough to make the moment interesting." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Oh word?" },
+    { "type": "narration", "content": "He smiled. It wasn't a good smile." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight, Larry. I'll figure it out." },
+    { "type": "narration", "content": "He bumped Larry's shoulder going past — deliberate, just short of a shove. A few people in the hallway noticed. A few of them looked." },
+    { "type": "narration", "content": "One of them was Jonathan." },
+    { "type": "narration", "content": "He was at the end of the hall, already there, watching. He'd seen enough to know something had happened. The way he looked at Larry wasn't concern exactly. More like calculation — the way you look at something you have to decide how much to claim." },
+    { "type": "narration", "content": "Then he turned back to his conversation." }
+  ]
+}

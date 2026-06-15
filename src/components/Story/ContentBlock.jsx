@@ -2,7 +2,10 @@ import { publicUrl } from '../../utils/publicUrl'
 
 const IMAGE_EXT = /\.(png|jpe?g|gif|webp|avif|svg)$/i
 
-export default function ContentBlock({ block, pov }) {
+export default function ContentBlock({ block, pov, onChoice, currentChoice, hasTag }) {
+  // Conditionally hidden blocks — only render if the player has the required tag
+  if (block.condition && !hasTag?.(block.condition)) return null
+
   switch (block.type) {
     case 'narration':
       return <p className="block block--narration">{block.content}</p>
@@ -80,6 +83,31 @@ export default function ContentBlock({ block, pov }) {
           />
         </div>
       )
+
+    case 'choice': {
+      const isLocked = currentChoice !== null
+      return (
+        <div className="block block--choice">
+          {block.prompt && <p className="choice__prompt">{block.prompt}</p>}
+          <div className="choice__options">
+            {block.options.map((opt) => {
+              const isSelected = currentChoice?.id === opt.id
+              return (
+                <button
+                  key={opt.id}
+                  className={`choice__btn${isSelected ? ' choice__btn--selected' : ''}${isLocked && !isSelected ? ' choice__btn--dimmed' : ''}`}
+                  onClick={() => !isLocked && onChoice?.(opt)}
+                  disabled={isLocked}
+                >
+                  {opt.label}
+                  {isSelected && <span className="choice__check">▶</span>}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+      )
+    }
 
     default:
       return <p className="block">{block.content}</p>

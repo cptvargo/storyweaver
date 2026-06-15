@@ -1,0 +1,17 @@
+{
+  "page": 2,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "He heard it before he saw it." },
+    { "type": "narration", "content": "A different car. The kind of entrance that didn't need to try. Mr. Tanaka brought the car to a stop at the far end of the drop-off lane, and Jonathan Michaels stepped out like he'd been doing this his whole life — like Lincoln High had been waiting for him specifically." },
+    { "type": "narration", "content": "He was already taller than most of the upperclassmen. Wide through the shoulders in the way that made people get out of the way without being asked. Moving through the crowd wasn't something Jonathan did. The crowd moved for him." },
+    { "type": "narration", "content": "He spotted Larry and raised his chin." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yo." },
+    { "type": "narration", "content": "That was it. That was their whole morning." },
+    { "type": "narration", "content": "Jonathan fell into step with a pair of juniors who somehow already knew his name. Larry followed a few steps behind — close enough to be with him, far enough to make it obvious he wasn't." },
+    { "type": "narration", "content": "It was the first day and that was already how it was." }
+  ]
+}

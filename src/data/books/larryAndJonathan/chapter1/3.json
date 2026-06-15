@@ -1,0 +1,18 @@
+{
+  "page": 3,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "First period English. Ms. Barrett assigned seats alphabetically, which put Larry Jenkins two rows behind Jonathan Michaels." },
+    { "type": "narration", "content": "By the time the bell rang, four people had introduced themselves to Jonathan. Three of them were upperclassmen. One was varsity." },
+    { "type": "narration", "content": "Nobody introduced themselves to Larry." },
+    { "type": "narration", "content": "Ms. Barrett did the thing teachers always did on the first day — asked everyone to say their name and one thing about themselves." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Jonathan Michaels. Wide receiver." },
+    { "type": "narration", "content": "That was enough. The room shifted in that small but unmistakable way." },
+    { "type": "narration", "content": "When it got to Larry he said his name and said he was good at math, which was true and also exactly the wrong thing to say and he knew it before it fully left his mouth." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry Jenkins. I'm... good at math." },
+    { "type": "narration", "content": "Ms. Barrett moved on. Jonathan didn't look back." },
+    { "type": "narration", "content": "The thing about being invisible was that sometimes the people who were supposed to see you were looking at something else." }
+  ]
+}

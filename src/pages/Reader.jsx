@@ -1,15 +1,16 @@
 import { useState, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/useLocalStorage'
+import { useChoiceState } from '../hooks/useChoiceState'
 import { loadPage, ALL_BOOKS } from '../utils/storyEngine'
 import { publicUrl } from '../utils/publicUrl'
 import SceneRenderer from '../components/Story/SceneRenderer'
 import ChapterIntroCard from '../components/Story/ChapterIntroCard'
+import RememberToast from '../components/Story/RememberToast'
 import PageShell from '../components/Layout/PageShell'
 
 const SWIPE_THRESHOLD = 50
 
-// Key that uniquely identifies what is currently displayed
 function makeKey(chapterIndex, pageIndex) {
   return pageIndex === 0 ? `intro-${chapterIndex}` : `${chapterIndex}-${pageIndex}`
 }
@@ -17,23 +18,28 @@ function makeKey(chapterIndex, pageIndex) {
 export default function Reader() {
   const navigate = useNavigate()
   const [storedBook] = useLocalStorage('sw_selectedBook', null)
-  // Always resolve against live imports so stale localStorage never misses new fields
   const selectedBook = storedBook
     ? (ALL_BOOKS.find((b) => b.id === storedBook.id) ?? storedBook)
     : null
+
   const progressKey = `sw_progress_${selectedBook?.id ?? 'default'}`
   const [progress, setProgress] = useLocalStorage(progressKey, {
     chapterIndex: 1,
     pageIndex: 0,
   })
 
-  // Single state: { key, data } — avoids any synchronous setState inside effect
-  const [pageState, setPageState] = useState({ key: null, data: null })
+  const { makeChoice, getChoice, hasTag } = useChoiceState(selectedBook?.id ?? 'default')
+  const [rememberMessage, setRememberMessage] = useState(null)
 
+  const [pageState, setPageState] = useState({ key: null, data: null })
   const [tocOpen, setTocOpen] = useState(false)
 
   const touchStartX = useRef(null)
   const touchStartY = useRef(null)
+
+  const isInteractive = selectedBook?.bookType === 'interactive'
+  const format = selectedBook?.format ?? 'chapters'
+  const unitLabel = format === 'episodes' ? 'Episode' : 'Chapter'
 
   const chapterIndex = progress?.chapterIndex ?? 1
   const pageIndex = progress?.pageIndex ?? 0
@@ -49,9 +55,13 @@ export default function Reader() {
     12
 
   const currentKey = makeKey(chapterIndex, pageIndex)
-  // loading is derived — true whenever the resolved key doesn't match what we need
   const loading = pageState.key !== currentKey
   const page = pageState.data
+
+  // Interactive: check if this page has a choice and whether it's been answered
+  const pageHasChoice = isInteractive && page?.blocks?.some(b => b.type === 'choice')
+  const currentChoice = isInteractive ? getChoice(pageIndex) : null
+  const pendingChoice = pageHasChoice && currentChoice === null
 
   useEffect(() => {
     if (!selectedBook) return
@@ -86,6 +96,15 @@ export default function Reader() {
   const handleNextPage = () => {
     if (isIntroCard) {
       setProgress({ chapterIndex, pageIndex: 1 })
+    } else if (pendingChoice) {
+      // Blocked — must choose first
+      return
+    } else if (pageHasChoice && currentChoice) {
+      // Navigate to the chosen branch
+      setProgress({ chapterIndex, pageIndex: currentChoice.goto })
+    } else if (page?.nextPage) {
+      // Explicit convergence routing
+      setProgress({ chapterIndex, pageIndex: page.nextPage })
     } else if (pageIndex < totalPages) {
       setProgress({ chapterIndex, pageIndex: pageIndex + 1 })
     } else if (chapterIndex < totalChapters) {
@@ -103,6 +122,13 @@ export default function Reader() {
       setProgress({ chapterIndex, pageIndex: pageIndex - 1 })
     } else {
       setProgress({ chapterIndex, pageIndex: 0 })
+    }
+  }
+
+  const handleChoice = (option) => {
+    makeChoice(pageIndex, option)
+    if (option.remember) {
+      setRememberMessage(option.remember)
     }
   }
 
@@ -134,7 +160,7 @@ export default function Reader() {
     null
 
   const pageLabel = isIntroCard
-    ? 'Chapter Intro'
+    ? `${unitLabel} Intro`
     : `Page ${pageIndex} of ${totalPages}`
 
   return (
@@ -144,6 +170,14 @@ export default function Reader() {
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
       >
+        {/* Remember toast */}
+        {rememberMessage && (
+          <RememberToast
+            message={rememberMessage}
+            onDone={() => setRememberMessage(null)}
+          />
+        )}
+
         {/* Header — hidden on full-screen intro card */}
         {!isIntroCard && (
           <div className="reader__header">
@@ -152,7 +186,7 @@ export default function Reader() {
                 ← Home
               </button>
               <button className="toc-btn" onClick={() => setTocOpen(true)}>
-                Chapters
+                {format === 'episodes' ? 'Episodes' : 'Chapters'}
               </button>
             </div>
             <div className="reader__book-info">
@@ -166,19 +200,21 @@ export default function Reader() {
               <div className="reader__book-text">
                 <span className="reader__book-title">{selectedBook.title}</span>
                 <span className="reader__chapter-count">
-                  Chapter {chapterIndex} · {pageLabel}
+                  {unitLabel} {chapterIndex} · {pageLabel}
                 </span>
               </div>
             </div>
           </div>
         )}
 
-        {/* Table of Contents modal */}
+        {/* TOC / Episode list modal */}
         {tocOpen && (
           <div className="toc-overlay" onClick={() => setTocOpen(false)}>
             <div className="toc-panel" onClick={(e) => e.stopPropagation()}>
               <div className="toc-panel__header">
-                <span className="toc-panel__title">Chapters</span>
+                <span className="toc-panel__title">
+                  {format === 'episodes' ? 'Episodes' : 'Chapters'}
+                </span>
                 <button className="toc-panel__close" onClick={() => setTocOpen(false)}>✕</button>
               </div>
               <div className="toc-panel__list">
@@ -193,7 +229,7 @@ export default function Reader() {
                         setTocOpen(false)
                       }}
                     >
-                      <span className="toc-chapter__num">Chapter {chapter.chapterIndex}</span>
+                      <span className="toc-chapter__num">{unitLabel} {chapter.chapterIndex}</span>
                       <span className="toc-chapter__name">{chapter.title}</span>
                     </button>
                   ))}
@@ -208,19 +244,18 @@ export default function Reader() {
             <div className="loading-spinner" />
           </div>
         ) : isIntroCard ? (
-          /* Chapter intro card — pageIndex 0 */
           <div key={pageState.key} className="reader__page-content">
             <ChapterIntroCard
               chapterMeta={chapterMeta}
               chapterIndex={chapterIndex}
+              format={format}
             />
           </div>
         ) : page ? (
-          /* Story pages */
           <div key={pageState.key} className="reader__page-content">
             <div className="reader__chapter-header">
               {pageIndex === 1 && (
-                <div className="chapter-number">Chapter {chapterIndex}</div>
+                <div className="chapter-number">{unitLabel} {chapterIndex}</div>
               )}
               <h1 className="chapter-title">
                 {page.chapterTitle || selectedBook.title}
@@ -231,7 +266,15 @@ export default function Reader() {
             <SceneRenderer
               scenes={[{ id: `page-${pageIndex}`, blocks: page.blocks }]}
               pov={pov}
+              onChoice={handleChoice}
+              currentChoice={currentChoice}
+              hasTag={hasTag}
             />
+
+            {/* Pending choice indicator */}
+            {pendingChoice && (
+              <p className="choice__pending-hint">Make your choice to continue.</p>
+            )}
 
             <div className="reader__footer">
               <span className="reader__page-label">{pageLabel}</span>
@@ -243,7 +286,9 @@ export default function Reader() {
                 {hasMoreChaptersPlanned ? (
                   <>
                     <p className="finished__text">To Be Continued</p>
-                    <p className="finished__sub">More chapters coming soon.</p>
+                    <p className="finished__sub">
+                      {format === 'episodes' ? 'Next episode coming soon.' : 'More chapters coming soon.'}
+                    </p>
                   </>
                 ) : (
                   <>

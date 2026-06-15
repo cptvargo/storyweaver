@@ -4,9 +4,10 @@
 import whereWeFirstMetMeta from '../data/books/whereWeFirstMet/bookMeta.json'
 import firefliesBetweenUsMeta from '../data/books/firefliesBetweenUs/bookMeta.json'
 import undertowMeta from '../data/books/undertow/bookMeta.json'
+import larryAndJonathanMeta from '../data/books/larryAndJonathan/bookMeta.json'
 
 // All available books. Add new entries here as the library grows.
-const ALL_BOOKS = [whereWeFirstMetMeta, firefliesBetweenUsMeta, undertowMeta]
+const ALL_BOOKS = [whereWeFirstMetMeta, firefliesBetweenUsMeta, undertowMeta, larryAndJonathanMeta]
 
 // Load all page JSON files from src/data/books
 const PAGE_MODULES = import.meta.glob('../data/books/*/chapter*/*.json')

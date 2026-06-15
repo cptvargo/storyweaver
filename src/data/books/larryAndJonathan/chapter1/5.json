@@ -1,0 +1,26 @@
+{
+  "page": 5,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "The hallway kept moving around them. People passing, lockers slamming. Nobody was watching. Or everybody was." },
+    {
+      "type": "choice",
+      "prompt": "What does Larry do?",
+      "options": [
+        {
+          "id": "stayed_quiet",
+          "label": "Nothing. Don't give him anything to work with.",
+          "goto": 6
+        },
+        {
+          "id": "said_something",
+          "label": "\"Figure it out.\"",
+          "goto": 7,
+          "remember": "Daniel Snyder"
+        }
+      ]
+    }
+  ]
+}

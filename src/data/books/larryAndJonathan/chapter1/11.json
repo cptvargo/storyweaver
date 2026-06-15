@@ -1,0 +1,16 @@
+{
+  "page": 11,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 12,
+  "blocks": [
+    { "type": "narration", "content": "Larry found a table near the back wall. Not isolated. Not obvious. Somewhere in the middle of nowhere." },
+    { "type": "narration", "content": "He ate." },
+    { "type": "narration", "content": "The cafeteria noise washed over him — a hundred conversations he wasn't part of. He watched a freshman at the next table try to say something funny and get half a laugh. He watched a girl walk up to a table and get moved to the end without anyone meaning anything by it." },
+    { "type": "narration", "content": "He watched Jonathan hold court at the center table like he'd been the center of something his entire life. Which he had." },
+    { "type": "narration", "content": "Halfway through lunch Jonathan looked up and scanned the cafeteria. His eyes moved across the room — past the back wall, past the table where Larry was sitting." },
+    { "type": "narration", "content": "They didn't stop." },
+    { "type": "narration", "content": "He couldn't tell if Jonathan didn't see him. Or if he did and it didn't register. He wasn't sure which one he was supposed to hope for." }
+  ]
+}

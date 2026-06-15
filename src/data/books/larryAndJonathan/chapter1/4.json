@@ -1,0 +1,24 @@
+{
+  "page": 4,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "narration", "content": "Between second and third period. Jonathan had gone ahead — someone wanted to show him where the weight room was." },
+    { "type": "narration", "content": "That was when Daniel Snyder found him." },
+    { "type": "narration", "content": "Daniel was a sophomore. That one year shouldn't have made a difference. It did." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You're new." },
+    { "type": "narration", "content": "It wasn't a question. Larry kept walking." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aye. I'm talking to you." },
+    { "type": "narration", "content": "He stepped in front of him. Not aggressive enough to start a fight. Just enough to be a wall." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "What's your name, man?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Larry." },
+    { "type": "narration", "content": "He repeated it like he was testing whether it was worth remembering." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You roll with Michaels?" },
+    { "type": "narration", "content": "There it was. Not who Larry was. Who he came with." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Cause Michaels is that dude. You though?" },
+    { "type": "narration", "content": "He looked Larry up and down. Unhurried. Like he had all morning." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "I don't know what you are yet." }
+  ]
+}

@@ -1,0 +1,37 @@
+import { useState } from 'react'
+
+export function useChoiceState(bookId) {
+  const key = `sw_choices_${bookId}`
+
+  const [state, setState] = useState(() => {
+    try {
+      const item = window.localStorage.getItem(key)
+      return item ? JSON.parse(item) : { choices: {}, tags: [] }
+    } catch {
+      return { choices: {}, tags: [] }
+    }
+  })
+
+  const makeChoice = (pageIndex, option) => {
+    const next = {
+      choices: { ...state.choices, [pageIndex]: { id: option.id, goto: option.goto } },
+      tags: option.id && !state.tags.includes(option.id)
+        ? [...state.tags, option.id]
+        : state.tags,
+    }
+    setState(next)
+    try { window.localStorage.setItem(key, JSON.stringify(next)) } catch {}
+    return next
+  }
+
+  const getChoice = (pageIndex) => state.choices[pageIndex] ?? null
+
+  const hasTag = (tag) => state.tags.includes(tag)
+
+  const reset = () => {
+    setState({ choices: {}, tags: [] })
+    try { window.localStorage.removeItem(key) } catch {}
+  }
+
+  return { makeChoice, getChoice, hasTag, reset }
+}
