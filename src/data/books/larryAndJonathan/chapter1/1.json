@@ -4,6 +4,7 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
+    { "type": "embed", "src": "/ep1_lincoln_high.png", "alt": "Lincoln High, first day" },
     { "type": "narration", "content": "Lincoln High. 7:48 AM." },
     { "type": "narration", "content": "Mr. Cole pulled the Town Car to the curb and put it in park. He didn't say anything. He never had to." },
     { "type": "narration", "content": "Larry Jenkins sat in the back seat for three seconds longer than he needed to. Through the window the school looked the way every school looked on the first day — like something that had already decided what it thought of you." },
