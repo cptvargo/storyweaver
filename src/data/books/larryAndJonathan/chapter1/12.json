@@ -5,6 +5,7 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "narration", "content": "9:47 PM." },
+    { "type": "embed", "src": "/ep1_aim_night.png", "alt": "Larry at his desk, AIM glow in the dark" },
     { "type": "narration", "content": "Larry was at his desk. The house was quiet in the way it was always quiet — his father was in Dallas or Denver or somewhere with a conference room and a flight back on Thursday, and the silence had a specific texture to it that Larry had stopped noticing years ago. Almost." },
     { "type": "narration", "content": "The AIM notification sound." },
 
