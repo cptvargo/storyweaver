@@ -4,29 +4,25 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "She moved her bag off the seat before I even asked. Either very cool or she was expecting someone else." },
-    { "type": "dialogue", "speaker": "Maya", "content": "Good at math." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You're not going to let that go." },
-    { "type": "dialogue", "speaker": "Maya", "content": "I haven't decided yet." },
-    { "type": "dialogue", "speaker": "Keisha", "content": "So how do you know Jonathan Michaels?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "We grew up in the same neighborhood. Friends since middle school." },
-    { "type": "dialogue", "speaker": "Keisha", "content": "Mm." },
-    { "type": "dialogue", "speaker": "Maya", "content": "Keisha." },
-    { "type": "dialogue", "speaker": "Keisha", "content": "I'm just saying mm. That's not a crime." },
-    { "type": "dialogue", "speaker": "Larry", "content": "What does mm mean?" },
-    { "type": "dialogue", "speaker": "Keisha", "content": "It means I'm watching." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Watching for what?" },
-    { "type": "dialogue", "speaker": "Keisha", "content": "Whether you're actually his boy or just somebody who rides with him." },
-    { "type": "internalThought", "content": "Across the cafeteria, Jonathan looked up, scanned the room, found me sitting here. Registered it. Moved on. No nod." },
-    { "type": "consequence", "id": "jonathan_saw_maya", "character": "Jonathan", "text": "noticed." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm with Michaels." },
+    { "type": "internalThought", "content": "Something recalculated in his face. Fast." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Michaels your boy?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Since middle school." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight. Tell him Daniel said what's up." },
+    { "type": "internalThought", "content": "He stepped aside. A sophomore nearby caught the whole exchange and looked at me like I'd done something clever." },
+    { "type": "dialogue", "speaker": "Sophomore", "content": "Smart move." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It wasn't a move." },
+    { "type": "dialogue", "speaker": "Sophomore", "content": "Bruh it was absolutely a move. Most freshmen don't figure that out until week three." },
+    { "type": "internalThought", "content": "Smart. I used someone else's name as a shield and that's the word they had for it." },
+    { "type": "consequence", "id": "name_dropped_j", "character": "Daniel", "text": "will remember that." },
     {
       "type": "choice",
-      "prompt": "Keisha is still watching. Maya is waiting to see what you do with that.",
+      "prompt": "What does Larry tell himself walking away?",
       "options": [
-        { "id": "held_keisha_15", "label": "\"Fair enough. I'd be watching too.\"", "goto": 12 },
-        { "id": "ignored_keisha_15", "label": "Turn back to Maya. Don't engage.", "goto": 12 },
-        { "id": "asked_maya_15", "label": "\"Does she do that to everyone?\"", "goto": 12 },
-        { "id": "quiet_15", "label": "...", "goto": 12 }
+        { "id": "owned_it_15", "label": "That was the right call. Whatever works.", "goto": 17 },
+        { "id": "doubt_15", "label": "You used his name. You didn't earn that.", "goto": 17 },
+        { "id": "rational_15", "label": "Jonathan would've done the same thing.", "goto": 17 },
+        { "id": "quiet_15", "label": "...", "goto": 17 }
       ]
     }
   ]

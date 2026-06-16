@@ -4,26 +4,29 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Larry", "content": "Ha. Honest answer? Same." },
-    { "type": "internalThought", "content": "He blinked. Then — slow, like he was deciding whether to allow it — he laughed. Short. Real." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Aight. That's actually funny." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't trying to be." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "That's what made it funny." },
-    { "type": "internalThought", "content": "He didn't move out of the way so much as just stop being a wall." },
-    { "type": "dialogue", "speaker": "Girl", "content": "How'd you do that?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Do what?" },
-    { "type": "dialogue", "speaker": "Girl", "content": "Nobody makes Daniel laugh. Like literally ever." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I just told the truth." },
-    { "type": "dialogue", "speaker": "Girl", "content": "Yeah. That's exactly why." },
-    { "type": "consequence", "id": "made_daniel_laugh", "character": "Daniel Snyder", "text": "will remember that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Figure it out." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Oh word?" },
+    { "type": "internalThought", "content": "He smiled. The wrong kind of smile — the kind that meant he'd filed something away." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight, Larry. I'll figure it out." },
+    { "type": "internalThought", "content": "He bumped my shoulder going past. Deliberate. Just enough to be deliberate." },
+    { "type": "internalThought", "content": "Jonathan was at the end of the hall. He'd seen the whole thing. He waited until I got close." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye, you good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Nah what was that for real?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh stepped to you fr." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I handled it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Now he got a reason to run up on you. You know who that is? That's Daniel Snyder." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't just gonna stand there." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Sometimes standing there is the move. First day, first impressions — that stuff sticks no cap." },
     {
       "type": "choice",
-      "prompt": "She's still looking at you.",
+      "prompt": "Jonathan said his piece. Now yours.",
       "options": [
-        { "id": "played_cool_14", "label": "Shrug. Keep walking.", "goto": 8 },
-        { "id": "talked_14", "label": "\"What's your name?\"", "goto": 8 },
-        { "id": "modest_14", "label": "\"It was nothing.\"", "goto": 8 },
-        { "id": "quiet_14", "label": "...", "goto": 8 }
+        { "id": "stood_by_it_14", "label": "\"I'd do it again.\"", "goto": 17 },
+        { "id": "maybe_14", "label": "\"Maybe you're right.\"", "goto": 17 },
+        { "id": "change_sub_14", "label": "\"You're late to lunch.\"", "goto": 17 },
+        { "id": "quiet_14", "label": "...", "goto": 17 }
       ]
     }
   ]

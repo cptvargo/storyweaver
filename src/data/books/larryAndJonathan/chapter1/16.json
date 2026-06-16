@@ -4,26 +4,26 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Three seconds. Five. Long enough for it to become a thing." },
-    { "type": "internalThought", "content": "I drifted to a table near the back and sat down. Nobody said anything. I didn't say anything to anyone." },
-    { "type": "dialogue", "speaker": "Junior", "content": "You're Michaels' boy, right?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Junior", "content": "He was looking for you." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'm right here." },
-    { "type": "dialogue", "speaker": "Junior", "content": "I can see that. You should go over there." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'm good." },
-    { "type": "dialogue", "speaker": "Junior", "content": "Bro. That's the table." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I know what table it is." },
-    { "type": "internalThought", "content": "He shrugged and left. At the center table Jonathan was mid-story, hands moving, the whole room leaning in. He didn't scan for me again." },
-    { "type": "consequence", "id": "larry_sat_alone", "character": "Larry", "text": "is going to have to figure something out." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Ha. Honest answer? Same." },
+    { "type": "internalThought", "content": "He blinked. Then — slow, like he was deciding whether to let it through — he laughed. Short. Real." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight. That's actually funny." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't trying to be." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "That's what made it funny." },
+    { "type": "internalThought", "content": "He didn't move out of the way so much as just stop being a wall." },
+    { "type": "dialogue", "speaker": "Imani", "content": "How'd you do that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Do what?" },
+    { "type": "dialogue", "speaker": "Imani", "content": "Nobody makes Daniel laugh. Like — ever. Especially not on the first day." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I just told the truth." },
+    { "type": "dialogue", "speaker": "Imani", "content": "Yeah. That's exactly why." },
+    { "type": "consequence", "id": "made_daniel_laugh", "character": "Daniel Snyder", "text": "will remember that." },
     {
       "type": "choice",
-      "prompt": "What does Larry do for the rest of lunch?",
+      "prompt": "She's still looking at you.",
       "options": [
-        { "id": "watched_16", "label": "Watch Jonathan. Figure out how he does it.", "goto": 12 },
-        { "id": "phone_16", "label": "Look busy. Don't let it show.", "goto": 12 },
-        { "id": "ate_16", "label": "Just eat. It's one lunch.", "goto": 12 },
-        { "id": "quiet_16", "label": "...", "goto": 12 }
+        { "id": "played_cool_16", "label": "Shrug. Keep walking.", "goto": 17 },
+        { "id": "talked_16", "label": "\"I'm Larry. What's your name?\"", "goto": 17 },
+        { "id": "modest_16", "label": "\"It was nothing. I just didn't know what else to say.\"", "goto": 17 },
+        { "id": "quiet_16", "label": "...", "goto": 17 }
       ]
     }
   ]

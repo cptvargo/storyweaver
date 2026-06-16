@@ -4,19 +4,29 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah bruh why not lol. you already got the speed", "condition": "tryout_maybe" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "BRUH you fast ain't you?? like deadass. stop playing", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i mean kinda", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "then come find out fr fr", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just pull up bruh. coach gon tell you everything. you already built for it", "condition": "tryout_question" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you still there?? don't go ghost on me", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just think about it aight. but real talk — come through", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight gn bruh. stay up" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
-    { "type": "internalThought", "content": "I closed the chat." },
-    { "type": "internalThought", "content": "847 friends. Day one. I opened his MySpace like I was checking a score." },
-    { "type": "internalThought", "content": "My count is 4. One of them is Tom." },
-    { "type": "internalThought", "content": "Two weeks until tryouts." }
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight. That's you.", "condition": "played_it_13" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "At least you know.", "condition": "honest_13" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'd have done it again too.", "condition": "stood_by_it_14" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Real talk. Just stay aware.", "condition": "maybe_14" },
+    { "type": "embed", "src": "/ep1_cafeteria.png", "alt": "Lincoln High cafeteria" },
+    { "type": "internalThought", "content": "The cafeteria had its own logic. Groups organized by weight — the heaviest social gravity pulled the biggest tables in the middle. Everyone else found their orbit from there." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "AYE. Over here bruh!" },
+    { "type": "internalThought", "content": "Center table. Ten people already, and it was day one. Of course." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You found a table in half a day." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh they found me. There's a difference. Come on — open seat." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That seat's two spots down from you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh it is literally the same table. Stop analyzing and just sit." },
+    { "type": "internalThought", "content": "Maya was near the windows. Already had a table. Keisha next to her. She looked up at exactly the right moment — the kind of timing that might be coincidence and might not be." },
+    { "type": "internalThought", "content": "I'd been standing there for four seconds. In cafeteria time that's already a thing." },
+    {
+      "type": "choice",
+      "prompt": "Four seconds. Everybody makes a decision in four seconds.",
+      "options": [
+        { "id": "sat_with_athletes", "label": "Jonathan's table. Walk through the room like you belong there.", "goto": 18 },
+        { "id": "sat_with_maya", "label": "Maya's table. She already knows your name.", "goto": 20, "remember": "Jonathan" },
+        { "id": "sat_elsewhere", "label": "Somewhere quiet. Don't make it a moment.", "goto": 19 },
+        { "id": "stood_too_long", "label": "...", "goto": 21 }
+      ]
+    }
   ]
 }

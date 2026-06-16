@@ -4,28 +4,30 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Back corner. Not isolated, not obvious. That's what I told myself anyway." },
-    { "type": "internalThought", "content": "A kid sat down across from me without asking. Just sat." },
-    { "type": "dialogue", "speaker": "DeShawn", "content": "You new?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "DeShawn", "content": "Me too. DeShawn." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
-    { "type": "dialogue", "speaker": "DeShawn", "content": "You know Jonathan Michaels?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Why?" },
-    { "type": "dialogue", "speaker": "DeShawn", "content": "Cause he been looking for somebody over here for the last five minutes." },
-    { "type": "internalThought", "content": "I looked up. Jonathan was mid-conversation at the center table — but his eyes were sweeping the room slow. They found me." },
-    { "type": "internalThought", "content": "For a second we just looked at each other across the whole cafeteria." },
-    { "type": "dialogue", "speaker": "DeShawn", "content": "You two good?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. We're good." },
-    {
-      "type": "choice",
-      "prompt": "Jonathan found you. What does Larry do?",
-      "options": [
-        { "id": "nodded_back_11", "label": "Give him a nod. You see him.", "goto": 12 },
-        { "id": "looked_away_11", "label": "Look back down. Not ready for that conversation.", "goto": 12 },
-        { "id": "small_wave_11", "label": "Half-wave. Awkward but honest.", "goto": 12 },
-        { "id": "quiet_11", "label": "...", "goto": 12 }
-      ]
-    }
+    { "type": "dialogue", "speaker": "Maya", "content": "My brother had a seizure when I was nine. Nobody could explain why. I decided then that if nobody could explain it, I would.", "condition": "matched_maya_10" },
+    { "type": "internalThought", "content": "She said it clean. No performance. Just a fact she'd made into a direction.", "condition": "matched_maya_10" },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's still more than most people give on a first day.", "condition": "deflect_maya_10" },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's okay. Some people find it later.", "condition": "honest_maya_10" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Neither did I at first.", "condition": "quiet_maya_10" },
+    { "type": "internalThought", "content": "Then she was gone — second period. Jonathan appeared from around the corner like he'd been timing it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Don't." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm just saying." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You haven't said anything." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what I'm saying." },
+    { "type": "internalThought", "content": "Second period, third period. The day kept moving. Between third and fourth we ended up at our lockers at the same time — the hallway half-empty, a few minutes to breathe." },
+    { "type": "internalThought", "content": "We passed the trophy case. Jonathan stopped. I didn't say anything. He was looking at it the way he looks at film — reading it, not just seeing it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're going to be in there." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't trying to hype you up. I meant it like a fact." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. That's why it hit different." },
+    { "type": "internalThought", "content": "He stood there a second longer. Then he closed his locker and turned back into whoever he was in public." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you eat lunch yet?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's third period." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. I'm already thinking about it." },
+    { "type": "internalThought", "content": "That's when I saw him. The other end of the hallway. Big. Walking slow. The kind of slow that meant he owned the speed." },
+    { "type": "internalThought", "content": "I didn't know his name yet. But I knew what that walk meant." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you heard me? Lunch. You coming or—" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Yeah I'll find you." }
   ]
 }

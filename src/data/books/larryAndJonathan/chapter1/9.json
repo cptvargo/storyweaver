@@ -4,33 +4,34 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "He was standing in the middle of the cafeteria holding a tray. Across the room, Maya Reeves glanced up from a table near the windows and gave him a small nod — the kind that said she'd seen him before people started noticing him standing there." },
-    { "type": "narration", "content": "People were starting to notice him standing there." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Good. Next.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "We already have one wide receiver. One thing, please.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "One thing. Anything at all.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "That's okay. Take your time. We'll circle back.", "condition": "intro_froze" },
+    { "type": "internalThought", "content": "She kept moving. The class moved with her. I sat in what I'd just said — or what I hadn't said." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm good at math too.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Wide receiver. Really.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Maya", "content": "You gave us less than everyone else.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Hey. First day. It happens.", "condition": "intro_froze" },
+    { "type": "internalThought", "content": "She'd turned around just enough. Not dramatically — like she'd done the math and decided the angle was worth it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Does Ms. Barrett know you just turned around?", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's — complicated.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not usually like that.", "condition": "intro_froze" },
+    { "type": "dialogue", "speaker": "Maya", "content": "She does. I don't care.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Sure it is.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I figured.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I don't know you well enough to say that yet.", "condition": "intro_froze" },
+    { "type": "internalThought", "content": "She faced forward. Ms. Barrett kept going. And I thought: that was a real conversation. In the middle of class introductions with twenty-two people in the room. We just had a real conversation." },
+    { "type": "internalThought", "content": "Jonathan caught my eye from across the row. Raised an eyebrow. Looked at Maya. Looked back at me. Nodded one slow time like he was confirming something." },
     {
       "type": "choice",
-      "prompt": "Where does Larry sit?",
+      "prompt": "After class. Maya is packing up slowly. She's not rushing.",
       "options": [
-        {
-          "id": "sat_with_athletes",
-          "label": "Walk to Jonathan's table. You know him.",
-          "goto": 10
-        },
-        {
-          "id": "sat_with_maya",
-          "label": "Head toward Maya. She already knows your name.",
-          "goto": 15,
-          "remember": "Jonathan"
-        },
-        {
-          "id": "sat_elsewhere",
-          "label": "Find somewhere quiet. Don't make it a test.",
-          "goto": 11
-        },
-        {
-          "id": "stood_too_long",
-          "label": "...",
-          "goto": 16
-        }
+        { "id": "talked_maya_9", "label": "Say something before she leaves.", "goto": 10 },
+        { "id": "let_j_push_9", "label": "Wait for Jonathan. Let him make the introduction.", "goto": 10 },
+        { "id": "walked_out_9", "label": "Head out first. See if she follows.", "goto": 10 },
+        { "id": "quiet_maya_9", "label": "...", "goto": 10 }
       ]
     }
   ]

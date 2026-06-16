@@ -1,0 +1,35 @@
+{
+  "page": 20,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "She moved her bag before I even asked. Not rushed — like she'd made the decision before I got there." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Good at math." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're not going to let that go." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I haven't decided yet." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "So how do you know Jonathan Michaels?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "We grew up in the same neighborhood. Friends since middle school." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "Mm." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Keisha." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "I'm just saying mm. Mm is not a crime." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What does mm mean?" },
+    { "type": "dialogue", "speaker": "Keisha", "content": "It means I'm watching." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Watching for what?" },
+    { "type": "dialogue", "speaker": "Keisha", "content": "Whether you're actually his friend or somebody who just travels with him." },
+    { "type": "dialogue", "speaker": "Maya", "content": "There's a difference?" },
+    { "type": "dialogue", "speaker": "Keisha", "content": "Always." },
+    { "type": "internalThought", "content": "Across the room Jonathan looked up, found me at Maya's table, and registered it without breaking his conversation. No nod. No reaction. Just — filed." },
+    { "type": "consequence", "id": "jonathan_saw_maya", "character": "Jonathan", "text": "noticed." },
+    {
+      "type": "choice",
+      "prompt": "Keisha is still watching. Maya is pretending she isn't.",
+      "options": [
+        { "id": "held_keisha_20", "label": "\"Fair enough. I'd be watching too.\"", "goto": 22 },
+        { "id": "turned_maya_20", "label": "Turn back to Maya. Don't engage Keisha.", "goto": 22 },
+        { "id": "asked_20", "label": "\"Does she do this to everyone?\"", "goto": 22 },
+        { "id": "quiet_20", "label": "...", "goto": 22 }
+      ]
+    }
+  ]
+}

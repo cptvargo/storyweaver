@@ -4,25 +4,22 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "embed", "src": "/ep1_cafeteria.png", "alt": "Lincoln High cafeteria, midday" },
-    { "type": "internalThought", "content": "Every table full. Every table already decided. First day and the whole room already knows where it stands." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "AYE. Larry! Over here bruh!" },
-    { "type": "internalThought", "content": "Center table. Of course it's the center table." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You got a table already?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh they just found me — it ain't even been half a day. Open seat right there, come on." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Two spots down from you isn't really sitting with you." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh it's literally the same table. You always overthinking everything, just sit down." },
-    { "type": "internalThought", "content": "Maya's near the windows. She already looked up. Already gave me a nod like she was saving me a decision." },
-    { "type": "internalThought", "content": "I've been standing here too long." },
-    {
-      "type": "choice",
-      "prompt": "Where does Larry go?",
-      "options": [
-        { "id": "sat_with_athletes", "label": "Jonathan's table. That's where you belong.", "goto": 10 },
-        { "id": "sat_with_maya", "label": "Head toward Maya. She already knows your name.", "goto": 15, "remember": "Jonathan" },
-        { "id": "sat_elsewhere", "label": "Find somewhere quiet. Don't make it a test.", "goto": 11 },
-        { "id": "stood_too_long", "label": "...", "goto": 16 }
-      ]
-    }
+    { "type": "internalThought", "content": "The hallway was loud in a specific way. Not chaotic — organized. Everybody already knew where they were going. Groups that had been groups since last year. Conversations that were being continued, not started." },
+    { "type": "internalThought", "content": "I felt it in two seconds: the difference between being somewhere and belonging somewhere." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh look at this place. Aye — the gym is down here, they got a weight room, the cafeteria's on the other side—" },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know all that already?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Coach Murphy sent me a map over the summer. With notes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He sent you a map." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "With notes. I told you I was going to be ready." },
+    { "type": "internalThought", "content": "Jonathan got pulled. Some junior I didn't know stopped him — knew his name, had a question about the team. Jonathan handled it in about thirty seconds but that was thirty seconds where I was standing in the middle of Lincoln High by myself." },
+    { "type": "internalThought", "content": "A girl walked past and glanced at me the way you glance at something you can't quite identify. Not rude. Just — reading." },
+    { "type": "internalThought", "content": "I found my locker. Tried the combination. Got it wrong twice." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — what room are you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "214." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm 212. Same hall, different side. Meet back here after first period." },
+    { "type": "dialogue", "speaker": "Larry", "content": "And if one of us gets lost?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then one of us needs to work on that. Room 214 — go." },
+    { "type": "internalThought", "content": "He was already walking. Two people fell into step beside him naturally, like he generated his own gravity." },
+    { "type": "internalThought", "content": "I went the other way." }
   ]
 }
