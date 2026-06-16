@@ -1,6 +1,6 @@
 import ContentBlock from './ContentBlock'
 
-export default function SceneRenderer({ scenes, pov, onChoice, currentChoice, hasTag }) {
+export default function SceneRenderer({ scenes, pov, povAliases, characters, onChoice, currentChoice, hasTag }) {
   return (
     <div className="scene-renderer">
       {scenes.map((scene, si) => (
@@ -11,6 +11,8 @@ export default function SceneRenderer({ scenes, pov, onChoice, currentChoice, ha
               key={bi}
               block={block}
               pov={pov}
+              povAliases={povAliases}
+              characters={characters}
               onChoice={onChoice}
               currentChoice={currentChoice}
               hasTag={hasTag}

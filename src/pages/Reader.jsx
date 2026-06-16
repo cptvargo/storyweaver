@@ -159,6 +159,9 @@ export default function Reader() {
     selectedBook?.pov ??
     null
 
+  const povAliases = selectedBook?.povAliases ?? []
+  const characters = selectedBook?.characters ?? {}
+
   const pageLabel = isIntroCard
     ? `${unitLabel} Intro`
     : `Page ${pageIndex} of ${totalPages}`
@@ -266,6 +269,8 @@ export default function Reader() {
             <SceneRenderer
               scenes={[{ id: `page-${pageIndex}`, blocks: page.blocks }]}
               pov={pov}
+              povAliases={povAliases}
+              characters={characters}
               onChoice={handleChoice}
               currentChoice={currentChoice}
               hasTag={hasTag}

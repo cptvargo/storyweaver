@@ -1342,6 +1342,27 @@ body {
   border-bottom-left-radius: 4px;
 }
 
+.message__row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.message__avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.message__bubble-group {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
 .message__bubble--image {
   padding: 3px;
   background: transparent !important;

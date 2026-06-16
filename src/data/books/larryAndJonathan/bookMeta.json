@@ -10,19 +10,29 @@
   "description": "Lincoln High, 2005. Larry Jenkins and Jonathan Michaels have been friends long enough to know they don't quite fit together — and too long to stop trying. Jonathan is the most talented wide receiver anyone at Lincoln High has ever seen, and he knows it. Larry is trying to figure out who he is when nobody's watching. Daniel Snyder isn't making it easier. Every choice you make ripples forward. Millhaven doesn't forget.",
   "shortDescription": "A friendship pulled apart by pride, ego, and the pressure of becoming someone. Your choices shape what's left.",
   "pov": "Larry",
+  "povAliases": ["LJ_Jenkins05"],
+  "characters": {
+    "LJ_Jenkins05": "/larry_jenkins.png",
+    "JMoss_WR1": "/jonathan_michaels.png",
+    "Larry": "/larry_jenkins.png",
+    "Jonathan": "/jonathan_michaels.png",
+    "Daniel": "/daniel_snyder.png",
+    "Mr. Cole": "/mr_cole.png",
+    "Mr. Tanaka": "/mr_tanaka.png"
+  },
   "totalChapters": 1,
   "chapterCountPlanned": 6,
   "status": "in-progress",
   "author": "StoryWeaver",
   "readingTime": "~20 min per episode",
   "contentRating": "Clean",
-  "cover": "/larry_and_jonathan.png",
+  "cover": "/larry_johnathan_book_cover.png",
   "coverTone": "cinematic, dramatic, high contrast, 2000s",
   "chapters": [
     {
       "chapterIndex": 1,
       "title": "First Day",
-      "image": "/larry_and_jonathan.png",
+      "image": "/larry_johnathan_book_cover.png",
       "mood": "New school. Same friendship. The first day decides more than you think.",
       "totalPages": 12
     }

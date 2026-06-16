@@ -2,7 +2,7 @@ import { publicUrl } from '../../utils/publicUrl'
 
 const IMAGE_EXT = /\.(png|jpe?g|gif|webp|avif|svg)$/i
 
-export default function ContentBlock({ block, pov, onChoice, currentChoice, hasTag }) {
+export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag }) {
   // Conditionally hidden blocks — only render if the player has the required tag
   if (block.condition && !hasTag?.(block.condition)) return null
 
@@ -44,11 +44,11 @@ export default function ContentBlock({ block, pov, onChoice, currentChoice, hasT
       )
 
     case 'message': {
-      const isSent = pov != null && block.sender === pov
+      const isSent = pov != null && (block.sender === pov || (povAliases ?? []).includes(block.sender))
       const side = isSent ? 'right' : 'left'
-      return (
-        <div className={`block block--message message--${side}`}>
-          {!isSent && <span className="message__sender">{block.sender}</span>}
+      const avatar = !isSent ? (characters ?? {})[block.sender] : null
+      const bubbles = (
+        <>
           {block.image && (
             <div className="message__bubble message__bubble--image">
               <img src={publicUrl(block.image)} alt="photo" className="message__photo" />
@@ -57,6 +57,17 @@ export default function ContentBlock({ block, pov, onChoice, currentChoice, hasT
           {block.content && (
             <div className="message__bubble">{block.content}</div>
           )}
+        </>
+      )
+      return (
+        <div className={`block block--message message--${side}`}>
+          {!isSent && <span className="message__sender">{block.sender}</span>}
+          {avatar ? (
+            <div className="message__row">
+              <img src={publicUrl(avatar)} alt={block.sender} className="message__avatar" />
+              <div className="message__bubble-group">{bubbles}</div>
+            </div>
+          ) : bubbles}
         </div>
       )
     }
