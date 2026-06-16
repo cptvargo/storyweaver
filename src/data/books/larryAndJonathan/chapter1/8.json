@@ -6,12 +6,12 @@
   "blocks": [
     { "type": "embed", "src": "/ep1_cafeteria.png", "alt": "Lincoln High cafeteria, midday" },
     { "type": "internalThought", "content": "Every table full. Every table already decided. First day and the whole room already knows where it stands." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo — Larry. Over here." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "AYE. Larry! Over here bruh!" },
     { "type": "internalThought", "content": "Center table. Of course it's the center table." },
     { "type": "dialogue", "speaker": "Larry", "content": "You got a table already?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "They found me. Open seat right there — come on." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh they just found me — it ain't even been half a day. Open seat right there, come on." },
     { "type": "dialogue", "speaker": "Larry", "content": "Two spots down from you isn't really sitting with you." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro it's the same table. Stop analyzing and sit down." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh it's literally the same table. You always overthinking everything, just sit down." },
     { "type": "internalThought", "content": "Maya's near the windows. She already looked up. Already gave me a nod like she was saving me a decision." },
     { "type": "internalThought", "content": "I've been standing here too long." },
     {
