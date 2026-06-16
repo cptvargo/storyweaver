@@ -5,7 +5,7 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "embed", "src": "/ep1_aim_night.png", "alt": "Larry at his desk, AIM glow in the dark" },
-    { "type": "narration", "content": "9:47 PM. The house was quiet in the way it was always quiet — Dad in Dallas or Denver or somewhere with a conference room and a flight back Thursday." },
+    { "type": "internalThought", "content": "9:47. Dad's in Dallas. Or Denver. He'll be back Thursday, which means I won't see him until Friday." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "first day tho" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "watchu think" },

@@ -5,23 +5,23 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "dialogue", "speaker": "Larry", "content": "I'm with Michaels." },
-    { "type": "narration", "content": "Daniel looked at him. Something recalculated." },
+    { "type": "internalThought", "content": "Something recalculated in his face." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Michaels your boy?" },
     { "type": "dialogue", "speaker": "Larry", "content": "Since middle school." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Aight." },
-    { "type": "narration", "content": "He stepped aside. Just like that." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Tell him Daniel said what's up." },
     { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "narration", "content": "He walked off. Larry kept moving. A sophomore who'd been nearby caught Larry's eye and gave him a look — half impressed, half something else." },
+    { "type": "internalThought", "content": "He stepped aside. Just like that. A sophomore nearby caught the whole thing and looked at me like I'd done something clever." },
     { "type": "dialogue", "speaker": "Sophomore", "content": "Smart." },
     { "type": "dialogue", "speaker": "Larry", "content": "Thanks." },
-    { "type": "narration", "content": "He told himself that was the smart play. Use what you have. Nothing wrong with that. The part he didn't say out loud was that it felt like borrowing something that wasn't his." },
+    { "type": "dialogue", "speaker": "Sophomore", "content": "Serious. Most freshmen don't figure that out until like week three." },
+    { "type": "internalThought", "content": "Smart. He said smart. I used someone else's name as a shield and that's the word for it." },
     { "type": "consequence", "id": "name_dropped_j", "character": "Daniel", "text": "will remember that." },
     {
       "type": "choice",
       "prompt": "What does Larry tell himself walking to class?",
       "options": [
-        { "id": "owned_it_13", "label": "That was the right call. You played it smart.", "goto": 8 },
+        { "id": "owned_it_13", "label": "That was the right call. Whatever works.", "goto": 8 },
         { "id": "doubt_13", "label": "You used his name. You didn't earn that.", "goto": 8 },
         { "id": "rationalize_13", "label": "Jonathan would've done the same thing.", "goto": 8 },
         { "id": "quiet_13", "label": "...", "goto": 8 }

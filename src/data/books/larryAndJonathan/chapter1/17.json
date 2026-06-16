@@ -8,16 +8,15 @@
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah lol. you fast ain't you", "condition": "tryout_skeptical" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i mean kinda", "condition": "tryout_skeptical" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "then come find out", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro just come. coach will tell you", "condition": "tryout_question" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "you still there?", "condition": "tryout_silent" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro just come. coach will tell you what you need to know", "condition": "tryout_question" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you still there?", "condition": "tryout_silent" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye just think about it aight", "condition": "tryout_silent" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just think about it aight", "condition": "tryout_silent" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight gn" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
-    { "type": "narration", "content": "Larry closed the chat window." },
-    { "type": "narration", "content": "He opened Jonathan's MySpace profile. 847 friends. Top 8 full of people Larry didn't recognize yet — people Jonathan had already collected on the first day of school." },
-    { "type": "narration", "content": "Larry's friend count was 4. One of them was Tom." },
-    { "type": "narration", "content": "He sat there for a long time looking at nothing." },
-    { "type": "narration", "content": "Two weeks until tryouts." }
+    { "type": "internalThought", "content": "I closed the chat." },
+    { "type": "internalThought", "content": "847 friends. Day one. I opened his MySpace like I was checking a score." },
+    { "type": "internalThought", "content": "My count is 4. One of them is Tom." },
+    { "type": "internalThought", "content": "Two weeks until tryouts." }
   ]
 }

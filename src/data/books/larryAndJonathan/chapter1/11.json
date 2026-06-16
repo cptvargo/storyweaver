@@ -4,8 +4,8 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "Larry found a table near the back wall. Not isolated, not obvious. Somewhere in the middle of nowhere." },
-    { "type": "narration", "content": "A kid sat down across from him a few minutes later. Didn't ask. Just sat." },
+    { "type": "internalThought", "content": "Back corner. Not isolated, not obvious. That's what I told myself anyway." },
+    { "type": "internalThought", "content": "A kid sat down across from me without asking. Just sat." },
     { "type": "dialogue", "speaker": "DeShawn", "content": "You new?" },
     { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
     { "type": "dialogue", "speaker": "DeShawn", "content": "Me too. DeShawn." },
@@ -13,8 +13,8 @@
     { "type": "dialogue", "speaker": "DeShawn", "content": "You know Jonathan Michaels?" },
     { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Why?" },
     { "type": "dialogue", "speaker": "DeShawn", "content": "Cause he been looking for somebody over here for the last five minutes." },
-    { "type": "narration", "content": "Larry looked up. Jonathan was mid-conversation at the center table — but his eyes swept the room slowly, the way you scan for something you've already lost." },
-    { "type": "narration", "content": "They landed on Larry. For a second they just looked at each other across the cafeteria." },
+    { "type": "internalThought", "content": "I looked up. Jonathan was mid-conversation at the center table — but his eyes were sweeping the room slow. They found me." },
+    { "type": "internalThought", "content": "For a second we just looked at each other across the whole cafeteria." },
     { "type": "dialogue", "speaker": "DeShawn", "content": "You two good?" },
     { "type": "dialogue", "speaker": "Larry", "content": "Yeah. We're good." },
     {

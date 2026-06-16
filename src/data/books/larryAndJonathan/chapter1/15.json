@@ -4,26 +4,27 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "Larry crossed to the windows. Maya slid her bag off the seat before he even asked." },
+    { "type": "internalThought", "content": "She moved her bag off the seat before I even asked. Either very cool or she was expecting someone else." },
     { "type": "dialogue", "speaker": "Maya", "content": "Good at math." },
     { "type": "dialogue", "speaker": "Larry", "content": "You're not going to let that go." },
     { "type": "dialogue", "speaker": "Maya", "content": "I haven't decided yet." },
-    { "type": "narration", "content": "Her friend looked at Maya, then at Larry, then went back to eating. She said her name was Keisha like Larry should already know it." },
     { "type": "dialogue", "speaker": "Keisha", "content": "So how do you know Jonathan Michaels?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "We grew up in the same neighborhood. Been friends since middle school." },
+    { "type": "dialogue", "speaker": "Larry", "content": "We grew up in the same neighborhood. Friends since middle school." },
     { "type": "dialogue", "speaker": "Keisha", "content": "Mm." },
     { "type": "dialogue", "speaker": "Maya", "content": "Keisha." },
-    { "type": "dialogue", "speaker": "Keisha", "content": "I'm just saying mm. That's not anything." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "I'm just saying mm. That's not a crime." },
     { "type": "dialogue", "speaker": "Larry", "content": "What does mm mean?" },
     { "type": "dialogue", "speaker": "Keisha", "content": "It means I'm watching." },
-    { "type": "narration", "content": "Across the cafeteria, Jonathan was holding court. At some point he looked up, scanned the room, found Larry — registered him sitting with Maya — and moved on. No nod. Just a read and a release." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Watching for what?" },
+    { "type": "dialogue", "speaker": "Keisha", "content": "Whether you're actually his boy or just somebody who rides with him." },
+    { "type": "internalThought", "content": "Across the cafeteria, Jonathan looked up, scanned the room, found me sitting here. Registered it. Moved on. No nod." },
     { "type": "consequence", "id": "jonathan_saw_maya", "character": "Jonathan", "text": "noticed." },
     {
       "type": "choice",
       "prompt": "Keisha is still watching. Maya is waiting to see what you do with that.",
       "options": [
         { "id": "held_keisha_15", "label": "\"Fair enough. I'd be watching too.\"", "goto": 12 },
-        { "id": "ignored_keisha_15", "label": "Turn back to Maya. Ignore Keisha.", "goto": 12 },
+        { "id": "ignored_keisha_15", "label": "Turn back to Maya. Don't engage.", "goto": 12 },
         { "id": "asked_maya_15", "label": "\"Does she do that to everyone?\"", "goto": 12 },
         { "id": "quiet_15", "label": "...", "goto": 12 }
       ]
