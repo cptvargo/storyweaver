@@ -3,15 +3,28 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 8,
   "blocks": [
     { "type": "dialogue", "speaker": "Larry", "content": "Ha. Honest answer? Same." },
-    { "type": "narration", "content": "Daniel blinked." },
-    { "type": "narration", "content": "Then — slow, like he was deciding whether to allow it — he laughed. Short. Real." },
+    { "type": "narration", "content": "Daniel blinked. Then — slow, like he was deciding whether to allow it — he laughed. Short. Real." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Aight. That's actually funny." },
-    { "type": "narration", "content": "He didn't move out of the way so much as just stop being a wall. Larry kept walking." },
-    { "type": "narration", "content": "He didn't look back. But he heard Daniel say something to someone behind him — couldn't catch the words, just the tone. Not hostile." },
-    { "type": "narration", "content": "That was something. He wasn't sure yet what kind of something." },
-    { "type": "consequence", "character": "Daniel Snyder", "text": "will remember that." }
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't trying to be." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "That's what made it funny." },
+    { "type": "narration", "content": "He didn't move out of the way so much as just stop being a wall. A girl nearby who'd caught the whole thing looked at Larry like he'd done something she didn't expect." },
+    { "type": "dialogue", "speaker": "Girl", "content": "How'd you do that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Do what?" },
+    { "type": "dialogue", "speaker": "Girl", "content": "Nobody makes Daniel laugh. Like ever." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I just told the truth." },
+    { "type": "dialogue", "speaker": "Girl", "content": "Yeah. That's why." },
+    { "type": "consequence", "id": "made_daniel_laugh", "character": "Daniel Snyder", "text": "will remember that." },
+    {
+      "type": "choice",
+      "prompt": "She's still looking at you. What does Larry do?",
+      "options": [
+        { "id": "played_cool_14", "label": "Shrug. Keep walking.", "goto": 8 },
+        { "id": "talked_14", "label": "\"What's your name?\"", "goto": 8 },
+        { "id": "modest_14", "label": "\"It was nothing.\"", "goto": 8 },
+        { "id": "quiet_14", "label": "...", "goto": 8 }
+      ]
+    }
   ]
 }

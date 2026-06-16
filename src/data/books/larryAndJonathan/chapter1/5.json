@@ -4,33 +4,39 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "The hallway kept moving around them. Lockers slamming, people passing, nobody watching — or everybody watching. Hard to tell the difference." },
+    { "type": "dialogue", "speaker": "Maya", "content": "See you around, Larry Jenkins.", "condition": "introduced_proper" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Calculus. You?", "condition": "asked_maya" },
+    { "type": "dialogue", "speaker": "Maya", "content": "You can just say hi next time.", "condition": "nodded_maya" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Okay then.", "condition": "blanked_maya" },
+    { "type": "narration", "content": "Between second and third period. Jonathan had gone ahead — someone wanted to show him the weight room." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Yo." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What's up." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You're new." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You came in with Michaels this morning." },
+    { "type": "dialogue", "speaker": "Larry", "content": "We know each other." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "From where?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Middle school." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Right." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Michaels is that dude. The whole school's gonna know his name by Friday." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "So you're his boy." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Something like that." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "What does that mean?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Means we're friends." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Cool. But what are you though? Like what do you do?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What do you mean what do I do?" },
+    { "type": "dialogue", "speaker": "Daniel", "content": "I mean Michaels plays ball. What do you do? What's your thing?" },
+    { "type": "narration", "content": "The hallway kept moving. Lockers, voices, nobody watching — or everybody watching." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "I don't know what you are yet." },
     {
       "type": "choice",
-      "prompt": "What does Larry say?",
+      "prompt": "Daniel is waiting.",
       "options": [
-        {
-          "id": "said_something",
-          "label": "\"Figure it out.\"",
-          "goto": 7,
-          "remember": "Daniel Snyder"
-        },
-        {
-          "id": "name_dropped",
-          "label": "\"I'm with Michaels.\"",
-          "goto": 13
-        },
-        {
-          "id": "laughed_it_off",
-          "label": "\"Ha. Honest answer? Same.\"",
-          "goto": 14,
-          "remember": "Daniel Snyder"
-        },
-        {
-          "id": "stayed_quiet",
-          "label": "...",
-          "goto": 6
-        }
+        { "id": "said_something", "label": "\"Figure it out.\"", "goto": 7, "remember": "Daniel Snyder" },
+        { "id": "name_dropped", "label": "\"I'm with Michaels.\"", "goto": 13 },
+        { "id": "laughed_it_off", "label": "\"Ha. Honest answer? Same.\"", "goto": 14, "remember": "Daniel Snyder" },
+        { "id": "stayed_quiet", "label": "...", "goto": 6 }
       ]
     }
   ]

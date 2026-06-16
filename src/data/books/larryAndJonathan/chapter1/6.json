@@ -3,14 +3,30 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 8,
   "blocks": [
     { "type": "narration", "content": "Larry didn't say anything." },
-    { "type": "narration", "content": "Daniel held the look for another second — waiting to see if there was anything there. There wasn't. Silence wasn't interesting enough to hold his attention." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight." },
+    { "type": "narration", "content": "He stepped aside. Not satisfied — just done." },
     { "type": "dialogue", "speaker": "Daniel", "content": "That's what I thought." },
-    { "type": "narration", "content": "He was gone before Larry could decide whether he'd made the right call." },
-    { "type": "narration", "content": "Probably he had. Probably staying quiet was the smart play. Don't make enemies on the first day. Don't make yourself memorable for the wrong reasons." },
-    { "type": "narration", "content": "He told himself that all the way to third period." },
-    { "type": "narration", "content": "It didn't quite take." }
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say anything." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Yeah. That's my point." },
+    { "type": "narration", "content": "Daniel walked off. Larry kept moving. He was nearly to third period when Jonathan fell into step beside him." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo — you see that kid Daniel?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He try something with you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nah. Just talking." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He was watching you walk by. I caught it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's nothing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight. Just saying — don't let him think you're somebody he can play with. First impressions stick." },
+    {
+      "type": "choice",
+      "prompt": "What does Larry say to Jonathan?",
+      "options": [
+        { "id": "played_it_6", "label": "\"I handled it.\"", "goto": 8 },
+        { "id": "honest_6", "label": "\"I didn't say anything. Maybe I should have.\"", "goto": 8 },
+        { "id": "deflect_6", "label": "\"You worry too much.\"", "goto": 8 },
+        { "id": "quiet_6", "label": "...", "goto": 8 }
+      ]
+    }
   ]
 }

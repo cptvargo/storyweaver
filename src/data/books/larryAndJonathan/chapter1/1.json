@@ -6,12 +6,27 @@
   "blocks": [
     { "type": "embed", "src": "/ep1_lincoln_high.png", "alt": "Lincoln High, first day" },
     { "type": "narration", "content": "Lincoln High. 7:48 AM." },
-    { "type": "narration", "content": "Mr. Cole pulled the Town Car to the curb and put it in park. He didn't say anything. He never had to." },
-    { "type": "narration", "content": "Larry Jenkins sat in the back seat for three seconds longer than he needed to. Through the window the school looked the way every school looked on the first day — like something that had already decided what it thought of you." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "We're here." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You've been quiet since Maple Street." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm always quiet." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Not like this." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's just a school." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "It is. You've been in schools before." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I've been in schools that already knew who I was. This one doesn't." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Then this is better. You get to decide that yourself." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What if I don't know the answer yet?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Then today you figure out the room. That's all today is." },
     { "type": "dialogue", "speaker": "Mr. Cole", "content": "You're going to be fine." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You don't know that." },
-    { "type": "dialogue", "speaker": "Mr. Cole", "content": "No. But I know you." },
-    { "type": "narration", "content": "Larry opened the door. The Town Car pulled away without ceremony. He stood on the sidewalk with his backpack and watched the crowd move around him like water around a rock." },
-    { "type": "narration", "content": "He was looking for one face." }
+    {
+      "type": "choice",
+      "prompt": "What does Larry say?",
+      "options": [
+        { "id": "confident_start", "label": "\"I know.\"", "goto": 2 },
+        { "id": "honest_start", "label": "\"You don't know that.\"", "goto": 2 },
+        { "id": "deflect_start", "label": "\"There's food in the back if you're hungry.\"", "goto": 2 },
+        { "id": "silent_start", "label": "...", "goto": 2 }
+      ]
+    }
   ]
 }

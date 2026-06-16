@@ -4,21 +4,32 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "Between second and third period. Jonathan had gone ahead — someone wanted to show him where the weight room was." },
-    { "type": "narration", "content": "That was when Daniel Snyder found him." },
-    { "type": "narration", "content": "Daniel was a sophomore. That one year shouldn't have made a difference. It did." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "You're new." },
-    { "type": "narration", "content": "It wasn't a question. Larry kept walking." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Aye. I'm talking to you." },
-    { "type": "narration", "content": "He stepped in front of him. Not aggressive enough to start a fight. Just enough to be a wall." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "What's your name, man?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Larry." },
-    { "type": "narration", "content": "He repeated it like he was testing whether it was worth remembering." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "You roll with Michaels?" },
-    { "type": "narration", "content": "There it was. Not who Larry was. Who he came with." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Cause Michaels is that dude. You though?" },
-    { "type": "narration", "content": "He looked Larry up and down. Unhurried. Like he had all morning." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "I don't know what you are yet." }
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Good. Next.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "We already have one. One thing, please.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "One thing. Anything.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "That's okay. We'll come back to you.", "condition": "intro_froze" },
+    { "type": "narration", "content": "The class moved on. The girl one row over and two seats up turned around — not to laugh, just to look at him." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm good at math too. Maya Reeves.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Wide receiver. Really.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Okay. Maya Reeves. That's more than you gave us.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Hey. It happens. Maya Reeves.", "condition": "intro_froze" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Does Ms. Barrett know you turned around?", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's — look, it's complicated.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You still got more than most people just now.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not usually like that.", "condition": "intro_froze" },
+    { "type": "dialogue", "speaker": "Maya", "content": "She does. I don't care.", "condition": "intro_math" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Sure it is.", "condition": "intro_lied" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I know.", "condition": "intro_name_only" },
+    { "type": "dialogue", "speaker": "Maya", "content": "I don't know you well enough to say that yet.", "condition": "intro_froze" },
+    {
+      "type": "choice",
+      "prompt": "Ms. Barrett is still going. Maya is still looking at you.",
+      "options": [
+        { "id": "introduced_proper", "label": "\"Larry. Nice to meet you.\"", "goto": 5 },
+        { "id": "asked_maya", "label": "\"What kind of math?\"", "goto": 5 },
+        { "id": "nodded_maya", "label": "Just nod. Play it cool.", "goto": 5 },
+        { "id": "blanked_maya", "label": "...", "goto": 5 }
+      ]
+    }
   ]
 }

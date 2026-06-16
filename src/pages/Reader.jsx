@@ -28,7 +28,7 @@ export default function Reader() {
     pageIndex: 0,
   })
 
-  const { makeChoice, getChoice, hasTag } = useChoiceState(selectedBook?.id ?? 'default')
+  const { makeChoice, getChoice, hasTag, addTag } = useChoiceState(selectedBook?.id ?? 'default')
   const [rememberMessage, setRememberMessage] = useState(null)
 
   const [pageState, setPageState] = useState({ key: null, data: null })
@@ -134,6 +134,7 @@ export default function Reader() {
 
   const handleConsequence = (block) => {
     setRememberMessage(`${block.character} ${block.text}`)
+    if (block.id) addTag(block.id)
   }
 
   const handleTouchStart = (e) => {

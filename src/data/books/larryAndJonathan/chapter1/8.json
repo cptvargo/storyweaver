@@ -5,10 +5,24 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "embed", "src": "/ep1_cafeteria.png", "alt": "Lincoln High cafeteria, midday" },
-    { "type": "narration", "content": "The Lincoln High cafeteria at 12:10 PM was its own kind of ecosystem. Loud in a specific way — the sound of two hundred people figuring out where they belonged." },
-    { "type": "narration", "content": "Larry stood at the edge with his tray and did the math." },
-    { "type": "narration", "content": "The athlete table sat in the center of the room — it always did, in every school, like gravity arranged it that way. Jonathan was already there. He hadn't been in line. Someone had probably gotten his food for him. He was sitting like he'd sat at that table for three years already." },
-    { "type": "narration", "content": "There was an open seat. Two spots down from Jonathan. Not next to him. Two spots." },
-    { "type": "narration", "content": "Larry looked at the seat. He looked at Jonathan. Jonathan was in the middle of a story — hands moving, the table leaning in." }
+    { "type": "narration", "content": "12:10 PM. The Lincoln High cafeteria — two hundred people figuring out where they belong." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo — Larry. Over here." },
+    { "type": "narration", "content": "Center table. Jonathan was already there, sitting like he'd sat there for years. The whole table leaning in." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You got a table already?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "They found me. Open seat right there — come on." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Two spots down from you isn't really sitting with you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro it's the same table. Stop analyzing everything and sit down." },
+    { "type": "narration", "content": "Near the windows, Maya Reeves glanced up from her own table and gave Larry a small nod — the kind that said she'd seen him before people started noticing him standing there." },
+    { "type": "narration", "content": "People were starting to notice him standing there." },
+    {
+      "type": "choice",
+      "prompt": "Where does Larry go?",
+      "options": [
+        { "id": "sat_with_athletes", "label": "Jonathan's table. That's where you belong.", "goto": 10 },
+        { "id": "sat_with_maya", "label": "Head toward Maya. She already knows your name.", "goto": 15, "remember": "Jonathan" },
+        { "id": "sat_elsewhere", "label": "Find somewhere quiet. Don't make it a test.", "goto": 11 },
+        { "id": "stood_too_long", "label": "...", "goto": 16 }
+      ]
+    }
   ]
 }

@@ -3,16 +3,32 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 8,
   "blocks": [
     { "type": "dialogue", "speaker": "Larry", "content": "Figure it out." },
-    { "type": "narration", "content": "Daniel blinked. Just once. It wasn't much, but it was enough to make the moment interesting." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Oh word?" },
-    { "type": "narration", "content": "He smiled. It wasn't a good smile." },
+    { "type": "narration", "content": "He smiled. Like he'd just decided something." },
     { "type": "dialogue", "speaker": "Daniel", "content": "Aight, Larry. I'll figure it out." },
-    { "type": "narration", "content": "He bumped Larry's shoulder going past — deliberate, just short of a shove. A few people in the hallway noticed. A few of them looked." },
-    { "type": "narration", "content": "One of them was Jonathan." },
-    { "type": "narration", "content": "He was at the end of the hall, already there, watching. He'd seen enough to know something had happened. The way he looked at Larry wasn't concern exactly. More like calculation — the way you look at something you have to decide how much to claim." },
-    { "type": "narration", "content": "Then he turned back to his conversation." }
+    { "type": "narration", "content": "He bumped Larry's shoulder going past — deliberate, just short of a shove. A few people glanced over." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Cool." },
+    { "type": "narration", "content": "At the end of the hall, Jonathan was standing with a group. He'd seen it. He waited until Larry got close." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo. You good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What was that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro said something to you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know. I handled it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He's a sophomore. He does that to everyone new. You didn't have to feed him." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't gonna just stand there." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Sometimes standing there is the move. Now he's got a reason to clock you." },
+    {
+      "type": "choice",
+      "prompt": "What does Larry say back?",
+      "options": [
+        { "id": "stood_by_it_7", "label": "\"I'd do it again.\"", "goto": 8 },
+        { "id": "maybe_7", "label": "\"Maybe you're right.\"", "goto": 8 },
+        { "id": "change_subject_7", "label": "\"You're late to class.\"", "goto": 8 },
+        { "id": "quiet_7", "label": "...", "goto": 8 }
+      ]
+    }
   ]
 }

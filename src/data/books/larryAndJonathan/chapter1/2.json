@@ -5,14 +5,32 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "embed", "src": "/ep1_jonathan_arrives.png", "alt": "Jonathan steps out of Mr. Tanaka's car" },
-    { "type": "narration", "content": "He heard it before he saw it." },
-    { "type": "narration", "content": "A different car. The kind of entrance that didn't need to try. Mr. Tanaka brought the car to a stop at the far end of the drop-off lane, and Jonathan Michaels stepped out like he'd been doing this his whole life — like Lincoln High had been waiting for him specifically." },
-    { "type": "narration", "content": "He was already taller than most of the upperclassmen. Wide through the shoulders in the way that made people get out of the way without being asked. Moving through the crowd wasn't something Jonathan did. The crowd moved for him." },
-    { "type": "narration", "content": "He spotted Larry and raised his chin." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's right. You do.", "condition": "confident_start" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "No. But you will be.", "condition": "honest_start" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "There isn't. Go.", "condition": "deflect_start" },
+    { "type": "narration", "content": "The Town Car pulled away. Larry stood on the sidewalk and watched the crowd move around him like water around a rock." },
+    { "type": "narration", "content": "Then — Tanaka's car at the far end of the lane." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Yo." },
     { "type": "dialogue", "speaker": "Larry", "content": "Yo." },
-    { "type": "narration", "content": "That was it. That was their whole morning." },
-    { "type": "narration", "content": "Jonathan fell into step with a pair of juniors who somehow already knew his name. Larry followed a few steps behind — close enough to be with him, far enough to make it obvious he wasn't." },
-    { "type": "narration", "content": "It was the first day and that was already how it was." }
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. You?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Always." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How are you already calm right now?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Cause there's nothing to be calm about. It's school." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You sound like Mr. Cole." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Mr. Cole's smart." },
+    { "type": "narration", "content": "Two juniors materialized beside Jonathan like they'd been waiting. One already knew his name." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — this is my boy Larry. We go way back." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Come on." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is already moving with them.",
+      "options": [
+        { "id": "stepped_up", "label": "Keep up. You're with him.", "goto": 3 },
+        { "id": "hung_back", "label": "Let him go. Find class yourself.", "goto": 3 },
+        { "id": "called_out", "label": "\"Yo — J. One second.\"", "goto": 3 },
+        { "id": "watched_him_go", "label": "...", "goto": 3 }
+      ]
+    }
   ]
 }

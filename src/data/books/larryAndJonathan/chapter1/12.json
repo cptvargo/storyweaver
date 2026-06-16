@@ -4,63 +4,47 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "9:47 PM." },
     { "type": "embed", "src": "/ep1_aim_night.png", "alt": "Larry at his desk, AIM glow in the dark" },
-    { "type": "narration", "content": "Larry was at his desk. The house was quiet in the way it was always quiet — his father was in Dallas or Denver or somewhere with a conference room and a flight back on Thursday, and the silence had a specific texture to it that Larry had stopped noticing years ago. Almost." },
-    { "type": "narration", "content": "The AIM notification sound." },
-
+    { "type": "narration", "content": "9:47 PM. The house was quiet in the way it was always quiet — Dad in Dallas or Denver or somewhere with a conference room and a flight back Thursday." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "first day tho" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "watchu think" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "its school" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lmaoo" },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "marcus was asking about you after you bounced btw", "condition": "sat_with_athletes" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "for real?", "condition": "sat_with_athletes" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah he said you aight", "condition": "sat_with_athletes" },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you know maya reeves?", "condition": "sat_with_maya" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "from first period", "condition": "sat_with_maya" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "she smart", "condition": "sat_with_maya" },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you shouldve pulled up to the table bro. marcus was asking bout you", "condition": "sat_elsewhere" },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye i seen you just standing there at lunch bro 💀 you good?", "condition": "stood_too_long" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i was looking for a seat", "condition": "stood_too_long" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro 😭", "condition": "stood_too_long" },
-
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "..." },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "what about the daniel snyder thing" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "what about it" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "you were right there" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i saw" },
-
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you got guts at least. but that's his whole thing. he's gonna be watching now.", "condition": "said_something" },
-
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah", "condition": "name_dropped" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye bro don't be putting my name in it like that tho", "condition": "name_dropped" },
-
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you got guts. but he's gonna be watching you now", "condition": "said_something" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye bro don't be putting my name in it like that", "condition": "name_dropped" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "you actually got him to laugh??", "condition": "laughed_it_off" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i don't know what happened", "condition": "laughed_it_off" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lmaoo aight respect", "condition": "laughed_it_off" },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye just keep your head down with him lar. that ain't worth it", "condition": "stayed_quiet" },
-
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i wasnt the one who started it" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i know" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just saying" },
-
-    { "type": "narration", "content": "Just saying." },
-    { "type": "narration", "content": "Larry stared at the screen. The cursor blinked in the empty text box. He had about six different things typed and deleted." },
-
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye tryouts in two weeks btw. you should pull up" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "for football?" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah lol why not" },
-
-    { "type": "narration", "content": "Larry closed the chat window." },
-    { "type": "narration", "content": "He opened Jonathan's MySpace profile. 847 friends. Top 8 full of people Larry didn't recognize yet — people Jonathan had already collected on the first day of school." },
-    { "type": "narration", "content": "Larry's friend count was 4. One of them was Tom." },
-    { "type": "narration", "content": "He sat there for a long time looking at nothing." },
-    { "type": "narration", "content": "Two weeks until tryouts." }
+    {
+      "type": "choice",
+      "prompt": "What does Larry type back?",
+      "options": [
+        { "id": "tryout_maybe", "label": "\"yeah maybe i'll come through\"", "goto": 17 },
+        { "id": "tryout_skeptical", "label": "\"for football tho??\"", "goto": 17 },
+        { "id": "tryout_question", "label": "\"you think i could actually play?\"", "goto": 17 },
+        { "id": "tryout_silent", "label": "...", "goto": 17 }
+      ]
+    }
   ]
 }

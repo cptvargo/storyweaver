@@ -28,10 +28,17 @@ export function useChoiceState(bookId) {
 
   const hasTag = (tag) => state.tags.includes(tag)
 
+  const addTag = (tag) => {
+    if (!tag || state.tags.includes(tag)) return
+    const next = { ...state, tags: [...state.tags, tag] }
+    setState(next)
+    try { window.localStorage.setItem(key, JSON.stringify(next)) } catch {}
+  }
+
   const reset = () => {
     setState({ choices: {}, tags: [] })
     try { window.localStorage.removeItem(key) } catch {}
   }
 
-  return { makeChoice, getChoice, hasTag, reset }
+  return { makeChoice, getChoice, hasTag, addTag, reset }
 }

@@ -3,14 +3,29 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 12,
   "blocks": [
-    { "type": "narration", "content": "Larry found a table near the back wall. Not isolated. Not obvious. Somewhere in the middle of nowhere." },
-    { "type": "narration", "content": "He ate." },
-    { "type": "narration", "content": "The cafeteria noise washed over him — a hundred conversations he wasn't part of. He watched a freshman at the next table try to say something funny and get half a laugh. He watched a girl walk up to a table and get moved to the end without anyone meaning anything by it." },
-    { "type": "narration", "content": "He watched Jonathan hold court at the center table like he'd been the center of something his entire life. Which he had." },
-    { "type": "narration", "content": "Halfway through lunch Jonathan looked up and scanned the cafeteria. His eyes moved across the room — past the back wall, past the table where Larry was sitting." },
-    { "type": "narration", "content": "They didn't stop." },
-    { "type": "narration", "content": "He couldn't tell if Jonathan didn't see him. Or if he did and it didn't register. He wasn't sure which one he was supposed to hope for." }
+    { "type": "narration", "content": "Larry found a table near the back wall. Not isolated, not obvious. Somewhere in the middle of nowhere." },
+    { "type": "narration", "content": "A kid sat down across from him a few minutes later. Didn't ask. Just sat." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "You new?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Me too. DeShawn." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "You know Jonathan Michaels?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Why?" },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Cause he been looking for somebody over here for the last five minutes." },
+    { "type": "narration", "content": "Larry looked up. Jonathan was mid-conversation at the center table — but his eyes swept the room slowly, the way you scan for something you've already lost." },
+    { "type": "narration", "content": "They landed on Larry. For a second they just looked at each other across the cafeteria." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "You two good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. We're good." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan found you. What does Larry do?",
+      "options": [
+        { "id": "nodded_back_11", "label": "Give him a nod. You see him.", "goto": 12 },
+        { "id": "looked_away_11", "label": "Look back down. Not ready for that conversation.", "goto": 12 },
+        { "id": "small_wave_11", "label": "Half-wave. Awkward but honest.", "goto": 12 },
+        { "id": "quiet_11", "label": "...", "goto": 12 }
+      ]
+    }
   ]
 }

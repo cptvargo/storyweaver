@@ -4,19 +4,28 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "First period English. Ms. Barrett assigned seats alphabetically, which put Larry Jenkins two rows behind Jonathan Michaels." },
-    { "type": "narration", "content": "By the time the bell rang, four people had introduced themselves to Jonathan. Three of them were upperclassmen. One was varsity." },
-    { "type": "narration", "content": "Nobody introduced themselves to Larry." },
-    { "type": "narration", "content": "Ms. Barrett did the thing teachers always did on the first day — asked everyone to say their name and one thing about themselves." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "See? Told you.", "condition": "stepped_up" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Thought you were right behind me.", "condition": "hung_back" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What? I was right there.", "condition": "called_out" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro.", "condition": "watched_him_go" },
+    { "type": "narration", "content": "First period English. Ms. Barrett. Alphabetical seating put Jonathan two rows ahead and Larry two rows behind." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Before we do anything — quick introductions. Name and one thing about yourself. One thing. Jonathan, start us off." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Jonathan Michaels. Wide receiver." },
-    { "type": "narration", "content": "That was enough. The room shifted in that small but unmistakable way." },
-    { "type": "narration", "content": "When it got to Larry he said his name and said he was good at math, which was true and also exactly the wrong thing to say and he knew it before it fully left his mouth." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Larry Jenkins. I'm... good at math." },
-    { "type": "narration", "content": "Ms. Barrett moved on. Jonathan didn't look back." },
-    { "type": "narration", "content": "But the girl one row over and two seats up turned around. Not to laugh. Just to look at him — like she was deciding something." },
-    { "type": "dialogue", "speaker": "Maya", "content": "I'm good at math too. Maya Reeves." },
-    { "type": "narration", "content": "She said it quiet enough that it was just for him. Then she turned back around before Ms. Barrett could say anything about it." },
-    { "type": "narration", "content": "Larry didn't know what to do with that. So he wrote her name down in the margin of his notebook and told himself it didn't mean anything." },
-    { "type": "narration", "content": "The thing about being invisible was that sometimes the people who were supposed to see you were looking at something else. And sometimes someone you weren't expecting looked anyway." }
+    { "type": "narration", "content": "The room shifted. Not loudly. Just enough." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Good. Keep going." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Does he actually know everyone already?", "condition": "stepped_up" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Pretty much.", "condition": "stepped_up" },
+    { "type": "narration", "content": "Two rows of names, hometowns, sports, hobbies. Getting closer." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "And you?" },
+    {
+      "type": "choice",
+      "prompt": "The whole class is looking.",
+      "options": [
+        { "id": "intro_math", "label": "\"Larry Jenkins. I'm good at math.\"", "goto": 4 },
+        { "id": "intro_lied", "label": "\"Larry Jenkins. Wide receiver.\"", "goto": 4 },
+        { "id": "intro_name_only", "label": "\"Larry Jenkins.\" Just your name.", "goto": 4 },
+        { "id": "intro_froze", "label": "...", "goto": 4 }
+      ]
+    }
   ]
 }

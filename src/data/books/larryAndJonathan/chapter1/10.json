@@ -3,18 +3,30 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 12,
   "blocks": [
-    { "type": "narration", "content": "Larry walked across the cafeteria." },
-    { "type": "narration", "content": "It took about six steps for the table to notice him coming. The conversations didn't stop but they slowed — recalibrating. Who's this. How does he fit." },
-    { "type": "narration", "content": "Jonathan looked up and nodded at the open seat." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye, sit down." },
-    { "type": "narration", "content": "Larry sat. A guy across the table — varsity jacket, the kind of big that didn't stop growing — glanced at Jonathan, then at Larry." },
+    { "type": "narration", "content": "Larry walked across the cafeteria. Six steps for the table to register him." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — sit down." },
+    { "type": "narration", "content": "He sat. A guy across the table in a varsity jacket looked at Jonathan, then at Larry." },
     { "type": "dialogue", "speaker": "Marcus", "content": "This your boy?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's my boy Larry. He good." },
-    { "type": "narration", "content": "He good." },
-    { "type": "narration", "content": "Not 'he's my friend.' Not 'we go way back.' He good. Like clearing someone through a door he didn't open." },
-    { "type": "narration", "content": "Larry ate his lunch. He talked when someone talked to him. He laughed when it seemed like the right time to laugh. He did everything right." },
-    { "type": "narration", "content": "And the whole time a small, quiet part of him was keeping score." }
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's Larry. He good." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Where you from, Larry?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Eastwood. Went to Jefferson Middle." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Word. You play anything?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He's fast actually." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm — I haven't tried out for anything yet." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Tryouts are in two weeks. Football, track. You should come through." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what I been saying." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'll think about it." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Don't think too long." },
+    {
+      "type": "choice",
+      "prompt": "Marcus and Jonathan are both looking at you.",
+      "options": [
+        { "id": "committed_10", "label": "\"Aight. I'll be there.\"", "goto": 12 },
+        { "id": "maybe_10", "label": "\"We'll see.\"", "goto": 12 },
+        { "id": "deflect_10", "label": "\"What position you play?\" Turn it back on Marcus.", "goto": 12 },
+        { "id": "quiet_10", "label": "...", "goto": 12 }
+      ]
+    }
   ]
 }

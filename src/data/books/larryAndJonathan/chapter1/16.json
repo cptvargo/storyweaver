@@ -3,15 +3,29 @@
   "chapter": 1,
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
-  "nextPage": 12,
   "blocks": [
-    { "type": "narration", "content": "Larry stood there." },
-    { "type": "narration", "content": "Three seconds. Five. Long enough for it to become a thing." },
-    { "type": "narration", "content": "A sophomore bumped his shoulder going past and didn't apologize. He stepped to the right. Ended up at a table near the back — not by design, just by drift. Sat down. Set his tray down." },
-    { "type": "narration", "content": "Nobody said anything to him. He didn't say anything to anyone." },
-    { "type": "narration", "content": "At the athlete table Jonathan was mid-story, hands moving, the whole table leaning in. Maya Reeves glanced over from near the windows, then back to her own conversation." },
-    { "type": "narration", "content": "Both of them had seen him standing there." },
-    { "type": "narration", "content": "He ate his lunch. He watched people have things figured out. He tried to remember when that had ever been easy." },
-    { "type": "consequence", "character": "Larry", "text": "is going to have to figure something out." }
+    { "type": "narration", "content": "Larry stood there. Three seconds. Five. Long enough for it to become a thing." },
+    { "type": "narration", "content": "A sophomore bumped his shoulder going past and didn't apologize. He drifted to a table near the back and sat down." },
+    { "type": "narration", "content": "He was halfway through his food when one of the juniors from that morning slid into the seat across from him." },
+    { "type": "dialogue", "speaker": "Junior", "content": "You're Michaels' boy, right?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Junior", "content": "He was looking for you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm right here." },
+    { "type": "dialogue", "speaker": "Junior", "content": "I can see that. You should go over there." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm good." },
+    { "type": "dialogue", "speaker": "Junior", "content": "Bro, that's the table." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know what table it is." },
+    { "type": "narration", "content": "The junior shrugged and left. At the center table Jonathan was mid-story, hands moving, the whole room leaning in. He didn't scan for Larry again." },
+    { "type": "consequence", "id": "larry_sat_alone", "character": "Larry", "text": "is going to have to figure something out." },
+    {
+      "type": "choice",
+      "prompt": "What does Larry do for the rest of lunch?",
+      "options": [
+        { "id": "watched_16", "label": "Watch Jonathan. Figure out how he does it.", "goto": 12 },
+        { "id": "phone_16", "label": "Look busy. Don't let it show.", "goto": 12 },
+        { "id": "ate_16", "label": "Just eat. It's one lunch.", "goto": 12 },
+        { "id": "quiet_16", "label": "...", "goto": 12 }
+      ]
+    }
   ]
 }
