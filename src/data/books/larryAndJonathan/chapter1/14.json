@@ -1,0 +1,17 @@
+{
+  "page": 14,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 8,
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "Ha. Honest answer? Same." },
+    { "type": "narration", "content": "Daniel blinked." },
+    { "type": "narration", "content": "Then — slow, like he was deciding whether to allow it — he laughed. Short. Real." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight. That's actually funny." },
+    { "type": "narration", "content": "He didn't move out of the way so much as just stop being a wall. Larry kept walking." },
+    { "type": "narration", "content": "He didn't look back. But he heard Daniel say something to someone behind him — couldn't catch the words, just the tone. Not hostile." },
+    { "type": "narration", "content": "That was something. He wasn't sure yet what kind of something." },
+    { "type": "consequence", "character": "Daniel Snyder", "text": "will remember that." }
+  ]
+}

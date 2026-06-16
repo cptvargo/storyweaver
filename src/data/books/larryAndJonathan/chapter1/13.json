@@ -1,0 +1,19 @@
+{
+  "page": 13,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 8,
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm with Michaels." },
+    { "type": "narration", "content": "Daniel looked at him for a second. Then something shifted in his expression — not respect exactly. More like recalculation." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Michaels your boy?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Since middle school." },
+    { "type": "narration", "content": "Daniel nodded slowly. Stepped aside." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aight." },
+    { "type": "narration", "content": "He walked off. Just like that." },
+    { "type": "narration", "content": "Larry kept moving. He told himself that was the smart play — use what you have. Nothing wrong with that." },
+    { "type": "narration", "content": "What he didn't say to himself was that it felt like borrowing something that wasn't his." },
+    { "type": "consequence", "character": "Daniel", "text": "will remember that." }
+  ]
+}

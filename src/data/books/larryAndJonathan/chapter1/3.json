@@ -13,6 +13,10 @@
     { "type": "narration", "content": "When it got to Larry he said his name and said he was good at math, which was true and also exactly the wrong thing to say and he knew it before it fully left his mouth." },
     { "type": "dialogue", "speaker": "Larry", "content": "Larry Jenkins. I'm... good at math." },
     { "type": "narration", "content": "Ms. Barrett moved on. Jonathan didn't look back." },
-    { "type": "narration", "content": "The thing about being invisible was that sometimes the people who were supposed to see you were looking at something else." }
+    { "type": "narration", "content": "But the girl one row over and two seats up turned around. Not to laugh. Just to look at him — like she was deciding something." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm good at math too. Maya Reeves." },
+    { "type": "narration", "content": "She said it quiet enough that it was just for him. Then she turned back around before Ms. Barrett could say anything about it." },
+    { "type": "narration", "content": "Larry didn't know what to do with that. So he wrote her name down in the margin of his notebook and told himself it didn't mean anything." },
+    { "type": "narration", "content": "The thing about being invisible was that sometimes the people who were supposed to see you were looking at something else. And sometimes someone you weren't expecting looked anyway." }
   ]
 }

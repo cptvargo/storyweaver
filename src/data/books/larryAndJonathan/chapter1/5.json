@@ -4,21 +4,32 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "The hallway kept moving around them. People passing, lockers slamming. Nobody was watching. Or everybody was." },
+    { "type": "narration", "content": "The hallway kept moving around them. Lockers slamming, people passing, nobody watching — or everybody watching. Hard to tell the difference." },
     {
       "type": "choice",
-      "prompt": "What does Larry do?",
+      "prompt": "What does Larry say?",
       "options": [
-        {
-          "id": "stayed_quiet",
-          "label": "Nothing. Don't give him anything to work with.",
-          "goto": 6
-        },
         {
           "id": "said_something",
           "label": "\"Figure it out.\"",
           "goto": 7,
           "remember": "Daniel Snyder"
+        },
+        {
+          "id": "name_dropped",
+          "label": "\"I'm with Michaels.\"",
+          "goto": 13
+        },
+        {
+          "id": "laughed_it_off",
+          "label": "\"Ha. Honest answer? Same.\"",
+          "goto": 14,
+          "remember": "Daniel Snyder"
+        },
+        {
+          "id": "stayed_quiet",
+          "label": "...",
+          "goto": 6
         }
       ]
     }

@@ -1678,6 +1678,33 @@ body {
   font-weight: 500;
 }
 
+/* ─── Consequence Block ───────────────────────────────────────── */
+.block--consequence {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 16px 0;
+  padding: 8px 14px;
+  background: rgba(212, 175, 55, 0.06);
+  border-left: 2px solid var(--gold);
+  border-radius: 4px;
+}
+
+.consequence__dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--gold);
+  flex-shrink: 0;
+}
+
+.consequence__text {
+  font-size: 0.76rem;
+  color: var(--gold-light);
+  letter-spacing: 0.05em;
+  font-style: italic;
+}
+
 /* ─── Responsive ─────────────────────────────────────────────── */
 @media (max-width: 480px) {
   .option-grid { grid-template-columns: 1fr; }

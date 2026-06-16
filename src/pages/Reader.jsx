@@ -132,6 +132,10 @@ export default function Reader() {
     }
   }
 
+  const handleConsequence = (block) => {
+    setRememberMessage(`${block.character} ${block.text}`)
+  }
+
   const handleTouchStart = (e) => {
     touchStartX.current = e.touches[0].clientX
     touchStartY.current = e.touches[0].clientY
@@ -274,6 +278,7 @@ export default function Reader() {
               onChoice={handleChoice}
               currentChoice={currentChoice}
               hasTag={hasTag}
+              onConsequence={handleConsequence}
             />
 
             {/* Pending choice indicator */}

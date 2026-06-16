@@ -4,21 +4,32 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "narration", "content": "He was standing in the middle of the cafeteria holding a tray. People were starting to notice him standing there." },
+    { "type": "narration", "content": "He was standing in the middle of the cafeteria holding a tray. Across the room, Maya Reeves glanced up from a table near the windows and gave him a small nod — the kind that said she'd seen him before people started noticing him standing there." },
+    { "type": "narration", "content": "People were starting to notice him standing there." },
     {
       "type": "choice",
       "prompt": "Where does Larry sit?",
       "options": [
         {
           "id": "sat_with_athletes",
-          "label": "Walk to the athlete table. You know Jonathan.",
+          "label": "Walk to Jonathan's table. You know him.",
           "goto": 10
         },
         {
-          "id": "sat_elsewhere",
-          "label": "Find somewhere that isn't a test.",
-          "goto": 11,
+          "id": "sat_with_maya",
+          "label": "Head toward Maya. She already knows your name.",
+          "goto": 15,
           "remember": "Jonathan"
+        },
+        {
+          "id": "sat_elsewhere",
+          "label": "Find somewhere quiet. Don't make it a test.",
+          "goto": 11
+        },
+        {
+          "id": "stood_too_long",
+          "label": "...",
+          "goto": 16
         }
       ]
     }

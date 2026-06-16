@@ -1,0 +1,17 @@
+{
+  "page": 16,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 12,
+  "blocks": [
+    { "type": "narration", "content": "Larry stood there." },
+    { "type": "narration", "content": "Three seconds. Five. Long enough for it to become a thing." },
+    { "type": "narration", "content": "A sophomore bumped his shoulder going past and didn't apologize. He stepped to the right. Ended up at a table near the back — not by design, just by drift. Sat down. Set his tray down." },
+    { "type": "narration", "content": "Nobody said anything to him. He didn't say anything to anyone." },
+    { "type": "narration", "content": "At the athlete table Jonathan was mid-story, hands moving, the whole table leaning in. Maya Reeves glanced over from near the windows, then back to her own conversation." },
+    { "type": "narration", "content": "Both of them had seen him standing there." },
+    { "type": "narration", "content": "He ate his lunch. He watched people have things figured out. He tried to remember when that had ever been easy." },
+    { "type": "consequence", "character": "Larry", "text": "is going to have to figure something out." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 15,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "nextPage": 12,
+  "blocks": [
+    { "type": "narration", "content": "Larry crossed the cafeteria toward the windows." },
+    { "type": "narration", "content": "Maya was sitting with one other girl. She slid her bag off the seat across from her before he even asked." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Good at math." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're not going to let that go." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I haven't decided yet." },
+    { "type": "narration", "content": "Her friend — she said her name was Keisha, said it like Larry should already know it — raised an eyebrow at Maya and then went back to her food." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're the one who came with Michaels this morning." },
+    { "type": "dialogue", "speaker": "Larry", "content": "We're friends." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I didn't say you weren't." },
+    { "type": "narration", "content": "She said it in a way that meant she was watching him figure out what she'd actually meant. He ate his lunch." },
+    { "type": "narration", "content": "Across the cafeteria, Jonathan was holding court at the center table. At some point he looked up and scanned the room. His eyes found Larry, registered him, moved on." },
+    { "type": "narration", "content": "No nod. No wave. Just a read and a release, like checking a score." },
+    { "type": "consequence", "character": "Jonathan", "text": "noticed." }
+  ]
+}

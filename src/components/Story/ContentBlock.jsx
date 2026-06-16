@@ -1,8 +1,21 @@
+import { useEffect } from 'react'
 import { publicUrl } from '../../utils/publicUrl'
 
 const IMAGE_EXT = /\.(png|jpe?g|gif|webp|avif|svg)$/i
 
-export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag }) {
+function ConsequenceBlock({ block, onConsequence }) {
+  useEffect(() => { onConsequence?.(block) }, [])
+  return (
+    <div className="block block--consequence">
+      <span className="consequence__dot" />
+      <span className="consequence__text">
+        <strong>{block.character}</strong> {block.text}
+      </span>
+    </div>
+  )
+}
+
+export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag, onConsequence }) {
   // Conditionally hidden blocks — only render if the player has the required tag
   if (block.condition && !hasTag?.(block.condition)) return null
 
@@ -119,6 +132,9 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
         </div>
       )
     }
+
+    case 'consequence':
+      return <ConsequenceBlock block={block} onConsequence={onConsequence} />
 
     default:
       return <p className="block">{block.content}</p>
