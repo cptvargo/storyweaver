@@ -23,13 +23,27 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
     case 'narration':
       return <p className="block block--narration">{block.content}</p>
 
-    case 'dialogue':
+    case 'dialogue': {
+      const portrait = (characters ?? {})[block.speaker]
       return (
         <div className="block block--dialogue">
-          <span className="dialogue__speaker">{block.speaker}</span>
-          <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
+          {portrait ? (
+            <div className="dialogue__row">
+              <img src={publicUrl(portrait)} alt={block.speaker} className="dialogue__portrait" />
+              <div className="dialogue__body">
+                <span className="dialogue__speaker">{block.speaker}</span>
+                <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
+              </div>
+            </div>
+          ) : (
+            <>
+              <span className="dialogue__speaker">{block.speaker}</span>
+              <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
+            </>
+          )}
         </div>
       )
+    }
 
     case 'internalThought':
       return (
