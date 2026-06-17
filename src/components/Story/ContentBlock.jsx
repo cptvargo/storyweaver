@@ -29,7 +29,7 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
         <div className="block block--dialogue">
           {portrait ? (
             <div className="dialogue__row">
-              <img src={publicUrl(portrait)} alt={block.speaker} className="dialogue__portrait" />
+              <img src={publicUrl(portrait)} alt={block.speaker} className="dialogue__portrait" loading="eager" onError={(e) => { e.target.style.display = 'none' }} />
               <div className="dialogue__body">
                 <span className="dialogue__speaker">{block.speaker}</span>
                 <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
@@ -91,7 +91,7 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
           {!isSent && <span className="message__sender">{block.sender}</span>}
           {avatar ? (
             <div className="message__row">
-              <img src={publicUrl(avatar)} alt={block.sender} className="message__avatar" />
+              <img src={publicUrl(avatar)} alt={block.sender} className="message__avatar" loading="eager" onError={(e) => { e.target.style.display = 'none' }} />
               <div className="message__bubble-group">{bubbles}</div>
             </div>
           ) : bubbles}

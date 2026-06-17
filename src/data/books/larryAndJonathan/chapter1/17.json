@@ -9,7 +9,6 @@
     { "type": "dialogue", "speaker": "Jonathan", "content": "I'd have done it again too.", "condition": "stood_by_it_14" },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Real talk. Just stay aware.", "condition": "maybe_14" },
     { "type": "embed", "src": "/ep1_cafeteria.png", "alt": "Lincoln High cafeteria" },
-    { "type": "internalThought", "content": "The cafeteria had its own logic. Groups organized by weight — the heaviest social gravity pulled the biggest tables in the middle. Everyone else found their orbit from there." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "AYE. Over here bruh!" },
     { "type": "internalThought", "content": "Center table. Ten people already, and it was day one. Of course." },
     { "type": "dialogue", "speaker": "Larry", "content": "You found a table in half a day." },
