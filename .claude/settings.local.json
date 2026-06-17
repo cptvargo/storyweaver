@@ -5,7 +5,9 @@
       "Bash(git push *)",
       "Bash(python3 -c 'import json,sys; json.load\\(open\\('\\\\''__TRACKED_VAR__'\\\\''\\)\\)')",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\\" -Recurse -ErrorAction SilentlyContinue | Where-Object { $_.Name -match \"Alice\" -and $_.Name -match \"Borderland\" } | Select-Object -First 20 FullName)",
+      "PowerShell(cd e:\\\\StoryWeaver; $pat = $env:GH_PAT; git remote set-url origin \"https://$pat@github.com/cptvargo/storyweaver.git\"; git push origin main; git remote set-url origin \"https://github.com/cptvargo/storyweaver.git\")"
     ]
   }
 }
