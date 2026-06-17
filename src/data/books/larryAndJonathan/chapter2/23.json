@@ -1,0 +1,17 @@
+{
+  "page": 23,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Crystal checked the list for me. She was nowhere near that hall. Jonathan was right about that.", "condition": "ep2_close_think_crystal" },
+    { "type": "internalThought", "content": "She said congrats like she meant it and then went back to being a senior and I went back to being a freshman and that's how it goes. For now.", "condition": "ep2_close_think_crystal" },
+    { "type": "internalThought", "content": "The last route. The one I stopped thinking on. That's the one that matters. I ran two hundred routes today and only one of them felt like that.", "condition": "ep2_close_think_team" },
+    { "type": "internalThought", "content": "I need to find that again tomorrow. And the day after.", "condition": "ep2_close_think_team" },
+    { "type": "internalThought", "content": "Larry Jr. asked 'how do you feel' before I knew. He always does that. He asked it about school too on the first day. He doesn't ask what happened — he asks how it felt. That's a different question.", "condition": "ep2_close_think_jr" },
+    { "type": "internalThought", "content": "I don't know what's going to happen. I just know today I ran a route right and my name was on a list and none of that existed two weeks ago.", "condition": "ep2_close_quiet" },
+    { "type": "internalThought", "content": "Down the hall Larry Jr.'s light was off. Mr. Cole's too." },
+    { "type": "internalThought", "content": "The house was enormous and quiet and mine." },
+    { "type": "internalThought", "content": "First game is in three weeks." }
+  ]
+}

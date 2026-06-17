@@ -1,0 +1,22 @@
+{
+  "page": 19,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I made the team.", "condition": "tell_crystal_ep2" },
+    { "type": "internalThought", "content": "She turned around. Slow, like she wasn't surprised he was there.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I saw the list this morning.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You checked the list?", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I was walking past.", "condition": "tell_crystal_ep2" },
+    { "type": "internalThought", "content": "She was not walking past. The freshman tryout list is nowhere near the senior hall. She checked it on purpose and she knew that I knew and she held the smile anyway.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Congrats, Larry.", "condition": "tell_crystal_ep2" },
+    { "type": "internalThought", "content": "She turned around. Made eye contact exactly long enough.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Hey.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey.", "condition": "wait_crystal_ep2" },
+    { "type": "internalThought", "content": "Two seconds of something happening that neither of us named. Then the bell.", "condition": "wait_crystal_ep2" },
+    { "type": "internalThought", "content": "I kept walking. She probably didn't even see me. That's what I told myself.", "condition": "walk_past_crystal_ep2" },
+    { "type": "internalThought", "content": "I stopped. She turned around and saw me standing there saying nothing. She gave me a small nod and went back to the senior hall.", "condition": "quiet4_ep2" },
+    { "type": "internalThought", "content": "Jonathan was going to ask me about this at lunch. I already knew what I was going to say." }
+  ]
+}

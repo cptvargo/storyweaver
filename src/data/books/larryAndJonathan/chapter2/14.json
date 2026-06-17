@@ -1,0 +1,20 @@
+{
+  "page": 14,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday. Final day of tryouts. The list goes up Monday morning." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Yesterday told me who has speed. Today tells me who has sense. A fast player with no football sense is just a fast person on a football field. That's not useful to me." },
+    { "type": "internalThought", "content": "He ran us through situational drills. Route recognition. Reading the defense. What do you do when the coverage changes after the snap?" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Post route. Go." },
+    { "type": "internalThought", "content": "I ran it. Got the ball. But I ran it in the wrong direction — I read the coverage late and adjusted when I should have committed." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Again. Same route. This time you're reading before the snap, not after." },
+    { "type": "internalThought", "content": "I ran it again. Got it right." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "There it is. You can learn. That matters more than speed." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh Coach just said you can learn. That's a compliment. He doesn't say that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know he doesn't say that?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Because I've been watching him for forty-five minutes and that's the first time he said anything that wasn't a correction." },
+    { "type": "internalThought", "content": "I filed that." }
+  ]
+}

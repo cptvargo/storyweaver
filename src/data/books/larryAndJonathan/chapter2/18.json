@@ -1,0 +1,28 @@
+{
+  "page": 18,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "By second period, word was out. The team list travels fast at Lincoln High." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Aye — Jenkins made the list. That's facts." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I BEEN saying. Nobody ever wants to listen." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Freshman on varsity. Coach Briggs must've seen something fr." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He said I could learn." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "That's literally the highest compliment he gives. He told Darius Patterson he had good hands and Darius cried." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "LMBOO bruh Darius did NOT cry." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "His eyes got wet. That's the same thing." },
+    { "type": "internalThought", "content": "Between second and third period I saw Crystal at the water fountain near the library. She was alone. Just filling her bottle, about to turn back toward the senior hall." },
+    { "type": "internalThought", "content": "This was the moment Jonathan would have walked through without thinking. I slowed down." },
+    {
+      "type": "choice",
+      "prompt": "Crystal hasn't seen you yet. You have about four seconds.",
+      "options": [
+        { "id": "tell_crystal_ep2", "label": "\"I made the team.\" Say it before you think about it.", "goto": 19 },
+        { "id": "wait_crystal_ep2", "label": "Wait for her to turn around first.", "goto": 19 },
+        { "id": "walk_past_crystal_ep2", "label": "Keep walking. Not the right moment.", "goto": 19 },
+        { "id": "quiet4_ep2", "label": "...", "goto": 19 }
+      ]
+    }
+  ]
+}

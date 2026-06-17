@@ -1,0 +1,20 @@
+{
+  "page": 5,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's the move. Don't overthink it. Just exist near her.", "condition": "crystal_interested_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "BRUH. You really out here choosing tryouts over a senior girl who's asking about you?", "condition": "crystal_deflect_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I can focus on both.", "condition": "crystal_deflect_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Homie she's a senior who asked WHO ARE YOU after one day. That's not 'not thinking about you like that.' Trust me fr.", "condition": "crystal_doubt_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh you went quiet over a girl that likes you. You are so broken dawg.", "condition": "crystal_quiet_ep2" },
+    { "type": "internalThought", "content": "Third period. English. Crystal sat two rows over, one seat up. I'd noticed her before — of course I had. Dark hair, quiet in a way that didn't feel like shyness, more like she was deciding something." },
+    { "type": "internalThought", "content": "She didn't look over. But she'd been looking. That's what Jonathan said." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Chapter four. Someone summarize the last ten pages." },
+    { "type": "internalThought", "content": "Crystal raised her hand before anyone else. Of course she did." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "The narrator keeps describing what other people have. Never what he wants. It's like he can't picture himself having anything so he just observes everyone else." },
+    { "type": "internalThought", "content": "The room went quiet for a second. Ms. Barrett nodded slowly like Crystal had said something she'd been waiting for someone to say." },
+    { "type": "internalThought", "content": "I wrote it down. I didn't know why." }
+  ]
+}

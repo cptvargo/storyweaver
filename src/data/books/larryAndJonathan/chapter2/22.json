@@ -1,0 +1,36 @@
+{
+  "page": 22,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, AIM open, after first practice" },
+    { "type": "internalThought", "content": "9:31pm. First practice done. Every muscle in my legs had an opinion." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh first practice done. we on the team fr fr no cap" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "you ran that last route different. coach saw that" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i stopped thinking" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "EXACTLY. that's the whole thing bruh. that's literally it" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye. real talk though. you good?" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah why" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "cause you looked like you were carrying something on that last drill. like something else was on your mind" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "just tired", "condition": "walk_past_crystal_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "just tired", "condition": "quiet4_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "nah i'm good fr", "condition": "tell_crystal_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah a little", "condition": "wait_crystal_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight. you know i see it tho right" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i know" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight. gn homie. first week down." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
+    {
+      "type": "choice",
+      "prompt": "Before you close the laptop.",
+      "options": [
+        { "id": "ep2_close_think_crystal", "label": "You think about Crystal and what you didn't say.", "goto": 23 },
+        { "id": "ep2_close_think_team", "label": "You think about practice. The route you finally ran right.", "goto": 23 },
+        { "id": "ep2_close_think_jr", "label": "You think about Larry Jr. asking how it feels before you even know.", "goto": 23 },
+        { "id": "ep2_close_quiet", "label": "You just close it. Too tired to think.", "goto": 23 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 17,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Monday. 6:58am. The list was already up when we got there. A crowd of maybe thirty kids around a single sheet of paper on the main entrance door." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. Don't run up there. Walk." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Because however it goes, you want to have walked up there. Not ran. Ya dig?" },
+    { "type": "internalThought", "content": "We walked." },
+    { "type": "internalThought", "content": "Jonathan found his name in four seconds. Of course he did — he knew exactly where to look. He didn't react, just stepped to the side to give me room." },
+    { "type": "internalThought", "content": "I scanned the list top to bottom. Jenkins, L." },
+    { "type": "internalThought", "content": "Jenkins, L." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Told you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. I'm good." },
+    { "type": "internalThought", "content": "He let me have the thirty seconds. Didn't turn it into a moment, didn't make it loud. Just stood next to me while I looked at my own name on the wall and figured out what it meant." }
+  ]
+}

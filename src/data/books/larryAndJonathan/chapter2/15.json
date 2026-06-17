@@ -1,0 +1,29 @@
+{
+  "page": 15,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After drills, Coach Briggs put us in one group. All sixty of us standing on the field, the sun already going down." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "List goes up Monday 7am. Main entrance. If your name's on it, be at practice Monday afternoon. If it isn't — come see me. Don't let somebody else tell you what I think of you." },
+    { "type": "internalThought", "content": "He walked back to the field house. No speech. No inspiration. Just information." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "We're on it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I do though. I know what I saw out there. You made adjustments on the second rep. That's the thing coaches look for — not perfection, coachability. You showed him that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "And you?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. Did you see my routes?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then you already know." },
+    { "type": "internalThought", "content": "I did know. There was never a question about Jonathan. There was only ever a question about whether I'd be standing next to him or watching from somewhere else." },
+    {
+      "type": "choice",
+      "prompt": "Monday morning. Two days away.",
+      "options": [
+        { "id": "confident_ep2", "label": "\"I think I made it.\"", "goto": 16 },
+        { "id": "unsure_ep2", "label": "\"I have no idea. Could go either way.\"", "goto": 16 },
+        { "id": "nervous_ep2", "label": "\"I don't want to think about it until Monday.\"", "goto": 16 },
+        { "id": "quiet3_ep2", "label": "...", "goto": 16 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": 6,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After class. The hallway filled fast. I came out the door and she was already gone — just the back of her turning the corner." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — did you talk to her?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "She left before I could." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh that's not how timing works. You gotta move before the door closes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Tomorrow." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Tomorrow's tryouts." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "BRUH. Before tryouts. Morning. You see her, you say something. Anything. 'What you said in class was real.' Done. That's it. You don't need a speech." },
+    { "type": "internalThought", "content": "It sounded easy when he said it. It always does." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan makes it sound simple. Is it?",
+      "options": [
+        { "id": "say_something_ep2", "label": "\"Aight. If I see her, I'll say something.\"", "goto": 7 },
+        { "id": "too_much_ep2", "label": "\"I'm not doing that in the middle of the hallway.\"", "goto": 7 },
+        { "id": "focus_ep2", "label": "\"I need to focus on tryouts.\"", "goto": 7 },
+        { "id": "quiet2_ep2", "label": "...", "goto": 7 }
+      ]
+    }
+  ]
+}

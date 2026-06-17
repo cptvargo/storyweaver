@@ -1,0 +1,23 @@
+{
+  "page": 13,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Wait — she knew about tryouts?? She's been paying attention to you bruh. She likes you fr no cap.", "condition": "crystal_owned_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "There's always another chance until there isn't. That's the lesson nobody learns until after.", "condition": "crystal_excuse_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then I'm gonna teach you. It's not that deep. She's a person. You're a person. You both already exist near each other every day.", "condition": "crystal_honest_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Nah we can't. You're gonna be thinking about it all night anyway so we might as well say it out loud.", "condition": "crystal_change_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I hear you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm just saying. She not gonna be a senior forever." },
+    { "type": "internalThought", "content": "He meant it as motivation. I heard it as a clock." },
+    { "type": "internalThought", "content": "We split off at the corner. Mr. Tanaka was already waiting for Jonathan a block up — the black car, engine running, same as always." },
+    { "type": "internalThought", "content": "I went the other direction. Past the building with the blue door. Past the bodega with the broken sign. Past Diego's steps — he was still out there, different shirt, same spot." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Aye. How'd tryouts go?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Coach said come back tomorrow." },
+    { "type": "dialogue", "speaker": "Diego", "content": "That's good right?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. That's good." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Told you. You got that runner look." },
+    { "type": "internalThought", "content": "He said it like he'd known me for years. He'd known me for two days." }
+  ]
+}

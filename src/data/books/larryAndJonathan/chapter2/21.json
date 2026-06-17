@@ -1,0 +1,21 @@
+{
+  "page": 21,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "First practice. The difference between tryouts and practice: tryouts you're auditioning. Practice you're already there — now you have to prove you belong." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Welcome to the team. I don't say that again. From here the baseline is you belong here. Now we find out how good." },
+    { "type": "internalThought", "content": "He ran us for forty minutes before we touched a ball. By the time routes started, everyone on the field had been tested in a different way than tryouts. Tryouts measure what you have. Practice measures what you do with it when you're already tired." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye stay on my route timing. When I break, you break. Don't improvise yet — just pattern first." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're going to tell me what to do in practice?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm going to keep you from getting embarrassed on the first day. There's a difference." },
+    { "type": "internalThought", "content": "There was. I ran his routes. By the third rep I started feeling the timing in my legs instead of my head — the way Jonathan said it would happen." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. You're learning the route tree or running it?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Running it, Coach." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Then run it like you believe that." },
+    { "type": "internalThought", "content": "I ran the next one different. I stopped thinking about whether I was doing it right and just ran." },
+    { "type": "internalThought", "content": "Coach Briggs watched. Wrote something down. Said nothing." },
+    { "type": "internalThought", "content": "From Coach Briggs that was apparently everything." }
+  ]
+}

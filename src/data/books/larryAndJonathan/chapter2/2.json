@@ -1,0 +1,21 @@
+{
+  "page": 2,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what I'm talking about. Thursday. Don't be late.", "condition": "going_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh 'I'll think about it' is not an answer. Thursday. Final answer.", "condition": "maybe_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You not a football player yet. That's literally what tryouts are for dawg.", "condition": "doubt_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh if you go quiet on me right now I'm showing up to your house Thursday morning. Ya dig?", "condition": "quiet_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You know where I live." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Mr. Cole will let me in. He likes me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Mr. Cole doesn't like anyone." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He tolerates me with warmth. That's basically the same thing." },
+    { "type": "internalThought", "content": "That was probably true." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What's Coach like?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Coach Briggs? Man. He's different. He don't hype you up, he don't tear you down — he just watches. And then tells you exactly what you are. No sugar. No cap." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That sounds terrifying." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Straight up it kind of is. But it's also — I don't know. Real. You'll see." }
+  ]
+}

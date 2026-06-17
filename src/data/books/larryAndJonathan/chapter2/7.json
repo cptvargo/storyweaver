@@ -1,0 +1,24 @@
+{
+  "page": 7,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday. 7:02am. I saw her at the corner near the senior lockers." },
+    { "type": "internalThought", "content": "She was reading something. Not on her phone — an actual book. She had her back to the wall and one foot up, and she looked like she'd been standing there her whole life.", "condition": "say_something_ep2" },
+    { "type": "internalThought", "content": "I saw her at the corner near the senior lockers and walked the other way.", "condition": "too_much_ep2" },
+    { "type": "internalThought", "content": "I saw her at the corner near the senior lockers. Kept walking. Tryouts first. I told myself that was the reason.", "condition": "focus_ep2" },
+    { "type": "internalThought", "content": "I saw her at the corner near the senior lockers. Stopped. Didn't move. By the time I did she was already walking.", "condition": "quiet2_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Hey.", "condition": "say_something_ep2" },
+    { "type": "internalThought", "content": "She said it first. Like she'd been waiting for me to be the one who didn't walk past.", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey. What you said in class yesterday — about the narrator. That was real.", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You actually heard that?", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wrote it down.", "condition": "say_something_ep2" },
+    { "type": "internalThought", "content": "She smiled. Not wide. Just — enough.", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Good luck today. I heard you're trying out.", "condition": "say_something_ep2" },
+    { "type": "internalThought", "content": "She knew. She'd been paying attention too.", "condition": "say_something_ep2" },
+    { "type": "internalThought", "content": "I thought about going back. I didn't.", "condition": "too_much_ep2" },
+    { "type": "internalThought", "content": "I thought about going back. I didn't.", "condition": "focus_ep2" },
+    { "type": "internalThought", "content": "Jonathan would have said something. I know that. He wouldn't have even thought about it.", "condition": "quiet2_ep2" }
+  ]
+}

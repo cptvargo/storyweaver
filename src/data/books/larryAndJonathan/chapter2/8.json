@@ -1,0 +1,19 @@
+{
+  "page": 8,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep2_tryouts.png", "alt": "Lincoln High football field, tryouts" },
+    { "type": "internalThought", "content": "3:15pm. The field was bigger than I expected. Sixty kids maybe, all of them looking like they'd been here before." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — stay close to me until Coach calls the groups. After that you're on your own." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That's comforting." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm serious. Out here it's just you and the clock. Nobody can help you run." },
+    { "type": "internalThought", "content": "Coach Briggs came out of the field house last. He wasn't big the way you'd expect a football coach to be big. He was medium everything — height, build, age. But the field went quiet when he walked onto it. Not because he said anything. Just because of how he moved." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "I'm not here to see who wants it. Everybody out here wants it. I'm here to see who has it when it gets hard. There's a difference." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "We go in groups. Skill positions first. Then line. Run the routes I call. Do not run the routes you think I want to see — run the ones I call. Any questions?" },
+    { "type": "internalThought", "content": "Nobody asked anything." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Good. Wide receivers. You're up." },
+    { "type": "internalThought", "content": "Jonathan looked at me once. Not for reassurance — just acknowledgment. Then he walked to the line like he'd been waiting two years for this moment. Which he had." }
+  ]
+}

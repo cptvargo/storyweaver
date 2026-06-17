@@ -1,0 +1,23 @@
+{
+  "page": 11,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "I beat him. Not by a lot. But clearly.", "condition": "ran_hard_ep2" },
+    { "type": "internalThought", "content": "I beat him by half a step. Clean. I didn't look over once.", "condition": "ran_smooth_ep2" },
+    { "type": "internalThought", "content": "I finished second. Closer than the start felt, but still second.", "condition": "ran_scared_ep2" },
+    { "type": "internalThought", "content": "I finished second. The hesitation cost me the race before it started.", "condition": "ran_late_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "You're fast.", "condition": "ran_hard_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Good instincts. You ran your race.", "condition": "ran_smooth_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "You've got speed. You got in your own way.", "condition": "ran_scared_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "You've got speed. You just let the moment get big on you.", "condition": "ran_late_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Come back tomorrow." },
+    { "type": "internalThought", "content": "That was it. Come back tomorrow. I found out later that half the kids who tried out didn't get that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "BRUHHHH. I TOLD YOU. I TOLD YOU FR FR." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He just said come back." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "From Coach Briggs that is literally everything. You're on the team homie. You just don't have the jersey yet." }
+  ]
+}

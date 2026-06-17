@@ -1,0 +1,26 @@
+{
+  "page": 20,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "WAIT. She already saw the list?? Bruh she checked it for you fr fr.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "She said she was walking past.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "THE LIST IS NOT NEAR THE SENIOR HALL. I walked past it this morning. She went out of her way. She likes you dawg.", "condition": "tell_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What happened at the water fountain?", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing. We said hey.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "How long was the hey.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Two seconds maybe.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "A two-second hey from a senior who already knows your name is not nothing bruh. That's a thing.", "condition": "wait_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You walked past her didn't you.", "condition": "walk_past_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't have anything to say.", "condition": "walk_past_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "'I made the team' is something to say Larry. 'Hey' is something to say. Boy chill.", "condition": "walk_past_crystal_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What happened.", "condition": "quiet4_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I just stood there.", "condition": "quiet4_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh 😭 we are going to do drills. Social drills. Every day.", "condition": "quiet4_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't need social drills." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Homie I just watched you freeze in front of a girl who likes you. You need the drills." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Can we talk about literally anything else." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "First practice is today. After school. That we can talk about." }
+  ]
+}

@@ -23,11 +23,15 @@
     "Keisha": "/keisha.png",
     "Marcus": "/marcus.png",
     "Ms. Barrett": "/ms_barrett.png",
-    "DeShawn": "/deshawn.png",
-    "Larry Jr.": "/larry_jr.png"
+    "DeShawn": "/deshawn_morris.png",
+    "Larry Jr.": "/larry_jr.png",
+    "Stacy": "/stacy_kittens.png",
+    "Crystal": "/crystal_mehta.png",
+    "Diego": "/diego_salavara.png",
+    "Imani": "/imani_brooks.png"
   },
-  "totalChapters": 1,
-  "chapterCountPlanned": 6,
+  "totalChapters": 2,
+  "chapterCountPlanned": 8,
   "status": "in-progress",
   "author": "StoryWeaver",
   "readingTime": "~20 min per episode",
@@ -40,6 +44,13 @@
       "title": "First Day",
       "image": "/episode1_first_day.png",
       "mood": "New school. Same friendship. The first day decides more than you think.",
+      "totalPages": 23
+    },
+    {
+      "chapterIndex": 2,
+      "title": "Two Weeks",
+      "image": "/episode2_two_weeks.png",
+      "mood": "Tryouts decide who you are before the season ever starts.",
       "totalPages": 23
     }
   ],

@@ -1,0 +1,26 @@
+{
+  "page": 3,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Tuesday after school. The neighborhood was different in the afternoon — slower, louder in a different way than Lincoln High." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Aye. You go to Lincoln now right?" },
+    { "type": "internalThought", "content": "He was maybe twelve, thirteen. Sitting on the steps of the building across the street. I recognized him from the block — he was always out here." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Diego", "content": "That's where Michaels goes too right? Jonathan Michaels?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "We go together. You know Jonathan?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Everybody knows Jonathan. He's gonna be in the league one day. Straight up." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You play?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Nah. I'm fast though. Maybe one day." },
+    { "type": "internalThought", "content": "He said it like it was a fact he hadn't decided what to do with yet." },
+    { "type": "dialogue", "speaker": "Diego", "content": "You tryout?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Thinking about it." },
+    { "type": "dialogue", "speaker": "Diego", "content": "You should. You look like you could run." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Thanks." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I'm Diego. Diego Salavara." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I know who you are. You're the one that moved in with the big house on the corner." },
+    { "type": "internalThought", "content": "Right. The house. I always forget the house is a thing people notice." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page": 16,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday night. Larry Jr. was waiting at the door before I could get my key out." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Did you make it?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Don't know yet. Monday." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "But how do you feel?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I feel like I have to wait until Monday." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "That's not what I asked." },
+    { "type": "internalThought", "content": "Seven years old and already doing that thing where he asks the question under the question." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I feel like I did enough. Maybe." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Mr. Cole said if you do the work you can live with whatever comes next." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Mr. Cole said that?" },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "He said it to me when I didn't make the spelling team. I think it works for football too." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Dinner's ready." },
+    { "type": "internalThought", "content": "He was already back in the kitchen. He'd been listening the whole time." }
+  ]
+}

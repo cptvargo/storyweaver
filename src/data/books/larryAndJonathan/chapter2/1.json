@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Two weeks felt like a long time on the last night of Episode 1. It wasn't." },
+    { "type": "internalThought", "content": "Tryouts were Thursday. It was Monday." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. You coming or not." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say I wasn't." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You didn't say you were either. That's the same thing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm thinking about it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You been thinking about it since the first day. Thinking time is over homie. Thursday." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What if I'm not good enough?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then you find out Thursday. But you don't find out standing here." },
+    { "type": "internalThought", "content": "He wasn't wrong. He's almost never wrong about things like this, which is the annoying part." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan's waiting. Thursday is in three days.",
+      "options": [
+        { "id": "going_ep2", "label": "\"Aight. I'll be there.\"", "goto": 2 },
+        { "id": "maybe_ep2", "label": "\"I'll think about it.\"", "goto": 2 },
+        { "id": "doubt_ep2", "label": "\"I'm not a football player, J.\"", "goto": 2 },
+        { "id": "quiet_ep2", "label": "...", "goto": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "page": 4,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Wednesday. One day out. The hallway felt different — like everyone had already decided something about themselves and I was the only one still holding the question." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you see her?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "See who?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Crystal. She's in your English class right? The Indian girl, senior." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know who Crystal is." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "So you noticed her." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh you just said you know who she is. Nobody knows who someone is unless they looked." },
+    { "type": "internalThought", "content": "I didn't have a response for that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She was asking about you by the way. Like asking asking. Not just mentioning." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know that?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Marcus told me. She asked him who you were after the first day." },
+    { "type": "internalThought", "content": "First day. She'd been carrying that for two weeks and I hadn't noticed." },
+    { "type": "dialogue", "speaker": "Larry", "content": "She probably just wanted to know who the new kid was." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. She asked specifically who YOU were. Not 'who are those new kids.' WHO ARE YOU. Boy chill and take the win." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is looking at Larry like he's missing something obvious.",
+      "options": [
+        { "id": "crystal_interested_ep2", "label": "\"Aight. Maybe I'll say something.\"", "goto": 5 },
+        { "id": "crystal_deflect_ep2", "label": "\"I got tryouts to think about.\"", "goto": 5 },
+        { "id": "crystal_doubt_ep2", "label": "\"She's a senior. She's not thinking about me like that.\"", "goto": 5 },
+        { "id": "crystal_quiet_ep2", "label": "...", "goto": 5 }
+      ]
+    }
+  ]
+}

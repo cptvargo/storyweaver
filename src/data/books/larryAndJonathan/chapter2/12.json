@@ -1,0 +1,34 @@
+{
+  "page": 12,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Walking home. The field house lights were still on. A few seniors were still running routes — guys who already had spots, just staying sharp." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. Real talk. How'd it feel?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Different than I thought." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Good different or bad different?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Just — real. Like it actually mattered." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's all it's supposed to feel like. That feeling don't go away either. Every rep, every game — same thing." },
+    { "type": "internalThought", "content": "He said it like he'd been carrying it for years. He probably had." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you see Crystal today?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "This morning. We talked for a second.", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "WAIT. You actually said something?? Who are you?", "condition": "say_something_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I walked past.", "condition": "too_much_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "BRUH. She was right there and you walked past??", "condition": "too_much_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I had tryouts on my mind.", "condition": "focus_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You had tryouts on your mind for forty seconds Larry. You could've said two words.", "condition": "focus_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I froze.", "condition": "quiet2_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Homie. We are going to work on this fr.", "condition": "quiet2_ep2" },
+    {
+      "type": "choice",
+      "prompt": "Jonathan's not letting this go.",
+      "options": [
+        { "id": "crystal_owned_ep2", "label": "\"She said good luck. She already knew about tryouts.\"", "goto": 13, "condition": "say_something_ep2" },
+        { "id": "crystal_excuse_ep2", "label": "\"There'll be another chance.\"", "goto": 13 },
+        { "id": "crystal_honest_ep2", "label": "\"I don't know how to do this, J.\"", "goto": 13 },
+        { "id": "crystal_change_ep2", "label": "\"Can we talk about something else?\"", "goto": 13 }
+      ]
+    }
+  ]
+}
