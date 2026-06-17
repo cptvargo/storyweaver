@@ -19,10 +19,10 @@
       "type": "choice",
       "prompt": "What does Larry tell himself walking away?",
       "options": [
-        { "id": "owned_it_15", "label": "That was the right call. Whatever works.", "goto": 17 },
-        { "id": "doubt_15", "label": "You used his name. You didn't earn that.", "goto": 17 },
-        { "id": "rational_15", "label": "Jonathan would've done the same thing.", "goto": 17 },
-        { "id": "quiet_15", "label": "...", "goto": 17 }
+        { "id": "owned_it_15", "label": "That was the right call. Whatever works.", "goto": 18 },
+        { "id": "doubt_15", "label": "You used his name. You didn't earn that.", "goto": 18 },
+        { "id": "rational_15", "label": "Jonathan would've done the same thing.", "goto": 18 },
+        { "id": "quiet_15", "label": "...", "goto": 18 }
       ]
     }
   ]

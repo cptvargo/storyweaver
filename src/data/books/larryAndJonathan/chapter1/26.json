@@ -1,0 +1,23 @@
+{
+  "page": 26,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The house was quiet when I got in. Mr. Cole's car was in the drive. Larry Jr. was on the couch with his shoes still on." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "How was it?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "How was what?" },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "School." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It was school." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Did anything happen?" },
+    { "type": "internalThought", "content": "Daniel Snyder happened. A senior girl's eyes in a hallway happened. Maya happened. Jonathan taking up every room he walked into happened. A thousand things happened and none of them were finished yet." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Some things." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Good things or bad things?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Both." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Okay." },
+    { "type": "internalThought", "content": "He went back to the TV. No follow-up. He just needed to know something happened — not the whole story. I don't know why that's the thing that settled me, but it was." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Food's in the fridge when you're ready." },
+    { "type": "internalThought", "content": "He didn't ask about the day. Mr. Cole never asks. He handles the practical things and waits for the rest to arrive on its own time." },
+    { "type": "internalThought", "content": "I ate standing at the kitchen counter and went upstairs." }
+  ]
+}

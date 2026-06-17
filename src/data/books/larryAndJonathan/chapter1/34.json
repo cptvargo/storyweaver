@@ -1,0 +1,14 @@
+{
+  "page": 34,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "You're out there somewhere and I don't even know your name. That's a strange thing to go to bed thinking about.", "condition": "ep1_close_crystal" },
+    { "type": "internalThought", "content": "Daniel's going to run up on me again. Maybe tomorrow. Maybe next week. But it's coming. The question is who I am when it does.", "condition": "ep1_close_daniel" },
+    { "type": "internalThought", "content": "He said 'I'm glad you're here' like it cost him something. For Jonathan, it did.", "condition": "ep1_close_j" },
+    { "type": "internalThought", "content": "Down the hall Larry Jr.'s light was off. Mr. Cole's too." },
+    { "type": "internalThought", "content": "The house was enormous and quiet and mine." },
+    { "type": "internalThought", "content": "Two weeks until tryouts." }
+  ]
+}

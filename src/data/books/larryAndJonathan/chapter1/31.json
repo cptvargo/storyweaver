@@ -1,0 +1,25 @@
+{
+  "page": 31,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lmaooo aight aight i'll chill FOR NOW", "condition": "aim_stop_j_crystal_30" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye who's deshawn", "condition": "aim_change_30" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "kid i met. transferred in too. real observant", "condition": "aim_change_30" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "observant how", "condition": "aim_change_30" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "like he knew you were scanning the cafeteria for me before you did it", "condition": "aim_change_30" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh what 😭 aye that's either real smart or real creepy and i'm not sure which", "condition": "aim_change_30" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye tryouts in two weeks. you should pull up on god. no excuses" },
+    {
+      "type": "choice",
+      "prompt": "Two weeks to tryouts. What does Larry type back?",
+      "options": [
+        { "id": "tryout_maybe", "label": "\"yeah maybe i'll come through\"", "goto": 32 },
+        { "id": "tryout_skeptical", "label": "\"for football tho??\"", "goto": 32 },
+        { "id": "tryout_question", "label": "\"you think i could actually make it?\"", "goto": 32 },
+        { "id": "tryout_silent", "label": "...", "goto": 32 }
+      ]
+    }
+  ]
+}

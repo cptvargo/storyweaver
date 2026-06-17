@@ -1,0 +1,30 @@
+{
+  "page": 25,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "DeShawn", "content": "See that's what I'm saying. You already tracked it.", "condition": "agreed_deshawn_24" },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Fair. Most people don't see it at all.", "condition": "modest_deshawn_24" },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Man I've been at it since 7:55 I already told you.", "condition": "funny_deshawn_24" },
+    { "type": "internalThought", "content": "2:55pm. School let out." },
+    { "type": "internalThought", "content": "DeShawn walked with me to the bus stop. He talked most of the way — not nervously, just constantly, like he processed by narrating. By the time his bus came he'd said something smart about every person we'd talked about today." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Aye — Lincoln always this much, or is this a first-day thing?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I literally just started today." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Right. Me too. Okay. Research ongoing." },
+    { "type": "internalThought", "content": "He got on the bus. I kept walking." },
+    { "type": "internalThought", "content": "Fourteen more blocks. The neighborhood settled around me. School noise faded and it was just cars and kids on stoops and the street knowing nothing had changed for it." },
+    { "type": "internalThought", "content": "I thought about the girl in the hall. The one I didn't know the name of." },
+    { "type": "internalThought", "content": "Then I thought about Daniel. Then Jonathan's table. Then how Maya asked questions like she expected real answers." },
+    {
+      "type": "choice",
+      "prompt": "Fourteen blocks. What carries the walk?",
+      "options": [
+        { "id": "walk_think_crystal_25", "label": "The senior. That half-second look.", "goto": 26 },
+        { "id": "walk_think_daniel_25", "label": "Daniel. What you said — or what you didn't.", "goto": 26 },
+        { "id": "walk_think_j_25", "label": "Jonathan. He fit so fast. You're still finding your footing.", "goto": 26 },
+        { "id": "walk_quiet_25", "label": "Nothing. Just walk.", "goto": 26 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 33,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "LMAOO aight aight. we're good. i won't bring it up again", "condition": "aim_joke_j_32" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh don't even have to say it twice. that's just facts", "condition": "aim_back_j_32" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "see that's what i'm talking about fr. you always been that", "condition": "aim_honest_j_32" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight gn homie. first day down." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
+    { "type": "internalThought", "content": "I closed the chat." },
+    { "type": "internalThought", "content": "847 friends. I opened his profile. He had three wall posts from people I'd never met. Day one." },
+    { "type": "internalThought", "content": "My count was 4. One of them is Tom." },
+    {
+      "type": "choice",
+      "prompt": "Before you close the laptop. One thing stays with you.",
+      "options": [
+        { "id": "ep1_close_crystal", "label": "The senior. You still don't know her name.", "goto": 34 },
+        { "id": "ep1_close_daniel", "label": "Daniel. Tomorrow he'll be somewhere in that building.", "goto": 34 },
+        { "id": "ep1_close_j", "label": "Jonathan. He said something real and acted like he didn't.", "goto": 34 },
+        { "id": "ep1_close_quiet", "label": "You just close it.", "goto": 34 }
+      ]
+    }
+  ]
+}

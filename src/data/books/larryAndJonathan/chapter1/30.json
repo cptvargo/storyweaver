@@ -1,0 +1,35 @@
+{
+  "page": 30,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye real talk tho. the senior." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "what senior" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh don't play. i SAW you in that hallway." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i don't even know her name", "condition": "crystal_looked_back_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro you were literally looking back tho. i SAW it", "condition": "crystal_looked_back_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "she looked first", "condition": "crystal_looked_back_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "BRUH 😭 ok ok she looked. then what", "condition": "crystal_looked_back_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "nothing", "condition": "crystal_kept_going_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "of course you did nothing", "condition": "crystal_kept_going_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i almost did", "condition": "crystal_almost_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "almost is not the same as did bruh. at all.", "condition": "crystal_almost_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh i'ma need you to be more proactive ya dig", "condition": "crystal_quiet_ep1" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i'ma find out who she is. that's what i'm here for fr" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "don't." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "too late. already on it" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "jonathan." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lmaoo aye i got you. i won't make it weird. probably." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is on this whether you want him to be or not.",
+      "options": [
+        { "id": "aim_let_j_crystal_30", "label": "\"...fine.\"", "goto": 31 },
+        { "id": "aim_stop_j_crystal_30", "label": "\"Seriously. Leave it alone.\"", "goto": 31 },
+        { "id": "aim_change_30", "label": "\"What about DeShawn though.\"", "goto": 31 },
+        { "id": "aim_quiet_30", "label": "...", "goto": 31 }
+      ]
+    }
+  ]
+}

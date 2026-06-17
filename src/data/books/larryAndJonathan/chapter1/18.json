@@ -4,30 +4,11 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Six steps. The whole table clocked me by step three." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye, sit down. You straight." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "This your boy?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's Larry. He good people. We go way back." },
-    { "type": "internalThought", "content": "He good. Not 'he's my best friend.' Not 'we're from the same neighborhood.' He good. Like he cleared me through a door he hadn't asked anyone's permission to open." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Where you from, Larry?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Eastwood. Jefferson Middle." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Word. You play anything?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh is fast for real, no cap." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I haven't tried out for anything." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Tryouts are in two weeks. Football and track both. You should pull up." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what I BEEN saying. Nobody ever wants to listen." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'll think about it." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Don't think too long." },
-    { "type": "internalThought", "content": "Across the cafeteria, Maya looked over. Then looked away. Jonathan caught it and said nothing, which meant he clocked it." },
-    {
-      "type": "choice",
-      "prompt": "Marcus and Jonathan are both waiting.",
-      "options": [
-        { "id": "committed_18", "label": "\"Aight. I'll be there.\"", "goto": 22 },
-        { "id": "maybe_18", "label": "\"We'll see.\"", "goto": 22 },
-        { "id": "turned_18", "label": "\"What position do you play?\" Turn it back on Marcus.", "goto": 22 },
-        { "id": "quiet_18", "label": "...", "goto": 22 }
-      ]
-    }
+    { "type": "internalThought", "content": "Third period ended and the hallway filled up fast." },
+    { "type": "internalThought", "content": "Daniel was on the other side. Not close enough for anything to happen. He looked up at exactly the right moment — the way people do when they've already been watching — and for about two seconds we were just across the hall from each other. Then he looked away.", "condition": "said_something" },
+    { "type": "internalThought", "content": "Daniel passed me on his way to class. Didn't say anything. Didn't have to. The message had already been sent.", "condition": "name_dropped" },
+    { "type": "internalThought", "content": "I saw Daniel at the water fountain on the other side. He clocked me. Then the corner of his mouth moved — not quite a smile, but something close. Like he'd put something in a drawer he could come back to.", "condition": "laughed_it_off" },
+    { "type": "internalThought", "content": "Daniel came around the corner. He stopped half a step when he saw me — like he was confirming something. Then kept walking without a word.", "condition": "stayed_quiet" },
+    { "type": "internalThought", "content": "Whatever this was, it wasn't finished." }
   ]
 }

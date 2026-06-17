@@ -1,0 +1,29 @@
+{
+  "page": 27,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep1_aim_night.png", "alt": "Larry at his desk, AIM glow in the dark" },
+    { "type": "internalThought", "content": "9:47. Dad's in Dallas. Or Denver. He'll be back Thursday, which means I won't see him until Friday." },
+    { "type": "internalThought", "content": "I opened AIM. The dial-up sound. The little running man. Buddy list loading slow." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "first day tho bruh" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "real talk watchu think" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "its a school" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "LMBOO" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "nah but for real. you felt it right? like today was DIFFERENT different" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "it was louder" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh EXACTLY. like even the air felt different. that's what i'm talking about. this is the year" },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is lit up. What does Larry type back?",
+      "options": [
+        { "id": "aim_match_j_27", "label": "\"yeah fr. i felt it too\"", "goto": 28 },
+        { "id": "aim_calm_27", "label": "\"you always feel it though\"", "goto": 28 },
+        { "id": "aim_real_27", "label": "\"i don't know yet. ask me in two weeks\"", "goto": 28 },
+        { "id": "aim_quiet_27", "label": "...", "goto": 28 }
+      ]
+    }
+  ]
+}

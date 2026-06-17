@@ -23,10 +23,10 @@
       "type": "choice",
       "prompt": "Jonathan said his piece. Now yours.",
       "options": [
-        { "id": "stood_by_it_14", "label": "\"I'd do it again.\"", "goto": 17 },
-        { "id": "maybe_14", "label": "\"Maybe you're right.\"", "goto": 17 },
-        { "id": "change_sub_14", "label": "\"You're late to lunch.\"", "goto": 17 },
-        { "id": "quiet_14", "label": "...", "goto": 17 }
+        { "id": "stood_by_it_14", "label": "\"I'd do it again.\"", "goto": 18 },
+        { "id": "maybe_14", "label": "\"Maybe you're right.\"", "goto": 18 },
+        { "id": "change_sub_14", "label": "\"You're late to lunch.\"", "goto": 18 },
+        { "id": "quiet_14", "label": "...", "goto": 18 }
       ]
     }
   ]

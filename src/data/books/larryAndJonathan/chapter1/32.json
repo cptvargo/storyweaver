@@ -1,0 +1,32 @@
+{
+  "page": 32,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah bruh why not. you already got the speed", "condition": "tryout_maybe" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "BRUH you fast ain't you?? like straight up. stop playing yourself", "condition": "tryout_skeptical" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i mean kinda", "condition": "tryout_skeptical" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "then come find out fr fr", "condition": "tryout_skeptical" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just pull up. coach will tell you everything you need. you're already built for it", "condition": "tryout_question" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you still there?? don't go ghost on me", "condition": "tryout_silent" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah", "condition": "tryout_silent" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just think about it aight. but real talk — come through", "condition": "tryout_silent" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye lar." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "real talk. i'm glad you're here. like at lincoln. i know i made it look easy today but" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "idk. it's different when you're right there ya dig" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i'm right here" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i know. that's what i mean" },
+    {
+      "type": "choice",
+      "prompt": "Jonathan just said something real. What does Larry do with it?",
+      "options": [
+        { "id": "aim_back_j_32", "label": "\"same. not saying it twice.\"", "goto": 33 },
+        { "id": "aim_joke_j_32", "label": "\"you good? you having feelings over there?\"", "goto": 33 },
+        { "id": "aim_honest_j_32", "label": "\"first day was a lot. glad i had someone who knew the plan.\"", "goto": 33 },
+        { "id": "aim_quiet_j_32", "label": "...", "goto": 33 }
+      ]
+    }
+  ]
+}

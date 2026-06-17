@@ -18,12 +18,12 @@
     { "type": "consequence", "id": "made_daniel_laugh", "character": "Daniel Snyder", "text": "will remember that." },
     {
       "type": "choice",
-      "prompt": "She's still looking at you.",
+      "prompt": "Imani is still looking at you.",
       "options": [
-        { "id": "played_cool_16", "label": "Shrug. Keep walking.", "goto": 17 },
-        { "id": "talked_16", "label": "\"I'm Larry. What's your name?\"", "goto": 17 },
-        { "id": "modest_16", "label": "\"It was nothing. I just didn't know what else to say.\"", "goto": 17 },
-        { "id": "quiet_16", "label": "...", "goto": 17 }
+        { "id": "played_cool_16", "label": "Shrug. Keep walking.", "goto": 18 },
+        { "id": "talked_16", "label": "\"I'm Larry. What's your name?\"", "goto": 18 },
+        { "id": "modest_16", "label": "\"It was nothing. I just didn't know what else to say.\"", "goto": 18 },
+        { "id": "quiet_16", "label": "...", "goto": 18 }
       ]
     }
   ]

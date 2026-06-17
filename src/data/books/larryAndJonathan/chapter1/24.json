@@ -1,0 +1,32 @@
+{
+  "page": 24,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After lunch the hallway outside the cafeteria was bottlenecked — two hundred kids trying to remember where fourth period was." },
+    { "type": "internalThought", "content": "I found my locker. When I turned around, he was right there.", "condition": "sat_with_athletes" },
+    { "type": "internalThought", "content": "I was heading out when he caught up.", "condition": "sat_with_maya" },
+    { "type": "internalThought", "content": "He was at his locker two down from mine. I didn't connect it until he turned around.", "condition": "sat_elsewhere" },
+    { "type": "internalThought", "content": "He was the kid who'd told me Jonathan was looking for me. I remembered the face.", "condition": "stood_too_long" },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Aye. DeShawn Morris." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "I know. You're Michaels' boy. It's not a bad thing — it's just how introductions work in a place like this." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm still figuring out what I am in a place like this." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "That's the most honest thing I've heard all day. I've been doing the same thing since 7:55." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "Three power structures. Running parallel. Nobody talks about how they overlap." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You've been thinking about this since the morning?" },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "I think about everything since the morning. It's a problem." },
+    { "type": "consequence", "id": "deshawn_connected", "character": "DeShawn Morris", "text": "is paying attention to the same things you are." },
+    {
+      "type": "choice",
+      "prompt": "DeShawn reads rooms the way you do. That's either useful or exhausting.",
+      "options": [
+        { "id": "agreed_deshawn_24", "label": "\"Jonathan's table is one. Daniel's another. Haven't placed the third.\"", "goto": 25 },
+        { "id": "modest_deshawn_24", "label": "\"I just got here. Still taking it in.\"", "goto": 25 },
+        { "id": "funny_deshawn_24", "label": "\"Three power structures on day one is a lot.\"", "goto": 25 },
+        { "id": "quiet_deshawn_24", "label": "...", "goto": 25 }
+      ]
+    }
+  ]
+}

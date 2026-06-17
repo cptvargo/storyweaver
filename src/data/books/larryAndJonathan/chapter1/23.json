@@ -4,20 +4,28 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah bruh why not. you already got the speed", "condition": "tryout_maybe" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "BRUH you fast ain't you?? like straight up. stop playing yourself", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i mean kinda", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "then come find out fr fr", "condition": "tryout_skeptical" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just pull up bruh. coach will tell you everything you need. you're already built for it", "condition": "tryout_question" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you still there?? don't go ghost on me", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "just think about it aight. but real talk — come through", "condition": "tryout_silent" },
-    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight gn bruh. stay up" },
-    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
-    { "type": "internalThought", "content": "I closed the chat." },
-    { "type": "internalThought", "content": "847 friends. I opened his profile like I was checking a score. He had three wall posts already from people I'd never met. Day one." },
-    { "type": "internalThought", "content": "My count was 4. One of them is Tom." },
-    { "type": "internalThought", "content": "Down the hall, Larry Jr.'s light was off. Mr. Cole's was too. The house was what it always is at 10pm — enormous and quiet and mine." },
-    { "type": "internalThought", "content": "Two weeks until tryouts." }
+    { "type": "internalThought", "content": "Five seconds. Seven. Long enough for it to become a thing that people notice, and then people start noticing each other noticing." },
+    { "type": "internalThought", "content": "I found a table near the back wall. Nobody I knew. I just — sat. Put my food down and sat like I'd meant to end up there." },
+    { "type": "dialogue", "speaker": "Kendall", "content": "You're Michaels' boy, right?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Kendall", "content": "He was looking for you. Like actively." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm right here." },
+    { "type": "dialogue", "speaker": "Kendall", "content": "I can see that. You should probably go over there." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm good." },
+    { "type": "dialogue", "speaker": "Kendall", "content": "That's his table though. The table." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know what table it is." },
+    { "type": "internalThought", "content": "He shrugged and went back to his own lunch. At the center table Jonathan was mid-story, both hands moving, everyone leaning in. He didn't scan for me again." },
+    { "type": "internalThought", "content": "Maya was at her table. She'd seen me standing in the middle of the room. The look on her face wasn't pity — it was something more precise than that." },
+    { "type": "consequence", "id": "larry_sat_alone", "character": "Larry", "text": "is going to have to figure something out." },
+    {
+      "type": "choice",
+      "prompt": "What does Larry do with the rest of lunch?",
+      "options": [
+        { "id": "watched_j_21", "label": "Watch Jonathan. Figure out how he makes it look easy.", "goto": 26 },
+        { "id": "ate_quiet_21", "label": "Just eat. It's one lunch. It doesn't mean anything.", "goto": 26 },
+        { "id": "phone_21", "label": "Look at your phone. Look busy. Don't let it show.", "goto": 26 },
+        { "id": "quiet_21", "label": "...", "goto": 26 }
+      ]
+    }
   ]
 }

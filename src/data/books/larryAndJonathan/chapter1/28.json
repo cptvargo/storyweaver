@@ -1,0 +1,28 @@
+{
+  "page": 28,
+  "chapter": 1,
+  "chapterTitle": "First Day",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "see that's what i love fr", "condition": "aim_match_j_27" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lmaoo that's true ngl. but this time i mean it for real", "condition": "aim_calm_27" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye that's fair. two weeks it is. but mark me down", "condition": "aim_real_27" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye bruh marcus was asking bout you after you dipped", "condition": "sat_with_athletes" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "for real?", "condition": "sat_with_athletes" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "yeah he said you straight. that's big coming from him fr", "condition": "sat_with_athletes" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "marcus told me you said you'd be there. that's what i'm talking about", "condition": "committed_18" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye what does 'we'll see' even mean lol. you coming or not", "condition": "maybe_18" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro you really turned it back on marcus lmboo he lowkey respected that tho", "condition": "turned_18" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you know maya reeves?? shorty is sharp fr no cap", "condition": "sat_with_maya" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "from ms barrett's class", "condition": "sat_with_maya" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i saw you over there. just saying", "condition": "sat_with_maya" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye you shouldve pulled up bruh. marcus was asking bout you too", "condition": "sat_elsewhere" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i saw you nod from across the whole cafeteria lol. i see you", "condition": "nodded_back_19" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye why you look away bruh lol. i still see you tho", "condition": "looked_away_19" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh the little wave 😭 you good??", "condition": "half_wave_19" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "AYE BRUH i seen you just standing there in the middle of the cafeteria 😭 what happened bro", "condition": "stood_too_long" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i was looking for a seat", "condition": "stood_too_long" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "BRUH 😭😭 whole room was watching. we gotta fix that fr", "condition": "stood_too_long" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "..." }
+  ]
+}

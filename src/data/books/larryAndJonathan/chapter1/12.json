@@ -4,36 +4,19 @@
   "chapterTitle": "First Day",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "His name was Daniel Snyder. I found that out about six minutes before he found me." },
-    { "type": "internalThought", "content": "Two girls near the water fountain: 'He does that to everybody new. Just ignore it.' They said it to each other. Not to me. I was just standing there close enough to hear." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Yo." },
-    { "type": "internalThought", "content": "That's not a greeting. That's a stop sign." },
-    { "type": "dialogue", "speaker": "Larry", "content": "What's up." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "You're new." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "You came in with Michaels this morning." },
-    { "type": "dialogue", "speaker": "Larry", "content": "We know each other." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "From where?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Middle school." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Michaels is that dude. Whole school's gonna know his name by Friday." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Probably." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "So you're his boy." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Something like that." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "What does that mean?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Means we're friends." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Cool. But what are you though? Like what's your thing?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "What do you mean what's my thing?" },
-    { "type": "dialogue", "speaker": "Daniel", "content": "Michaels plays ball. Wide receiver, everybody knows. So what are you?" },
-    { "type": "internalThought", "content": "People nearby. Not watching directly. But aware. First day and already this is the test." },
-    { "type": "dialogue", "speaker": "Daniel", "content": "I don't know what you are yet." },
+    { "type": "internalThought", "content": "Jonathan turned the corner and I was alone in the hall for about six seconds." },
+    { "type": "internalThought", "content": "That's when she walked by." },
+    { "type": "internalThought", "content": "Senior. Dark hair, heading toward the English wing. She moved like she already knew where everything in this building was — not rushed, just settled in a way that takes a couple years to earn." },
+    { "type": "internalThought", "content": "She glanced over. Just once. Half a second, maybe less. Not the kind of look that says 'you're in my way' — the other kind. Deliberate." },
+    { "type": "internalThought", "content": "I didn't know her name. But I felt the moment close the way a door closes in a warm room and you don't realize until the warmth is already gone." },
     {
       "type": "choice",
-      "prompt": "Daniel is waiting. The hallway is listening.",
+      "prompt": "She's already past you. The moment is still there.",
       "options": [
-        { "id": "said_something", "label": "\"Figure it out.\" Don't let him take this.", "goto": 14 },
-        { "id": "name_dropped", "label": "\"I'm with Michaels.\" Use the shield.", "goto": 15 },
-        { "id": "laughed_it_off", "label": "\"Honest answer? Same.\" Disarm him.", "goto": 16 },
-        { "id": "stayed_quiet", "label": "...", "goto": 13 }
+        { "id": "crystal_looked_back_ep1", "label": "Look back. She looked — so can you.", "goto": 13 },
+        { "id": "crystal_kept_going_ep1", "label": "Keep moving. You don't even know her name.", "goto": 13 },
+        { "id": "crystal_almost_ep1", "label": "Almost looked back. Stopped yourself.", "goto": 13 },
+        { "id": "crystal_quiet_ep1", "label": "...", "goto": 13 }
       ]
     }
   ]
