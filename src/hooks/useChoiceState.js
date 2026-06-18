@@ -12,9 +12,10 @@ export function useChoiceState(bookId) {
     }
   })
 
-  const makeChoice = (pageIndex, option) => {
+  const makeChoice = (chapterIndex, pageIndex, option) => {
+    const choiceKey = `${chapterIndex}_${pageIndex}`
     const next = {
-      choices: { ...state.choices, [pageIndex]: { id: option.id, goto: option.goto } },
+      choices: { ...state.choices, [choiceKey]: { id: option.id, goto: option.goto } },
       tags: option.id && !state.tags.includes(option.id)
         ? [...state.tags, option.id]
         : state.tags,
@@ -24,7 +25,7 @@ export function useChoiceState(bookId) {
     return next
   }
 
-  const getChoice = (pageIndex) => state.choices[pageIndex] ?? null
+  const getChoice = (chapterIndex, pageIndex) => state.choices[`${chapterIndex}_${pageIndex}`] ?? null
 
   const hasTag = (tag) => state.tags.includes(tag)
 

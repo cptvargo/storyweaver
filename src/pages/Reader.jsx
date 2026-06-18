@@ -60,7 +60,7 @@ export default function Reader() {
 
   // Interactive: check if this page has a choice and whether it's been answered
   const pageHasChoice = isInteractive && page?.blocks?.some(b => b.type === 'choice')
-  const currentChoice = isInteractive ? getChoice(pageIndex) : null
+  const currentChoice = isInteractive ? getChoice(chapterIndex, pageIndex) : null
   const pendingChoice = pageHasChoice && currentChoice === null
 
   useEffect(() => {
@@ -126,7 +126,7 @@ export default function Reader() {
   }
 
   const handleChoice = (option) => {
-    makeChoice(pageIndex, option)
+    makeChoice(chapterIndex, pageIndex, option)
     if (option.remember) {
       setRememberMessage(option.remember)
     }
