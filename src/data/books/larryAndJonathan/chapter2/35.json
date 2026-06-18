@@ -1,0 +1,23 @@
+{
+  "page": 35,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After class. The hallway. Jonathan was already in the hall when I came out, which meant he'd moved fast from wherever he was." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She looked at you when she said that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Crystal. In English. I was at the window passing the hall and I looked in at exactly the wrong moment. Or the right one. She looked at you when she said that thing about wanting something out loud." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You were spying through the window." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I was passing by and the universe handed me information. What am I supposed to do, not look?" },
+    { "type": "internalThought", "content": "I didn't answer that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro. She is telling you things without telling you things. You know that right." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Thursday." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "ASK HER SOMETHING REAL." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know, J." },
+    { "type": "internalThought", "content": "He walked off. I stood in the hallway for a second with the weight of it — a girl I'd known for three weeks had said something out loud in front of a class and then looked at me, and the only person in my life who noticed was Jonathan Michaels who had been watching through a window." },
+    { "type": "internalThought", "content": "That was my life." }
+  ]
+}

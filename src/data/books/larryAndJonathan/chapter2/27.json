@@ -1,0 +1,25 @@
+{
+  "page": 27,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The 34 came and she didn't move." },
+    { "type": "internalThought", "content": "I didn't point it out. She didn't say anything about it. We just kept talking and the bus came and went and neither of us acknowledged that." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What's it like — being on the team? Like actually on it, not trying out." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Like I finally understand what I was trying out for. It was different before. I didn't know what I was asking to be part of." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You think you'll play?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Coach doesn't put freshmen in unless he has to." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "But he might have to." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Maybe." },
+    { "type": "internalThought", "content": "She said it like she already believed it. Not the way people say things to be nice — the way people say things when they've decided." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I might come to a game. I've never actually been to one." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You've been here three years and never been to a game?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Nobody ever made it feel like something I should see." },
+    { "type": "internalThought", "content": "I didn't know what to do with that. So I didn't do anything with it. I just let it sit there and it sat there fine." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Next 34 is in eighteen minutes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You missed the last one." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know." },
+    { "type": "internalThought", "content": "She said it like she didn't mind at all." }
+  ]
+}

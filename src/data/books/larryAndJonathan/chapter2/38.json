@@ -1,0 +1,25 @@
+{
+  "page": 38,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Saturday night. The house was different on weekends — quieter in some ways, louder in others. Mr. Cole cooked on Saturdays. Real food, not the weeknight stuff." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "You got hit today." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know that?" },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "You're walking stiff." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You notice everything." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Someone has to." },
+    { "type": "internalThought", "content": "Mr. Cole put a plate down. He didn't ask about practice. He never asked directly about things like that — he waited for you to bring it to him." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You holding up?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. I went down twice. Got back up." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "How'd you get back up?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Same way as the first time. Just did it." },
+    { "type": "internalThought", "content": "He nodded at that. Slow. Like it meant something he already knew but was glad to hear." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's the part that matters. Not how you fall. How you decide to get back up." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "I fell off my bike three times and I got back up every time." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I know. I watched." },
+    { "type": "internalThought", "content": "Larry Jr. looked at him like that was the best thing anyone had said to him in weeks." },
+    { "type": "internalThought", "content": "I knew that feeling." }
+  ]
+}

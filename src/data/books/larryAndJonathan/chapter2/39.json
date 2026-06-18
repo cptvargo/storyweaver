@@ -1,0 +1,23 @@
+{
+  "page": 39,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday came." },
+    { "type": "internalThought", "content": "I was at the steps before practice ended. I don't know what I was going to say if she wasn't there. I didn't plan for that." },
+    { "type": "internalThought", "content": "She wasn't there." },
+    { "type": "internalThought", "content": "5:10. 5:15. 5:20." },
+    { "type": "internalThought", "content": "I sat down on the steps. I told myself I was just resting. I was not just resting." },
+    { "type": "internalThought", "content": "5:28. The front door opened." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You waited." },
+    { "type": "internalThought", "content": "She said it quiet. Not surprised. Just noting it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Study hall ran late?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Ms. Okafor kept us. She does that." },
+    { "type": "internalThought", "content": "She sat down next to me. Not across from me, not a step away — right next to me, close enough that I could tell she'd been in somewhere warm." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I would have texted but I don't have your number." },
+    { "type": "internalThought", "content": "I heard what she'd just said. She would have texted. She wanted to." },
+    { "type": "internalThought", "content": "I did not give her my number." },
+    { "type": "internalThought", "content": "I don't know why I did not give her my number. I know why. I just don't know how to say the reason without it sounding small." }
+  ]
+}

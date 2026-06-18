@@ -1,0 +1,19 @@
+{
+  "page": 25,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday. End of practice week two. Jonathan got picked up early — Mr. Tanaka, black car, engine already running. I walked out the front on my own." },
+    { "type": "internalThought", "content": "Crystal was on the front steps." },
+    { "type": "internalThought", "content": "Not standing. Sitting — legs crossed, a book open on her knee, headphones around her neck. She looked like she'd been there a while. Like the steps were hers." },
+    { "type": "internalThought", "content": "She looked up before I said anything. She always did that. Like she heard me before I made a sound." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "How was practice?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Good. You waiting for the bus?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Yeah. The 34 runs at 5:15. I've got twenty minutes." },
+    { "type": "internalThought", "content": "I sat down. Not because I'd decided to — just because the steps were there and she was there and stopping felt easier than walking past." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You don't have to wait with me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "internalThought", "content": "She smiled at that. Not wide. The same one from the locker hall — just enough." }
+  ]
+}

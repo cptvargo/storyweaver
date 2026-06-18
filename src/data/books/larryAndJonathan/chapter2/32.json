@@ -1,0 +1,26 @@
+{
+  "page": 32,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "WAIT. AN HOUR?? bruh she missed her bus for you. she missed her BUS.", "condition": "told_j_everything_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "a little while. ok. and?", "condition": "told_j_some_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh you don't need air you need to talk to me fr", "condition": "told_j_nothing_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "you went quiet on AIM which means something definitely happened", "condition": "told_j_quiet_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "we talked. it was cool.", "condition": "told_j_everything_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "she asked about english class. about something i wrote down. she noticed.", "condition": "told_j_some_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "we talked for a little. she asked about tryouts.", "condition": "told_j_nothing_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "...", "condition": "told_j_quiet_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh I KNOW you. 'it was cool' means something happened you don't know what to do with", "condition": "told_j_everything_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "she noticed. she noticed specifically. that's not an accident homie", "condition": "told_j_some_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "she asked about tryouts?? she been asking about you since the first day fr fr", "condition": "told_j_nothing_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i'm just gonna wait", "condition": "told_j_quiet_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "she said same time next thursday" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "SHE SAID WHAT" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "same time next thursday" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro she made PLANS with you. that is a plan. a senior made a plan with a freshman and asked you to confirm it. you understand what that is right" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "it was just the bus steps" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "IT WAS NOT JUST THE BUS STEPS. larry i say this with love. you are so broken fr no cap deadass" }
+  ]
+}

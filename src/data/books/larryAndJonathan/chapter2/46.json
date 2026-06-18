@@ -1,0 +1,22 @@
+{
+  "page": 46,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday came back around the way Thursdays do — too slow until Monday and then suddenly it's already Wednesday night and you're still not ready." },
+    { "type": "internalThought", "content": "I walked out after practice and she was there. On the steps. Same spot. A different book this time — thicker, worn at the spine." },
+    { "type": "internalThought", "content": "She looked up before I reached the door. She always did that." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You're late today." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Coach ran extra drills." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "How'd it go?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Good. I ran a post route without thinking about it first." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Is that a big deal?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. That's the whole deal actually." },
+    { "type": "internalThought", "content": "She smiled at that — the easy one, not the polite one. I was starting to know the difference." },
+    { "type": "internalThought", "content": "I sat down. The number was right there in my head. Six digits and a plan. All I had to do was say it." },
+    { "type": "internalThought", "content": "We talked for twenty minutes about nothing important. Then about something important. Then about nothing again." },
+    { "type": "internalThought", "content": "The 34 came. She didn't move." },
+    { "type": "internalThought", "content": "Say it." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 40,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Do you like it here? Lincoln. Genuinely — not the answer you'd give a teacher." },
+    { "type": "internalThought", "content": "Nobody had asked me that. Jonathan assumed. Mr. Cole observed. Nobody asked." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know yet. I think I'm still figuring out what liking it means." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What does it mean for you when you like somewhere?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "When I'm not watching it from outside. When I'm actually in it." },
+    { "type": "internalThought", "content": "She looked at me for a second. That confirming look again — like I'd said the thing she was waiting to find out if I could say." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I've been here three years and I still feel like I'm watching it sometimes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You don't seem like that." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "That's the thing about it. You can't tell from the outside." },
+    { "type": "internalThought", "content": "I thought about that. She was a senior. She had a year left. And she was still sitting on the steps of a school that hadn't fully let her in, talking to a freshman like maybe he understood something the other people here didn't." },
+    { "type": "internalThought", "content": "I understood it. I just didn't know how to say that either." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I get that." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know you do." }
+  ]
+}

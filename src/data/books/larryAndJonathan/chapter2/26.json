@@ -1,0 +1,23 @@
+{
+  "page": 26,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "Can I ask you something?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What made you write it down?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "In English. When I said what I said about the narrator. You wrote it down." },
+    { "type": "internalThought", "content": "She'd seen that. I didn't know she saw that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It felt true. Like — I'd been thinking something like that but I couldn't have said it that way." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Like he can't picture himself having anything." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Like he watches everyone else's life from just outside it." },
+    { "type": "internalThought", "content": "She looked at me differently after that. Not surprised exactly. More like — confirmed. Like she'd been wondering if I heard it and now she knew I had." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Most people in that class just write down the plot." },
+    { "type": "dialogue", "speaker": "Larry", "content": "The plot isn't the part that sticks." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "No. It isn't." },
+    { "type": "internalThought", "content": "She said it quiet, like it was something she'd been saying to herself for years without anyone agreeing." },
+    { "type": "internalThought", "content": "The 34 didn't come. We kept talking." }
+  ]
+}

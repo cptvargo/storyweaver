@@ -1,0 +1,18 @@
+{
+  "page": 47,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    {
+      "type": "choice",
+      "prompt": "The second 34 is coming in ten minutes. She's right here.",
+      "options": [
+        { "id": "asked_number_ep2", "label": "\"Can I get your number? In case study hall runs late again.\"", "goto": 48 },
+        { "id": "almost_number_ep2", "label": "You started to say it. Stopped. Found something else to talk about.", "goto": 48 },
+        { "id": "waited_ep2", "label": "You told yourself you'd do it when she was getting up to leave. Then she got up to leave.", "goto": 48 },
+        { "id": "didnt_ep2", "label": "You didn't. The bus came and she said same time next Thursday and you said yeah.", "goto": 48 }
+      ]
+    }
+  ]
+}

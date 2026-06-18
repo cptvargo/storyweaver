@@ -1,0 +1,23 @@
+{
+  "page": 24,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "By week two of practice, the team had sorted itself out. There were guys who ran routes and guys who ran routes the way Coach Briggs meant them. That gap was the whole difference." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Michaels. Again." },
+    { "type": "internalThought", "content": "Jonathan ran it again. Then again. By the fifth rep the corner covering him had stopped trying to stay close and was just reacting. That was the other gap — Jonathan didn't just run fast, he made you react wrong." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Yo that boy is different fr." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "You good out here though. You're learning it. Some of these guys been here two years and they still don't read the coverage before the snap." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Coach said I can learn." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "Coach said that to you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "First day of tryouts." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "He said that to me sophomore year and I still think about it. That man doesn't waste words." },
+    { "type": "internalThought", "content": "I knew that already. Every word from Coach Briggs landed like it had been cleaned of everything that wasn't necessary. He never said what he didn't mean." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Post route. Don't hesitate at the break." },
+    { "type": "internalThought", "content": "I ran it. No hesitation." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Good." },
+    { "type": "internalThought", "content": "One word. From Coach Briggs, that was a full sentence." }
+  ]
+}

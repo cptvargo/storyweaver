@@ -1,0 +1,26 @@
+{
+  "page": 30,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Diego was on his steps. Different jacket. Same spot.", "condition": "thought_of_her_hand_ep2" },
+    { "type": "internalThought", "content": "Diego was on his steps. I almost walked past him.", "condition": "thought_of_what_to_say_ep2" },
+    { "type": "internalThought", "content": "Diego was on his steps. I was still three days away from Thursday in my head.", "condition": "thought_of_thursday_ep2" },
+    { "type": "internalThought", "content": "Diego was on his steps. He was the first thing I saw that wasn't the inside of my own head.", "condition": "tried_not_to_think_ep2" },
+    { "type": "dialogue", "speaker": "Diego", "content": "You look different." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Like you're somewhere else in your head. You got a girl problem?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What? No." },
+    { "type": "dialogue", "speaker": "Diego", "content": "That's exactly what somebody with a girl problem says." },
+    { "type": "internalThought", "content": "He was twelve. Thirteen maybe. And he said it like he'd seen this before." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How old are you?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Thirteen. Why." },
+    { "type": "dialogue", "speaker": "Larry", "content": "No reason." },
+    { "type": "dialogue", "speaker": "Diego", "content": "She like you back?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I said there's no girl." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Yeah aight. She like you back though." },
+    { "type": "internalThought", "content": "He said it like a statement. Then he went back to whatever he was looking at on the stoop and I kept walking." },
+    { "type": "internalThought", "content": "I didn't correct him." }
+  ]
+}

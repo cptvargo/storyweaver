@@ -1,0 +1,19 @@
+{
+  "page": 48,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "She stopped. Looked at me like she was making sure she'd heard right. Then she took a pen out of her bag and wrote it on the inside cover of her book, tore the corner off, and handed it to me. Her handwriting was careful. Even the numbers.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Text me when you're heading to the steps. I'll know to actually come on time.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I held the piece of paper and she got on the bus and I stood on the curb and I thought: that was it. That's all it was.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She gathered her bag. The words were right there. I looked at her and she looked at me and there was a whole sentence sitting in the air between us and I talked around it until the bus was at the curb.", "condition": "almost_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next Thursday?", "condition": "almost_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah.", "condition": "almost_number_ep2" },
+    { "type": "internalThought", "content": "She stood. I was going to say it when she stood. Then she was standing. Then she had her bag. The moment was there and then it was behind me.", "condition": "waited_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next Thursday?", "condition": "waited_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah.", "condition": "waited_ep2" },
+    { "type": "internalThought", "content": "She said same time next Thursday. I said yeah. She got on the bus. I watched it go. I thought about the number I never asked for the whole walk home.", "condition": "didnt_ep2" },
+    { "type": "internalThought", "content": "Jonathan was going to ask. I knew what I was going to have to say." }
+  ]
+}

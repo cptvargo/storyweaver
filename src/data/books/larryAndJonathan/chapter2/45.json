@@ -1,0 +1,19 @@
+{
+  "page": 45,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "THAT'S WHAT I'M TALKING ABOUT. thursday. the number. done.", "condition": "aim_ill_do_it_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro she's not saying no. she missed her bus for you. she shows up every thursday. she asked YOU something in english class. she's not saying no.", "condition": "aim_scared_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "lol nah i'm good. i just know how this goes. my uncle never told my aunt how he felt about her and she married someone else. he told me that story like three times. i'm not letting you be that story.", "condition": "aim_deflect_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "ok you can go quiet. i'll say it anyway. next thursday. the number. i believe in you fr no cap.", "condition": "aim_quiet6_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "your uncle really said all that?" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "three times. each time with more detail. it's a whole thing. i'm protecting you from the sequel." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "aight j. i got it." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "gn homie. thursday is in six days. start counting." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn" },
+    { "type": "internalThought", "content": "I closed the laptop." },
+    { "type": "internalThought", "content": "Six days." }
+  ]
+}

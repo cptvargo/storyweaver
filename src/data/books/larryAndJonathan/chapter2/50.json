@@ -1,0 +1,66 @@
+{
+  "page": 50,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "I asked her something real. She told me something real back. That's all it took and I'd been sitting on the steps for three weeks before I did it.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I almost said it. The words were right there and I talked around them and she got on the bus and I watched it go and thought about all the things I could have said.", "condition": "almost_number_ep2" },
+    { "type": "internalThought", "content": "I was going to do it when she stood up. She stood up. I didn't. I still don't know exactly why.", "condition": "waited_ep2" },
+    { "type": "internalThought", "content": "I didn't ask. I don't know why I didn't ask. I know why. I just can't say it right.", "condition": "didnt_ep2" },
+    { "type": "internalThought", "content": "Down the hall Larry Jr.'s light was off. Mr. Cole's too." },
+    { "type": "internalThought", "content": "The house was enormous and quiet and mine." },
+    { "type": "internalThought", "content": "First game is Saturday." },
+    {
+      "type": "episodeStats",
+      "title": "Your Episode 2",
+      "stats": [
+        {
+          "label": "Tryouts",
+          "options": [
+            { "condition": "ran_hard_ep2", "value": "You ran like you had something to prove." },
+            { "condition": "ran_smooth_ep2", "value": "You ran your own race." },
+            { "condition": "ran_scared_ep2", "value": "You got in your own way." },
+            { "condition": "ran_late_ep2", "value": "The moment got big on you." }
+          ]
+        },
+        {
+          "label": "Crystal",
+          "options": [
+            { "condition": "asked_number_ep2", "value": "You asked. She had the pen ready." },
+            { "condition": "almost_number_ep2", "value": "You almost asked." },
+            { "condition": "waited_ep2", "value": "You waited too long." },
+            { "condition": "didnt_ep2", "value": "You didn't ask." }
+          ]
+        },
+        {
+          "label": "The Steps",
+          "options": [
+            { "condition": "told_j_everything_ep2", "value": "You told Jonathan everything." },
+            { "condition": "told_j_some_ep2", "value": "You told him some of it." },
+            { "condition": "told_j_nothing_ep2", "value": "You said nothing happened." },
+            { "condition": "told_j_quiet_ep2", "value": "You went quiet and he waited." }
+          ]
+        },
+        {
+          "label": "The List",
+          "options": [
+            { "condition": "tell_crystal_ep2", "value": "You told her. She already knew." },
+            { "condition": "wait_crystal_ep2", "value": "Two seconds of something neither of you named." },
+            { "condition": "walk_past_crystal_ep2", "value": "You kept walking." },
+            { "condition": "quiet4_ep2", "value": "You stood there saying nothing." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nextEpisode",
+      "scenes": [
+        { "text": "First game. The field looks different under the lights." },
+        { "text": "\"She asked me where you were.\"" },
+        { "text": "Daniel Snyder. A different hallway. A different kind of quiet." },
+        { "text": "\"You can't just keep showing up to the steps, Larry.\"" }
+      ]
+    }
+  ]
+}

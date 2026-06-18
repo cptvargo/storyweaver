@@ -1,0 +1,24 @@
+{
+  "page": 44,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aye. real talk for a second." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "what" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "i'm not joking when i say do this before it's too late. like genuinely. she's a senior. she's got a year. you've got a year to figure this out and you've already used up almost a month." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i know" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "no i don't think you do. i'm saying this as your friend not as someone trying to get you hyped. she's not gonna be there forever. and the version of you that didn't ask is the version that's gonna think about it forever after." },
+    { "type": "internalThought", "content": "I sat with that for a long time before I answered." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is being real right now. More real than usual.",
+      "options": [
+        { "id": "aim_ill_do_it_ep2", "label": "\"I hear you. Next Thursday. I'm doing it.\"", "goto": 45 },
+        { "id": "aim_scared_ep2", "label": "\"What if she says no?\"", "goto": 45 },
+        { "id": "aim_deflect_ep2", "label": "\"You've never talked about a girl like this. You good?\"", "goto": 45 },
+        { "id": "aim_quiet6_ep2", "label": "\"...\"", "goto": 45 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "page": 36,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Saturday. Weekend practice. Coach ran us for ninety minutes before we broke into groups." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Full contact drill. Nobody's protecting you out there on game day. Don't practice soft." },
+    { "type": "internalThought", "content": "Marcus lined up against me on the first rep. He had six inches and forty pounds on me and he knew exactly what he was doing with both." },
+    { "type": "internalThought", "content": "He hit me at the line and I went down clean." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Get up." },
+    { "type": "internalThought", "content": "I got up." },
+    { "type": "internalThought", "content": "Second rep. Same thing. Down again." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Get up." },
+    { "type": "internalThought", "content": "I got up again." },
+    { "type": "internalThought", "content": "Third rep. Marcus came off the line and I didn't try to go around him — I went through him, low, shoulder first. He still moved me. But not as far." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "There it is. You adjusted." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "He got low. Smart." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's how you respond to getting hit. You get smarter, not harder." },
+    { "type": "internalThought", "content": "He said it like a lesson he'd already learned. I wondered who taught it to him and when." }
+  ]
+}

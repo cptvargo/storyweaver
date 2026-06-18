@@ -1,0 +1,29 @@
+{
+  "page": 49,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, final AIM of Episode 2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "ok. i need you to type two letters. y and es.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i got it", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "YOU GOT IT?? THE NUMBER?? BRUH", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "she wrote it in the cover of her book and tore the corner out", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "SHE HAD THE PEN READY. SHE WAS WAITING FOR YOU TO ASK. LARRY.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "...did you ask", "condition": "almost_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "almost", "condition": "almost_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro. ALMOST. you were right there.", "condition": "almost_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "...did you ask", "condition": "waited_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i was going to", "condition": "waited_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "homie. she's not gonna be there forever. i said that last week.", "condition": "waited_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "...did you ask", "condition": "didnt_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "no", "condition": "didnt_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "larry.", "condition": "didnt_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i know j" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "next thursday. no excuses. i don't care if the steps catch fire.", "condition": "almost_number_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "next thursday. no excuses. i don't care if the steps catch fire.", "condition": "waited_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "next thursday. no excuses. i don't care if the steps catch fire.", "condition": "didnt_ep2" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "gn j" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "gn. first game is saturday. we ready." }
+  ]
+}

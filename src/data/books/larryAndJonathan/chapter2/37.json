@@ -1,0 +1,19 @@
+{
+  "page": 37,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After practice Jonathan and Marcus were still on the field. I walked out alone — through the gym hallway, past the weight room, out the side door." },
+    { "type": "internalThought", "content": "There was a group of girls coming out of the gym. Four of them. Loud in that Friday-afternoon way where school is finally over and there's nowhere to be." },
+    { "type": "internalThought", "content": "One of them I recognized. Stacy." },
+    { "type": "internalThought", "content": "She was walking with her friends and she looked over at me and then past me back toward the field and I realized she wasn't looking at me at all." },
+    { "type": "internalThought", "content": "She was looking for Jonathan." },
+    { "type": "internalThought", "content": "She didn't find him in time — she kept walking with her group, said something that made one of her friends laugh — and then they were gone around the corner." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you leave without me?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You were still talking to Marcus." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Fair. What'd I miss." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing." },
+    { "type": "internalThought", "content": "He'd asked about nothing. He didn't know what he'd walked back too late to see. And I wasn't going to tell him — not yet. But I filed it." }
+  ]
+}

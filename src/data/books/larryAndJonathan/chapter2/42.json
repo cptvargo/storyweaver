@@ -1,0 +1,18 @@
+{
+  "page": 42,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "She stood up and pulled her bag over her shoulder and for a second she looked at me the way you look at someone when you're deciding whether to say the thing you've been not saying." },
+    { "type": "internalThought", "content": "She didn't say it." },
+    { "type": "internalThought", "content": "She just smiled — a real one, not the half-smile she gave out at a discount, a full one — and said:" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next week?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "She got on the bus. I watched it pull away. I stood there for a minute after it turned the corner." },
+    { "type": "internalThought", "content": "Jonathan was going to ask me what happened. I was going to have to tell him about the question I asked her. He was going to lose his mind in the best way." },
+    { "type": "internalThought", "content": "But right now it was just me and the end of the day and the fact that she smiled the real one and I'd done nothing to deserve it except sit on the steps and ask her one real question." },
+    { "type": "internalThought", "content": "One question. That's all it took to get the real smile." },
+    { "type": "internalThought", "content": "I should have asked a long time ago." }
+  ]
+}

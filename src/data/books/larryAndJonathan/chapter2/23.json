@@ -10,8 +10,6 @@
     { "type": "internalThought", "content": "I need to find that again tomorrow. And the day after.", "condition": "ep2_close_think_team" },
     { "type": "internalThought", "content": "Larry Jr. asked 'how do you feel' before I knew. He always does that. He asked it about school too on the first day. He doesn't ask what happened — he asks how it felt. That's a different question.", "condition": "ep2_close_think_jr" },
     { "type": "internalThought", "content": "I don't know what's going to happen. I just know today I ran a route right and my name was on a list and none of that existed two weeks ago.", "condition": "ep2_close_quiet" },
-    { "type": "internalThought", "content": "Down the hall Larry Jr.'s light was off. Mr. Cole's too." },
-    { "type": "internalThought", "content": "The house was enormous and quiet and mine." },
-    { "type": "internalThought", "content": "First game is in three weeks." }
+    { "type": "internalThought", "content": "Practice started Monday. The second week was different." }
   ]
 }

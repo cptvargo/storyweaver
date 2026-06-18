@@ -1,0 +1,20 @@
+{
+  "page": 33,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "what am i supposed to do j" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "go to the steps next thursday. which you're already doing. then after the steps TALK TO HER. like an actual conversation where you say what you're actually thinking" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "we were talking" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "no you were answering her questions. that's not the same thing. when's the last time you asked HER something" },
+    { "type": "internalThought", "content": "He was right. I'd been responding to everything she said and not once had I led with something of my own." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "aight" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "aight?? that's it??" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i heard you" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "ok. good. ask her something real next thursday. not about class. not about the bus. something you actually want to know." },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "like what" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh I don't know she's YOUR girl. what do you actually want to know about her" },
+    { "type": "internalThought", "content": "I sat with that for a while. I didn't answer it on AIM. But I sat with it." }
+  ]
+}

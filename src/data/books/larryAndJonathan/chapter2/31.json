@@ -1,0 +1,26 @@
+{
+  "page": 31,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, AIM open, late Thursday night" },
+    { "type": "internalThought", "content": "9:44pm. Jonathan was online before I even opened the laptop." },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro where were you after practice" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "front steps" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "....with who" },
+    { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "nobody" },
+    { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh you typing slow. you always type fast. something happened" },
+    { "type": "internalThought", "content": "He knew. He always knew before I said it. I didn't know how he did that." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is waiting.",
+      "options": [
+        { "id": "told_j_everything_ep2", "label": "\"Crystal was on the steps. We talked for almost an hour.\"", "goto": 32 },
+        { "id": "told_j_some_ep2", "label": "\"I talked to Crystal for a little while.\"", "goto": 32 },
+        { "id": "told_j_nothing_ep2", "label": "\"Just sitting outside. Needed some air.\"", "goto": 32 },
+        { "id": "told_j_quiet_ep2", "label": "\"...\"", "goto": 32 }
+      ]
+    }
+  ]
+}

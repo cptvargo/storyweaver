@@ -1,0 +1,19 @@
+{
+  "page": 28,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The second 34 came at 5:33. She started packing her bag — the book, a folded schedule, a pen she clicked three times before putting it away." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "This is me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "She stood up and the schedule fell out of her bag. We both reached for it at the same time." },
+    { "type": "internalThought", "content": "My hand got there first but she was already coming down and her fingers landed on mine before either of us pulled back." },
+    { "type": "internalThought", "content": "A half-second. Maybe less. Neither of us moved." },
+    { "type": "internalThought", "content": "Then she took the schedule and I let it go and she said 'thanks' quiet, not loud, the kind of quiet that means something else was in the word with it." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next Thursday?" },
+    { "type": "internalThought", "content": "Like it was a question that already knew its answer." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "She got on the bus. The doors closed. The bus pulled away. I stood on the curb and counted to ten before I let myself feel it." }
+  ]
+}

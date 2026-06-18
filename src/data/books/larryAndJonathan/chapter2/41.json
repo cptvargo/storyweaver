@@ -1,0 +1,24 @@
+{
+  "page": 41,
+  "chapter": 2,
+  "chapterTitle": "Two Weeks",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "What about after? When you're done with school." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know yet." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You should. You're already the kind of person who figures things out." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What does that mean?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Most people wait until something tells them who they are. You're not waiting. You went and tried out. You wrote things down in class. You sat on the steps." },
+    { "type": "internalThought", "content": "She said the steps like it was a small brave thing. Maybe it was." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What about you? After senior year." },
+    { "type": "internalThought", "content": "That was the question Jonathan told me to ask. Something I actually wanted to know." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "That's the first time you've asked me something." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I don't know yet. My parents want one thing. I want something close to it but not exactly it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What's the difference between what they want and what you want?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "About five hundred miles." },
+    { "type": "internalThought", "content": "She smiled when she said it. Like it was a thought she'd had a hundred times and had finally found the words for it." },
+    { "type": "internalThought", "content": "The bus came. The 34. She didn't move right away." },
+    { "type": "internalThought", "content": "Then she did." }
+  ]
+}
