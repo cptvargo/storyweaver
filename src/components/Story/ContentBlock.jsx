@@ -150,6 +150,45 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
     case 'consequence':
       return <ConsequenceBlock block={block} onConsequence={onConsequence} />
 
+    case 'episodeStats': {
+      return (
+        <div className="block block--episode-stats">
+          <div className="episode-stats__header">
+            <span className="episode-stats__rule" />
+            <span className="episode-stats__title">{block.title}</span>
+            <span className="episode-stats__rule" />
+          </div>
+          <div className="episode-stats__rows">
+            {block.stats.map((stat, i) => {
+              const chosen = stat.options.find(opt => hasTag?.(opt.condition))
+              if (!chosen) return null
+              return (
+                <div key={i} className="episode-stats__row">
+                  <span className="episode-stats__label">{stat.label}</span>
+                  <span className="episode-stats__value">{chosen.value}</span>
+                </div>
+              )
+            })}
+          </div>
+        </div>
+      )
+    }
+
+    case 'nextEpisode': {
+      return (
+        <div className="block block--next-episode">
+          <div className="next-episode__header">
+            <span className="next-episode__eyebrow">On the Next Episode</span>
+          </div>
+          <div className="next-episode__scenes">
+            {block.scenes.map((scene, i) => (
+              <p key={i} className="next-episode__scene">{scene.text}</p>
+            ))}
+          </div>
+        </div>
+      )
+    }
+
     default:
       return <p className="block">{block.content}</p>
   }

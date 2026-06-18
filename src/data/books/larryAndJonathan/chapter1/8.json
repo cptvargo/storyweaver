@@ -12,10 +12,26 @@
     { "type": "dialogue", "speaker": "Jonathan", "content": "With notes. I told you I was going to be ready." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — what room are you?" },
     { "type": "dialogue", "speaker": "Larry", "content": "214." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm 212. Same hall, different side. Meet back here after first period." },
-    { "type": "dialogue", "speaker": "Larry", "content": "And if one of us gets lost?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Then one of us needs to work on that. Room 214 — go." },
-    { "type": "internalThought", "content": "He was already walking. Two people fell into step beside him naturally, like he generated his own gravity." },
-    { "type": "internalThought", "content": "I went the other way." }
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm in there too. Ms. Barrett. Come on." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Find a seat. We start in two." },
+    { "type": "internalThought", "content": "Middle row. Two seats in from the window. A girl was already there — natural hair, notebook already open. She looked up when I sat down." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You're new." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Maya." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Larry." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Alright. Before we get into anything — first day tradition. Name and one thing about yourself. Not your GPA, not your sport. Something true." },
+    { "type": "internalThought", "content": "Eight kids before me. One said he played drums. One said she wanted to go to Howard. Someone said they liked hiking. Ms. Barrett said 'good' after each one, same tone, same beat." },
+    { "type": "internalThought", "content": "Jonathan said 'Jonathan Michaels, wide receiver' and half the room turned. Ms. Barrett said 'one thing' without missing a beat. The class laughed. He sat down grinning." },
+    { "type": "internalThought", "content": "Then Ms. Barrett looked at me." },
+    {
+      "type": "choice",
+      "prompt": "The room is waiting. So is Ms. Barrett.",
+      "options": [
+        { "id": "intro_math", "label": "\"Larry. I'm good at math.\"", "goto": 9 },
+        { "id": "intro_lied", "label": "\"Larry. Wide receiver.\"", "goto": 9 },
+        { "id": "intro_name_only", "label": "\"Larry.\" Just that.", "goto": 9 },
+        { "id": "intro_froze", "label": "...", "goto": 9 }
+      ]
+    }
   ]
 }

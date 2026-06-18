@@ -9,6 +9,57 @@
     { "type": "internalThought", "content": "He said 'I'm glad you're here' like it cost him something. For Jonathan, it did.", "condition": "ep1_close_j" },
     { "type": "internalThought", "content": "Down the hall Larry Jr.'s light was off. Mr. Cole's too." },
     { "type": "internalThought", "content": "The house was enormous and quiet and mine." },
-    { "type": "internalThought", "content": "Two weeks until tryouts." }
+    { "type": "internalThought", "content": "Two weeks until tryouts." },
+    {
+      "type": "episodeStats",
+      "title": "Your Episode 1",
+      "stats": [
+        {
+          "label": "Crystal",
+          "options": [
+            { "condition": "crystal_looked_back_ep1", "value": "You looked back." },
+            { "condition": "crystal_kept_going_ep1", "value": "You kept walking." },
+            { "condition": "crystal_almost_ep1", "value": "You almost looked back." },
+            { "condition": "crystal_quiet_ep1", "value": "You said nothing." }
+          ]
+        },
+        {
+          "label": "Daniel",
+          "options": [
+            { "condition": "said_something", "value": "\"Figure it out.\"" },
+            { "condition": "name_dropped", "value": "You used Jonathan's name." },
+            { "condition": "laughed_it_off", "value": "You made him laugh." },
+            { "condition": "stayed_quiet", "value": "You said nothing." }
+          ]
+        },
+        {
+          "label": "Lunch",
+          "options": [
+            { "condition": "sat_with_athletes", "value": "Jonathan's table." },
+            { "condition": "sat_with_maya", "value": "Maya's table." },
+            { "condition": "sat_elsewhere", "value": "Found your own table." },
+            { "condition": "stood_too_long", "value": "You stood too long." }
+          ]
+        },
+        {
+          "label": "Tonight",
+          "options": [
+            { "condition": "ep1_close_crystal", "value": "You were thinking about her." },
+            { "condition": "ep1_close_daniel", "value": "You were thinking about Daniel." },
+            { "condition": "ep1_close_j", "value": "You were thinking about Jonathan." },
+            { "condition": "ep1_close_quiet", "value": "You just closed it." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nextEpisode",
+      "scenes": [
+        { "text": "\"Aye — I found out her name.\"" },
+        { "text": "Coach Briggs watching the forty-yard dash. Not the clock. The form." },
+        { "text": "\"Two weeks. That's all you get. Make them count.\"" },
+        { "text": "Daniel in the hallway. A different kind of quiet." }
+      ]
+    }
   ]
 }

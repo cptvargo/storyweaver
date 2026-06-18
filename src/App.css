@@ -1726,6 +1726,112 @@ body {
   font-style: italic;
 }
 
+/* ─── Episode Stats Block ────────────────────────────────────── */
+.block--episode-stats {
+  margin: 40px 0 32px;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 14px;
+  overflow: hidden;
+  background: rgba(201, 168, 76, 0.04);
+}
+
+.episode-stats__header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 18px 20px 16px;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+}
+
+.episode-stats__rule {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201, 168, 76, 0.3), transparent);
+}
+
+.episode-stats__title {
+  font-size: 0.68rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.episode-stats__rows {
+  display: flex;
+  flex-direction: column;
+}
+
+.episode-stats__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.08);
+  gap: 16px;
+}
+
+.episode-stats__row:last-child { border-bottom: none; }
+
+.episode-stats__label {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  flex-shrink: 0;
+}
+
+.episode-stats__value {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--gold-light);
+  text-align: right;
+}
+
+/* ─── Next Episode Block ─────────────────────────────────────── */
+.block--next-episode {
+  margin: 32px 0 8px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: rgba(13, 11, 24, 0.8);
+  border: 1px solid rgba(150, 100, 210, 0.25);
+}
+
+.next-episode__header {
+  padding: 16px 20px 14px;
+  border-bottom: 1px solid rgba(150, 100, 210, 0.15);
+  text-align: center;
+}
+
+.next-episode__eyebrow {
+  font-size: 0.68rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--purple-soft);
+  font-weight: 600;
+}
+
+.next-episode__scenes {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+}
+
+.next-episode__scene {
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: rgba(210, 190, 240, 0.75);
+  font-size: 0.95rem;
+  line-height: 1.7;
+  padding: 12px 20px;
+  border-bottom: 1px solid rgba(150, 100, 210, 0.08);
+  margin: 0;
+}
+
+.next-episode__scene:last-child { border-bottom: none; }
+
 /* ─── Responsive ─────────────────────────────────────────────── */
 @media (max-width: 480px) {
   .option-grid { grid-template-columns: 1fr; }
