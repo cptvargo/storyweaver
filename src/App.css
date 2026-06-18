@@ -1214,6 +1214,8 @@ body {
   flex-shrink: 0;
   border: 2px solid var(--border);
   margin-top: 2px;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 
 .dialogue__body {
@@ -1376,6 +1378,8 @@ body {
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 
 .message__bubble-group {
