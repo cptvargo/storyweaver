@@ -4,7 +4,8 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "3:15pm. The field was bigger than I expected. Sixty kids maybe, all of them looking like they'd been here before." },
+    { "type": "embed", "src": "/ep2_tryouts.png" },
+    { "type": "internalThought", "content": "The field was bigger than I expected. Sixty kids maybe, all of them looking like they'd been here before." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — stay close to me until Coach calls the groups. After that you're on your own." },
     { "type": "dialogue", "speaker": "Larry", "content": "That's comforting." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "I'm serious. Out here it's just you and the clock. Nobody can help you run." },

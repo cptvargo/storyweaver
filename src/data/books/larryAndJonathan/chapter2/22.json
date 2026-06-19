@@ -4,7 +4,8 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "9:31pm. First practice done. Every muscle in my legs had an opinion." },
+    { "type": "embed", "src": "/ep2_aim_night.png" },
+    { "type": "internalThought", "content": "First practice done. Every muscle in my legs had an opinion." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh first practice done. we on the team fr fr no cap" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "yeah" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "you ran that last route different. coach saw that" },

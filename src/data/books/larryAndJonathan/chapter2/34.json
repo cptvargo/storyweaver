@@ -4,8 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Friday. English class. Third period." },
-    { "type": "internalThought", "content": "Ms. Barrett was mid-sentence when Crystal raised her hand." },
     { "type": "dialogue", "speaker": "Crystal", "content": "Can I — sorry. I want to go back to something from yesterday. About the narrator not being able to ask for things." },
     { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Go ahead." },
     { "type": "dialogue", "speaker": "Crystal", "content": "I think he can. I think he knows exactly what he wants. He just decides not to want it out loud. Because wanting something out loud means it might not happen." },

@@ -4,13 +4,14 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "9:44pm. Jonathan was online before I even opened the laptop." },
+    { "type": "internalThought", "content": "Jonathan was online before I even opened the laptop." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro where were you after practice" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "front steps" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "....with who" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "nobody" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bruh you typing slow. you always type fast. something happened" },
     { "type": "internalThought", "content": "He knew. He always knew before I said it. I didn't know how he did that." },
+    { "type": "consequence", "character": "Jonathan", "text": "already knows." },
     {
       "type": "choice",
       "prompt": "Jonathan is waiting.",

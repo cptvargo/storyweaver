@@ -5,8 +5,6 @@
   "bookId": "larryAndJonathan",
   "blocks": [
     { "type": "internalThought", "content": "Thursday came back around the way Thursdays do — too slow until Monday and then suddenly it's already Wednesday night and you're still not ready." },
-    { "type": "internalThought", "content": "I walked out after practice and she was there. On the steps. Same spot. A different book this time — thicker, worn at the spine." },
-    { "type": "internalThought", "content": "She looked up before I reached the door. She always did that." },
     { "type": "dialogue", "speaker": "Crystal", "content": "You're late today." },
     { "type": "dialogue", "speaker": "Larry", "content": "Coach ran extra drills." },
     { "type": "dialogue", "speaker": "Crystal", "content": "How'd it go?" },

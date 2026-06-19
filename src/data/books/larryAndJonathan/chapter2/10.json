@@ -8,6 +8,7 @@
     { "type": "internalThought", "content": "There were maybe twelve of us. I ended up paired with a sophomore named Trey who looked like he ran track. He probably did." },
     { "type": "internalThought", "content": "Coach Briggs stood at the finish line. Not the start. He wanted to see who you were at the end, not the beginning." },
     { "type": "dialogue", "speaker": "Coach Briggs", "content": "Go." },
+    { "type": "consequence", "character": "Coach Briggs", "text": "noticed." },
     {
       "type": "choice",
       "prompt": "The forty yards are right in front of you.",

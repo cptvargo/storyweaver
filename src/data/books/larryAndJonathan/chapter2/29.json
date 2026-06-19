@@ -6,6 +6,7 @@
   "blocks": [
     { "type": "internalThought", "content": "I walked home the long way. Not on purpose. Just — the shorter way felt like it would get me home too fast." },
     { "type": "internalThought", "content": "It was half a second. I'd been running routes for two weeks where half a second is everything. I knew what half a second felt like. That wasn't nothing." },
+    { "type": "consequence", "character": "Crystal", "text": "noticed." },
     {
       "type": "choice",
       "prompt": "The whole walk home.",

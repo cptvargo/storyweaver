@@ -4,6 +4,10 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "noticed.", "condition": "asked_number_ep2" },
+    { "type": "consequence", "character": "Crystal", "text": "noticed you stopped.", "condition": "almost_number_ep2" },
+    { "type": "consequence", "character": "Jonathan", "text": "noticed.", "condition": "waited_ep2" },
+    { "type": "consequence", "character": "Jonathan", "text": "noticed.", "condition": "didnt_ep2" },
     { "type": "internalThought", "content": "She stopped. Looked at me like she was making sure she'd heard right. Then she took a pen out of her bag and wrote it on the inside cover of her book, tore the corner off, and handed it to me. Her handwriting was careful. Even the numbers.", "condition": "asked_number_ep2" },
     { "type": "dialogue", "speaker": "Crystal", "content": "Text me when you're heading to the steps. I'll know to actually come on time.", "condition": "asked_number_ep2" },
     { "type": "internalThought", "content": "I held the piece of paper and she got on the bus and I stood on the curb and I thought: that was it. That's all it was.", "condition": "asked_number_ep2" },

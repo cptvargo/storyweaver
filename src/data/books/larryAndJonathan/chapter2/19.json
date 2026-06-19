@@ -4,6 +4,8 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "noticed.", "condition": "tell_crystal_ep2" },
+    { "type": "consequence", "character": "Crystal", "text": "noticed.", "condition": "wait_crystal_ep2" },
     { "type": "dialogue", "speaker": "Larry", "content": "I made the team.", "condition": "tell_crystal_ep2" },
     { "type": "internalThought", "content": "She turned around. Slow, like she wasn't surprised he was there.", "condition": "tell_crystal_ep2" },
     { "type": "dialogue", "speaker": "Crystal", "content": "I saw the list this morning.", "condition": "tell_crystal_ep2" },

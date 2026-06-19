@@ -10,6 +10,7 @@
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i know" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "no i don't think you do. i'm saying this as your friend not as someone trying to get you hyped. she's not gonna be there forever. and the version of you that didn't ask is the version that's gonna think about it forever after." },
     { "type": "internalThought", "content": "I sat with that for a long time before I answered." },
+    { "type": "consequence", "character": "Jonathan", "text": "means it." },
     {
       "type": "choice",
       "prompt": "Jonathan is being real right now. More real than usual.",

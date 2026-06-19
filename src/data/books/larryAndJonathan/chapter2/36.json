@@ -4,7 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Saturday. Weekend practice. Coach ran us for ninety minutes before we broke into groups." },
     { "type": "dialogue", "speaker": "Coach Briggs", "content": "Full contact drill. Nobody's protecting you out there on game day. Don't practice soft." },
     { "type": "internalThought", "content": "Marcus lined up against me on the first rep. He had six inches and forty pounds on me and he knew exactly what he was doing with both." },
     { "type": "internalThought", "content": "He hit me at the line and I went down clean." },
