@@ -4,7 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "embed", "src": "/ep2_tryouts.png", "alt": "Lincoln High football field, tryouts" },
     { "type": "internalThought", "content": "3:15pm. The field was bigger than I expected. Sixty kids maybe, all of them looking like they'd been here before." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — stay close to me until Coach calls the groups. After that you're on your own." },
     { "type": "dialogue", "speaker": "Larry", "content": "That's comforting." },

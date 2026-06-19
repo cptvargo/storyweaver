@@ -4,7 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, AIM, Thursday night second week" },
     { "type": "internalThought", "content": "10:02pm." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "ok TALK. right now. i've been waiting since 5pm" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i asked her something" },

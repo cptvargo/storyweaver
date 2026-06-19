@@ -4,8 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Two weeks felt like a long time on the last night of Episode 1. It wasn't." },
-    { "type": "internalThought", "content": "Tryouts were Thursday. It was Monday." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. You coming or not." },
     { "type": "dialogue", "speaker": "Larry", "content": "I didn't say I wasn't." },
     { "type": "dialogue", "speaker": "Jonathan", "content": "You didn't say you were either. That's the same thing." },

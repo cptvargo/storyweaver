@@ -4,7 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, AIM open, late Thursday night" },
     { "type": "internalThought", "content": "9:44pm. Jonathan was online before I even opened the laptop." },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "bro where were you after practice" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "front steps" },

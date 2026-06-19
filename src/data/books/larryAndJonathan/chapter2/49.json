@@ -4,7 +4,6 @@
   "chapterTitle": "Two Weeks",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "embed", "src": "/ep2_aim_night.png", "alt": "Larry at his desk, final AIM of Episode 2" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "ok. i need you to type two letters. y and es.", "condition": "asked_number_ep2" },
     { "type": "message", "platform": "AIM", "sender": "LJ_Jenkins05", "recipient": "JMoss_WR1", "content": "i got it", "condition": "asked_number_ep2" },
     { "type": "message", "platform": "AIM", "sender": "JMoss_WR1", "recipient": "LJ_Jenkins05", "content": "YOU GOT IT?? THE NUMBER?? BRUH", "condition": "asked_number_ep2" },
