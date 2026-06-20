@@ -56,10 +56,10 @@
     {
       "type": "nextEpisode",
       "scenes": [
-        { "text": "First game. The field looks different under the lights." },
-        { "text": "\"She asked me where you were.\"" },
         { "text": "Daniel Snyder. A different hallway. A different kind of quiet." },
-        { "text": "\"You can't just keep showing up to the steps, Larry.\"" }
+        { "text": "Mr. Cole's car. The conversation you didn't expect." },
+        { "text": "She texted while you were still thinking about what happened." },
+        { "text": "The steps on a Thursday. Something beginning but neither one naming it." }
       ]
     }
   ]

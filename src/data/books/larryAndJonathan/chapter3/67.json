@@ -6,12 +6,11 @@
   "blocks": [
     {
       "type": "nextEpisode",
-      "heading": "Episode 4 — Coming",
-      "lines": [
-        "Daniel went quiet. Quiet moves differently than loud.",
-        "Crystal got a phone call she wasn't expecting.",
-        "Jonathan's about to have to decide something he can't think his way through.",
-        "And something from far away is about to walk back into everything."
+      "scenes": [
+        { "text": "Daniel went quiet. Quiet moves differently than loud." },
+        { "text": "Crystal got a phone call she wasn't expecting." },
+        { "text": "Jonathan's about to have to decide something he can't think his way through." },
+        { "text": "And something from far away is about to walk back into everything." }
       ]
     }
   ]

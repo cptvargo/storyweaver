@@ -155,17 +155,17 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
         <div className="block block--episode-stats">
           <div className="episode-stats__header">
             <span className="episode-stats__rule" />
-            <span className="episode-stats__title">{block.title}</span>
+            <span className="episode-stats__title">{block.title ?? block.heading}</span>
             <span className="episode-stats__rule" />
           </div>
           <div className="episode-stats__rows">
             {block.stats.map((stat, i) => {
-              const chosen = stat.options.find(opt => hasTag?.(opt.condition))
-              if (!chosen) return null
+              const value = stat.value ?? stat.options?.find(opt => hasTag?.(opt.condition))?.value
+              if (!value) return null
               return (
                 <div key={i} className="episode-stats__row">
                   <span className="episode-stats__label">{stat.label}</span>
-                  <span className="episode-stats__value">{chosen.value}</span>
+                  <span className="episode-stats__value">{value}</span>
                 </div>
               )
             })}
