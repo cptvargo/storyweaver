@@ -1,0 +1,28 @@
+{
+  "page": 53,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "okay I have to tell you something too", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "what", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Stacy DMed me.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "...", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "STACY STACY", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "yes Stacy Stacy. she said she finished her paper and it was good and she wanted to say thanks.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "she DMed you to say thanks", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "yes", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "nobody does that J", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "what did you say back", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I said 'what grade did you get'", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lmao that's your move", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "she said A. she got the A.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "you called it", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. I told her I called it.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "and then what", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "she said 'you're kinda funny for a sophomore'", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "jonathannnn", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know bro. I know.", "platform": "AIM" }
+  ]
+}

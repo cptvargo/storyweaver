@@ -1,0 +1,25 @@
+{
+  "page": 49,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "She had to go. It came up the way it always did — her bus, the time, a phone notification she glanced at and didn't react to but it still meant something." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I should get going." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "She stood up. Adjusted her bag strap. And then she did the thing she'd been doing more of lately — she didn't rush the goodbye." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm really glad I asked you to the movies." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm really glad you did." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "This whole week felt different." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. It did." },
+    { "type": "internalThought", "content": "She was on the step below me now, which put our faces close to even. The city noise was back — a horn somewhere, a bus door hissing. But right here on the steps it was quiet." },
+    { "type": "internalThought", "content": "She looked at me for a moment. Longer than a goodbye look." },
+    { "type": "choice", "prompt": "She's right here. The steps are empty. She's looking at you like she's waiting for you to decide something.",
+      "options": [
+        { "id": "ep3_steps_kiss", "label": "I lean forward. Slowly. I let her close it if she wants to.", "goto": 50 },
+        { "id": "ep3_steps_almost", "label": "I almost do. Something stops me. I say 'same time next week?' instead.", "goto": 50 },
+        { "id": "ep3_steps_said_it", "label": "\"I really like you.\" I say it before I can make it smaller.", "goto": 50 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 38,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After practice, Coach called it. I was packing up my bag at the sideline when I heard Jonathan." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Hey — you writing something about the team?" },
+    { "type": "internalThought", "content": "I looked up. He was standing at the bottom of the bleachers, not quite climbing them, just — calling up. She looked down from her notebook." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "No. I'm writing about how practice works. The rhythms of it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "The rhythms." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "Yeah. Like — when a play clicks and when it doesn't. What changes in the body language. It's for a writing class." },
+    { "type": "internalThought", "content": "Jonathan looked at me. I raised my eyebrows exactly once. He ignored me." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You go here?" },
+    { "type": "dialogue", "speaker": "Stacy", "content": "Yeah. Junior. You?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Sophomore. I'm Jonathan." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "Stacy." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What was your grade on the last one?" },
+    { "type": "dialogue", "speaker": "Stacy", "content": "The last — writing assignment?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "A minus." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You can probably get the A on this one. Today was a good practice." },
+    { "type": "internalThought", "content": "She smiled. Not like she was trying to — like she couldn't help it." },
+    { "type": "internalThought", "content": "I stood at the sideline with my bag on my shoulder and watched Jonathan do exactly what he told me not to do. The difference was — he wasn't scared. Not even a little." }
+  ]
+}

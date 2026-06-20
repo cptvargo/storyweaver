@@ -1,0 +1,27 @@
+{
+  "page": 31,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "noticed.", "condition": "ep3_held_her_hand" },
+    { "type": "consequence", "character": "Crystal", "text": "noticed you almost did.", "condition": "ep3_almost_hand" },
+    { "type": "internalThought", "content": "She squeezed. Once. Didn't look at me. Kept her eyes on the screen like she was watching the movie, but her hand was in mine and we both knew it.", "condition": "ep3_held_her_hand" },
+    { "type": "internalThought", "content": "I didn't breathe normally for about ten minutes. The movie played and I couldn't have told you what happened in it.", "condition": "ep3_held_her_hand" },
+    { "type": "internalThought", "content": "Her hand stayed open for a while. Then she folded it into her lap. Nothing in her face changed. The movie went on.", "condition": "ep3_almost_hand" },
+    { "type": "internalThought", "content": "I stayed very still for the next twenty minutes and thought about what it would have felt like.", "condition": "ep3_almost_hand" },
+    { "type": "internalThought", "content": "When the credits rolled she turned to me.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "So?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "That was actually really good.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Right?! I knew you'd like it. You have the same look on your face that I had when I first saw the trailer.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What look is that?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Like you didn't expect it to hit like that.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Saturday practice. Coach ran us hard. Tempo drills, full speed, no breaks.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Post route. Full speed. No hesitation at the break.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I ran it clean. And again. And again. At some point during the third rep I stopped thinking about anything — not Crystal, not Daniel, not the hallway — and it just worked.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You see that?", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's it. That's what I've been waiting for.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I couldn't explain what had shifted. Maybe it was the car with Mr. Cole. Maybe it was just a Saturday with nothing else in the way.", "conditionNot": "asked_number_ep2" }
+  ]
+}

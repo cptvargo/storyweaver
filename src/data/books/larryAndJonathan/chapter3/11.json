@@ -1,0 +1,18 @@
+{
+  "page": 11,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He saw you? Real talk?", "condition": "ep3_told_j_daniel" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Right when he was turning to walk away.", "condition": "ep3_told_j_daniel" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight. Keep your head up in the hallways this week. I'll know if something's off.", "condition": "ep3_told_j_daniel" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He doesn't let things go. That's his problem — he holds everything like it's a debt.", "condition": "ep3_let_it_go" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You saw the whole thing though. You good?", "condition": "ep3_quiet_daniel" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah.", "condition": "ep3_quiet_daniel" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I feel it. I just don't let it live on my face.", "condition": "ep3_ask_j_how" },
+    { "type": "dialogue", "speaker": "Larry", "content": "How?", "condition": "ep3_ask_j_how" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Same way you run a route. You practice keeping the fear on the inside until it turns into something else.", "condition": "ep3_ask_j_how" },
+    { "type": "internalThought", "content": "I thought about that walking to practice. The fear on the inside until it turns into something else." }
+  ]
+}

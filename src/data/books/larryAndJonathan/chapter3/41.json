@@ -1,0 +1,20 @@
+{
+  "page": 41,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "I wrote the thing in my journal.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Which thing", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "The messy version thing. I put it at the top of a new page.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lol you really did it", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I said I would. I didn't tell you that to be polite.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't know what to say back to that so I just read it twice.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Also thank you for Friday. That was a good decision.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Whose? Yours or mine.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Mine for asking. Yours for saying yes.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Easy call.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": ":)", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I put my phone in my pocket and walked the rest of the way to school with it still warm in my hand. The week had this different weight to it now — not heavier. More like real." }
+  ]
+}

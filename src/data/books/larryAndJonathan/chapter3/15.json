@@ -1,0 +1,23 @@
+{
+  "page": 15,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep3_side_exit.png" },
+    { "type": "internalThought", "content": "Thursday after school. Side exit near the gym — the one I'd been using since the first week because it let me avoid the main crowd." },
+    { "type": "internalThought", "content": "I came through the door and he was already there. Not alone — two guys I didn't recognize standing behind him like punctuation." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Thought you'd sneak out the side." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not sneaking anywhere." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Then why you always taking the long way?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's not the long way. It's just a way." },
+    { "type": "internalThought", "content": "The two guys behind him didn't say anything. They didn't need to. They were there to make the number different." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You were watching when I talked to Michaels. Like you had something to say." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say anything." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You didn't have to. You had that look." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What look." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Like you think you're better than me because you run with Michaels." },
+    { "type": "internalThought", "content": "The street behind me was empty. Jonathan was still inside at practice. The two guys hadn't moved." },
+    { "type": "consequence", "character": "Daniel", "text": "is not done." }
+  ]
+}

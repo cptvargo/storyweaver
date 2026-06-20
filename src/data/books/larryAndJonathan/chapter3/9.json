@@ -1,0 +1,20 @@
+{
+  "page": 9,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday morning. The hallway near the gym. I heard it before I saw it." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Aye Michaels." },
+    { "type": "internalThought", "content": "Jonathan didn't stop walking. He slowed down — just enough to let Daniel think he had his attention." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You don't hear me?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I hear you." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Then turn around when I'm talking to you." },
+    { "type": "internalThought", "content": "Jonathan stopped. Turned around. And I watched something happen that I'd never seen before — he looked at Daniel the way you look at something that doesn't understand what it's standing next to." },
+    { "type": "internalThought", "content": "Not angry. Not threatened. Genuinely amused, in a way that was somehow worse than either of those." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh." },
+    { "type": "internalThought", "content": "That was it. One word. And a look that said: I've already seen how this ends and it doesn't end well for you. I promise on God you don't want this." },
+    { "type": "internalThought", "content": "Daniel held it for a second. Then he laughed — the kind that doesn't reach the eyes — and walked off like he'd been the one to decide it was over." },
+    { "type": "consequence", "character": "Daniel", "text": "noticed." }
+  ]
+}

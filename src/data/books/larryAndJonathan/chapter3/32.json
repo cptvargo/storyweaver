@@ -1,0 +1,26 @@
+{
+  "page": 32,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "We walked out into the night air. The street was still going — a Friday crowd, people outside restaurants, taxis. She walked a half step closer than she had going in.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What did you think about the ending?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I thought it was real. Like — it didn't wrap up. Things don't usually wrap up.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Exactly. I hate it when movies tie everything into a bow. Like no. That's not how anything works.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. The messy version is closer to true.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Messy version is closer to true.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She said it back to me slow, like she was tasting the sentence.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm keeping that. I'm writing that down when I get home.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You keep a journal?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Since seventh grade. You don't?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "No. I should probably start.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You should. Tonight would have been a good first page.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "After practice Jonathan pulled me aside. There was a girl in the bleachers with a notebook — same spot she'd been last week.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She's back.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I see her.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "The paper's done though. She got the A.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Then she's not here for the paper.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Jonathan looked at her again. That quiet thing he did when something registered that he wasn't ready to name.", "conditionNot": "asked_number_ep2" }
+  ]
+}

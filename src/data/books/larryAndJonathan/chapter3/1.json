@@ -1,0 +1,18 @@
+{
+  "page": 1,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The week after the last Thursday felt different. Like something had been set in motion and I was waiting to find out what it was.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She texted Saturday morning. I'd been staring at her number since Friday night trying to decide if I was going to text first.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "how was the game", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She knew about the game. She'd been paying attention.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "we won. I didn't play but I was on the sideline", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "I know. I saw you.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She was there. She came to the game and didn't say anything about it and then texted me after. I read it three times.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Monday. English class. Same seat. The week started the same way it always did — the only difference was my phone.", "condition": "almost_number_ep2" },
+    { "type": "internalThought", "content": "Monday. English class. Same seat. The week started the same way it always did.", "condition": "waited_ep2" },
+    { "type": "internalThought", "content": "Monday. English class. Same seat. The week started the same way it always did.", "condition": "didnt_ep2" }
+  ]
+}

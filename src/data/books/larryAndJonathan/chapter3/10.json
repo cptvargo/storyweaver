@@ -1,0 +1,29 @@
+{
+  "page": 10,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "I'd been there the whole time. Standing a few feet back. Daniel had seen me." },
+    { "type": "internalThought", "content": "Not when he was focused on Jonathan. But after — when he turned to walk away. His eyes cut to me for half a second. Filing something." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. You're not bothered by that at all?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "By what? That?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "He pressed you in the middle of the hallway." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He tried. There's a difference. Pressing somebody means you had a chance of getting somewhere." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He's not gonna let it go." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He can hold on to it as long as he wants. Doesn't change anything." },
+    { "type": "internalThought", "content": "In Episode 1 Daniel had pressed ME in that hallway and I'd had to think about what to do. I'd had four choices and a racing heart. Jonathan hadn't thought for a single second." },
+    { "type": "internalThought", "content": "I didn't know yet whether that was something you built or something you were born with." },
+    {
+      "type": "choice",
+      "prompt": "Daniel clocked you watching the whole thing.",
+      "options": [
+        { "id": "ep3_told_j_daniel", "label": "\"He saw me. He's going to come back to me instead.\"", "goto": 11 },
+        { "id": "ep3_let_it_go", "label": "\"You're probably right. He'll find something else.\"", "goto": 11 },
+        { "id": "ep3_quiet_daniel", "label": "Say nothing. File it.", "goto": 11 },
+        { "id": "ep3_ask_j_how", "label": "\"How do you do that? Just — not feel it?\"", "goto": 11 }
+      ]
+    }
+  ]
+}

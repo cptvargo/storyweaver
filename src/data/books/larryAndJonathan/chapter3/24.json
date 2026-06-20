@@ -1,0 +1,26 @@
+{
+  "page": 24,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh where did you go after school. I looked for you at the side exit.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Daniel was there. With two guys.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "WHAT", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Mr. Cole pulled up. It was fine.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "bro I literally told you not to take the side exit this week", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you know and you still went", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't gonna let him think I was scared of the side of the building", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "deadass?? the side of the building wasn't the problem", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know. Mr. Cole talked to me about it.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "what did he say", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "That I already know what to do. I just have to trust it when my heart's going.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "...", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "okay that's actually cold", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lol I know", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you good though? fr", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. I think so.", "platform": "AIM" },
+    { "type": "internalThought", "content": "And for the first time since Diego's warning, I actually meant it." }
+  ]
+}

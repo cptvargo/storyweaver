@@ -1,0 +1,26 @@
+{
+  "page": 30,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep3_theater.png", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Somewhere in the middle of the movie, her arm moved. I don't know when exactly — the kind of thing that happens slow enough you don't catch it. Her elbow was on the armrest. Then her hand was open, facing up, like she wasn't thinking about it.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Maybe she wasn't. Maybe she was. I looked at the screen for a while before I looked at her hand again.", "condition": "asked_number_ep2" },
+    { "type": "choice", "prompt": "Her hand is right there. Open. The movie's dark and no one's watching anything but the screen.", "condition": "asked_number_ep2",
+      "options": [
+        { "id": "ep3_held_her_hand", "label": "I put my hand in hers.", "goto": 31 },
+        { "id": "ep3_almost_hand", "label": "I start to move — then the moment closes. I look back at the screen.", "goto": 31 }
+      ]
+    },
+    { "type": "internalThought", "content": "Saturday morning. Practice in two hours.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I lay in bed thinking about the week. The car. The side exit. The route that finally clicked on Wednesday. The things Mr. Cole said.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I thought about Crystal in the hallway Friday morning. The nod. The half-second before we both looked away.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "There were versions of this week where that hallway moment had a text thread behind it. Where Friday night meant something. I could see it — the shape of what that week would have felt like. I just wasn't in it.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I got up. Made breakfast. Didn't sit with it long enough for it to become something.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you up? practice in two hours. eat something.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "already up", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you good?", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "yeah. let's just run.", "platform": "AIM", "conditionNot": "asked_number_ep2" }
+  ]
+}

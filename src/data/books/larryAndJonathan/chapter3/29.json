@@ -1,0 +1,28 @@
+{
+  "page": 29,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "How's your week been since Thursday?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Better. Calmer.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Did you talk to anyone about it? About Daniel?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Mr. Cole talked to me in the car. He said some things that — I don't know. Helped me get it in order.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What kind of things?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Like — I already know what to do. I just have to trust it when things are actually happening. Not think my way out of it after.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "That's hard.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. It is.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I think you do though. Trust yourself. More than you think you do.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I looked at her.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Because you didn't fight him. There were three of them and you didn't swing. That's not weakness. That's knowing something.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "The previews started. She looked back at the screen but I stayed looking at her for a second too long.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Friday night. Jonathan on AIM.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "what'd you do today", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "nothing really. hung with Diego for a bit.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "that's it?", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "yeah.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "...okay", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "He knew something was off. I could feel it through the screen. He wasn't going to ask directly — that wasn't how Jonathan operated. He'd just let the silence sit until I said something.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't say anything. Friday turned into Saturday without anything happening that was worth saying.", "conditionNot": "asked_number_ep2" }
+  ]
+}

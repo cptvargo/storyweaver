@@ -1,0 +1,17 @@
+{
+  "page": 2,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "you were at the game?", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "I said I might come to one.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "you said nobody ever made it feel like something you should see", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "exactly.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I held the phone for a long time after that.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "I want you all to think about a moment where you knew something was about to change. Before it happened. That anticipation — that's what we're working with today." },
+    { "type": "internalThought", "content": "I already knew what I was thinking about." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Don't overthink it. Write what you felt, not what you knew. Those are different things." },
+    { "type": "internalThought", "content": "Crystal was two rows over. I didn't look. I was learning not to look too fast." }
+  ]
+}

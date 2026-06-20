@@ -1,0 +1,24 @@
+{
+  "page": 50,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "will carry this.", "condition": "ep3_steps_kiss" },
+    { "type": "consequence", "character": "Crystal", "text": "knows.", "condition": "ep3_steps_almost" },
+    { "type": "consequence", "character": "Crystal", "text": "heard you.", "condition": "ep3_steps_said_it" },
+    { "type": "internalThought", "content": "She met me there. No hesitation, no looking away first. Just — there. Her eyes closed. Mine did too. It lasted less than five seconds and felt like something I would remember for a long time.", "condition": "ep3_steps_kiss" },
+    { "type": "internalThought", "content": "When I pulled back she was still close. Neither of us said anything. There was nothing to say that would have made it better.", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Okay.", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay.", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next week.", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Same time next week.", "condition": "ep3_steps_almost" },
+    { "type": "internalThought", "content": "She smiled. A small one. Like she understood exactly what had almost happened and she was going to let it be enough — for now.", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Good.", "condition": "ep3_steps_almost" },
+    { "type": "internalThought", "content": "She looked at me for just a moment — like what I'd said had weight and she was deciding how to hold it.", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I really like you too, Larry.", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Same time next week.", "condition": "ep3_steps_said_it" },
+    { "type": "internalThought", "content": "I watched her go. Down the steps, into the street, toward her bus stop. She didn't look back this time but I didn't need her to." },
+    { "type": "internalThought", "content": "The steps were empty. The light was going. And something in me had settled — not finished, not answered, just settled. Like a window closing on a warm room." }
+  ]
+}

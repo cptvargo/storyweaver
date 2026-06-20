@@ -1,0 +1,25 @@
+{
+  "page": 22,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "What if walking away doesn't stop it? What if he just keeps coming?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Then we handle it at a different level. But you let it go there naturally — you don't kick it there yourself." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You'd go up to the school?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I'd do what it takes. But that's my part. Your part is keeping your head." },
+    { "type": "internalThought", "content": "We turned onto my block. I could see the front of the house from down the street." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "The guys who were with Daniel. You know what that is?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Diego said they weren't from school." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "They're from the corner. Daniel's borrowing weight he hasn't earned. That tells me he's in over his own head and trying to look bigger than he is." },
+    { "type": "internalThought", "content": "I hadn't thought of it that way. Daniel looking scared underneath all of it. That changed something in me — not pity exactly. Something closer to distance." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What do I do if it happens again when you're not there?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "What did you do today before I pulled up?" },
+    { "type": "internalThought", "content": "I thought about the choice I made." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What I had to.", "condition": "ep3_held_ground_daniel" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I walked back inside.", "condition": "ep3_walked_away_daniel" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I texted Jonathan.", "condition": "ep3_called_j_daniel" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing. I stood there.", "condition": "ep3_quiet_stand_daniel" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's your answer. You already know what to do." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "page": 6,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Okay. Listen. This is important. A senior girl asked you to the movies. That is not a casual thing. That is a deliberate thing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Do you though? Because you're sitting here calm and you should not be calm right now." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm calm on the outside." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What's the inside doing?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Something else." },
+    { "type": "internalThought", "content": "Jonathan laughed — the real one, not the performative one. I'd learned the difference." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Okay. Good. Just — be yourself Friday. Not tryout you. Not practice you. The version of you that she's been sitting on the steps with. That's the one she asked." },
+    { "type": "dialogue", "speaker": "Larry", "content": "When did you get like this." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I've always been like this. You just don't pay attention." },
+    { "type": "internalThought", "content": "That was probably true." }
+  ]
+}

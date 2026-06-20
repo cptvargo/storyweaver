@@ -1,0 +1,28 @@
+{
+  "page": 35,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "bro it is 10:17 and you haven't texted me anything", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lol my bad", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "HOW DID IT GO", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "it was good j. like really good.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "define good", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "she picked middle seats. we talked through the whole thing before it started. she told me things about herself. I said something at the end of the walk and she said she was writing it in her journal.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "the JOURNAL bro", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "what did you say??", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "the messy version is closer to true", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "okay you're actually built different when you stop being scared", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lmaoooo", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you good?", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "yeah. I'm good j.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "And for the first time in a week, nothing in me was braced for something.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Sunday. The week had settled. Nothing dramatic — just the quiet of something having passed.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I opened the desk drawer and found an empty notebook. Blue cover, college ruled. I'd bought it at the beginning of the year for history and never used it.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't know what to write. So I wrote the thing Mr. Cole said: you already know what to do. The question is whether you trust it when your heart's going.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Then I wrote: I didn't ask for her number. I don't know yet if that was the right call or the scared call. Maybe both.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I left the rest of the page blank. For whatever came next.", "conditionNot": "asked_number_ep2" }
+  ]
+}

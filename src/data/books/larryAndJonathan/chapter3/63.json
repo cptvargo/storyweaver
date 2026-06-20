@@ -1,0 +1,23 @@
+{
+  "page": 63,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After practice Jonathan walked me home. We didn't take the long way. Just the direct route, same as before. But it didn't feel like before." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I talked to Stacy after." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Figured." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She asked if I wanted to read her paper." },
+    { "type": "dialogue", "speaker": "Larry", "content": "The one about the practice." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah. She wrote about trust. Like actual trust — between a QB and a receiver. How it builds and what it looks like from outside." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That's not a coincidence." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "No. I don't think it is." },
+    { "type": "internalThought", "content": "He was quieter than usual. Not sad — something more like a person standing at the edge of something and not sure yet whether to step forward." },
+    { "type": "internalThought", "content": "I recognized it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You should read it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. If she wanted you to read it that's why she showed up twice." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "....I hate when you're right about something." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Get in the habit of it." }
+  ]
+}

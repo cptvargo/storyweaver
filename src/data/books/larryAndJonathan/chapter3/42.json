@@ -1,0 +1,16 @@
+{
+  "page": 42,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Tuesday. English. Ms. Barrett asked us to write about a choice we'd made that week. Real or fictional, she said, but told us she could always tell which one it was." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "The best writing is when you're trying to understand something that happened to you, not just describe it. If you're not confused at all, it's probably not the real version." },
+    { "type": "internalThought", "content": "I thought about Daniel. I thought about Mr. Cole's car. I thought about the corner at the end of Friday night. I had too many choices and I wasn't sure which one was the right one to write about because they all still felt unfinished." },
+    { "type": "internalThought", "content": "I wrote about Thursday at the side exit. Not what I chose — just the moment before. The three seconds where I could see all the options and didn't know which one was the person I actually was." },
+    { "type": "internalThought", "content": "I wrote: 'I don't think I know who I am when things get fast. I know who I want to be. But when it's actually happening the gap between those two things is very wide and very loud.'" },
+    { "type": "internalThought", "content": "Ms. Barrett collected them at the end of class. On the way out she said my name." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "That one was real." },
+    { "type": "internalThought", "content": "I didn't answer. But she was right." }
+  ]
+}

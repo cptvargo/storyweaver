@@ -1,0 +1,31 @@
+{
+  "page": 26,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm in.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Yeah?", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Okay :) see you Friday", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I put the phone down and stared at the ceiling for about ten seconds. Then I picked it back up and called Jonathan.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Friday. She had picked Friday.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "hello??", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Crystal asked me to the movies Friday.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "......", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "bro", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "today was the worst day and the best day for you huh", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "basically yes", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "no cap this is like a movie", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "fr", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "what did Mr. Cole say to you? like the real stuff", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "that I already know what to do. I just have to trust it when my heart's going.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "..okay that's different from what I expected", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "what did you expect", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I don't know. something about staying out of trouble. but that's actually deeper.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "he's different than I thought.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "yeah. you okay though? like fr", "platform": "AIM", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I think so. Ask me again Friday.", "platform": "AIM", "conditionNot": "asked_number_ep2" }
+  ]
+}

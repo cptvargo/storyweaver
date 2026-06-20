@@ -1,0 +1,22 @@
+{
+  "page": 46,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "What do you mean?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Like — when I know what I want, I usually make it smaller before I say it. So the other person doesn't feel pressured. So I seem easy to be around." },
+    { "type": "dialogue", "speaker": "Larry", "content": "And that's not you." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I think the things I actually want are kind of a lot." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What kind of a lot?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Like — I want to matter to people. Not famously. Not a lot of people. But I want to actually mean something to the ones I choose. And sometimes that scares people away." },
+    { "type": "internalThought", "content": "I stayed very still. Because I didn't want to be one of the people she'd made herself smaller for." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That doesn't scare me." },
+    { "type": "internalThought", "content": "She turned and looked at me. Really looked." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "No?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "No. It actually sounds right." },
+    { "type": "internalThought", "content": "Another one of those pauses. The city doing its thing around us. The late buses pulling up and pulling away. Neither of us moved." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You're different when you're not thinking about what you're supposed to say." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know. I'm working on getting here faster." }
+  ]
+}

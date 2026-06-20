@@ -1,0 +1,20 @@
+{
+  "page": 5,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "are you free Friday", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Tuesday night. I was doing homework when it came through. I read it five times to make sure I understood what she was asking.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "yeah I think so why", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "there's a movie I've been wanting to see. I was going to go alone but it's better with someone.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "I'm free Friday", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "I know. You just said that.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I could feel her smiling through the screen.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "7pm. I'll send you the address. Don't be late.", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She asked you to the movies." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Because you look like someone just told you Christmas was moved to Friday." },
+    { "type": "internalThought", "content": "I didn't answer. He wasn't wrong.", "condition": "asked_number_ep2" }
+  ]
+}

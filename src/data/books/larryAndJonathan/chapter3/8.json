@@ -1,0 +1,21 @@
+{
+  "page": 8,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Wednesday. Between second and third. The hallway was packed the way it always was — that two-minute window where everyone was somewhere and nobody was anywhere." },
+    { "type": "internalThought", "content": "She came from the other direction. I saw her before she saw me. I had about four seconds to decide what to do with my face." },
+    { "type": "internalThought", "content": "She saw me. And something happened — not a big thing. Just a shift. The way someone's face changes when they see a person they were already thinking about." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey." },
+    { "type": "internalThought", "content": "She didn't slow down. She was still walking. But she turned her shoulder toward me as she passed — and bumped it. Soft. Deliberate. Didn't look back." },
+    { "type": "internalThought", "content": "I stood there for a second in the middle of the hallway while the crowd moved around me." },
+    { "type": "consequence", "character": "Jonathan", "text": "noticed." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yo." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She did that on purpose." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Friday can not come fast enough fr." }
+  ]
+}

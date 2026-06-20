@@ -1,0 +1,30 @@
+{
+  "page": 52,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I kissed her. Or she kissed me. It was mutual.", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "....", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": ".", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "BRO", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I KNOW", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "on the STEPS?", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Larry", "content": "on the steps", "platform": "AIM", "condition": "ep3_steps_kiss" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I said what I said. She was right there and I almost did. But I said 'same time next week' instead.", "platform": "AIM", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "...why", "platform": "AIM", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know. Something stopped me.", "platform": "AIM", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "fear stopped you bro", "platform": "AIM", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Larry", "content": "probably", "platform": "AIM", "condition": "ep3_steps_almost" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I told her I really like her. Before she left.", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "..........deadass?", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Larry", "content": "deadass. out loud. I said it.", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "and she said??", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Larry", "content": "she said it back.", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "no cap????", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Larry", "content": "no cap.", "platform": "AIM", "condition": "ep3_steps_said_it" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "okay. okay I need a minute.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lol take your time", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you got there bro. you actually got there.", "platform": "AIM" }
+  ]
+}

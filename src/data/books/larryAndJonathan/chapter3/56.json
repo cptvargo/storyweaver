@@ -1,0 +1,20 @@
+{
+  "page": 56,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday afternoon, last class. Ms. Barrett handed back the writing from Tuesday. She'd put a comment at the bottom of mine in red pen." },
+    { "type": "internalThought", "content": "'The gap between who you want to be and who you are in the moment — that's the whole story. Keep pulling on this thread.'" },
+    { "type": "internalThought", "content": "I folded it and put it in my pocket. That was going in the notebook. When I started one." },
+    { "type": "internalThought", "content": "After school, main entrance this time. No side exit. Just the front." },
+    { "type": "internalThought", "content": "Daniel was at the corner with two different guys — not the ones from Thursday. Different faces. He looked up when I came through the doors. Our eyes met for about half a second." },
+    { "type": "internalThought", "content": "He looked away first." },
+    { "type": "internalThought", "content": "Not retreat. Not done. But something in the math had changed. I kept walking. Didn't slow down, didn't look back." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You see that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I saw it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's a different kind of quiet, bro." },
+    { "type": "internalThought", "content": "I knew what he meant. Daniel was the kind of quiet that meant he was done being obvious. He'd go underground now. Recalculate from somewhere you can't see." },
+    { "type": "consequence", "character": "Daniel", "text": "went quiet." }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "page": 17,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't think I'm better than you. I just don't have a problem with you.", "condition": "ep3_held_ground_daniel" },
+    { "type": "internalThought", "content": "He didn't expect that. The two guys behind him shifted. Daniel looked like he was trying to find the next thing to say and couldn't.", "condition": "ep3_held_ground_daniel" },
+    { "type": "internalThought", "content": "I turned around. Walked back through the side door. Let the door close behind me.", "condition": "ep3_walked_away_daniel" },
+    { "type": "internalThought", "content": "He said something behind me but I didn't catch the words. Maybe that was the point.", "condition": "ep3_walked_away_daniel" },
+    { "type": "internalThought", "content": "I pulled out my phone and sent two words. He was inside at practice. Side exit. I watched Daniel clock it and something shifted in his face — like he'd just done math he didn't like.", "condition": "ep3_called_j_daniel" },
+    { "type": "internalThought", "content": "I said nothing. Held the eye contact. Didn't look away, didn't move. The two guys behind him exchanged a look. Daniel didn't know what to do with silence.", "condition": "ep3_quiet_stand_daniel" },
+    { "type": "internalThought", "content": "And then a car pulled up to the curb." },
+    { "type": "internalThought", "content": "Not fast. Not dramatic. Just — there. A sedan, idling. The window already down." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Larry." },
+    { "type": "internalThought", "content": "That was all he said. Just my name. And something about the way he said it — or the way he was looking at Daniel when he said it — made everything go still." }
+  ]
+}

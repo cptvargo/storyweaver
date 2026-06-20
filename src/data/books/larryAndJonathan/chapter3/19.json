@@ -1,0 +1,25 @@
+{
+  "page": 19,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Get in." },
+    { "type": "internalThought", "content": "It wasn't a question. I got in." },
+    { "type": "internalThought", "content": "The car was clean. Quiet. He drove a few blocks before he said anything. I watched the school disappear in the side mirror." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "How long has that been going on?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "A few weeks." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Has it been physical?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "No. Not yet." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Those other two aren't from the school." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You know because you looked into it or because someone told you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Someone told me. Diego." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Diego from the block?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "Mr. Cole nodded once. Like he was filing it. He drove another block before he spoke again." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You were just going to take the side exit and handle it yourself." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't know what I was going to do." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's honest. Okay. That's honest." }
+  ]
+}

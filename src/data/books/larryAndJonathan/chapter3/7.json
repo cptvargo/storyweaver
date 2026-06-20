@@ -1,0 +1,20 @@
+{
+  "page": 7,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye — you see her in the hall this morning?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Crystal?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She walked past you between second and third. You didn't notice?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I was talking to you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro I noticed and she wasn't even looking at me. She was looking at you. You were the only one not paying attention." },
+    { "type": "internalThought", "content": "This was the part I still hadn't figured out. Being in the same building as her now felt different. Like the space between us had a different weight than it used to." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You gonna be like this all week?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Like what." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Somewhere else in your head while standing right next to me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight. I respect it. Just don't drop a pass because of it." },
+    { "type": "internalThought", "content": "He was joking. Mostly." }
+  ]
+}

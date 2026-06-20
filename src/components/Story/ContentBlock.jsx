@@ -16,8 +16,8 @@ function ConsequenceBlock({ block, onConsequence }) {
 }
 
 export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag, onConsequence }) {
-  // Conditionally hidden blocks — only render if the player has the required tag
   if (block.condition && !hasTag?.(block.condition)) return null
+  if (block.conditionNot && hasTag?.(block.conditionNot)) return null
 
   switch (block.type) {
     case 'narration':

@@ -1,0 +1,20 @@
+{
+  "page": 66,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    {
+      "type": "episodeStats",
+      "heading": "Episode 3 — The Steps",
+      "stats": [
+        { "label": "Daniel", "value": "went quiet. That's not over." },
+        { "label": "Crystal", "value": "you showed up. she noticed." },
+        { "label": "Jonathan", "value": "saw everything. kept calling it." },
+        { "label": "Mr. Cole", "value": "showed you what to do. once." },
+        { "label": "Stacy", "value": "came back. twice." },
+        { "label": "You", "value": "stopped waiting to be ready." }
+      ]
+    }
+  ]
+}

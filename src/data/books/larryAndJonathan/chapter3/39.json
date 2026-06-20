@@ -1,0 +1,25 @@
+{
+  "page": 39,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Walking back to the locker room. Jonathan fell in step beside me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Writing class." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Deadass. She's doing research." },
+    { "type": "dialogue", "speaker": "Larry", "content": "At practice. On a Saturday." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Dedication. I respect it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You just talked to her for six minutes." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I was being informative. I'm part of the practice she's observing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're unbelievable." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "No cap though — she had all this detail in there. Like the way I read the coverage before the snap and how my footwork changes. She was actually watching it correctly." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You looked at her notebook?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She showed me. Voluntarily." },
+    { "type": "internalThought", "content": "I laughed before I could stop it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay so where was all that advice you gave me about not being distracted?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Practice was over." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It was over by like two minutes." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Technically over is over, bro." },
+    { "type": "internalThought", "content": "We walked the rest of the way back in silence. But he was smiling. That small smile he only got when something had surprised him." }
+  ]
+}

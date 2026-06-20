@@ -1,0 +1,22 @@
+{
+  "page": 55,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't want to wait for him to make the next move. But I also don't want to go looking for a fight that isn't there yet." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "So what's the middle?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know. Be ready but not wound up. Stay visible but not exposed." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's actually the right answer bro." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Doesn't feel like it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Nah. But it is. Look — Daniel needs a moment. A reaction. A story he can tell about you. Right now you're giving him nothing to work with. Keep doing that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "And what happens when nothing runs out?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then you handle it. But you handle it on your terms, not his." },
+    { "type": "internalThought", "content": "I thought about the side exit. The choice I made — whatever choice I made. How I'd felt standing there. And how I felt in the car afterward. Two very different things." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You ever get tired of being the smart one?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Deadass never. It's not exhausting. It's just — you see more. More things that could happen, more ways out, more of the play before it develops." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Doesn't that make it worse? Seeing all of it?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Only if you try to control all of it. If you just see it and then choose, it's actually easier." },
+    { "type": "internalThought", "content": "On the field. In the car. On the steps. This kept showing up. See it. Choose. Go." }
+  ]
+}

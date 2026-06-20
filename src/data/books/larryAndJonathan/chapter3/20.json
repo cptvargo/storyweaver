@@ -1,0 +1,28 @@
+{
+  "page": 20,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You know what that kid wants from you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "He doesn't like me." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's not what I asked." },
+    { "type": "internalThought", "content": "I thought about it. Really thought." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He wants me to react. He wants to see what I do when I don't have backup." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "And if you react?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "He wins either way. He either gets the fight he wanted or he gets to say he made me run." },
+    { "type": "internalThought", "content": "Mr. Cole didn't say anything for a moment. I could tell that landed right." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "So you already know how to think through it. The question is whether you trust what you know when your heart's going." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's different when you're actually in it." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Yeah. It is." },
+    { "type": "internalThought", "content": "He said it like it cost him something to agree. Like he knew from somewhere specific." },
+    { "type": "choice", "prompt": "Mr. Cole glances over at you. 'You doing okay? The real answer.'",
+      "options": [
+        { "id": "ep3_told_cole_everything", "label": "\"Not really. I been scared every day this week.\"", "goto": 21 },
+        { "id": "ep3_told_cole_some", "label": "\"I'm good. I can handle it.\"", "goto": 21 },
+        { "id": "ep3_told_cole_nothing", "label": "Shrug. Look out the window. Don't answer.", "goto": 21 },
+        { "id": "ep3_asked_cole_first", "label": "\"What would you have done? At my age?\"", "goto": 21 }
+      ]
+    }
+  ]
+}

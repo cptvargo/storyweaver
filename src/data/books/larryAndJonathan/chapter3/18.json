@@ -1,0 +1,22 @@
+{
+  "page": 18,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Mr. Cole got out of the car. He didn't rush. He closed the door behind him like he had all the time in the world and stood there with his hands in his jacket pockets." },
+    { "type": "internalThought", "content": "He looked at Daniel. Then at the two guys. Then at Daniel again." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "These your friends?" },
+    { "type": "dialogue", "speaker": "Daniel", "content": "We were just talking." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I didn't ask what you were doing. I asked if these were your friends." },
+    { "type": "internalThought", "content": "Daniel didn't answer. The two guys behind him had gone very still. Mr. Cole had a way of making space smaller without moving." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "What's your name?" },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Daniel." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Daniel. You go to school here?" },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "These guys too?" },
+    { "type": "internalThought", "content": "Silence. The two guys were already stepping back." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "That's what I thought." },
+    { "type": "internalThought", "content": "He didn't say anything else to them. Didn't need to. The two guys were gone before I could look up, and Daniel was backing toward the corner like he'd remembered somewhere else he had to be." }
+  ]
+}

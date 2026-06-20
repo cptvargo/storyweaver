@@ -31,7 +31,7 @@
     "Diego": "/diego_salavara.png",
     "Imani": "/imani_brooks.png"
   },
-  "totalChapters": 2,
+  "totalChapters": 3,
   "chapterCountPlanned": 8,
   "status": "in-progress",
   "author": "StoryWeaver",
@@ -53,6 +53,13 @@
       "image": "/episode2_two_weeks.png",
       "mood": "Tryouts decide who you are before the season ever starts.",
       "totalPages": 50
+    },
+    {
+      "chapterIndex": 3,
+      "title": "The Steps",
+      "image": "/episode3_the_steps.png",
+      "mood": "Some moments only happen once. You'll know when you're in one.",
+      "totalPages": 67
     }
   ],
   "themes": ["identity", "friendship", "pride", "ego", "belonging", "loyalty"]

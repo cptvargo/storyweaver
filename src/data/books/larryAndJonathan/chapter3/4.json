@@ -1,0 +1,23 @@
+{
+  "page": 4,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. You texting somebody in class?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "No." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh you are literally looking at your phone right now." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's nothing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "It's Crystal." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You didn't have to. You got that face." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What face." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "The face where you're trying to look normal and failing completely. It's a whole thing." },
+    { "type": "internalThought", "content": "I put the phone in my pocket. Jonathan was already grinning. He was going to be insufferable about this." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She texted you first didn't she." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "SHE TEXTED YOU FIRST. BRO." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Keep your voice down." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I am keeping my voice down. This is my quiet voice. You're welcome." }
+  ]
+}

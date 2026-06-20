@@ -1,0 +1,21 @@
+{
+  "page": 54,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday. The last day of the week. I walked to school with my bag over one shoulder and the Thursday steps still sitting somewhere in the back of everything." },
+    { "type": "internalThought", "content": "There was a thing Mr. Cole said in the car that I kept coming back to: I'm not always going to pull up at the right time. Get in the habit of not needing me to." },
+    { "type": "internalThought", "content": "I kept thinking about what that habit actually looked like. Not avoiding the side exit. Not waiting to see if things would be okay. Moving through the day like someone who knew how to handle the thing that hadn't happened yet." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You look like you're thinking something heavy." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What would it look like if I wasn't?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Like you now but slightly lighter." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm okay. Just been thinking about what Mr. Cole said. About not needing him to pull up." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah. I've been thinking about that too." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You have?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Daniel's not done. You know that right. Him backing off isn't him stopping. It's him re-routing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "What do you want to do about it?" },
+    { "type": "internalThought", "content": "That was the right question. Not what do you think will happen — what do you WANT to do." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "page": 36,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Saturday practice. Coach Briggs was running tempo drills. Three routes, full speed, no breaks between." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. You're reading faster. You're not waiting for the throw." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm trying." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Don't try. Do it again." },
+    { "type": "internalThought", "content": "I ran it again. Cleaner. Jonathan threw it before I'd even finished the break. I was already there." },
+    { "type": "internalThought", "content": "It happened again. And again. At some point during the third rep I stopped thinking about it and it just — worked." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You see that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what it's supposed to feel like. When everything else is in the right place and your body just does the thing. You been carrying too much this week." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Put some of it down." },
+    { "type": "internalThought", "content": "I thought about Mr. Cole's car. Crystal's hand in the theater, or the space where it almost happened. The corner at night. I'd been carrying all of it, trying to keep it sorted. Maybe that was the problem." },
+    { "type": "internalThought", "content": "There was a girl sitting in the bleachers on the far side. I hadn't noticed her at first — the bleachers were mostly empty on Saturday mornings. But she had a notebook open and she was writing in it while she watched practice." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. Who's that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know." }
+  ]
+}

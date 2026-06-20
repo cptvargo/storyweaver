@@ -1,0 +1,18 @@
+{
+  "page": 62,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Saturday practice. Coach Briggs was running us through combo routes — the kind where the QB and receiver have to make the same read at the same time off the same coverage. Either you're both right or neither of you is." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "This is a trust drill. I'm not looking for the perfect route. I'm looking for two people making the same choice at the same time. Go." },
+    { "type": "internalThought", "content": "Jonathan and I looked at each other for about half a second. Then we ran it." },
+    { "type": "internalThought", "content": "Clean. The read happened before the snap even. We both felt the corner sitting back and we both adjusted — him at the line, me at the break — without saying anything." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "That's it. That's what I'm asking for. Do that again." },
+    { "type": "internalThought", "content": "We ran it again. And again. Every rep was the same — not perfect, but real. The kind of football that happens when two people stop performing and just play." },
+    { "type": "internalThought", "content": "I glanced at the bleachers at one point. Stacy was there. Same notebook. She was watching the coverage adjustments, marking something." },
+    { "type": "internalThought", "content": "Jonathan did not glance at the bleachers. He was completely focused. This was the version of him I ran with — the one who loved the work itself, separate from everything around it." },
+    { "type": "internalThought", "content": "After the session Coach kept me for a minute." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Whatever shifted this week — keep it. That's the player I've been waiting for." }
+  ]
+}

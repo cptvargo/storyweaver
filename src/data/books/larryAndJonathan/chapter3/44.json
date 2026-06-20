@@ -1,0 +1,23 @@
+{
+  "page": 44,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday. The steps. Same time as always — after school, right before the late buses. The crowd thinned out fast and then it was just the ones who were always there." },
+    { "type": "internalThought", "content": "Crystal came down the steps and sat two spots to my left. Close enough to talk, far enough to say we were just sitting in the same place." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey." },
+    { "type": "internalThought", "content": "That was the whole greeting. We'd gotten past the performance of it." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "How was your week so far." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Better than last week. Quieter." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Daniel?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "He's around. But it's different now. He's thinking." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Thinking is better than acting." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "internalThought", "content": "She looked out at the street. There was a pause — not awkward. The kind you don't have to fill." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Can I ask you something kind of personal?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Why football? Like, what is it actually. Not the answer you give to people who don't play." }
+  ]
+}

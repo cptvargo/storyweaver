@@ -1,0 +1,22 @@
+{
+  "page": 23,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "He pulled up to the curb in front of the house. Left the engine running. Neither of us moved for a second." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You gonna tell my mom?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "She should know." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Can I tell her myself?" },
+    { "type": "internalThought", "content": "He looked at me for a moment. Like he was measuring something." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You have until Sunday night. After that it becomes her conversation to have." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I'm serious, Larry. Not 'okay I'll think about it.' Sunday." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Sunday. I hear you." },
+    { "type": "internalThought", "content": "He nodded. I opened the car door." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "One more thing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I'm not always going to pull up at the right time. I happened to be driving past. So get in the habit of not needing me to." },
+    { "type": "internalThought", "content": "I stood on the sidewalk and watched him drive away. The street was quiet. The house looked the same. I felt like something had shifted inside the day and I was the only one who knew." }
+  ]
+}

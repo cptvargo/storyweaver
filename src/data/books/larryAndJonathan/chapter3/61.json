@@ -1,0 +1,25 @@
+{
+  "page": 61,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you up?", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "yeah", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "practice in two hours. eat something first", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I already ate", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know you ate. eat more. you ran hard this week.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "lol okay", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "also I have to tell you something", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "what", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Stacy is coming to practice again today", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "..........the paper is done though. you said she finished it.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "she said she wants to see if the dynamic changes on a Saturday vs a weekday", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "for a paper that's already turned in", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "personal research apparently", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "jonathan", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know what it is bro. I know.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Larry", "content": "good. just making sure.", "platform": "AIM" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "see you in two hours", "platform": "AIM" }
+  ]
+}

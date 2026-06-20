@@ -1,0 +1,23 @@
+{
+  "page": 21,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "embed", "src": "/ep3_cole_car.png" },
+    { "type": "consequence", "character": "Mr. Cole", "text": "heard you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Not really. I been scared every day this week.", "condition": "ep3_told_cole_everything" },
+    { "type": "internalThought", "content": "First time I said it out loud. Didn't plan to. It just came out in the car like it had been waiting.", "condition": "ep3_told_cole_everything" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm good. I can handle it.", "condition": "ep3_told_cole_some" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Okay.", "condition": "ep3_told_cole_some" },
+    { "type": "internalThought", "content": "He didn't push. But I felt the gap between what I said and what I meant.", "condition": "ep3_told_cole_some" },
+    { "type": "internalThought", "content": "I looked out the window. He let the silence sit. He was good at not filling it.", "condition": "ep3_told_cole_nothing" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What would you have done? At my age?", "condition": "ep3_asked_cole_first" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Probably something dumb. And then something dumber to fix it.", "condition": "ep3_asked_cole_first" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You know what I didn't have at your age?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Somebody telling me I could walk away and still be a man." },
+    { "type": "internalThought", "content": "He said it like it was simple. It wasn't simple. But it landed." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You don't owe that kid a fight. You don't owe him a reaction. You don't owe him anything. But you do owe yourself the good decision." }
+  ]
+}

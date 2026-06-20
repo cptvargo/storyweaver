@@ -1,0 +1,30 @@
+{
+  "page": 33,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "We got to the corner where the bus routes split. She had to go left. I was going right. We both stopped at the same time.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "This was really good, Larry.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. It was.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You know what I liked most about it?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "The movie?", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Tonight.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Something tightened in my chest.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You were just — here. Like you weren't performing anything. You just showed up.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm working on that.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Keep working on it. It's good.", "condition": "asked_number_ep2" },
+    { "type": "choice", "prompt": "The corner. She's about to turn. You have about three seconds.", "condition": "asked_number_ep2",
+      "options": [
+        { "id": "ep3_went_for_it", "label": "I lean in. Just a little. Close enough that she can choose.", "goto": 34 },
+        { "id": "ep3_let_her_go", "label": "\"See you Monday.\" She smiles. She turns. You watch her go.", "goto": 34 }
+      ]
+    },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "you should go talk to her", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "She came back for you j, not me.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. I'm going.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I watched him walk over to the bleachers like it was nothing. Like the stakes were zero. She looked up from her notebook and smiled before he even got to the bottom step.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I stood at the sideline with my bag on my shoulder. Some people just made it look easy. Not because it was easy — because they decided it was going to happen before they started walking.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I was still learning that part.", "conditionNot": "asked_number_ep2" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": 34,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "will remember this.", "condition": "ep3_went_for_it" },
+    { "type": "consequence", "character": "Crystal", "text": "will remember this.", "condition": "ep3_let_her_go" },
+    { "type": "internalThought", "content": "She met me there. Right at the edge of the decision. Her hand came up to my arm, light, just for a second. And we were close enough that the city noise went somewhere else.", "condition": "ep3_went_for_it" },
+    { "type": "internalThought", "content": "It wasn't long. It didn't need to be. She pulled back first and looked at me with something I couldn't name.", "condition": "ep3_went_for_it" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Good night, Larry.", "condition": "ep3_went_for_it" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Good night.", "condition": "ep3_went_for_it" },
+    { "type": "internalThought", "content": "She turned left. I walked right. My heart didn't slow down until the next block.", "condition": "ep3_went_for_it" },
+    { "type": "dialogue", "speaker": "Larry", "content": "See you Monday.", "condition": "ep3_let_her_go" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Monday.", "condition": "ep3_let_her_go" },
+    { "type": "internalThought", "content": "She smiled. Turned. I stood there on the corner and watched her go. Half a block before she was too far. Something in the way she walked — unhurried, like she'd gotten what she came for.", "condition": "ep3_let_her_go" },
+    { "type": "internalThought", "content": "I walked home thinking about the space between what almost happened and what didn't.", "condition": "ep3_let_her_go" },
+    { "type": "internalThought", "content": "The city was doing its thing around me. I barely noticed it.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She stayed for like twenty minutes after practice.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know. I was there.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She showed me what she wrote. About the trust thing. Between a QB and a receiver.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "That's not an accident J.", "conditionNot": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know what it is.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "He said it like someone who'd figured something out and was being careful with it. Like he didn't want to break it by saying it too loud.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I understood that. I walked home with it sitting with me — the thing Jonathan was feeling, and the shape of my own week, and how both of us were standing at some edge we hadn't crossed yet.", "conditionNot": "asked_number_ep2" }
+  ]
+}

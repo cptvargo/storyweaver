@@ -1,0 +1,18 @@
+{
+  "page": 12,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Post route. Full speed. No hesitation at the break." },
+    { "type": "internalThought", "content": "I ran it. Clean. Didn't think about Daniel, didn't think about Friday, didn't think about anything. Just the route." },
+    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Again." },
+    { "type": "internalThought", "content": "Again. Cleaner. Jonathan was watching from the sideline and gave me the smallest nod — the one that meant something." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You've been different this week." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Different how." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Like you stopped waiting to see what's gonna happen and started just — doing it. On the route. You broke before I even threw." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Coach said no hesitation." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Everybody hears that. Not everybody stops hesitating." },
+    { "type": "internalThought", "content": "I didn't tell him what was different. I didn't fully understand it myself. Something had shifted — on the steps, in the hallway, at the theater. Something in me had decided to stop waiting to be ready." }
+  ]
+}

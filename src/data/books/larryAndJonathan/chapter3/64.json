@@ -1,0 +1,22 @@
+{
+  "page": 64,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "He left at the corner. I went inside." },
+    { "type": "internalThought", "content": "My mom was at the kitchen table with her coffee and the Saturday paper. She looked up when I came in — not the regular look. The one she'd been giving me since Thursday when I told her about Daniel." },
+    { "type": "dialogue", "speaker": "Mom", "content": "How was practice?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Good. Best one I've had." },
+    { "type": "internalThought", "content": "She nodded. Looked back at her paper. Then:" },
+    { "type": "dialogue", "speaker": "Mom", "content": "I'm going to call the school Monday. I've been deciding and I'm done deciding." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Mom", "content": "That's not negotiable." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know. I think it's the right call." },
+    { "type": "internalThought", "content": "She looked at me like I'd surprised her." },
+    { "type": "dialogue", "speaker": "Mom", "content": "When did you start thinking that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "When Mr. Cole said he wasn't always going to pull up at the right time." },
+    { "type": "internalThought", "content": "She was quiet for a moment. Then she reached over and put her hand on mine — just for a second." },
+    { "type": "dialogue", "speaker": "Mom", "content": "I'm proud of how you handled it. Not everyone would have." }
+  ]
+}

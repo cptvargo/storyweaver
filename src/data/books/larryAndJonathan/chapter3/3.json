@@ -1,0 +1,17 @@
+{
+  "page": 3,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "what are you writing about", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She was texting me. In class. From two rows over.", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "something that was about to change", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "me too", "pov": "Larry", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I looked up. She didn't. She just kept writing. Like she hadn't said anything.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Crystal — you want to share?" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Not yet. I'm still in it." },
+    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "That's actually exactly where I want you. Stay there." },
+    { "type": "internalThought", "content": "She kept her eyes on the page. But the corner of her mouth moved. Just barely." }
+  ]
+}

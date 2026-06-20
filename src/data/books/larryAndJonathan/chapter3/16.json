@@ -1,0 +1,18 @@
+{
+  "page": 16,
+  "chapter": 3,
+  "chapterTitle": "The Steps",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    {
+      "type": "choice",
+      "prompt": "Daniel and two guys. No one else around. What does Larry do?",
+      "options": [
+        { "id": "ep3_held_ground_daniel", "label": "\"I don't think I'm better than you. I just don't have a problem with you.\"", "goto": 17 },
+        { "id": "ep3_walked_away_daniel", "label": "Turn around. Walk back inside. Don't give him the moment.", "goto": 17 },
+        { "id": "ep3_called_j_daniel", "label": "Pull out your phone. Text Jonathan. Two words: side exit.", "goto": 17 },
+        { "id": "ep3_quiet_stand_daniel", "label": "Say nothing. Hold the eye contact. Don't move.", "goto": 17 }
+      ]
+    }
+  ]
+}
