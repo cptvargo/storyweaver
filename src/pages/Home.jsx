@@ -56,7 +56,7 @@ export default function Home() {
 
       {/* ── Hero ── */}
       <section className="home__hero">
-        <img src="/hero_banner.png" alt="StoryWeaver" className="home__hero-img" />
+        <img src={publicUrl('/hero_banner.png')} alt="StoryWeaver" className="home__hero-img" />
       </section>
 
       {/* ── Continue Reading ── */}
