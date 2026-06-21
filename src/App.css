@@ -132,64 +132,20 @@ body {
 
 /* ── Hero ─────────────────────────────────────────── */
 .home__hero {
-  position: relative;
-  min-height: 70vh;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-  overflow: hidden;
-  padding-bottom: 56px;
-}
-
-.home__hero-bg {
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(ellipse 100% 60% at 50% 0%, rgba(80, 40, 140, 0.55) 0%, transparent 65%),
-    radial-gradient(ellipse 100% 100% at 50% 50%, rgba(0, 0, 0, 0.45) 0%, transparent 100%),
-    url('/hero_banner.png') center center / cover no-repeat;
-  animation: hero-breathe 8s ease-in-out infinite;
-}
-
-@keyframes hero-breathe {
-  0%, 100% { opacity: 0.85; }
-  50%       { opacity: 1; }
-}
-
-.home__hero-content {
-  position: relative;
-  z-index: 2;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 16px;
-  text-align: center;
-  padding: 0 24px;
   width: 100%;
 }
 
-.home__hero-logo {
-  width: min(280px, 72vw);
+.home__hero-img {
+  width: 100%;
   height: auto;
   display: block;
-  mix-blend-mode: screen;
-  filter:
-    drop-shadow(0 0 60px rgba(201, 168, 76, 0.4))
-    drop-shadow(0 24px 64px rgba(0, 0, 0, 0.7));
-  animation: logo-float 6s ease-in-out infinite;
 }
 
-@keyframes logo-float {
-  0%, 100% { transform: translateY(0px); }
-  50%       { transform: translateY(-7px); }
-}
-
-.home__hero-tagline {
-  font-size: 0.72rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--text-muted);
-  margin-top: 4px;
+/* ── Continue Reading (below hero) ───────────────── */
+.home__continue-wrap {
+  display: flex;
+  justify-content: center;
+  padding: 20px 24px 4px;
 }
 
 .home__continue {
@@ -197,15 +153,12 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 4px;
-  margin-top: 12px;
   padding: 14px 28px;
   background: rgba(201, 168, 76, 0.1);
   border: 1px solid rgba(201, 168, 76, 0.3);
   border-radius: 14px;
   cursor: pointer;
   transition: all 0.22s ease;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
 }
 
 .home__continue:hover {
@@ -234,17 +187,6 @@ body {
 .home__continue-dot {
   color: var(--text-dim);
   font-size: 0.6rem;
-}
-
-.home__hero-fade {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 120px;
-  background: linear-gradient(to bottom, transparent, var(--bg));
-  z-index: 1;
-  pointer-events: none;
 }
 
 /* ── Genre library ────────────────────────────────── */

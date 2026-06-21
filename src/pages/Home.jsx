@@ -4,7 +4,6 @@ import { useLocalStorage } from '../hooks/useLocalStorage'
 import { ALL_BOOKS } from '../utils/storyEngine'
 import { publicUrl } from '../utils/publicUrl'
 import BookDetail from '../components/Library/BookDetail'
-import logo from '/storyweaver_logo.png'
 
 const GENRE_ORDER = ['Romance', 'Murder Mystery', 'Interactive']
 
@@ -57,27 +56,23 @@ export default function Home() {
 
       {/* ── Hero ── */}
       <section className="home__hero">
-        <div className="home__hero-bg" aria-hidden="true" />
-
-        <div className="home__hero-content">
-          <img src={logo} alt="StoryWeaver" className="home__hero-logo" />
-          <p className="home__hero-tagline">Weaving stories from moments that matter.</p>
-
-          {hasProgress && (
-            <button className="home__continue" onClick={() => navigate('/reader')}>
-              <span className="home__continue-eyebrow">▶ Continue Reading</span>
-              <span className="home__continue-sub">
-                {selectedBook.title}
-                <span className="home__continue-dot">·</span>
-                {selectedBook.format === 'episodes' ? 'Episode' : 'Chapter'} {progress.chapterIndex}
-                {progress.pageIndex > 0 ? `, Page ${progress.pageIndex}` : ''}
-              </span>
-            </button>
-          )}
-        </div>
-
-        <div className="home__hero-fade" aria-hidden="true" />
+        <img src="/hero_banner.png" alt="StoryWeaver" className="home__hero-img" />
       </section>
+
+      {/* ── Continue Reading ── */}
+      {hasProgress && (
+        <div className="home__continue-wrap">
+          <button className="home__continue" onClick={() => navigate('/reader')}>
+            <span className="home__continue-eyebrow">▶ Continue Reading</span>
+            <span className="home__continue-sub">
+              {selectedBook.title}
+              <span className="home__continue-dot">·</span>
+              {selectedBook.format === 'episodes' ? 'Episode' : 'Chapter'} {progress.chapterIndex}
+              {progress.pageIndex > 0 ? `, Page ${progress.pageIndex}` : ''}
+            </span>
+          </button>
+        </div>
+      )}
 
       {/* ── Genre sections ── */}
       <div className="home__library">
