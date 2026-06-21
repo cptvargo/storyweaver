@@ -14,7 +14,7 @@
     { "type": "dialogue", "speaker": "Larry", "content": "a little", "platform": "AIM", "condition": "asked_number_ep2" },
     { "type": "dialogue", "speaker": "Jonathan", "content": "good. means you care. just don't walk in trying to be smooth. just be you.", "platform": "AIM", "condition": "asked_number_ep2" },
     { "type": "dialogue", "speaker": "Larry", "content": "you sound like you've been preparing that speech", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "deadass I have. I been waiting for you to figure out a reason to go.", "platform": "AIM", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "dead serious I have. I been waiting for you to figure out a reason to go.", "platform": "AIM", "condition": "asked_number_ep2" },
     { "type": "internalThought", "content": "Friday at school. I saw Crystal in the hallway between second and third period.", "conditionNot": "asked_number_ep2" },
     { "type": "internalThought", "content": "She was walking with a girl I didn't recognize. She looked up when I passed. I nodded. She nodded back. That was it.", "conditionNot": "asked_number_ep2" },
     { "type": "internalThought", "content": "There was no text thread. No context to do anything with a look in a hallway. Just — a look. And then we were both somewhere else.", "conditionNot": "asked_number_ep2" },
