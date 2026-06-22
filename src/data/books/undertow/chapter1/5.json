@@ -24,11 +24,11 @@
     { "type": "dialogue", "speaker": "Mara Voss", "content": "Yeah. It is." },
     {
       "type": "choice",
-      "prompt": "She said something real. What does Julian do with it?",
+      "prompt": "She noticed something about him that he doesn't say out loud about himself. What does he do?",
       "options": [
-        { "id": "ep1_julian_thanks", "label": "\"Thank you. For this.\"" },
-        { "id": "ep1_julian_silence", "label": "He says nothing. He looks at the water." },
-        { "id": "ep1_julian_deflect_water", "label": "\"The light on the water is different in the morning.\"" }
+        { "id": "ep1_julian_thanks", "label": "He says thank you. It costs him something to say it." },
+        { "id": "ep1_julian_silence", "label": "He says nothing. But he doesn't look away either." },
+        { "id": "ep1_julian_deflect_water", "label": "He changes the subject. It's easier than letting it land." }
       ]
     }
   ]

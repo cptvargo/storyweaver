@@ -4,7 +4,7 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "filed it. The listing detail. He didn't know yet what it meant.", "condition": "ep1_marcus_note" },
+    { "type": "consequence", "character": "Julian", "text": "had already seen it. Someone in that group had been watching someone else. He kept that detail separate from the rest.", "condition": "ep1_marcus_note" },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "He seems nice." },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "He is." },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "We should go tonight." },
@@ -25,10 +25,10 @@
     { "type": "dialogue", "speaker": "Julian Crane", "content": "We'll go at seven." },
     {
       "type": "choice",
-      "prompt": "Is it nothing?",
+      "prompt": "Nadia mentioned the area. Marcus found the listing. He thinks it was his idea.",
       "options": [
-        { "id": "ep1_nothing_yes", "label": "Yes. People suggest places to friends all the time." },
-        { "id": "ep1_nothing_no", "label": "Not sure yet. But probably not." }
+        { "id": "ep1_nothing_yes", "label": "It's a weekend trip with friends. People suggest places. Leave it alone." },
+        { "id": "ep1_nothing_no", "label": "Someone who suggests a location always has a reason for that specific location." }
       ]
     }
   ]

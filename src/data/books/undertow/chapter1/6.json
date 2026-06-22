@@ -17,7 +17,7 @@
     { "type": "dialogue", "speaker": "Cade Mercer", "content": "Perfect. We'll put you to work." },
     { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Nadia. The beach is best in the morning before the wind picks up. If you haven't been to this part of the coast before." },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "First time. Thank you — I'll be up early." },
-    { "type": "internalThought", "content": "She offered useful information to a stranger within thirty seconds of meeting her. Filed." },
+    { "type": "internalThought", "content": "Six of them. Marcus introduced everyone by name, got everyone's name back. Cade shook hands like he was running for something. Dean gave one look, clean and direct. Nadia gave useful information about the coast before anyone asked. Sophie pulled Mara in immediately. Wren said her name and nothing else." },
     { "type": "dialogue", "speaker": "Wren Cole", "content": "Wren." },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "Hi, Wren." },
     { "type": "dialogue", "speaker": "Marcus Calloway", "content": "We're doing a bonfire tonight if you two want to come by. Nothing fancy. Just a fire, good people." },
@@ -27,11 +27,11 @@
     { "type": "dialogue", "speaker": "Mara Voss", "content": "Then we'll definitely be there." },
     {
       "type": "choice",
-      "prompt": "Six people. What does Julian hold onto?",
+      "prompt": "Six people. One of them stays with you. Which one?",
       "options": [
-        { "id": "ep1_marcus_warm", "label": "Marcus — genuinely warm. Not performing it." },
-        { "id": "ep1_marcus_note", "label": "Nadia — first words out were useful information. Deliberate." },
-        { "id": "ep1_marcus_center", "label": "The way the group moved around Marcus without realizing it." }
+        { "id": "ep1_marcus_warm", "label": "The one who made everyone feel included — without trying." },
+        { "id": "ep1_marcus_center", "label": "The one who said her name and nothing else. Not shy. Deliberate." },
+        { "id": "ep1_marcus_note", "label": "The one who was watching someone else while everyone else was watching Marcus." }
       ]
     }
   ]

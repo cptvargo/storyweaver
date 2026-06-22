@@ -29,10 +29,10 @@
     { "type": "dialogue", "speaker": "Mara Voss", "content": "I find it impressive. They'll find it unsettling." },
     {
       "type": "choice",
-      "prompt": "What's in her expression when she says that?",
+      "prompt": "He reads people for a living. Does he read her?",
       "options": [
-        { "id": "ep1_mara_amused", "label": "Amusement. She's used to this." },
-        { "id": "ep1_mara_fond", "label": "Something a degree warmer than amusement." }
+        { "id": "ep1_mara_amused", "label": "He doesn't look. Some things he leaves alone on purpose." },
+        { "id": "ep1_mara_fond", "label": "He looks. There's something in it he hasn't named yet." }
       ]
     }
   ]

@@ -4,29 +4,28 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "looked at him for a long moment. Then looked back out the window. She didn't push it.", "condition": "ep1_julian_honest" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "This is it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Good location." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said you didn't look at the listing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I didn't need to." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You have been here forty seconds." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Elevated position. Private lot. Direct beach access." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Would it kill you to say nice house?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nice house." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Too late." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Don't." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I haven't done anything." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're looking at them." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "There are six vehicles." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "They're neighbors." },
+    { "type": "consequence", "character": "Mara", "text": "was already watching the house next door when she reached for her bag. She didn't say anything about it.", "condition": "ep1_comment_group" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Okay. The view from the back is actually incredible. Come look." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll be there in a minute." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said that and then you stood in the doorway for five minutes." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was looking at the layout." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Of our vacation rental." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's a good layout." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Coming." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Do you want to walk the beach before it gets dark? We have time." },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That is all they are." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That was fast." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "It was a yes or no question." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You usually find a third option." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Not this time." },
     {
       "type": "choice",
-      "prompt": "Julian looks toward the house next door. What does he do?",
+      "prompt": "He said yes immediately. Does he know why?",
       "options": [
-        { "id": "ep1_grab_bags", "label": "He grabs his bags without another word." },
-        { "id": "ep1_comment_group", "label": "\"One of them arrived separately. Within the last hour.\"" }
+        { "id": "ep1_yes_her", "label": "Yes. It wasn't about the beach." },
+        { "id": "ep1_yes_beach", "label": "The beach. He genuinely wanted to see it." },
+        { "id": "ep1_yes_unknown", "label": "He doesn't examine it. Some things are better left alone." }
       ]
     }
   ]
