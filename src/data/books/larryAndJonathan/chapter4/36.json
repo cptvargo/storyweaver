@@ -1,0 +1,33 @@
+{
+  "page": 36,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "You home much?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Sometimes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Your mom home?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "She works nights mostly. My uncle's there sometimes but —" },
+    { "type": "internalThought", "content": "He stopped on the but. Didn't finish it. Looked at the street instead." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You eat?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "I got chips." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That's not food." },
+    { "type": "dialogue", "speaker": "Diego", "content": "It has calories." },
+    { "type": "internalThought", "content": "He said it with a small half-smile — not self-pity, just the specific humor of someone used to making the best argument for whatever they had. I'd seen it before in kids who'd been managing things longer than they should've had to." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You should come over sometime. Mr. Cole always makes too much." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I'm good." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Wasn't asking if you were good. I was saying you should come over." },
+    { "type": "internalThought", "content": "He looked at me. For a second something shifted in his face — not quite surprised, just recalibrating. Like he was trying to decide if that was real or just something people say." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Maybe." },
+    { "type": "internalThought", "content": "We sat for a while after that. He finished the chips. A couple people from the block walked by and he nodded at them with the same measured look he used with everything — enough recognition, no invitation." },
+    { "type": "internalThought", "content": "Thirteen years old running his own security perimeter on a stoop." },
+    {
+      "type": "choice",
+      "prompt": "Larry invited Diego over. What made him do that?",
+      "options": [
+        { "id": "ep4_diego_trust", "label": "He sees something in Diego. Someone worth looking out for." },
+        { "id": "ep4_diego_instinct", "label": "He didn't plan it. It came out because it was the right thing to say." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 7,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Wednesday night. I was barely home when Jonathan called." },
+    { "type": "callStart", "caller": "Jonathan", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Before you say anything —" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I SAW you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know you did." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. BRUH." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Are you going to say something useful or are you going to just do that." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm celebrating. Give me a second. I've been waiting for this since episode one fr." },
+    { "type": "internalThought", "content": "He wasn't wrong. He'd been waiting longer than I had in some ways. I let him have it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Okay. Okay I'm good. Dead serious though — how'd it happen? You just —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "We were walking. It just happened." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "See that's all it was. That's literally all it ever was. You didn't need a plan. You just needed to be in the same place as her walking." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You coached me for two episodes." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I coached you to GET to the walk. The walk did the rest." },
+    { "type": "internalThought", "content": "He wasn't entirely wrong about that either. I let that one land too." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She coming to the game Friday?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't know. She mentioned her parents had some kind of trip planned." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Okay. Either way — you good." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah you are." },
+    { "type": "callEnd" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 16,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "We walked back. Halfway home Jonathan went quiet in the specific way he goes quiet before he says something he's been building up to." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "How are you doing. For real." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm okay." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm dealing with it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's different from okay." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. That's what I mean." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You should talk to Maya." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm not saying jump into something. I'm saying — she was asking Keisha about you this week. She noticed you were off." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't need to talk to Maya right now." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know you don't need to. I'm saying it might help. Crystal is gone. Maya is here. That's just facts." },
+    { "type": "internalThought", "content": "Crystal is gone. Maya is here. The way he said it — like those were two clean categories you could just sort between. Like the first one being gone made the second one a natural next step." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Goodnight, J." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm just trying to —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know what you're trying to do. Goodnight." },
+    { "type": "internalThought", "content": "He let it go. For that night." },
+    { "type": "internalThought", "content": "I walked the last two blocks alone. The phone was quiet in my pocket." }
+  ]
+}

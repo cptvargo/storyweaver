@@ -1,0 +1,29 @@
+{
+  "page": 27,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The week moved. Jonathan moved with it — same as always on the surface. But something had shifted in the pitch of his pushing. Like he'd decided Crystal's transfer proved him right about something, and the lesson was now in full effect." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. Maya's at her locker alone every morning. I'm just putting that out there." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm just saying. No pressure. Just data." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I hear you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She walked with you Friday." },
+    { "type": "dialogue", "speaker": "Larry", "content": "She was being kind." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh Maya doesn't do things just to be kind. She does things because she means them." },
+    { "type": "internalThought", "content": "He wasn't wrong about that. He was right about almost everything individual. But he kept assembling them into a conclusion that was his, not mine." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "All I'm saying is — you like this girl. You've liked her since Episode one. Crystal is gone — rest in peace to that situation — but Maya is right here. And you're over here treating it like a science project instead of just going to talk to her." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I talked to her." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "In the hall for twenty seconds doesn't count." },
+    { "type": "internalThought", "content": "Something tightened. Not anger yet. But the edge of something." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan keeps building toward a conclusion. Does Larry have to address this now?",
+      "options": [
+        { "id": "ep4_not_yet", "label": "Not yet. There's still room. Let it breathe." },
+        { "id": "ep4_almost_at_the_edge", "label": "He's getting close to the thing he's going to have to say." }
+      ]
+    }
+  ]
+}

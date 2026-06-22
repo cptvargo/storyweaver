@@ -1,0 +1,31 @@
+{
+  "page": 10,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday morning." },
+    { "type": "internalThought", "content": "I walked to her locker the same way I always walked to her locker. Same hall, same left turn, same morning light coming through the window at the end of the corridor." },
+    { "type": "internalThought", "content": "It was clean." },
+    { "type": "internalThought", "content": "No books. No jacket. No anything. The little magnet she kept on the inside of the door — the one she never said anything about but was always there — gone." },
+    { "type": "internalThought", "content": "I stood there for a second. People moved around me. The hall did what halls do. Nobody stops for this." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye." },
+    { "type": "internalThought", "content": "He came up slow. Not his regular speed. That told me he already knew I was standing here for a reason." },
+    { "type": "dialogue", "speaker": "Larry", "content": "She transferred." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You knew." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Maya told me this morning. She heard it from Keisha. I was coming to find you." },
+    { "type": "internalThought", "content": "He was already next to me. Not in front, not giving a speech — just next to me, looking at the same empty locker." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "....She used to ask me about you." },
+    { "type": "internalThought", "content": "There it was." },
+    { "type": "internalThought", "content": "I didn't say anything. I just let it sit." },
+    {
+      "type": "choice",
+      "prompt": "She used to ask Jonathan about Larry. How long had she been doing that?",
+      "options": [
+        { "id": "ep4_asked_since_beginning", "label": "From the beginning. She saw something and she was patient about it." },
+        { "id": "ep4_asked_recently", "label": "Recently. After the steps scenes. After she decided he was worth the wait." }
+      ]
+    }
+  ]
+}

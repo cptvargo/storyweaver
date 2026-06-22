@@ -1,0 +1,25 @@
+{
+  "page": 19,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "consequence", "character": "Crystal", "text": "needed you to know.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know. That's why this is so hard.", "condition": "ep4_felt_same_way" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Larry...", "condition": "ep4_is_there_any_way" },
+    { "type": "internalThought", "content": "She couldn't finish the sentence. A long pause. Then:", "condition": "ep4_is_there_any_way" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I don't know.", "condition": "ep4_is_there_any_way" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You don't have to. I just needed you to know.", "condition": "ep4_dont_know_what_to_say" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "It's okay. I just wanted you to hear it.", "condition": "ep4_crystal_silence" },
+    { "type": "internalThought", "content": "We stayed on the phone for a while after. Not saying much. She settled. I could hear it happening — the breathing evening out, the silences getting longer in the comfortable way instead of the hard one.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I have to go back in. My mom's been patient.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm glad I called.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Me too.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Goodnight, Larry.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Goodnight.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "The line went quiet. I held the phone for a minute after. Just sat there with it.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She'd been on those steps of a house she didn't know yet in a city she didn't know yet, and the first thing she did with her first moment alone was call me. She asked Jonathan about me. She was waiting on those school steps the same way I was waiting. And then her parents made a decision and now she was in Atlanta and I was sitting on my bed with my shoes still on at eleven at night.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't sleep much.", "condition": "asked_number_ep2" }
+  ]
+}

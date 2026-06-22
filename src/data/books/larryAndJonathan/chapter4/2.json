@@ -1,0 +1,23 @@
+{
+  "page": 2,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Tuesday. We walked to school the same way we always did but it was different. She fell into step beside me at the corner of Monroe and we didn't make a thing of it." },
+    { "type": "internalThought", "content": "That was the part I kept turning over. How easy it was. After all the months of almost and not-quite — now it was just easy." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Did you finish the history reading?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Most of it." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I have the rest if you need it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're going to let me copy your notes." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm going to let you borrow my notes. There's a difference." },
+    { "type": "dialogue", "speaker": "Larry", "content": "The difference being." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Borrowing implies you'll understand what you're reading." },
+    { "type": "internalThought", "content": "She bumped my shoulder with hers and kept walking. I let myself smile, just a little. There are things you wait for and things you think you want and then the real version turns out to be better than all of it. Easier. Like it was always the shape of something that should be there." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You're doing that quiet thing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm always quiet." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You're doing the specific quiet. The one where you're thinking something you're not going to say." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm just glad." },
+    { "type": "internalThought", "content": "She nodded — small and certain. Like that was enough. Because it was." }
+  ]
+}

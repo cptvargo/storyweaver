@@ -1,0 +1,37 @@
+{
+  "page": 39,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday. Second to last day of October." },
+    { "type": "internalThought", "content": "I was cutting through the park on the way home — the long way, because I needed the extra blocks. The air was cold in that specific way that means it means it now. Not pretending." },
+    { "type": "internalThought", "content": "Diego was there. On a bench near the courts, backpack between his feet, watching the empty court like there was a game going on. He had one earbud in. The other dangled." },
+    { "type": "internalThought", "content": "I sat down. He pulled the earbud out." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You okay?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Yeah. Just didn't feel like going home yet." },
+    { "type": "internalThought", "content": "He said it like it was nothing. Just a logistical decision. But I knew a little about what was at home." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Your mom working tonight?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Yeah. Double." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Your uncle?" },
+    { "type": "dialogue", "speaker": "Diego", "content": "Probably." },
+    { "type": "internalThought", "content": "He didn't elaborate. I didn't push. We both understood what probably meant in that sentence." },
+    { "type": "dialogue", "speaker": "Diego", "content": "You ever get tired of doing the math?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What math." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Every time you go somewhere. Every time you make a move. Is this safe, is that guy going to be a problem, which way do I walk home — all of it. The math. You ever just want to go somewhere where you don't have to run it every time?" },
+    { "type": "internalThought", "content": "He was looking at the empty court. Thirteen years old and tired in the bone way." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. I want that." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I just want to walk somewhere without knowing who's on which corner first." },
+    { "type": "internalThought", "content": "We sat until it got cold. A few kids came to the court eventually, started shooting around. Diego watched them for a while — not envious, just watching. Like he was trying to remember what that looked like from the outside." },
+    { "type": "internalThought", "content": "We went our separate ways when it got dark. I walked home thinking about the math comment. About a thirteen-year-old sitting on a park bench because home had the wrong person in it." },
+    { "type": "internalThought", "content": "I thought: he needs something to move toward. Everybody does." },
+    {
+      "type": "choice",
+      "prompt": "Diego. Thirteen years old doing math he shouldn't have to do yet. What does Larry feel sitting there with him?",
+      "options": [
+        { "id": "ep4_diego_door_good", "label": "That he's going to be okay. He's smarter and more careful than the block deserves." },
+        { "id": "ep4_diego_door_uncertain", "label": "That being careful isn't always enough. And that's what scares him." }
+      ]
+    }
+  ]
+}

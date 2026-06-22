@@ -1,0 +1,30 @@
+{
+  "page": 30,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "I heard him before I turned around." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Was that Jonathan?" },
+    { "type": "internalThought", "content": "He was in the doorway. Pajamas. He should've been asleep twenty minutes ago." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Is he mad?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "We just had a disagreement." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "About the girl?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You were supposed to be asleep." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "I was almost asleep." },
+    { "type": "internalThought", "content": "He came and sat down on the edge of the bed. He was quiet for a second in the way he gets quiet when he's carrying something he doesn't know how to say yet." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Is that the girl from the steps?" },
+    { "type": "internalThought", "content": "There it was." },
+    { "type": "internalThought", "content": "He'd known. He'd been carrying it since whenever he first overheard something. He just waited until now — the worst possible moment and somehow exactly the right one." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. That's her." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "She moved?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "....I'm sorry." },
+    { "type": "internalThought", "content": "He said it the way kids say things — direct and complete. No hedging. No 'I mean I'm sure it'll work out.' Just: I'm sorry." },
+    { "type": "internalThought", "content": "I reached over and put my hand on top of his head the way I used to when he was smaller." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Go to bed." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Okay." },
+    { "type": "internalThought", "content": "He went." }
+  ]
+}

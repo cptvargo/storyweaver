@@ -1,0 +1,30 @@
+{
+  "page": 4,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "consequence", "character": "Larry", "text": "sat with it through third period. Couldn't shake it.", "condition": "ep4_diego_warning_serious" },
+    { "type": "internalThought", "content": "Lunch. Jonathan's table. Full house — Marcus, DeShawn, two guys from the team I'd learned by then. Normal noise. But Jonathan had his reading-the-room face on and I'd learned what that meant." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Daniel's been quiet three days." },
+    { "type": "dialogue", "speaker": "Marcus", "content": "That might be it. He moved on." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Nah. That ain't it." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "He been watching you though." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Watching me." },
+    { "type": "dialogue", "speaker": "DeShawn", "content": "In the hall this morning. You turned right at the science wing, he was at the end of it. Didn't say anything. Just watched." },
+    { "type": "internalThought", "content": "Quiet moves differently than loud. I'd written that down somewhere." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "He's regrouping. Bruh trust me — someone like Daniel doesn't walk away from something when there's still other people watching. He got embarrassed. He's gonna want to reset." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Then he'll reset." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh I'm trying to say you should be ready." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm ready." },
+    { "type": "internalThought", "content": "Jonathan held my eye for a second like he was checking whether I meant it. Then he nodded and moved on. I think he believed me." },
+    {
+      "type": "choice",
+      "prompt": "DeShawn saw Daniel watching. Does Larry take that seriously?",
+      "options": [
+        { "id": "ep4_daniel_take_seriously", "label": "Yes. Quiet Daniel is more dangerous than loud Daniel." },
+        { "id": "ep4_daniel_not_worried", "label": "He's not going to live in fear of Daniel Snyder." }
+      ]
+    }
+  ]
+}

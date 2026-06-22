@@ -1,0 +1,41 @@
+{
+  "page": 18,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "I've been trying to figure out what to say since I found out Thursday night. I wrote it in my head a hundred times.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Take your time.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Since the first day I noticed you.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I went still. Something tightened in my chest.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know we barely — I know you probably think I'm doing a lot right now. But I'm already gone and I —", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I need you to know.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her voice caught on the last word. Not dramatically. Just — it wasn't fully there for a second. She steadied.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You were captivating to me from the beginning. Every time you looked at me I could feel it — like you were actually seeing me, not just looking. I used to find reasons to walk by. I used to ask Jonathan about you.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She asked Jonathan about me. The whole time. While I was on those steps trying to figure out how to say something.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I kept thinking — he'll say it today. He'll say it this time on the steps. And then you did, and then Wednesday happened, and then my parents sat me down Thursday night and —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She stopped. Longer this time. I could hear the street around her — a car going by somewhere, a distant sound she didn't recognize yet.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "My parents taught me love is serious. That it's something you invest in and you don't waste. And I wanted —", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I wanted you to be that person for me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Something cracked open. That sentence. The way she said it — like she'd been holding it so carefully and it finally slipped out onto the steps of a house that wasn't home yet.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm scared you're going to find someone and I'm going to have to make peace with that from a thousand miles away. I've been sitting on these steps trying to make peace with it and I —", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Sorry. Give me —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She couldn't finish it. I heard her put the phone away from her face for a second. A breath. Two. Then she came back.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm sorry. I told myself I wasn't going to —", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Don't apologize.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I just wanted you to know it was real. Whatever you thought about me — it was real. I wasn't just passing time.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her voice went again. I could feel it through the phone — the weight of everything she'd been carrying since Thursday night, coming through all at once. Sitting on the front steps of a strange house in Atlanta, alone for the first time all day, finally saying it.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "My heart melted every time you looked at me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She said it quietly. Like a fact she'd never meant to say out loud.", "condition": "asked_number_ep2" },
+    {
+      "type": "choice",
+      "prompt": "She said everything. What does Larry say?",
+      "options": [
+        { "id": "ep4_felt_same_way", "label": "\"I felt the same way. I just — I didn't know how to say it.\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_is_there_any_way", "label": "\"Is there any way — is Atlanta really —\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_dont_know_what_to_say", "label": "\"I don't know what to say right now.\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_crystal_silence", "label": "[He doesn't say anything. He just stays on the line.]", "condition": "asked_number_ep2" }
+      ]
+    }
+  ]
+}

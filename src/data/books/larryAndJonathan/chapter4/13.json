@@ -1,0 +1,21 @@
+{
+  "page": 13,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The game was something. I'll say that." },
+    { "type": "internalThought", "content": "Jonathan was different on the field this time — not better exactly, but more settled. Like he'd stopped trying to prove something and was just playing. It looked easier. Those are usually the best performances." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "HE GOT IT." },
+    { "type": "internalThought", "content": "Third quarter. First score. Larry Jr. was standing and I didn't even try to tell him to sit." },
+    { "type": "internalThought", "content": "Jonathan found me in the stands after the second catch. Just for a second — the way athletes do when they need to connect to something outside the field to remind themselves why. He held it for a beat. I nodded." },
+    { "type": "internalThought", "content": "He nodded back and went." },
+    { "type": "internalThought", "content": "That was the whole conversation. I needed it as much as he did." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "He saw you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Why does he look at you like that?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Like what." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Like you're a person he needs." },
+    { "type": "internalThought", "content": "I didn't say anything. We watched the game. The lights stayed up and the crowd made its sounds and for a little while everything that was heavy went somewhere in the back where I could still feel it but didn't have to look directly at it." }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": 37,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Tuesday. Maya again. This time in the cafeteria — she was at the end of a table with her sketchbook open, alone in the specific way that means she chose it." },
+    { "type": "internalThought", "content": "Jonathan wasn't there. It was just me and an empty chair." },
+    { "type": "internalThought", "content": "I sat down." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey. You drawing?" },
+    { "type": "dialogue", "speaker": "Maya", "content": "Trying to. My brain won't leave me alone today." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What's it doing." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Cataloguing every mistake I made in the last two weeks. You know how it is." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Does that happen to you?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "More than I want to admit." },
+    { "type": "dialogue", "speaker": "Maya", "content": "What do you do with it." },
+    { "type": "internalThought", "content": "I thought about that for a second. The real answer, not the easy one." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I sit with it until it gets smaller. Sometimes that takes a day. Sometimes longer. But it always gets smaller eventually." },
+    { "type": "dialogue", "speaker": "Maya", "content": "That's actually helpful." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Don't sound so surprised." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I'm not — I'm just —" },
+    { "type": "internalThought", "content": "She laughed. Not a polite one. A real one." },
+    { "type": "internalThought", "content": "We talked for the rest of lunch. Not about anything big. About the sketchbook, about a show she was watching, about the math teacher who could not figure out the projector. It was easy in a way I hadn't felt in a while." },
+    { "type": "internalThought", "content": "When the bell went she closed the sketchbook and didn't make anything out of it. Just: 'see you,' and walked." },
+    { "type": "internalThought", "content": "That was the whole thing. And it was enough." }
+  ]
+}

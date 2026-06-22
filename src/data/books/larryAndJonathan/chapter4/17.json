@@ -1,0 +1,30 @@
+{
+  "page": 17,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Home. Mr. Cole's car pulling away. The apartment quiet in the specific way it gets when Larry Jr. has been asleep for a while — not empty, just still. Settled into itself." },
+    { "type": "internalThought", "content": "I didn't turn on the light. I sat on the edge of the bed with my jacket still on and my shoes still on and I just sat." },
+    { "type": "internalThought", "content": "I kept going back to Wednesday. The way her hand felt when she shifted her fingers so they fit right. The way she kept talking like nothing had changed even though everything had." },
+    { "type": "internalThought", "content": "Three days ago. Wednesday was three days ago and now her locker was a clean empty square." },
+    { "type": "internalThought", "content": "My phone lit up on the mattress beside me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her number.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I picked it up. Let it ring once — not to make her wait, just because I needed one second to get myself right before I answered.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Hey.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her voice was different. Not broken — not crying, not anything dramatic. Just still in a way it never was. Like all the energy that usually moved through it had gone somewhere else.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "A pause. I could hear where she was — not inside. Outdoor sounds. Distant traffic. Different from home.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm outside.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Outside where.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "The new house. My parents are inside — I can hear them through the door, moving stuff around. I've been in the car since this morning and then in rooms that smell like cardboard boxes and —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She stopped. Not because she was done — because she needed a second.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "This is the first time I've been alone all day.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I sat with that. She'd been in a car, then a house that wasn't hers, surrounded by her parents and their voices and moving boxes, and the first moment she had to herself she came outside and called me.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I don't know this street yet. Every neighborhood has its own sounds at night, you know? I don't know these ones.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I could hear what she meant. Something in the background — not anything I could name, just different. Farther away from everything familiar.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't say anything. I just stayed on the line.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "The phone stayed quiet. The night went on.", "conditionNot": "asked_number_ep2" },
+    { "type": "internalThought", "content": "He didn't know until Monday morning — Jonathan, gently: she called Maya. She'd tried to reach someone who knew Larry. She'd tried.", "conditionNot": "asked_number_ep2" }
+  ]
+}

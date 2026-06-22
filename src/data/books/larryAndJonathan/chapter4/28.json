@@ -1,0 +1,24 @@
+{
+  "page": 28,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday evening. One week after. I was home doing homework when Jonathan chirped." },
+    { "type": "callStart", "caller": "Jonathan", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye you good?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Doing homework." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Right. Look. There's something happening Friday after school — Marcus knows a spot, some people going to hang. Maya's gonna be there. I told her you might come." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You told her that without asking me." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Because I knew what you'd say if I asked first." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Then why tell her." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh I'm trying to help you. You're not going to do it on your own — we both know that. I got you up to speed with Crystal and you waited too long and she's in Atlanta now. I'm not letting that happen again." },
+    { "type": "internalThought", "content": "Something broke open." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You kept pushing me with Crystal. You coached me through every step of that. And she's still gone." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's not — I was trying to help —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know you were trying to help. But you decided what help meant without asking me. You kept telling me when to move and how to move and I didn't say anything because you were right that I needed a push. But J —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I need you to let me make my own mistakes." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not asking you to stop being my friend. I'm asking you to let me be a person." }
+  ]
+}

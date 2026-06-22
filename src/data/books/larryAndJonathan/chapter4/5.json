@@ -1,0 +1,31 @@
+{
+  "page": 5,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Tuesday after school. Daniel caught me in the hall between the gym and the south stairwell. He wasn't loud this time. That was the difference." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Yo. Jenkins." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Daniel." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You think that was funny. What happened in the hall with your boy." },
+    { "type": "internalThought", "content": "He meant Jonathan. Jonathan hadn't even done anything — he'd just looked at Daniel a certain way and Daniel had walked off. But that's the kind of thing that costs Daniel a lot apparently." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I wasn't there for that." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "Right. But now I'm here." },
+    { "type": "internalThought", "content": "He wasn't going to throw a punch in the hallway. He was too smart for that now — he'd learned something from Episode 1 even if he'd never say so. But he wanted me to flinch. That was the whole thing." },
+    { "type": "consequence", "character": "Larry", "text": "didn't flinch. He'd decided that before the conversation started.", "condition": "ep4_daniel_take_seriously" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not in what happened with Jonathan." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You're always in it. You think you're not." },
+    { "type": "dialogue", "speaker": "Larry", "content": "We're done here, Daniel." },
+    { "type": "dialogue", "speaker": "Daniel", "content": "You said that last time." },
+    { "type": "dialogue", "speaker": "Larry", "content": "And here we are." },
+    { "type": "internalThought", "content": "He didn't move for a second. And then he stepped back. Not far — just enough to let me pass. His jaw was set in a way that said this wasn't over. I walked through." },
+    {
+      "type": "choice",
+      "prompt": "Daniel stepped back. But he didn't leave.",
+      "options": [
+        { "id": "ep4_daniel_not_done", "label": "That's not a win. That's just a pause. He'll be back." },
+        { "id": "ep4_daniel_handled", "label": "He held his ground. That's all he could do. The rest isn't his to control." }
+      ]
+    }
+  ]
+}

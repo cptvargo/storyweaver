@@ -1,0 +1,35 @@
+{
+  "page": 15,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Mr. Cole took Larry Jr. home. I waited for Jonathan outside the locker room. He came out still buzzing but lower than usual — the kind of lower that means he's thinking about something instead of just moving through it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Good game yeah?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. You were locked in." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "The second catch I saw the corner sitting before the snap. Soon as the ball was out I knew." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I heard." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You heard me say it to —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "To Stacy. Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "....I was explaining the route." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know what you were doing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "She asked." },
+    { "type": "dialogue", "speaker": "Larry", "content": "She knew about the corner sitting before you explained it." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah I found that out AFTER I explained it. Which —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You panicked." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh I did not panic." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You rechecked yourself when she was thirty feet away." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I was just — I was straightening my jersey." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "......I slightly panicked." },
+    { "type": "internalThought", "content": "That was maybe the most honest thing he'd said all night. I didn't make it a thing. Some things you leave alone." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan told Larry something he'd never say in front of anyone else. What does Larry do with it?",
+      "options": [
+        { "id": "ep4_jonathan_private_keep", "label": "Keep it. This is what the friendship actually is." },
+        { "id": "ep4_jonathan_private_tease", "label": "File it for later. Not now — but eventually." }
+      ]
+    }
+  ]
+}

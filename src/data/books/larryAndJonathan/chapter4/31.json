@@ -1,0 +1,24 @@
+{
+  "page": 31,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Friday came and I did not go to Marcus's spot. I did not text Jonathan about it. I did homework and stayed in and let my phone be quiet." },
+    { "type": "internalThought", "content": "Saturday morning. I was on the front steps with a book I wasn't reading when Mr. Cole came out of his apartment and stood there for a second, looking at nothing in particular." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You been out here a while." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Not that long." },
+    { "type": "internalThought", "content": "He sat down on the step above me. Not next to me — above. The way someone sits when they're not trying to crowd you but they're not going anywhere either." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Your brother told me you had a bad week." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He did." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "He ask permission to tell me?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm guessing no." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Mm." },
+    { "type": "internalThought", "content": "We sat. A car went by. Someone across the street called someone else's name." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Girl transferred?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "And you and Jonathan had a falling out about it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Something like that." },
+    { "type": "internalThought", "content": "He didn't push the something like that. That was the thing about Mr. Cole — he waited for the actual sentence, not the first version of it." }
+  ]
+}

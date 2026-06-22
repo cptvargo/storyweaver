@@ -1,0 +1,27 @@
+{
+  "page": 9,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Home by four. I checked my phone twice before I put it on the counter." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "You got a game tomorrow?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan does. I'm going to watch." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Can I come?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You'd have to ask Mr. Cole." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Mr. Cole says if you say yes he'll say yes." },
+    { "type": "dialogue", "speaker": "Larry", "content": "When did he say that." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Yesterday. He says I follow your lead." },
+    { "type": "internalThought", "content": "I stood with that for a second." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. You can come." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Is Jonathan going to do the thing?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Good." },
+    { "type": "internalThought", "content": "He went back to whatever he was drawing. I picked up my phone. No new message from Crystal." },
+    { "type": "internalThought", "content": "I put it back down." },
+    { "type": "internalThought", "content": "The evening moved. Dinner. Homework. Larry Jr. eventually asleep. I checked my phone one more time before bed." },
+    { "type": "internalThought", "content": "Nothing." },
+    { "type": "internalThought", "content": "I told myself she'd explain in the morning. That was probably true. That was probably what was happening." },
+    { "type": "internalThought", "content": "I went to sleep telling myself that." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page": 34,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Sunday. I didn't hear from Jonathan. I didn't reach out either. We'd been quiet before — never this particular kind of quiet. But quiet." },
+    { "type": "internalThought", "content": "I thought about what Mr. Cole said. The friend who took good advice as the wrong kind of thing. How it cost something even when it worked out." },
+    { "type": "internalThought", "content": "I thought about Jonathan at the game — the way he played when he stopped performing and started just doing it. The way Larry Jr. watched him from the bleachers like he was studying something." },
+    { "type": "internalThought", "content": "I knew he wasn't going to be my enemy. That wasn't what this was. But something had been named and now it was named and you can't un-name something." },
+    { "type": "internalThought", "content": "The week started again. Monday morning, hallway, lockers. Jonathan was there before me. He saw me coming." },
+    { "type": "internalThought", "content": "He gave me a nod. Not a word. Just the nod — that slow, measured one that means: I see you. We're good. Not right now. But we're good." },
+    { "type": "internalThought", "content": "I nodded back." },
+    { "type": "internalThought", "content": "Sometimes that's enough. Sometimes that's the whole conversation for a while." },
+    {
+      "type": "choice",
+      "prompt": "The nod. Two people agreeing without saying it. What does that feel like?",
+      "options": [
+        { "id": "ep4_nod_relief", "label": "Relief. It doesn't have to be dramatic. They know what they are." },
+        { "id": "ep4_nod_unsettled", "label": "It's not enough yet. There's still something that needs to be said." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "page": 12,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "The game was at seven. Mr. Cole drove me and Larry Jr. Larry Jr. had his jacket buttoned all the way up and was holding the program like it was an important document." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Is Jonathan already out there?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "He's been warming up for six hours probably." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "That's not too much?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "For Jonathan? No." },
+    { "type": "internalThought", "content": "Mr. Cole parked. We walked in. The lights were already up. There's something about stadium lights at night that makes everything feel more serious than the day." },
+    { "type": "internalThought", "content": "Maya was in the stands with Keisha. She didn't wave but she saw me — I know she did. Something in the way she didn't react told me she'd already heard about Crystal." },
+    { "type": "internalThought", "content": "I sat with Larry Jr. in the third row. He was already standing." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "There he is. Number 4." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Sit down." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "He looked at us." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He was looking at the field." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "He looked at us first." },
+    { "type": "internalThought", "content": "I looked out at the field. Jonathan was down on the near end zone, not stretching anymore — just standing there, loose and ready, looking at nothing specific. He was already somewhere else entirely." },
+    {
+      "type": "choice",
+      "prompt": "Everything that happened today. Can Larry actually be here right now?",
+      "options": [
+        { "id": "ep4_game_present", "label": "For Larry Jr. Yes. He can set it down for two hours." },
+        { "id": "ep4_game_carrying_it", "label": "He's here but he's also still in that hallway. Both at once." }
+      ]
+    }
+  ]
+}

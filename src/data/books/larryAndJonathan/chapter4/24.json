@@ -1,0 +1,24 @@
+{
+  "page": 24,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Saturday. The apartment was still. Larry Jr. was watching something in the other room. I sat by the window for a long time without doing anything specific." },
+    { "type": "internalThought", "content": "I kept turning the call over. Not painfully — just the way you turn something over when you're not ready to put it down yet. The sound of her voice on those front steps. The different city sounds around her. The part about wanting me to be that person." },
+    { "type": "internalThought", "content": "She'd been sitting on the steps of a house that wasn't home yet, in a neighborhood she didn't know, and she called me because that's what the first moment alone was for." },
+    { "type": "internalThought", "content": "That was something. I didn't know what to do with it yet. But it was something." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "You been sitting there a while." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm thinking." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "About the girl?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Partly." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Is she okay?" },
+    { "type": "internalThought", "content": "I thought about that for a second. The honest answer." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I think so. She's somewhere new. It takes a minute." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "But she called you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Larry Jr.", "content": "Then she's okay." },
+    { "type": "internalThought", "content": "He went back to his show. Six years old and absolutely certain." },
+    { "type": "internalThought", "content": "I stayed by the window a while longer. The week had been a lot. But the weekend was quiet and the apartment was warm and Larry Jr. was in the other room, and sometimes that's what you need before you can figure out the next thing." }
+  ]
+}

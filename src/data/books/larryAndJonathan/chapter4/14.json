@@ -1,0 +1,30 @@
+{
+  "page": 14,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "After the game. The field cleared slowly. Players came out to family and friends. I had Larry Jr. by the hand so he wouldn't disappear into the crowd." },
+    { "type": "internalThought", "content": "That's when I saw it." },
+    { "type": "internalThought", "content": "Stacy Kittens. Coming across the field toward Jonathan like she'd had it mapped. Not rushing. That specific walk that means you know exactly where you're going and you want the other person to see you coming." },
+    { "type": "internalThought", "content": "Jonathan saw her when she was still thirty feet out. His whole body did something I'd never seen it do before — a very small adjustment. He stood differently. He rechecked himself." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "Good game." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Appreciate that." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "The second catch especially. That was yours before the ball even got there." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Yeah — yeah, I saw the corner sitting when they broke the huddle. Just had to —" },
+    { "type": "internalThought", "content": "He stopped himself. Recalibrated. He'd started explaining like he was talking to his coach. He pulled back and tried again." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You know about routes?" },
+    { "type": "dialogue", "speaker": "Stacy", "content": "My brother played. I grew up watching film on Saturday mornings." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Oh word." },
+    { "type": "dialogue", "speaker": "Stacy", "content": "Saturday morning film is not optional in my house." },
+    { "type": "internalThought", "content": "She smiled at him. Not the kind of smile that's trying to get something. Just warm, direct, and entirely at ease. Jonathan was not entirely at ease. For the first time in my life I watched Jonathan Michaels have to try." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is having to work for this one. What does Larry think about that?",
+      "options": [
+        { "id": "ep4_stacy_good_for_him", "label": "Good. He needs someone who doesn't just give him everything." },
+        { "id": "ep4_stacy_watching", "label": "Interesting. File it. You can tease him about it later." }
+      ]
+    }
+  ]
+}

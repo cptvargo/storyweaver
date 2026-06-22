@@ -1,0 +1,22 @@
+{
+  "page": 41,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "November came." },
+    { "type": "internalThought", "content": "The block went colder. The days got shorter. Diego still showed up at the park some evenings — sometimes I'd see him on the way home and we'd sit for a few minutes before it got too dark. He never took me up on the dinner offer but he stopped saying I'm good to it. That felt like progress." },
+    { "type": "internalThought", "content": "Jonathan won his second game of the season. Larry Jr. was there again — said he was going to every one now, like that was a decision he'd made and nobody had signed off on it. Mr. Cole drove us both times without being asked." },
+    { "type": "internalThought", "content": "Daniel Snyder stayed quiet. The confrontation in the hall had gone nowhere — he'd backed down in front of me twice and there was nobody watching the second time, which meant it was real and not just performance. Something had shifted in the equation. I didn't trust it fully. But it was different." },
+    { "type": "internalThought", "content": "Maya and I had a real conversation. Not about anything specific. About what we wanted after high school. She wanted to study design somewhere far enough away that nobody already knew her version of herself. I said I understood that. I did." },
+    { "type": "internalThought", "content": "November is the month where everything that's going to be a thing starts to feel like a thing. I could feel it — the year finding its permanent shape. Some of it good. Some of it still uncertain. All of it mine." },
+    {
+      "type": "choice",
+      "prompt": "November. The year finding its shape. What does that feel like from where Larry is standing?",
+      "options": [
+        { "id": "ep4_november_solid", "label": "Solid. Like the ground actually holds him now." },
+        { "id": "ep4_november_unfinished", "label": "There's still something unresolved. He can feel it out there." }
+      ]
+    }
+  ]
+}

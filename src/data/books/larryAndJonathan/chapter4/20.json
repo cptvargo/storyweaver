@@ -1,0 +1,26 @@
+{
+  "page": 20,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "I've been trying to figure out what to say since last night. I wrote it in my head a hundred different ways in the car.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "You don't have to have it figured out.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know. I just — I didn't want to mess it up.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Something about the way she said that. Like what she was about to say mattered enough to be afraid of.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Since the first day I noticed you.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I stopped. Not moving, not breathing — just stopped. Something in those words rearranged something.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I know that probably sounds like a lot. I know we barely — I know you don't know everything about me yet. But I'm already gone and if I don't say it now —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She stopped herself. Steadied.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I need you to know.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her voice didn't break on that. It held. But barely.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm listening.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You were captivating to me from the beginning. I don't say things like that — you can ask anybody who knows me, I don't talk like that. But there's no other word for it. Every time you looked at me I felt it. Like you were actually seeing me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I was sitting completely still in the dark. My whole apartment had gone quiet in a way that had nothing to do with the volume.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I used to find reasons to walk by. I would take the long way to class just to go past your hallway. I used to ask Jonathan about you.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She asked Jonathan about me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She asked Jonathan. While I was on those steps trying to figure out how to say something. While I was in my head about timing and the right moment. She was already asking.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I kept thinking — he'll say something today. He'll say it this time on the steps. And then you said it. And then Wednesday happened and I thought —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She went quiet. Long enough that I could hear the street around her. An engine somewhere. A dog. Nothing I recognized.", "condition": "asked_number_ep2" }
+  ]
+}

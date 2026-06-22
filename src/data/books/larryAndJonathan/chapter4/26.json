@@ -1,0 +1,20 @@
+{
+  "page": 26,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Keisha found me by the water fountain before lunch. She didn't do a buildup." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "I'm still watching. For the record." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "She's not Crystal. She's different." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Keisha —" },
+    { "type": "dialogue", "speaker": "Keisha", "content": "I'm not rushing you. I'm just saying she's not a replacement. She's her own thing. You should know that before Jonathan tries to connect those dots for you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know what Jonathan is doing." },
+    { "type": "dialogue", "speaker": "Keisha", "content": "I know Jonathan." },
+    { "type": "internalThought", "content": "She turned and walked. One line. Perfect execution." },
+    { "type": "internalThought", "content": "Keisha had said in Episode 1 she was watching. This was that. She hadn't forgotten, hadn't softened the promise. She'd just waited for the right moment to prove it." },
+    { "type": "internalThought", "content": "Maya isn't Crystal. She's her own thing." },
+    { "type": "internalThought", "content": "I thought about that for the rest of the day." }
+  ]
+}

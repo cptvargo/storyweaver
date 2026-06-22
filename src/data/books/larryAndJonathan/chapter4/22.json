@@ -1,0 +1,25 @@
+{
+  "page": 22,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm sorry. I told myself I wasn't going to do that.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Don't apologize.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I just need you to know it was real. Everything on those steps — every time I found an excuse to walk by — it was real. I wasn't just passing time with you.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "Her voice was coming and going now. She was keeping herself together but it was close. I could feel it — the weight of everything she'd been holding since Thursday night, since the car ride, since hours of being in rooms that weren't hers yet. This was the first time she'd let it move.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "My heart melted every time you looked at me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She said it quietly. Like it had been inside her for a long time and finally just — came out. Not dramatic. Not a performance. Just a fact she'd been carrying alone.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't say anything right away. I let it be in the air between us — Atlanta and home, her front steps and my dark room, this phone that was the only thing connecting us.", "condition": "asked_number_ep2" },
+    {
+      "type": "choice",
+      "prompt": "She said it. What does Larry give back?",
+      "options": [
+        { "id": "ep4_felt_same_way", "label": "\"I felt the same way. I just — I didn't know how to say it.\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_is_there_any_way", "label": "\"Is there any way — is Atlanta really —\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_dont_know_what_to_say", "label": "\"I don't know what to say right now.\"", "condition": "asked_number_ep2" },
+        { "id": "ep4_crystal_silence", "label": "[He stays on the line. He doesn't say anything. He just doesn't leave.]", "condition": "asked_number_ep2" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "page": 3,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Diego was outside after second period. Sitting on the low wall by the front steps like he had every right to be there, which he did not. His school was six blocks the other direction." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Aye." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You skipped." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I walked." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You're thirteen." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I walk fast." },
+    { "type": "internalThought", "content": "Diego Salavara. Thirteen years old, half a head shorter than me, wore a hoodie three sizes too big because it used to belong to someone else. Smart in the way kids get when they've had to be. He knew things a thirteen-year-old shouldn't know because he was always around people who were older and nobody had ever told him to go home." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What are you doing here." },
+    { "type": "dialogue", "speaker": "Diego", "content": "There's a guy. On the block. He's been asking about you — where you go, your name. I heard him twice." },
+    { "type": "internalThought", "content": "I kept my face still. Diego was watching me the way he always did — careful, reading the response." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You say anything." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Said I didn't know you like that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He buy it." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I think so." },
+    { "type": "internalThought", "content": "He said it steady. Not scared, not boasting. Just reporting what he knew, the way he always did. Sometimes I forgot how young he was until I looked at him directly — the face was still a kid's face, even when the words came out measured like that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Go back to school." },
+    { "type": "dialogue", "speaker": "Diego", "content": "I'm going. I just wanted to tell you." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay. I heard you. Thank you." },
+    { "type": "internalThought", "content": "He hopped off the wall and walked. Thirteen years old walking back through the neighborhood alone like it was nothing." },
+    {
+      "type": "choice",
+      "prompt": "Someone is asking about Larry by name. What does that mean?",
+      "options": [
+        { "id": "ep4_diego_warning_serious", "label": "That's not casual. Someone is looking for him specifically." },
+        { "id": "ep4_diego_warning_wait", "label": "Could be nothing. Wait before you react." }
+      ]
+    }
+  ]
+}

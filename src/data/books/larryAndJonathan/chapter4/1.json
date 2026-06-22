@@ -1,0 +1,31 @@
+{
+  "page": 1,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Monday. Something had shifted and Jonathan picked it up the moment he saw me." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bro." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You look different." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I look the same." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "No cap you look like someone who finally exhaled. What happened after the movies?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Nothing happened." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh. I know your face. Something happened." },
+    { "type": "internalThought", "content": "Something happened." },
+    { "type": "internalThought", "content": "We'd walked back from the theater and the air was cold and she'd bumped into my shoulder and then didn't move away. And then we were holding still in a parking lot at 10pm saying nothing and saying everything. And then she looked at me the way that meant she wasn't going to do the thing unless I did. So I did. And it was real." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It was a good night." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I KNEW it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Keep your voice down." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I am keeping my voice down. Relatively. My guy. Finally." },
+    { "type": "internalThought", "content": "He was genuinely happy. Not smug — just happy the way someone is when they've been rooting for something and it finally worked out. I didn't say anything else about it. But I didn't stop him either." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan's reaction. What does it feel like to have him in your corner on this?",
+      "options": [
+        { "id": "ep4_jonathan_good", "label": "Good. He earned the right to be happy about it." },
+        { "id": "ep4_jonathan_careful", "label": "Larry keeps it close. It's still new. He doesn't want to jinx it." }
+      ]
+    }
+  ]
+}

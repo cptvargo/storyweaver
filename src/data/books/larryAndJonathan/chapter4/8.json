@@ -1,0 +1,27 @@
+{
+  "page": 8,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Thursday. Crystal wasn't in first period." },
+    { "type": "internalThought", "content": "Her seat was there. Her seat was always there. It was empty." },
+    { "type": "internalThought", "content": "I told myself it was nothing. Dentist. Sick. Something easy. People miss school." },
+    { "type": "internalThought", "content": "I checked my phone at lunch. No message. I sent one." },
+    { "type": "message", "sender": "Larry", "recipient": "Crystal", "pov": "Larry", "content": "hey you good? you weren't in first." },
+    { "type": "internalThought", "content": "I put the phone away. Three periods went by." },
+    { "type": "internalThought", "content": "She wrote back in the middle of sixth." },
+    { "type": "message", "sender": "Crystal", "recipient": "Larry", "pov": "Larry", "content": "family stuff. i'll explain. talk later?" },
+    { "type": "internalThought", "content": "Family stuff. Two words that meant nothing and everything. The 'i'll explain' meant there was something to explain. The 'talk later' felt like a closed door instead of an open one." },
+    { "type": "internalThought", "content": "I wrote back: 'yeah of course.'" },
+    { "type": "internalThought", "content": "She didn't write again." },
+    {
+      "type": "choice",
+      "prompt": "'Family stuff. I'll explain.' What does Larry do with that?",
+      "options": [
+        { "id": "ep4_trust_it", "label": "Trust it. She said she'd explain. Give her the space to do that." },
+        { "id": "ep4_something_wrong", "label": "Something's wrong. That message reads like someone trying to hold something back." }
+      ]
+    }
+  ]
+}

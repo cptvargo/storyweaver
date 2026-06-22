@@ -1,0 +1,27 @@
+{
+  "page": 32,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You know what I hate more than bad advice?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "What." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Good advice delivered at the wrong time by somebody who can't tell the difference." },
+    { "type": "internalThought", "content": "He leaned forward, arms on his knees." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I had a friend like Jonathan once. When I was about your age. Smart. Looked out for me. Had an opinion about everything I should be doing and most of the time he wasn't wrong." },
+    { "type": "dialogue", "speaker": "Larry", "content": "What happened." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Nothing dramatic. We just — hit a wall. He kept trying to build my life the way he thought it should look. And I kept letting him because he'd been right enough times that it felt easier than pushing back." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Eventually I said the thing I should've said earlier and he took it hard. Like it was a judgment on him instead of just — me needing to be me." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Did you work it out." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Yeah. Took a little time. But yeah." },
+    { "type": "internalThought", "content": "He said it simple. Like it was a fact about weather — here's what happened, here's what came after. No lesson attached. No moral. Just: here's what I know about this particular kind of thing." },
+    {
+      "type": "choice",
+      "prompt": "Mr. Cole just told Larry something from his own life. What does Larry take from it?",
+      "options": [
+        { "id": "ep4_cole_it_passes", "label": "That it passes. That the wall is real but it isn't permanent." },
+        { "id": "ep4_cole_still_costs", "label": "That it cost something even when it worked out. That's worth knowing." }
+      ]
+    }
+  ]
+}

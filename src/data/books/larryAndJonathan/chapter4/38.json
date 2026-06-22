@@ -1,0 +1,27 @@
+{
+  "page": 38,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Wednesday. Jonathan found me at my locker at the end of the day." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Aye." },
+    { "type": "internalThought", "content": "He leaned against the locker next to mine. Arms crossed. He had that look he gets when he's going to say something that costs him something." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I been thinking about what you said." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I don't fully agree with it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "You don't have to." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. But I — I hear you. I hear what you were saying. And I been doing that. Since the beginning. Trying to steer you. And I told myself it was because I believed in you, which is true, but I also —" },
+    { "type": "internalThought", "content": "He stopped. He doesn't stop often. The stopping was its own thing." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I don't love watching you be slow. I know that's not a nice thing to say. But it's true. It makes me anxious. You move so careful and I keep wanting to just — push." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "That's a me thing. Not a you thing. I get that now." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan. You're one of the best people I know. And I don't need you to be different. I just need you to let me be me." },
+    { "type": "internalThought", "content": "He looked at me. Really looked. Then he uncrossed his arms and stood up straight." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight. Deal." },
+    { "type": "dialogue", "speaker": "Larry", "content": "That easy?" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "No cap I've been sick about it since Thursday. It is not easy. But yeah. Deal." },
+    { "type": "internalThought", "content": "Something settled. Not everything — you can't fix every fault line in one conversation. But the surface was solid again. That was enough for now." }
+  ]
+}

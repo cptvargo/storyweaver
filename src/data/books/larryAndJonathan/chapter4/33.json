@@ -1,0 +1,28 @@
+{
+  "page": 33,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Larry", "content": "How come you never talked to me before? Like this." },
+    { "type": "internalThought", "content": "I didn't plan to ask that. It came out like something that had been sitting there waiting." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Because you didn't need it before." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I've had hard weeks before this." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I know. But those were hard in a way you could handle inside. This is — different. This is about who you are when somebody who loves you is pushing you in the wrong direction." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He wasn't wrong though. About any of it." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I know." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He was right that I needed a push. Right that I wait too long. Right that I get in my own way." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "All that can be true and what you said to him can still be right." },
+    { "type": "internalThought", "content": "I looked at him." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "You didn't tell him he was wrong. You told him you needed space to be wrong yourself. That's a different thing, Larry." },
+    { "type": "internalThought", "content": "Nobody had ever called me by my name like that — not differently, just — exactly right. Like the name was the point. Like he wanted me to hear it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I don't want to lose him over this." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "I don't think you will. But even if things are strange for a while — that's allowed. You're not responsible for him not understanding you yet. You just said a true thing." },
+    { "type": "internalThought", "content": "We sat a little longer. The street did its Saturday morning thing around us. Nobody said anything else." },
+    { "type": "internalThought", "content": "Eventually Mr. Cole stood up." },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "Come eat something. Your brother's been hovering since eight." },
+    { "type": "dialogue", "speaker": "Larry", "content": "He has?" },
+    { "type": "dialogue", "speaker": "Mr. Cole", "content": "He made eggs." },
+    { "type": "internalThought", "content": "I got up." }
+  ]
+}

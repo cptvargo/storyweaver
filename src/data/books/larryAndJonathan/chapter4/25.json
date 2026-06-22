@@ -1,0 +1,29 @@
+{
+  "page": 25,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Monday. Second week without Crystal. It was starting to feel like a before and after — not dramatic, just real. The hallway went back to being a hallway. The steps outside went back to being steps." },
+    { "type": "internalThought", "content": "Maya caught me after second period. She fell into step beside me the way she does — not asking, just there." },
+    { "type": "dialogue", "speaker": "Maya", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Hey." },
+    { "type": "dialogue", "speaker": "Maya", "content": "I heard about Crystal. I'm sorry." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's fine." },
+    { "type": "dialogue", "speaker": "Maya", "content": "You don't have to say that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
+    { "type": "dialogue", "speaker": "Maya", "content": "She always seemed like a good person." },
+    { "type": "dialogue", "speaker": "Larry", "content": "She was." },
+    { "type": "internalThought", "content": "We walked. She didn't fill the space with more words, which was the right call. She just walked with me for half a hallway and then peeled off toward her class without making it a moment." },
+    { "type": "internalThought", "content": "Some people know how to do that. Not a lot of people know how to do that." },
+    { "type": "consequence", "character": "Maya", "text": "had been watching. She already knew what kind of week it had been.", "condition": "sat_with_maya" },
+    {
+      "type": "choice",
+      "prompt": "Maya just walked half a hallway with Larry without asking for anything. What does he make of that?",
+      "options": [
+        { "id": "ep4_maya_noticed", "label": "She saw what was happening and showed up. That's not nothing." },
+        { "id": "ep4_maya_too_soon", "label": "He can't think about Maya right now. Not fairly." }
+      ]
+    }
+  ]
+}

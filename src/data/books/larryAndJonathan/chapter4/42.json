@@ -1,0 +1,24 @@
+{
+  "page": 42,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    {
+      "type": "episodeStats",
+      "title": "Episode 4 Complete",
+      "stats": [
+        { "label": "Crystal called", "condition": "asked_number_ep2" },
+        { "label": "Crystal never got to say goodbye", "conditionNot": "asked_number_ep2" },
+        { "label": "Larry told Jonathan the truth", "condition": "ep4_right_time" },
+        { "label": "Diego invited to dinner", "condition": "ep4_diego_trust" },
+        { "label": "Jonathan panicked around Stacy", "condition": "ep4_stacy_watching" }
+      ]
+    },
+    {
+      "type": "nextEpisode",
+      "title": "Episode 5",
+      "teaser": "A wrong turn. A dark block. A man who runs when he shouldn't. Diego is with Larry — and Diego is thirteen years old. Some nights change everything. This is one of them."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page": 35,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Monday after school. Diego was on his block — sitting on the stoop of his building, backpack still on, eating chips out of a bag like he didn't have anywhere to be." },
+    { "type": "internalThought", "content": "He'd walked six blocks to warn me. I hadn't gone back to say thank you and that sat wrong." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Aye." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Aye." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I never thanked you. For the thing with the guy." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Don't worry about it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm worrying about it." },
+    { "type": "internalThought", "content": "He shrugged. Moved his backpack so there was room on the stoop. I sat." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Situation seems quiet now. I stayed out of his way." },
+    { "type": "dialogue", "speaker": "Diego", "content": "Good. He's not a patient guy but he moves on if you don't give him a reason to stay interested." },
+    { "type": "internalThought", "content": "He said it like he'd been watching the man for years. Thirteen years old talking like a case study." },
+    { "type": "dialogue", "speaker": "Larry", "content": "How do you know him." },
+    { "type": "dialogue", "speaker": "Diego", "content": "He's just here. He's always been here. I've known what he does since I was like nine." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Since nine." },
+    { "type": "dialogue", "speaker": "Diego", "content": "You pick things up." },
+    { "type": "internalThought", "content": "He said it without complaint. Not bitter about it, not proud. Just: this is the information the block provided and I have it." },
+    { "type": "internalThought", "content": "He was still eating chips. His sneaker had a hole starting at the toe. He was thirteen years old and he knew the operating pattern of a drug dealer on his block from years of observation because nobody in his house had ever told him not to pay attention." },
+    { "type": "internalThought", "content": "I sat with that for a second." }
+  ]
+}

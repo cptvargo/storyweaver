@@ -1,0 +1,31 @@
+{
+  "page": 29,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I've been trying to help you since day one. Every step of the way. You think I do that for everybody?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I know you don't." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "So what — I'm supposed to just back off and watch you stand still forever? Because that's what happens without me in your ear. You know that." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Maybe. But that's mine to figure out." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh you're upset about Crystal and you're putting it on me —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm not putting it on you." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Then what are you doing." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm telling you something true. That's it. I'm not attacking you. I'm not blaming you. I'm just saying — let me be wrong on my own. Let me move at my own speed. Let me make choices that are mine." },
+    { "type": "internalThought", "content": "Silence. The kind that means someone is deciding what they are." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Aight." },
+    { "type": "dialogue", "speaker": "Larry", "content": "J —" },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "No. I hear you. Aight." },
+    { "type": "callEnd" },
+    { "type": "internalThought", "content": "He hung up. That word — aight — was flat in a way it never was. Not angry exactly. Something that hadn't figured out yet whether it was angry or hurt." },
+    { "type": "internalThought", "content": "I sat there with the phone in my hand." },
+    {
+      "type": "choice",
+      "prompt": "Larry said the true thing. Was it the right time to say it?",
+      "options": [
+        { "id": "ep4_right_time", "label": "Yes. It needed to be said. The fact that it costs something doesn't make it wrong." },
+        { "id": "ep4_wrong_time", "label": "Not now. He's still raw. Jonathan heard rejection instead of honesty." }
+      ]
+    }
+  ]
+}

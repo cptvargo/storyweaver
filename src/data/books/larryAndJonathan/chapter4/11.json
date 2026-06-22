@@ -1,0 +1,22 @@
+{
+  "page": 11,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm sorry, bro." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's not your fault." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. I'm still sorry." },
+    { "type": "internalThought", "content": "He meant it. That was the thing about Jonathan — he could be a lot and he could push too hard and he could miss things — but when he was in it with you, he was actually in it." },
+    { "type": "dialogue", "speaker": "Larry", "content": "It's fine." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "It's not fine. Don't say it's fine." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Then I don't know what else to say about it." },
+    { "type": "internalThought", "content": "The bell went. Kids filed past. We both stood at the empty locker for a second longer than we needed to." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "You good to get through today?" },
+    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "The game's tonight. You don't have to come if —" },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm coming." },
+    { "type": "dialogue", "speaker": "Jonathan", "content": "Okay. Yeah. Okay." },
+    { "type": "internalThought", "content": "We went to class. The day moved the way days move when you're carrying something — slower in the moments, faster everywhere else." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page": 21,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Crystal", "content": "My parents sat me down Thursday night. I already had your hand in my head from Wednesday. I was already thinking about what I was going to say the next time I saw you. And then they told me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I didn't say anything. I couldn't say anything.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "My parents always taught me that love is serious. That it's not something you throw around or waste. And I don't. I never do.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She was speaking slowly now. Not hesitating — choosing. Every word deliberate.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I wanted you to be that person for me.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": ".", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "The apartment was gone. The bed was gone. I was just on a phone in the dark and she was on steps in Atlanta and nothing else existed for a second.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I wanted you to be that person for me.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "I'm scared you're going to find someone — someone who's actually there — and I'm going to be in Atlanta trying to make peace with it from a thousand miles away. I've been sitting on these steps for twenty minutes trying to make peace with it and I just —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "She couldn't finish the sentence. I heard her breathing change — she was trying to hold something back and it was bigger than the trying.", "condition": "asked_number_ep2" },
+    { "type": "dialogue", "speaker": "Crystal", "content": "Sorry. Give me —", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "The phone moved away from her face. I could still hear the night around her. I waited.", "condition": "asked_number_ep2" },
+    { "type": "internalThought", "content": "I don't know how long I waited. Long enough that I was afraid. Then she came back.", "condition": "asked_number_ep2" }
+  ]
+}

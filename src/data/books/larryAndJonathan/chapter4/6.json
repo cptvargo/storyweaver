@@ -1,0 +1,29 @@
+{
+  "page": 6,
+  "chapter": 4,
+  "chapterTitle": "Thursday",
+  "bookId": "larryAndJonathan",
+  "blocks": [
+    { "type": "internalThought", "content": "Wednesday after school. We walked the long way without deciding to — it just happened. The air was cold. She had her bag on one shoulder and was telling me about something her English teacher said and I wasn't tracking all of it but I was tracking her." },
+    { "type": "internalThought", "content": "At some point my hand found hers. I didn't plan it. She didn't flinch or make it a moment. She just kept talking and shifted her fingers so they fit right." },
+    { "type": "internalThought", "content": "That was it. The whole thing. Just two people walking." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "You stopped listening." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm listening." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "What did I just say." },
+    { "type": "dialogue", "speaker": "Larry", "content": "Something about your English teacher." },
+    { "type": "dialogue", "speaker": "Crystal", "content": "That was three sentences ago." },
+    { "type": "dialogue", "speaker": "Larry", "content": "I'm present. I'm just — present differently." },
+    { "type": "internalThought", "content": "She laughed — the real one, quick and not dressed up. And then she squeezed my hand once and kept walking." },
+    { "type": "internalThought", "content": "I didn't see Jonathan until we turned the corner. He was coming from the other direction with Marcus, and he clocked it immediately. Not the hand-holding — he clocked my face. Then the hands. Then back to my face." },
+    { "type": "internalThought", "content": "He didn't say anything. He gave me a look that communicated approximately seven thousand things and then just kept walking like he hadn't seen anything at all." },
+    { "type": "internalThought", "content": "We separated at the end of the block. Crystal went her way, I went mine." },
+    {
+      "type": "choice",
+      "prompt": "Jonathan saw. What does that mean?",
+      "options": [
+        { "id": "ep4_jonathan_saw_good", "label": "Good. He's been waiting for this longer than Larry has." },
+        { "id": "ep4_jonathan_saw_private", "label": "That was supposed to be private. Not secret — just private." }
+      ]
+    }
+  ]
+}
