@@ -7,13 +7,21 @@
     { "type": "internalThought", "content": "I found it on the first night." },
     { "type": "internalThought", "content": "In the front pocket of his bag, folded in quarters. My handwriting. Eight years old and still there." },
     { "type": "internalThought", "content": "He kept it." },
-    { "type": "internalThought", "content": "All this time. He kept it." },
+    { "type": "internalThought", "content": "I had chosen every word carefully. I had written it and rewritten it and folded it and given it to someone I trusted completely. And that person kept it." },
+    { "type": "internalThought", "content": "Not lost. Not forgotten. Kept." },
+    { "type": "internalThought", "content": "Eight years. I sat across tables from him. I flew to his wedding. I watched everything I had asked for in that letter become someone else's life — and I thought he had said no. I thought he had read it and decided and moved on without a word." },
+    { "type": "internalThought", "content": "He never saw it." },
+    { "type": "internalThought", "content": "He never saw it because it was here. In a front pocket, folded in quarters, carried for eight years by the one person who should have handed it over." },
+    { "type": "internalThought", "content": "I held it for a long time. The paper had gone soft at the folds. It had been opened and refolded so many times that the creases were almost white." },
+    { "type": "internalThought", "content": "He read it. He read my words. And he kept them for himself." },
+    { "type": "internalThought", "content": "I have been patient for eight years. I have been careful. I have been the most controlled person in every room I've walked into since the day I stopped waiting for a response that was never going to come." },
+    { "type": "internalThought", "content": "And now I am standing in the dark at the top of the stairs, and the house is quiet, and I have made a decision." },
     {
       "type": "choice",
       "prompt": "Something about these words stays with you. What do you hold onto?",
       "options": [
         { "id": "ep1_prologue_kept", "label": "He kept it." },
-        { "id": "ep1_prologue_years", "label": "Eight years old." },
+        { "id": "ep1_prologue_years", "label": "Eight years." },
         { "id": "ep1_prologue_handwriting", "label": "My own handwriting." }
       ]
     }

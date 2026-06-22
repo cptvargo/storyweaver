@@ -4,6 +4,10 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
+    { "type": "internalThought", "content": "The coast had a particular kind of quiet. Salt air and something older underneath — the smell of places that have been weathered into themselves over a long time." },
+    { "type": "internalThought", "content": "Mara had handled the booking. I hadn't looked at the listing. I had looked at the satellite image, once, and then closed the tab. Force of habit." },
+    { "type": "internalThought", "content": "Our rental was a grey-and-white structure on a modest lot. Clean lines. Good sight lines from the porch. Forty feet to the left was a larger house — two stories, wraparound porch, six vehicles parked at angles on a gravel pad." },
+    { "type": "internalThought", "content": "I was already counting." },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "No cases." },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm aware." },
     { "type": "dialogue", "speaker": "Mara Voss", "content": "I'm saying it out loud because awareness hasn't historically been enough." },
