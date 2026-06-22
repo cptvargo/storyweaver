@@ -8,25 +8,23 @@
     { "type": "internalThought", "content": "Mara had handled the booking. I hadn't looked at the listing. I had looked at the satellite image, once, and then closed the tab. Force of habit." },
     { "type": "internalThought", "content": "Our rental was a grey-and-white structure on a modest lot. Clean lines. Good sight lines from the porch. Forty feet to the left was a larger house — two stories, wraparound porch, six vehicles parked at angles on a gravel pad." },
     { "type": "internalThought", "content": "I was already counting." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "No cases." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm aware." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I'm saying it out loud because awareness hasn't historically been enough." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know how to take a vacation." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Name one." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "This will be the first." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's what I thought." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "No behavioral analysis. No reading people. No going completely still when someone says something and you're already three layers deep into what it means." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I don't go still." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You went still just now." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was thinking." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's the same thing." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Look at that water. Julian. Look at the actual water." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I see it." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're facing the other house." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I can see both." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We've been here forty seconds." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Six vehicles. One arrived separately — recently. Parking angle." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Okay. One free observation. Then the water." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "The water is nice." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Don't say it like you're filing a report." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's genuinely nice." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Better. Come help me with the bags." },
     {
       "type": "choice",
-      "prompt": "What does Julian say?",
+      "prompt": "Julian looks toward the house next door. What does he do?",
       "options": [
-        { "id": "ep1_julian_agree", "label": "\"Fine. No work. I'll be present.\"" },
-        { "id": "ep1_julian_honest", "label": "\"I don't know how to turn it off.\"" },
-        { "id": "ep1_julian_deflect", "label": "\"How much further?\"" }
+        { "id": "ep1_grab_bags", "label": "He grabs his bags without another word." },
+        { "id": "ep1_comment_group", "label": "\"One of them arrived separately. Within the last hour.\"" }
       ]
     }
   ]
