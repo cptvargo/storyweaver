@@ -1,0 +1,28 @@
+{
+  "page": 31,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He's not breathing." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "No. No no no —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Sophie, get back." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "What do you mean he's —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Call 911. Somebody call 911." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "I'm calling." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He was fine. He was at dinner, he was fine —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Sophie. Outside. Now." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Don't touch anything. Don't touch anything in here." },
+    { "type": "internalThought", "content": "The window was open. The room was forty-seven degrees. The water glass on the nightstand was half empty. He looked like he had simply stopped." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Is he —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Dean." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Get everyone downstairs. Please." },
+    { "type": "choice", "prompt": "Julian is standing in the doorway. What does he see first?", "options": [
+      { "id": "ep1_first_window", "label": "The open window. The bracket he noticed on the exterior wall." },
+      { "id": "ep1_first_glass", "label": "The water glass. Half empty, not knocked over." },
+      { "id": "ep1_first_door", "label": "The door. Locked from the inside. No one was in this room." }
+    ]}
+  ]
+}

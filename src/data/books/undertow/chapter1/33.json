@@ -1,0 +1,31 @@
+{
+  "page": 33,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He was at dinner. He was laughing. He made a toast." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I know." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "People don't just —" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Sophie." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He was fine." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Police are twelve minutes out." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Okay. Okay. Nobody goes back upstairs." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "We should call his family." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "We wait for the police first. Then we call." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "His mother —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I know. We wait." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He didn't seem sick. I mean — he seemed off this weekend, but not —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Cade. Not right now." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I'm just saying. He was twenty-nine. People don't —" },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Stop." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Wren." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Everyone just stop. We don't know anything yet." },
+    { "type": "internalThought", "content": "Wren was right. But she said it like someone who already suspected knowing would cost them something." },
+    { "type": "choice", "prompt": "The group is falling apart in real time. Who does Julian watch?", "options": [
+      { "id": "ep1_watch_cade_break", "label": "Cade. He's the most visibly fractured." },
+      { "id": "ep1_watch_nadia_still", "label": "Nadia. She's the stillest person in the room." },
+      { "id": "ep1_watch_wren_stop", "label": "Wren. She told everyone to stop like she had a reason to." }
+    ]}
+  ]
+}

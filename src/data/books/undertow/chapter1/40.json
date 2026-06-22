@@ -1,0 +1,31 @@
+{
+  "page": 40,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You were outside last night." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You heard it." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "The argument? Yes." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Did you hear what it was about?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No. Just that it happened." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It wasn't —" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It wasn't what it sounded like." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "What did it sound like?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Look, I'm not — I talked to Marcus last night. Earlier, on the porch. We had a disagreement. It wasn't serious." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "About what?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Personal stuff. Old stuff." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Did the argument through the ceiling involve the same old stuff?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "No. That wasn't me." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Who was it?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I don't know." },
+    { "type": "internalThought", "content": "He answered too fast. He had been sitting with that answer before I asked." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I just need you to know it wasn't me. Okay? Whatever the police think — it wasn't me." },
+    { "type": "choice", "prompt": "Cade just came to Julian unprompted. What does that mean?", "options": [
+      { "id": "ep1_cade_guilty_conscience", "label": "Guilty conscience. He's scared of how it looks." },
+      { "id": "ep1_cade_protecting_someone", "label": "He knows who it was. And he's covering for them." },
+      { "id": "ep1_cade_innocent_panic", "label": "He's innocent and terrified. That's a different kind of scared." }
+    ]}
+  ]
+}

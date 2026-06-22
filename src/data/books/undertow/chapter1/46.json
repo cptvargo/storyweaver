@@ -1,0 +1,31 @@
+{
+  "page": 46,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "consequence", "character": "Julian", "text": "watched her walk back toward the others. She didn't look over her shoulder. People who have nothing to hide usually do.", "condition": "ep1_nadia_testing" },
+    { "type": "callStart", "caller": "Mara Voss", "direction": "incoming" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Where are you?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Still at the house." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Davenport asked me to stay available." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That is not the same as spending four hours running your own investigation." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I've been talking to people." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's what I said." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Davenport is going to file it as suspicious death. Tox is seventy-two hours minimum. In that window the group disperses, memories shift, people align their stories." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's Davenport's problem." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He doesn't know what I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. You don't know enough yet either." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know someone placed that water glass. I know someone went through that window at 9:51. I know one person in that group had a reason to argue with Marcus that nobody else knew about. And I know Wren Cole saw something she hasn't told anyone yet." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "How do you know that?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Because she told me she needed to think." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll be back in an hour." },
+    { "type": "callEnd" },
+    { "type": "choice", "prompt": "Will Julian be back in an hour?", "options": [
+      { "id": "ep1_back_hour_yes", "label": "Yes. He said it and he means it." },
+      { "id": "ep1_back_hour_no", "label": "No. And Mara already knows that." }
+    ]}
+  ]
+}

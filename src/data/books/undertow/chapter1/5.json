@@ -1,23 +1,33 @@
 {
   "page": 5,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "The second car was quieter." },
-    { "type": "narration", "content": "Dean Hartley drove with both hands on the wheel, the music low, the window cracked two inches the way he always had it — not enough to be cold, just enough to feel the air moving. Sophie Marsh was in the passenger seat with her feet on the dash and her sunglasses on even though the sky was mostly overcast, reading something on her phone that occasionally made her exhale through her nose in a way that meant she found it interesting but wasn't going to say so." },
-    { "type": "narration", "content": "And in the backseat, watching the same highway from a different window, was Nadia Cole." },
-    { "type": "narration", "content": "She had her bag on her lap. Her hands were folded on top of it. She looked calm — she always looked calm — with the kind of composed stillness that people sometimes mistook for ease. It wasn't ease. It was the opposite of ease. It was the stillness of someone who had already made every decision that mattered and was simply waiting for the world to catch up." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "Are we stopping for food or is there stuff at the house." },
-    { "type": "dialogue", "speaker": "Dean", "content": "Marcus said he's handling it." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "Marcus is always handling it." },
-    { "type": "dialogue", "speaker": "Dean", "content": "Yeah." },
-    { "type": "narration", "content": "He said it with a kind of easy affection — the tone of someone talking about a person they genuinely liked. Dean liked everyone. He was the sort of person who moved through the world without collecting enemies, without leaving damage, without understanding that some people watched him and felt things he was entirely unaware of." },
-    { "type": "narration", "content": "Nadia watched the back of his head." },
-    { "type": "narration", "content": "She had been watching the back of his head, in some form or another, for ten years." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "Nadia, you're quiet." },
-    { "type": "dialogue", "speaker": "Nadia", "content": "Just tired. Early morning." },
-    { "type": "narration", "content": "Sophie accepted this. Dean nodded once in the mirror, briefly, the small acknowledgment of someone making sure everyone was okay — and Nadia met his eyes for exactly as long as normal and then looked back out the window." },
-    { "type": "narration", "content": "She was very good at normal." }
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "When did you last actually stop?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Define stop." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "No work. No cases. No building a complete read on everyone in a thirty foot radius." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Is this an intervention?" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's two people sitting on a porch with sparkling water." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's a generous description." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said yes." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I did." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You asked." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "I ask a lot of things you don't do." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "I haven't heard you laugh in a while. Not really." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's a strange thing to track." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "I don't track it. I just noticed." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "The water's nice." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    {
+      "type": "choice",
+      "prompt": "She said something real. What does Julian do with it?",
+      "options": [
+        { "id": "ep1_julian_thanks", "label": "\"Thank you. For this.\"" },
+        { "id": "ep1_julian_silence", "label": "He says nothing. He looks at the water." },
+        { "id": "ep1_julian_deflect_water", "label": "\"The light on the water is different in the morning.\"" }
+      ]
+    }
   ]
 }

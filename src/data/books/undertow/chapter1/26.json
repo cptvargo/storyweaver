@@ -1,19 +1,35 @@
 {
   "page": 26,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Saturday began the way the best beach days do — with light arriving before anyone was ready for it, pressing through curtains and under doors, indifferent to whoever was still asleep." },
-    { "type": "narration", "content": "Marcus was downstairs by seven-fifteen. He filled his water bottle at the tap — the large insulated one he carried everywhere — drank half of it standing at the kitchen window, refilled it. Set it on the counter while he started the coffee." },
-    { "type": "narration", "content": "He went outside to check the grill. He'd heard Cade on the back porch — somehow already up, somehow already involved with a crab he'd found at the waterline — and Marcus, being Marcus, went to assess the situation." },
-    { "type": "narration", "content": "The kitchen was empty." },
-    { "type": "narration", "content": "The water bottle sat on the counter, cap loose, condensation already forming on the dark green insulation." },
-    { "type": "narration", "content": "It sat there for ninety-one seconds." },
-    { "type": "narration", "content": "Marcus came back inside, laughing at something Cade had said about the crab. He poured his coffee. Picked up his water bottle. Drank." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Cade somehow already found a crab. I don't know how. He's been outside for five minutes." },
-    { "type": "narration", "content": "Whoever he was talking to smiled at the right moment and said that was very Cade." },
-    { "type": "narration", "content": "Marcus agreed." },
-    { "type": "narration", "content": "He drank from the bottle again and looked at the ocean." }
+    { "type": "consequence", "character": "Julian", "text": "had not moved during the argument. Mara had noticed.", "condition": "ep1_julian_listens" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Talk to me." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "About what?" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "About whatever is happening in your head right now." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nothing is happening." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You've gone quiet. Your specific kind of quiet." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "There are different kinds?" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You have at least four. This is the one where you're building something." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm not building anything." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Two voices. One argument. Nobody went up to check. They all looked away." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "People argue." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Mara." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We don't know anything." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "We know someone didn't come back downstairs." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Because they went to bed." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Possibly." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Probably." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Get some sleep. It was a long day." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll be in soon." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Don't stay on that porch all night." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I won't." },
+    { "type": "choice", "prompt": "Does Mara go inside?", "options": [
+      { "id": "ep1_mara_goes_in", "label": "She goes in. She trusts him." },
+      { "id": "ep1_mara_stays", "label": "She stays. She sits beside him without saying anything." }
+    ]}
   ]
 }

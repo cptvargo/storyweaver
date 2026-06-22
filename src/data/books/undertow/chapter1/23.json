@@ -1,15 +1,31 @@
 {
   "page": 23,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Mara Voss had known Julian Cross for seven years and understood him with the specific expertise of someone who had spent that time translating between him and the rest of the world." },
-    { "type": "narration", "content": "She knew that when he said probably nothing, he meant probably something. She knew that when he didn't sleep, it was because a detail had lodged in him like a splinter — invisible from the outside, insistent from within. She knew that the logbook and the guest patterns and the walk that ended with a face were all the same thing: Julian unable to stop doing what he did even in the absence of a reason to do it." },
-    { "type": "narration", "content": "She also knew, because she was realistic about who she was dealing with, that if something did happen in that house two doors down, there was no version of events in which Julian Cross walked past it." },
-    { "type": "narration", "content": "She lay in her room and looked at the ceiling and thought: maybe nothing will happen. People look at each other strangely at beach bonfires. Context matters. She was projecting Julian's instincts onto a social situation that probably had a completely ordinary explanation." },
-    { "type": "narration", "content": "Six friends at a rental house. Someone had relationship drama, probably. Someone was annoyed about money. Someone was watching an ex's boyfriend. Normal human complicated things that had nothing to do with forensic consultants on forced vacation." },
-    { "type": "narration", "content": "She went to sleep telling herself this." },
-    { "type": "narration", "content": "She almost believed it." }
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "To the coast. And to people who actually show up." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "To showing up." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "To the food, which is incredible." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Thank you. I made it." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I made most of it." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He made most of it." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's really good." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Glad you're here. Both of you. It's good to have more people at the table." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Thank you for having us." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Nah. Thank you for saying yes. Some people need convincing." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He means me. I said we shouldn't invite strangers to dinner." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He said exactly that." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "And I was wrong." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "He's almost never wrong. He'll be talking about this for weeks." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "That's fair." },
+    { "type": "internalThought", "content": "Marcus laughed and it reached his eyes. For the first time all day it fully reached his eyes." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Marcus. You okay?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Just — yeah." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm good. I'm really good." },
+    { "type": "choice", "prompt": "Wren asked first. What does that mean?", "options": [
+      { "id": "ep1_wren_sharp", "label": "She sees things before other people do." },
+      { "id": "ep1_wren_coincidence", "label": "She just happened to be looking." }
+    ]}
   ]
 }

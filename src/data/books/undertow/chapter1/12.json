@@ -1,23 +1,32 @@
 {
   "page": 12,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Cade Rutherford had a problem that only Cade Rutherford was pretending wasn't a problem." },
-    { "type": "narration", "content": "Thirty-one thousand dollars. That was the number sitting at the back of every conversation he was having this weekend. Thirty-one thousand dollars owed to a man named Gideon Price who ran a private card game out of an office building in uptown Charlotte and who had, last Tuesday, communicated his feelings about outstanding balances through a representative who was large and polite in the way that made politeness feel worse than aggression." },
-    { "type": "narration", "content": "Marcus knew. Marcus was the only person who knew. Cade had told him in a parking lot at two in the morning three weeks ago, and Marcus had sat with it for a moment and then said: we'll figure it out. Not: how could you. Not: I told you so. Just: we'll figure it out." },
-    { "type": "narration", "content": "That was why Cade was here this weekend performing a version of himself that was nine percent more relaxed than he actually felt. If Marcus could show up for him like that, the least Cade could do was not ruin the trip." },
-    { "type": "narration", "content": "He found Wren on the porch with her book." },
-    { "type": "dialogue", "speaker": "Cade", "content": "What are you reading." },
-    { "type": "dialogue", "speaker": "Wren", "content": "History of a forensic case. 1920s France." },
-    { "type": "dialogue", "speaker": "Cade", "content": "That sounds deeply unrelaxing for a beach vacation." },
-    { "type": "dialogue", "speaker": "Wren", "content": "I find it relaxing." },
-    { "type": "dialogue", "speaker": "Cade", "content": "You're strange, Alcott." },
-    { "type": "dialogue", "speaker": "Wren", "content": "You're not the first to notice." },
-    { "type": "narration", "content": "He sat beside her anyway. She didn't seem to mind. They sat in the comfortable silence of two people who had long since accepted each other's oddities without making a project of it." },
-    { "type": "narration", "content": "Wren turned a page. She had noticed, since arriving, the following things: Marcus's water bottle — the large insulated one he carried everywhere — sitting on the kitchen counter; Nadia watching Marcus from the kitchen island; Nadia stopping watching Marcus the moment anyone looked at her; Sophie's jaw tightening slightly when Marcus and Dean went for their walk alone." },
-    { "type": "narration", "content": "She noticed things." },
-    { "type": "narration", "content": "She didn't usually say so. People rarely asked." }
+    { "type": "consequence", "character": "Julian", "text": "noted it. Every answer Nadia gave was exactly right. Not a word more than needed.", "condition": "ep1_marcus_nadia_deflect" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're doing it." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm sitting here." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're sitting here and watching that woman like she's a case file." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm not." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "She deflected six questions in four minutes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "She's tired from the drive." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's what she said." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Because it's true." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "People who are tired from a drive say less. They don't answer questions with exactly the right amount of words every single time." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Some people are just private." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We're on vacation." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "And she hasn't done anything." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Then stop." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm stopped." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Your version of stopped and my version of stopped are very different things." },
+    { "type": "choice", "prompt": "Does Julian stop?", "options": [
+      { "id": "ep1_julian_stops", "label": "He tries. He looks at the fire instead." },
+      { "id": "ep1_julian_keeps_watching", "label": "Not completely. He just gets quieter about it." }
+    ]}
   ]
 }

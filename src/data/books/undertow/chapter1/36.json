@@ -1,0 +1,31 @@
+{
+  "page": 36,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The door was locked from the inside." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Privacy latch." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You went up there." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was in the doorway." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The window was open." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Twenty foot drop to the ground." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Drainage line on the exterior wall. Iron brackets, spaced unevenly. The lowest one showed stress fractures consistent with recent load." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "How do you know that?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I walked the exterior yesterday afternoon." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Force of habit." },
+    { "type": "internalThought", "content": "He looked at me the way experienced men look at things they haven't decided yet." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You're saying someone used the drainage line." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm saying the bracket shows recent stress. That's a fact. What it means is your question." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "That's a twenty foot climb in the dark." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You still think someone got up there." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "The door was locked from the inside. Someone was in that room after Mr. Calloway went to bed. So either they came through the door and relocked it from the outside somehow — or they came through the window." },
+    { "type": "choice", "prompt": "Davenport is listening. Is he convinced?", "options": [
+      { "id": "ep1_davenport_convinced", "label": "He believes it. He just needs more before he can move on it." },
+      { "id": "ep1_davenport_skeptical", "label": "Not yet. He thinks Julian is reaching." }
+    ]}
+  ]
+}

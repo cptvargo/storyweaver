@@ -1,24 +1,40 @@
 {
   "page": 9,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "By early afternoon the house had settled into the rhythm of people who knew how to be somewhere together. Bags were unpacked. Someone had found the outdoor shower and declared it operational. The kitchen had been claimed — Marcus was already building something for lunch from the groceries they'd stopped for on the way in, moving around the unfamiliar kitchen with the comfort of someone who cooked out of genuine pleasure rather than obligation." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Marc, I'm telling you — we don't need the herbs. Nobody's going to be upset if the sandwiches don't have fresh basil." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "You will be. You just don't know it yet." },
-    { "type": "dialogue", "speaker": "Cade", "content": "I know what I like." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "You like good food. I'm making you good food. Stop interfering." },
-    { "type": "narration", "content": "Dean was on the back porch, feet up on the railing, phone face-down on his knee, looking at the water in the uncomplicated way of someone who had no agenda beyond being exactly where he was. This was one of Dean's most genuinely likable qualities and also, for anyone paying close attention, one of his most quietly devastating ones. He moved through the world without leaving marks. Surfaces closed behind him the way water closed behind a stone." },
-    { "type": "narration", "content": "Sophie appeared in the doorway with two beers, held one out. He took it without looking, the muscle memory of three years." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "What are you thinking about." },
-    { "type": "dialogue", "speaker": "Dean", "content": "Nothing, honestly." },
-    { "type": "dialogue", "speaker": "Sophie", "content": "That must be nice." },
-    { "type": "dialogue", "speaker": "Dean", "content": "Come sit." },
-    { "type": "narration", "content": "She sat. They looked at the ocean together. It was the kind of moment that would have made anyone looking at them from the outside think: those two are fine. Those two are solid." },
-    { "type": "narration", "content": "Wren was reading on the living room couch — a physical book, spine bent, fully committed. She had the gift of becoming unremarkable in a room, of occupying space so quietly that people forgot to perform for her. Which meant she saw the unperformed versions of everyone." },
-    { "type": "narration", "content": "She turned a page." },
-    { "type": "narration", "content": "Nadia stood at the kitchen island across from Marcus, wine glass in hand, smiling at something he'd just said." },
-    { "type": "narration", "content": "The smile reached her eyes. She'd practiced that." }
+    { "type": "consequence", "character": "Julian", "text": "was already watching the right person.", "condition": "ep1_notice_who_watches" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "How long have you all known each other?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Ten years, give or take. First semester of college." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus decided we were all friends before any of us had agreed to it." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "That's just how it works." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "It worked." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "See. Wren gets it." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Do you remember the lake house? Three summers ago?" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "The kayaking disaster." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You kept grabbing my paddle." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You would have spun in circles the whole afternoon." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I had it." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You had the general concept of it." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "What are you two talking about?" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Nadia's kayaking technique." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Oh no." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "It was one afternoon." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm sure you were great." },
+    { "type": "internalThought", "content": "Sophie reached for Dean's arm without looking. He shifted toward her the same way. The kind of movement you stop having to think about." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Everything okay, Nadia?" },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Of course." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "The fire's getting low." },
+    { "type": "internalThought", "content": "The fire was not getting low." },
+    {
+      "type": "choice",
+      "prompt": "You saw something just now. What was it?",
+      "options": [
+        { "id": "ep1_saw_nadia", "label": "The way Nadia's expression shifted when Sophie reached for Dean." },
+        { "id": "ep1_saw_sophie", "label": "The way Sophie glanced at Nadia after she turned away." },
+        { "id": "ep1_saw_nothing", "label": "Nothing. It was just conversation by a fire." }
+      ]
+    }
   ]
 }

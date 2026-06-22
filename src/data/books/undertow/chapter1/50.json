@@ -1,0 +1,36 @@
+{
+  "page": 50,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's been four hours." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said one." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "I packed your bag. I packed mine. I didn't cancel the reservation because I knew you'd tell me not to." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Don't cancel it." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. What are we doing here?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Davenport filed it as suspicious death. Tox is seventy-two hours. The group can't leave the county." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "And us?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He wants us available." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Of course he does." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We were supposed to leave today. I had plans. You had — well, you never have plans, but you had the absence of a murder investigation." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "So much for a vacation." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Fun can come after. There's a case that needs attention." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You don't even know it's a case yet." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's a case." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're sure." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Someone placed that glass. Someone went through that window. Someone in that house last night knew exactly what they were doing and was exactly where they needed to be all day so that nobody would think to look at them." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "And you're going to find them." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Then I'll cancel the dinner reservation." },
+    { "type": "internalThought", "content": "She said it like a woman who had already decided. She held the phone a beat longer before she put it down." },
+    { "type": "choice", "prompt": "This is the moment everything changed. Who do you think did this?", "options": [
+      { "id": "ep1_suspect_nadia", "label": "Nadia Reyes. She was the still point of everything." },
+      { "id": "ep1_suspect_cade", "label": "Cade Mercer. He's hiding something and he's scared." },
+      { "id": "ep1_suspect_unknown", "label": "Not enough yet. But the answer is in that house." }
+    ]}
+  ]
+}

@@ -1,20 +1,31 @@
 {
   "page": 15,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Evening came in off the water in gradients — gold first, then the particular muted orange of a coastal sunset filtered through low cloud, then the soft grey-blue that preceded dark. Marcus had the grill going by five-thirty. The smell of it carried down the beach in a way that seemed like an announcement." },
-    { "type": "narration", "content": "They gathered on the back porch and the steps down to the walkway — the natural staging of a group that had done this before, everyone finding a position without negotiating it. Cade on the railing. Dean and Sophie in the two chairs. Wren on the top step with her glass. Marcus at the grill, moving between things with the unhurried competence of a man who liked feeding people." },
-    { "type": "narration", "content": "Nadia stood at the kitchen window for a moment before coming out." },
-    { "type": "narration", "content": "She looked at them. The picture they made. All of them golden in the evening light, comfortable and easy and exactly as they appeared — old friends at a beach house. A good thing. A simple thing." },
-    { "type": "narration", "content": "She thought: they'll grieve. They will be devastated. I've known them long enough to know how much this will cost them." },
-    { "type": "narration", "content": "Then she opened the door and stepped out and smiled and someone handed her a glass of wine and the evening absorbed her exactly as it was supposed to." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Marcus, I need you to know that whatever you're doing to that fish right now smells like a spiritual experience." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Lemon and dill. Don't overthink it." },
-    { "type": "dialogue", "speaker": "Cade", "content": "Lemon and dill. I could live on that." },
-    { "type": "dialogue", "speaker": "Wren", "content": "You literally could not. Your diet is seventy percent takeout." },
-    { "type": "dialogue", "speaker": "Cade", "content": "That's a strong seventy percent, Wren." },
-    { "type": "narration", "content": "The laughter came easy. That was the thing about this group in the right conditions — the laughter came easy, and it was real, and for a little while everything that was underneath it stayed underneath it." }
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She does. She always has. Even back in college — she'd notice things nobody else caught. Small things." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It used to drive people a little crazy actually. Like you'd say something offhand and two weeks later she'd reference it and you'd think — how did you hold onto that?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Memory like that is usually tied to something specific." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Like what?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Caring a lot about something. Or someone." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. That tracks." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She's had a rough couple years. Not anything dramatic — just quiet hard. The kind you don't talk about." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's usually the hardest kind." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I just want this weekend to be good for her. For all of us. It's been a while since we were just — us. No distance. No life stuff in the way." },
+    { "type": "internalThought", "content": "He meant every word of it. That was the part that was hard to file away." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "There he is. I knew you'd be out here." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You don't look so well." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I slept fine." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I wasn't talking about sleep." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I'm good." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cade." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I said I'm good. Drop it." },
+    { "type": "choice", "prompt": "Julian is watching this. What does he read?", "options": [
+      { "id": "ep1_cade_stress", "label": "Cade is carrying something he doesn't want Marcus to see." },
+      { "id": "ep1_cade_private", "label": "He just wants his space. Some people don't do mornings." },
+      { "id": "ep1_cade_afraid", "label": "He's not just private. He's scared of something." }
+    ]}
   ]
 }

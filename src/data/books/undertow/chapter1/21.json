@@ -1,19 +1,32 @@
 {
   "page": 21,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Wren Alcott slept in intervals." },
-    { "type": "narration", "content": "She always had. Her mind didn't fully surrender the way other people's seemed to — it kept one thread running, a low hum of awareness that surfaced every hour or so and took inventory before letting her back under. It wasn't insomnia. It was just the way she was built. She'd stopped fighting it in her mid-twenties." },
-    { "type": "narration", "content": "At some point past two she surfaced and lay still and listened to the house." },
-    { "type": "narration", "content": "The ocean. The refrigerator. The particular silence of six people sleeping." },
-    { "type": "narration", "content": "Except it wasn't quite that. There was a light — the thin line of it under a door at the end of the hall. Someone was still awake." },
-    { "type": "narration", "content": "She listened for movement. There was some — soft, careful, the kind of movement that was trying not to be heard." },
-    { "type": "narration", "content": "She thought about it for a moment. Then she let it go. People had trouble sleeping in unfamiliar places. People had phones and anxious minds and things they didn't talk about at dinner that came for them at two in the morning. This was not unusual. This was just people." },
-    { "type": "narration", "content": "She closed her eyes." },
-    { "type": "narration", "content": "The light under the door stayed on for another forty minutes." },
-    { "type": "narration", "content": "Wren was asleep before it went out. She didn't see which door it was." },
-    { "type": "narration", "content": "In the morning she would forget she'd noticed it at all." }
+    { "type": "consequence", "character": "Julian", "text": "had already noted the room assignment. He would remember it.", "condition": "ep1_window_files" },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm going to go shower. Get the salt out." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I'll come up in a bit." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Take your time. I'll be a while." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Classic Sophie shower. Forty-five minutes minimum." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "It takes time to undo what the ocean does to your hair." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Documented fact." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Thank you, Cade." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I might take a walk. Clear my head before dinner." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Don't go too far. We're eating at seven." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I know." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus, I need to talk to you. Now's a good time." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Okay." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "I'll be on the porch." },
+    { "type": "internalThought", "content": "Five people. Five different directions. The afternoon had opened like a hand releasing something." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "What do you want to do?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Go back. Get changed." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's it?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's it." },
+    { "type": "choice", "prompt": "Everyone just separated. What does Julian track?", "options": [
+      { "id": "ep1_track_nadia_walk", "label": "Which direction Nadia went." },
+      { "id": "ep1_track_cade_marcus", "label": "Where Cade and Marcus went to talk." },
+      { "id": "ep1_track_nothing", "label": "Nothing. He goes back with Mara." }
+    ]}
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "page": 42,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "You're the one from next door." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "You were on your porch last night." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Most of it." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "What did you see?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I gave a full statement to Inspector Davenport." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "What did you see that you didn't put in the statement?" },
+    { "type": "internalThought", "content": "She was twenty feet away and she asked it like she already knew the answer. I revised my read on her immediately." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "A shape. Fast. The far upstairs window. 9:51." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Moving which direction?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Outward. Low. Not someone walking past. Someone going through." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Okay?" },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "I believe you." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You saw something too." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "I didn't say that." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You didn't not say it." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Not yet. I need to think." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Think quickly." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "I'll find you." },
+    { "type": "choice", "prompt": "Wren knows something. What does Julian do?", "options": [
+      { "id": "ep1_push_wren", "label": "Press her now. He can't afford to wait." },
+      { "id": "ep1_trust_wren", "label": "Let her go. She said she'd find him. She means it." }
+    ]}
+  ]
+}

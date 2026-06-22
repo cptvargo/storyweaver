@@ -1,0 +1,29 @@
+{
+  "page": 41,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "consequence", "character": "Julian", "text": "filed it. Cade was protecting someone. Or trying to. He hadn't decided which yet.", "condition": "ep1_cade_protecting_someone" },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Mr. Crane." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Inspector." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I asked you not to approach the five." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He approached me." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "What did he want?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "To tell me the argument wasn't him. Specifically. Unprompted." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Did you believe him?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "The argument through the ceiling — no. But there was another conversation. On the porch earlier. He admitted to that one." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "What was it about?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He called it old stuff. Personal." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Mm." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He said the argument through the ceiling wasn't him. Which means he heard it and knows it wasn't him. Which means he has a theory about who it was." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "He say who?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He said he didn't know." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You believe that part?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    { "type": "choice", "prompt": "Davenport and Julian are starting to think together. Is that a good thing?", "options": [
+      { "id": "ep1_team_yes", "label": "Yes. Julian needs Davenport to act on what he finds." },
+      { "id": "ep1_team_careful", "label": "Carefully. Davenport has his own agenda and it's not always Julian's." }
+    ]}
+  ]
+}

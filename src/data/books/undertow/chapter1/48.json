@@ -1,0 +1,27 @@
+{
+  "page": 48,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "consequence", "character": "Julian", "text": "filed it. She said exactly what someone would say. He had been doing this long enough to know those two things weren't always different.", "condition": "ep1_nadia_performance" },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "One more thing, Mr. Crane." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Inspector." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You've talked to most of them today." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "They came to me." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I'm not arguing. What's your read — collectively?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Cade Mercer is hiding something specific. Whether it connects to this I don't know yet. Dean and Sophie are exactly what they look like — genuinely devastated. Wren saw something she hasn't said. And Nadia —" },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Nadia." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nadia is the most controlled person in that house. In a situation designed to break composure." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Some people are just built that way." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "But." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "But she was also the most visibly present person all day Saturday. The most active, most social, most accounted for. And then she was also perfectly still during the argument Saturday night. Not tense. Still." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "That's not evidence." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No. It's a pattern. Evidence comes after." },
+    { "type": "choice", "prompt": "Julian just named Nadia to Davenport. Was that the right move?", "options": [
+      { "id": "ep1_named_nadia_right", "label": "Yes. Davenport needed to know where to look." },
+      { "id": "ep1_named_nadia_early", "label": "Too soon. If he's wrong it costs him Davenport's trust." }
+    ]}
+  ]
+}

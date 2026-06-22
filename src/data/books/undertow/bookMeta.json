@@ -3,6 +3,7 @@
   "title": "Undertow",
   "subtitle": "Some secrets don't stay buried. Some people don't stay alive.",
   "genre": "Murder Mystery",
+  "format": "episodes",
   "subgenre": "Psychological Thriller / Locked Room Mystery",
   "tags": [
     "murder mystery",
@@ -15,10 +16,22 @@
     "deception",
     "justice",
     "secrets",
-    "page-turner"
+    "page-turner",
+    "interactive"
   ],
   "description": "Six friends. One beach house on the Carolina coast. A weekend that was supposed to feel like old times. By Saturday night, one of them is dead — door locked from the inside, window open to a forty-seven degree night, and an argument the group heard through the ceiling that nobody can explain. Julian Crane wasn't supposed to be involved. He was next door on vacation. But Julian Crane has never been able to walk past something that doesn't add up.",
   "shortDescription": "A locked-room murder at a Carolina beach house. A behavioral analyst next door who can't turn his mind off. And a killer who almost got away with it.",
+  "characters": {
+    "Julian Crane": "/julian_crane.png",
+    "Mara Voss": "/mara_voss.png",
+    "Inspector Davenport": "/davenport.png",
+    "Marcus Calloway": "/marcus_calloway.png",
+    "Nadia Reyes": "/nadia_reyes.png",
+    "Dean Ashby": "/dean_ashby.png",
+    "Sophie Laurent": "/sophie_laurent.png",
+    "Cade Mercer": "/cade_mercer.png",
+    "Wren Cole": "/wren_cole.png"
+  },
   "mainCharacters": [
     {
       "name": "Julian Crane",
@@ -54,52 +67,31 @@
     "Dr. Audra Mills"
   ],
   "characterNotes": {
-    "Mara Voss": "Julian's colleague and closest contact. Dry humor, no nonsense, the one person who can get a real response out of him. She's the one who pushed him to take this vacation in the first place."
+    "Mara Voss": "Julian's colleague and closest contact. Dry humor, no nonsense, the one person who can get a real response out of him. She pushed him to take this vacation. She has feelings for Julian she keeps professional — they leak in small ways she doesn't always catch in time."
   },
   "setting": [
     "Pelican Shore, North Carolina",
     "The beach house",
-    "Julian's rental",
+    "Julian's rental next door",
     "The beach",
     "The locked room"
   ],
   "pov": "Julian",
-  "totalChapters": 4,
-  "chapterCountPlanned": 10,
+  "totalChapters": 1,
+  "chapterCountPlanned": 5,
   "status": "in-progress",
   "author": "StoryWeaver",
-  "readingTime": "~8 hrs (Chapters 1–4)",
+  "readingTime": "~2 hrs (Episode 1)",
   "contentRating": "Teen+",
   "cover": "/undertow.png",
   "coverTone": "dark, coastal, moody, suspenseful",
   "chapters": [
     {
       "chapterIndex": 1,
-      "title": "Arrival",
+      "title": "The Weekend",
       "image": "/undertow_chapter1_arrival.png",
-      "mood": "Someone has been waiting a very long time. The house is beautiful. The weekend is supposed to be perfect.",
-      "totalPages": 30
-    },
-    {
-      "chapterIndex": 2,
-      "title": "The Room",
-      "image": "/undertow_chapter2_theroom.png",
-      "mood": "The door is open. The cold is already inside. Everything changes in the next five minutes.",
-      "totalPages": 30
-    },
-    {
-      "chapterIndex": 3,
-      "title": "No Alibi",
-      "image": "/undertow_chapter3_noalibi.png",
-      "mood": "Sunday morning. Five friends. No one can account for where they were. And someone is starting to notice.",
-      "totalPages": 33
-    },
-    {
-      "chapterIndex": 4,
-      "title": "The Call",
-      "image": "/undertow_chapter4_thecall.png",
-      "mood": "The name Gideon Price changes everything. And then Davenport asks one question too many.",
-      "totalPages": 32
+      "mood": "Six friends, one beach house, one weekend that was supposed to feel like old times.",
+      "totalPages": 50
     }
   ],
   "themes": [

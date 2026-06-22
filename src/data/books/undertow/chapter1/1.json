@@ -1,16 +1,21 @@
 {
   "page": 1,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Before." },
-    { "type": "internalThought", "content": "Eight years is a long time to carry something." },
-    { "type": "internalThought", "content": "Most people would have let it go by now. That's what people do — they set things down and call it healing. They convince themselves it doesn't matter anymore, that they've grown past it, that some things aren't worth the weight. They forget what was taken from them and call it moving on." },
-    { "type": "internalThought", "content": "I never forgot." },
-    { "type": "internalThought", "content": "I've watched him across dinner tables and group chats and weekend trips for eight years. I've smiled at the right moments. Laughed at his jokes. Let him hug me hello, hugged him back, looked him in the eye like none of it was sitting inside me. I was so good at it that sometimes I almost believed it myself." },
-    { "type": "internalThought", "content": "Almost." },
-    { "type": "internalThought", "content": "People misunderstand patience. They think it means you've made peace with something. That if enough time has passed, the feeling behind it must have softened. That's not what patience is. Patience is time sharpened into a point. Patience is knowing exactly what you're going to do and choosing the right moment to do it." },
-    { "type": "internalThought", "content": "I've had eight years to sharpen." }
+    { "type": "internalThought", "content": "I found it on the first night." },
+    { "type": "internalThought", "content": "In the front pocket of his bag, folded in quarters. My handwriting. Eight years old and still there." },
+    { "type": "internalThought", "content": "He kept it." },
+    { "type": "internalThought", "content": "All this time. He kept it." },
+    {
+      "type": "choice",
+      "prompt": "Something about these words stays with you. What do you hold onto?",
+      "options": [
+        { "id": "ep1_prologue_kept", "label": "He kept it." },
+        { "id": "ep1_prologue_years", "label": "Eight years old." },
+        { "id": "ep1_prologue_handwriting", "label": "My own handwriting." }
+      ]
+    }
   ]
 }

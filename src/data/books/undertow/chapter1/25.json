@@ -1,15 +1,36 @@
 {
   "page": 25,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "This is what the house looked like at two in the morning on the first night." },
-    { "type": "narration", "content": "From the outside: dark, mostly. A light on in one upstairs room — Nadia's, though anyone watching from the beach wouldn't have known whose. The curtains were open. The balcony door was latched. The light went out at two-fourteen." },
-    { "type": "narration", "content": "From the lane at the front: six cars in the gravel, a welcome mat from the previous renters that the current ones hadn't noticed, a recycling bin someone had left at the curb two days ago." },
-    { "type": "narration", "content": "From the inside: three people sleeping, two people somewhere between sleep and not, one person in the kitchen at two-oh-seven refilling her water glass and standing at the window for a moment before going back to bed." },
-    { "type": "narration", "content": "And on the desk in the front bedroom — the one Marcus had taken because it was closest to the bathroom and he hadn't thought about it beyond that — the dark blue canvas bag, the zip pocket, the sealed envelope." },
-    { "type": "narration", "content": "Everything was still. Everything looked ordinary." },
-    { "type": "narration", "content": "This is always how it looks the night before." }
+    { "type": "consequence", "character": "Julian", "text": "counted. Four minutes and twelve seconds. Then silence.", "condition": "ep1_julian_listens" },
+    { "type": "consequence", "character": "Julian", "text": "read every face in the room. Cade looked down. Dean looked at the ceiling. Nadia didn't move at all.", "condition": "ep1_julian_watches_group" },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "It stopped." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yeah." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He's fine." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Should someone go up?" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Give him a minute." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "He'll come back down if he wants company." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I just want to make sure he's okay." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He's okay. I'll check on him in a bit." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We're going to head out. Thank you for dinner." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Of course. See you tomorrow." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Good night." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Good night everyone." },
+    { "type": "internalThought", "content": "Two voices. One was Marcus. The other didn't come back downstairs." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We don't know what that was." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "It could be nothing." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Say something." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "One voice didn't come back down." },
+    { "type": "choice", "prompt": "The second voice. Who does Julian think it was?", "options": [
+      { "id": "ep1_voice_cade", "label": "Cade. He said he needed to tell Marcus something." },
+      { "id": "ep1_voice_nadia", "label": "Nadia. She didn't move once during the argument." },
+      { "id": "ep1_voice_unknown", "label": "He doesn't know. He won't guess." }
+    ]}
   ]
 }

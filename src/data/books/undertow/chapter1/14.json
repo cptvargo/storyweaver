@@ -1,22 +1,32 @@
 {
   "page": 14,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Julian Cross had been a forensic consultant for three years, having left the state police analyst division after what his supervisor called a communication issue and what Julian called a disagreement about the meaning of obvious." },
-    { "type": "narration", "content": "What had happened was this: Julian had identified the perpetrator of a series of white-collar crimes in forty-eight hours using publicly available financial records, a library card database, and a gas station receipt. He had then presented his findings to a twelve-person task force that had been working the case for four months. The task force had not received this well. Julian had not handled their reception well. Words were said. Paperwork was filed." },
-    { "type": "narration", "content": "He did not regret the words. He had done some retrospective work on the delivery." },
-    { "type": "narration", "content": "Independent consulting suited him better. He chose his cases. He worked alone except for Mara, who had been his handler, his emergency contact, and the only person who could reliably get him to eat a full meal since they were in graduate school together. She described her role in his life as part agent, part babysitter, part intervention specialist. He described it as assistant. She found this hilarious." },
-    { "type": "narration", "content": "The vacation had been her idea, or more precisely her ultimatum. Three months without a day off, she'd said. Three months of case files and cold coffee and sleeping four hours a night and claiming to be fine. So either you take a week or I take your laptop. And I will take it, Julian. Don't test me." },
-    { "type": "narration", "content": "He'd taken the week." },
-    { "type": "narration", "content": "It had been forty-one hours. He had read every book he'd brought and started working through the rental property's guest logbook as a recreational exercise in pattern recognition." },
-    { "type": "dialogue", "speaker": "Mara", "content": "Put the logbook down." },
-    { "type": "dialogue", "speaker": "Julian", "content": "I'm just reading it." },
-    { "type": "dialogue", "speaker": "Mara", "content": "You've categorized the guests by frequency of return visits." },
-    { "type": "dialogue", "speaker": "Julian", "content": "There are behavioral patterns in vacation habits that are genuinely—" },
-    { "type": "dialogue", "speaker": "Mara", "content": "Put. The logbook. Down." },
-    { "type": "narration", "content": "He put the logbook down." },
-    { "type": "narration", "content": "He lasted twenty minutes before picking it back up." }
+    { "type": "consequence", "character": "Mara", "text": "was still standing at the door when he paused. She didn't move until he went inside.", "condition": "ep1_goodnight_pause" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You're up early." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Couldn't sleep." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Good morning." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Morning." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "How's the water?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cold. Still nice to look at." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You come out here often? In the morning?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "When I need to think." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Something on your mind?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Nothing specific. Just — you ever feel like you're carrying something and you're not sure when you picked it up?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It's like that." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Anyway." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It's a good morning. The light out here is different before everyone else wakes up." },
+    { "type": "internalThought", "content": "He changed the subject fast. Not nervous — practiced." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "How long have you known Nadia?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Since sophomore year. She tutored me through organic chemistry. I would not have survived without her." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Close?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "One of my closest. Why?" },
+    { "type": "choice", "prompt": "What does Julian say?", "options": [
+      { "id": "ep1_julian_nothing_reason", "label": "\"Just getting to know the group.\"" },
+      { "id": "ep1_julian_honest_reason", "label": "\"She seems like someone who pays close attention to things.\"" }
+    ]}
   ]
 }

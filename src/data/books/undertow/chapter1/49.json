@@ -1,0 +1,28 @@
+{
+  "page": 49,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Every detail except you, Mr. Crane." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Excuse me?" },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You've given me detail on all five of them. You've given me the window, the bracket, the glass, the shape at 9:51, the argument, Cade's porch conversation, Wren's tell. Every detail except you." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm not a suspect." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "No. But you've been building this since you got here. Before any of this happened." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I noticed things." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Why?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Because that's what I do." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "And if this ends up being nothing. If tox is clean and Marcus Calloway died of a heart event at twenty-nine. Then what?" },
+    { "type": "internalThought", "content": "I'd have spent three days building something that doesn't exist and Mara would never let me take another vacation." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Then I'll be wrong." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Can you live with that?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Better than the alternative." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The alternative being?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Being right and having done nothing." },
+    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Go get some sleep, Mr. Crane." },
+    { "type": "choice", "prompt": "Davenport said every detail except you. What does Julian make of that?", "options": [
+      { "id": "ep1_davenport_trust_earned", "label": "He's watching Julian as much as the others. That's fair." },
+      { "id": "ep1_davenport_respects", "label": "He respects it. He just needed to say it." }
+    ]}
+  ]
+}

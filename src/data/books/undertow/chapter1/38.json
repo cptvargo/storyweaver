@@ -1,0 +1,32 @@
+{
+  "page": 38,
+  "chapter": 1,
+  "chapterTitle": "The Weekend",
+  "bookId": "undertow",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You gave a full statement." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Including the window. The bracket. The shape you saw at 9:51." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "All of it." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "And Davenport." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "He's filing it as suspicious death pending tox." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's not natural causes." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We were supposed to leave today." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Davenport asked us to stay. As possible witnesses." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "As possible witnesses. Of course he did." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "We were the only people outside the house during the relevant window." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You mean the window you spent all night watching." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That window, yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "And you're going to keep going, aren't you." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Someone was in that room." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You don't know that." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know the door was locked from the inside. I know the window was open. I know that man was at dinner laughing at nine o'clock and dead by midnight. And I know I saw something at 9:51 that I cannot explain any other way." },
+    { "type": "choice", "prompt": "Mara hears everything he just said. What does she do?", "options": [
+      { "id": "ep1_mara_pushback", "label": "\"That's not enough. You know it isn't enough.\"" },
+      { "id": "ep1_mara_accepts", "label": "She goes quiet. She knows he's right." }
+    ]}
+  ]
+}

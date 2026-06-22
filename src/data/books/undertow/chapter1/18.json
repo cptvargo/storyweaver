@@ -1,17 +1,28 @@
 {
   "page": 18,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Julian heard the bonfire before he saw it." },
-    { "type": "narration", "content": "He'd been walking the beach for twenty minutes — a habit, the night walk, the one reliable way he'd found to decompress that didn't require him to talk to anyone or pretend he was doing something other than thinking. The sand was cool. The tide was going out. The moon was half-full and laying a stripe of light across the water that moved with the waves." },
-    { "type": "narration", "content": "He heard voices, then saw the glow, then the fire itself — a good-sized one at the end of a wooden walkway, six people arranged around it in the easy posture of people who'd known each other long enough that sitting together in the dark required no explanation." },
-    { "type": "narration", "content": "He kept walking. He wasn't watching them. He wasn't not watching them. His mind simply did what his mind always did — registered everything in the room, or in this case on the beach, without being asked to." },
-    { "type": "narration", "content": "Six people. Laughter. The smell of whatever they'd grilled earlier still faint in the night air. The body language of old friendship." },
-    { "type": "narration", "content": "And then something else. One detail, brief, peripheral — the kind of thing that meant nothing in isolation but that Julian's mind flagged anyway the way it flagged everything that didn't quite fit." },
-    { "type": "narration", "content": "He didn't stop. He didn't turn his head." },
-    { "type": "narration", "content": "He walked on." },
-    { "type": "narration", "content": "But the detail stayed with him the way certain things do — sitting quietly at the back of his mind, waiting for the moment he'd know what to do with it." }
+    { "type": "consequence", "character": "Julian", "text": "filed it. Visible presence during the day. Quiet at the edges of the night. The pattern was becoming a shape.", "condition": "ep1_nadia_cover" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Hey. You got a second?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Always." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I need to tell you something." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Okay." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Not here. Later." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cade. What's going on?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Later. I just — I need you to know it's handled. Mostly." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "What's mostly handled?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Later, Marcus." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You can't say something like that and then say later." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I just did. Tonight. Okay? Tonight." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "The tide's coming in." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Thanks, Wren." },
+    { "type": "internalThought", "content": "Wren had been sitting eight feet away the entire time. She hadn't looked at either of them." },
+    { "type": "choice", "prompt": "What does Julian clock about what just happened?", "options": [
+      { "id": "ep1_cade_debt_feel", "label": "Cade owes someone something. And Marcus already knows part of it." },
+      { "id": "ep1_cade_argument_feel", "label": "Whatever Cade has to say — Marcus won't like it." },
+      { "id": "ep1_wren_noticed", "label": "Wren heard everything. She changed the subject on purpose." }
+    ]}
   ]
 }

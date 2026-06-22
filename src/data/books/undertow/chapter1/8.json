@@ -1,23 +1,36 @@
 {
   "page": 8,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "Two houses down the lane, in a rental that was slightly smaller and faced slightly less directly toward the water, Julian Cross was standing on the back porch with a cup of coffee and the expression of a man who had not yet decided whether he was going to allow this vacation to happen to him." },
-    { "type": "narration", "content": "He was 28. Lean in the way of someone who forgot to eat when he was working, which was most of the time. He had the kind of face that people found difficult to read — not cold, exactly, but precise, like every expression had been considered before being deployed. His eyes were the sort that moved differently from everyone else's in a room. Not faster. Just — differently. Taking different inventory." },
-    { "type": "narration", "content": "He heard the cars before he saw them. Two, arriving within a minute of each other, gravel under tires, doors opening, voices carrying across the dunes in the particular pitch of people glad to have arrived somewhere." },
-    { "type": "narration", "content": "He watched the group unload from a distance without meaning to. It was not surveillance. It was simply that Julian Cross, constitutionally, noticed things. It cost him nothing. It happened the way breathing happened — automatically, below the level of decision." },
-    { "type": "narration", "content": "Six people. Three men, three women. The energy of a group that knew each other well — the shorthand, the casual physical ease, the way they moved around each other without having to think about it." },
-    { "type": "narration", "content": "He went back inside." },
-    { "type": "narration", "content": "Mara Voss was at the kitchen table with her laptop, which she had promised Julian she would not bring and had brought anyway. She looked up when he came in." },
-    { "type": "dialogue", "speaker": "Mara", "content": "Neighbors arrive?" },
-    { "type": "dialogue", "speaker": "Julian", "content": "Six of them." },
-    { "type": "dialogue", "speaker": "Mara", "content": "Fun. We should introduce ourselves." },
-    { "type": "dialogue", "speaker": "Julian", "content": "We don't need to do that." },
-    { "type": "dialogue", "speaker": "Mara", "content": "We're on vacation, Julian. Vacation means talking to people you don't know." },
-    { "type": "dialogue", "speaker": "Julian", "content": "That sounds like punishment." },
-    { "type": "dialogue", "speaker": "Mara", "content": "It sounds like being a human being." },
-    { "type": "narration", "content": "Julian refilled his coffee and sat across from her and did not agree to anything." }
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You made it." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We made it." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Dean — this is Julian and Mara from next door." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Good to meet you both." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Are you here for the whole weekend?" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Through Sunday." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "So are we. The sunrise from the water side tomorrow morning is going to be something." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Dean was supposed to wake us all up for the sunrise last time." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I set an alarm." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He set an alarm and then slept through it with the phone under his pillow." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "That's not what happened." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Sophie was there. Sophie." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm not getting involved." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She was there." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus has been talking about this fire for two months." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I said it would be good." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You said it would be transformative." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "And?" },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It's a very good fire." },
+    {
+      "type": "choice",
+      "prompt": "Julian takes in the group. What does he notice first?",
+      "options": [
+        { "id": "ep1_notice_dean_sophie", "label": "How easy Dean and Sophie are together." },
+        { "id": "ep1_notice_marcus_center", "label": "How everything flows through Marcus." },
+        { "id": "ep1_notice_who_watches", "label": "Who's laughing. And who's watching." }
+      ]
+    }
   ]
 }

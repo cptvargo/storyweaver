@@ -1,15 +1,29 @@
 {
   "page": 2,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "internalThought", "content": "He took something from me that I cannot get back. He made a choice — a deliberate, calculated choice — and because of it, my life bent in a direction it was never supposed to go. I've spent eight years living inside the consequences of what he did and he has spent eight years living as though it never happened." },
-    { "type": "internalThought", "content": "That's the part that never stopped hurting. Not the thing itself. The fact that he never once flinched." },
-    { "type": "internalThought", "content": "I found it on the first night. In the front pocket of his bag, folded in quarters. My handwriting. Eight years old and still there — like he'd been carrying it the whole time and couldn't put it down, or couldn't bring himself to throw it away. I stood in that room holding it and I felt eight years collapse into a single second." },
-    { "type": "internalThought", "content": "I've thought about this weekend for a long time. The beach house. The six of us. Two and a half days with nowhere to go, no distractions, no excuse to leave the room when things get uncomfortable. I chose this. I arranged it. Nobody knows that — they all think it was Cade's idea, because I made sure it was Cade's idea. That's the thing about being patient. You learn to work with the geometry of a situation before the situation even exists." },
-    { "type": "internalThought", "content": "I've planned everything." },
-    { "type": "internalThought", "content": "The weekend looked simple enough from the outside. Six old friends, a house on the Carolina coast, the kind of trip we used to take before real life swallowed us all. Nobody will question it. Nobody will look too closely." },
-    { "type": "internalThought", "content": "They never do." }
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "No cases." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm aware." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "I'm saying it out loud because awareness hasn't historically been enough." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know how to take a vacation." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Name one." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "This will be the first." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's what I thought." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "No behavioral analysis. No reading people. No going completely still when someone says something and you're already three layers deep into what it means." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I don't go still." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You went still just now." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was thinking." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's the same thing." },
+    {
+      "type": "choice",
+      "prompt": "What does Julian say?",
+      "options": [
+        { "id": "ep1_julian_agree", "label": "\"Fine. No work. I'll be present.\"" },
+        { "id": "ep1_julian_honest", "label": "\"I don't know how to turn it off.\"" },
+        { "id": "ep1_julian_deflect", "label": "\"How much further?\"" }
+      ]
+    }
   ]
 }

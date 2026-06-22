@@ -1,21 +1,31 @@
 {
   "page": 24,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "The house settled into its nighttime sounds. The particular acoustics of a large empty space — the refrigerator's hum, the creak of unfamiliar joists, the rhythm of the ocean underneath everything like a long slow breath." },
-    { "type": "narration", "content": "Cade had made it from the beach to the couch without fully waking, and was now on his back with one arm hanging off the cushion and his shoes still on, which would become a source of group commentary in the morning." },
-    { "type": "narration", "content": "Dean slept the way he did everything else — easily, without event. Sophie, beside him, lay on her side facing the window, eyes open, looking at the narrow slice of ocean visible between the curtains." },
-    { "type": "narration", "content": "She was thinking about nothing specific. Sometimes that was the problem. The mind, left unsupervised, ran toward the things it had been carefully walking around." },
-    { "type": "narration", "content": "She thought about how Nadia had looked at Dean across the bonfire, just once, for just a moment." },
-    { "type": "narration", "content": "She thought about how she'd told herself she wasn't going to think about things like that this weekend." },
-    { "type": "narration", "content": "She looked at the ocean." },
-    { "type": "narration", "content": "Wren was awake too, though this was less notable — Wren slept lightly and briefly by constitution, and used the night hours without guilt. She lay on her back in the small room with the single window and thought about the quality of Nadia's attention at dinner. The way she'd watched Marcus when she thought nobody was watching her." },
-    { "type": "narration", "content": "Wren was used to seeing things nobody asked her about." },
-    { "type": "narration", "content": "She was trying to decide, in the honest privacy of her own mind, what it was she thought she'd seen." },
-    { "type": "narration", "content": "She didn't have a word for it yet." },
-    { "type": "narration", "content": "She would, eventually." },
-    { "type": "narration", "content": "But by then it would be too late." }
+    { "type": "consequence", "character": "Julian", "text": "made a note. Wren saw things. She had been doing it all weekend.", "condition": "ep1_wren_sharp" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm going to head up. Long day." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It's nine." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm tired." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You sure?" },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Stay. Don't let me kill the night." },
+    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "We'll be up in a bit." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "No rush. I'll sleep better knowing you're all down here being loud." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Good night, man." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Good night." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "We should probably head back too." },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "One more round of sparkling cider first." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "One more." },
+    { "type": "internalThought", "content": "9:17pm. The voices started through the ceiling." },
+    { "type": "internalThought", "content": "Two of them. One was Marcus. The other — harder to place from below." },
+    { "type": "internalThought", "content": "Not shouting. Worse than shouting. The controlled kind that people use when they don't want the floor to hear." },
+    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Is that —" },
+    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Just leave it." },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Yeah." },
+    { "type": "choice", "prompt": "The room has gone quiet. What does Julian do?", "options": [
+      { "id": "ep1_julian_listens", "label": "He sits very still and listens." },
+      { "id": "ep1_julian_watches_group", "label": "He watches the group's faces instead." }
+    ]}
   ]
 }

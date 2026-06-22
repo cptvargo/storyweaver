@@ -1,17 +1,33 @@
 {
   "page": 3,
   "chapter": 1,
-  "chapterTitle": "Arrival",
+  "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "internalThought", "content": "I used to think I was a good person." },
-    { "type": "internalThought", "content": "I don't think about that anymore. Good and bad are words people use when they haven't been pushed far enough to understand that the line between them is not a line at all — it's a distance. A distance that gets shorter the longer you carry something alone." },
-    { "type": "internalThought", "content": "Eight years." },
-    { "type": "internalThought", "content": "By the time this weekend is over, it will be finished. The weight I've been carrying will have somewhere to go. And he will finally understand — in whatever way a person understands something at the very end — what it cost me. What he cost me." },
-    { "type": "internalThought", "content": "I've said his name so many times in my head, in the dark, going over everything. I've rehearsed this." },
-    { "type": "internalThought", "content": "I am ready." },
-    { "type": "internalThought", "content": "Today is the day I finally do it." },
-    { "type": "narration", "content": "—" },
-    { "type": "narration", "content": "Two days earlier." }
+    { "type": "consequence", "character": "Mara", "text": "looked at him for a long moment. Then looked back out the window. She didn't push it.", "condition": "ep1_julian_honest" },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "This is it." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Good location." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said you didn't look at the listing." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I didn't need to." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You have been here forty seconds." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Elevated position. Private lot. Direct beach access." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Would it kill you to say nice house?" },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nice house." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Too late." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Don't." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I haven't done anything." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're looking at them." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "There are six vehicles." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "They're neighbors." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "That is all they are." },
+    {
+      "type": "choice",
+      "prompt": "Julian looks toward the house next door. What does he do?",
+      "options": [
+        { "id": "ep1_grab_bags", "label": "He grabs his bags without another word." },
+        { "id": "ep1_comment_group", "label": "\"One of them arrived separately. Within the last hour.\"" }
+      ]
+    }
   ]
 }
