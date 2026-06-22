@@ -71,6 +71,7 @@ export default function Reader() {
       : loadPage(selectedBook.id, chapterIndex, pageIndex)
     load.then((data) => {
       setPageState({ key, data })
+      setRememberMessage(null)
       window.scrollTo({ top: 0, behavior: 'smooth' })
     })
   }, [selectedBook, chapterIndex, pageIndex, isIntroCard])
@@ -133,7 +134,7 @@ export default function Reader() {
   }
 
   const handleConsequence = (block) => {
-    setRememberMessage(`${block.character} ${block.text}`)
+    setRememberMessage(block.character)
     if (block.id) addTag(block.id)
   }
 

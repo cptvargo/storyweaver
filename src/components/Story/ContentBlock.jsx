@@ -5,14 +5,7 @@ const IMAGE_EXT = /\.(png|jpe?g|gif|webp|avif|svg)$/i
 
 function ConsequenceBlock({ block, onConsequence }) {
   useEffect(() => { onConsequence?.(block) }, [])
-  return (
-    <div className="block block--consequence">
-      <span className="consequence__dot" />
-      <span className="consequence__text">
-        <strong>{block.character}</strong> {block.text}
-      </span>
-    </div>
-  )
+  return null
 }
 
 export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag, onConsequence }) {
