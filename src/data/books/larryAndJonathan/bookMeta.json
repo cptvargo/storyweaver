@@ -31,7 +31,7 @@
     "Diego": "/diego_salavara.png",
     "Imani": "/imani_brooks.png"
   },
-  "totalChapters": 3,
+  "totalChapters": 4,
   "chapterCountPlanned": 8,
   "status": "in-progress",
   "author": "StoryWeaver",
@@ -60,6 +60,13 @@
       "image": "/episode3_the_steps.png",
       "mood": "Some moments only happen once. You'll know when you're in one.",
       "totalPages": 67
+    },
+    {
+      "chapterIndex": 4,
+      "title": "Thursday",
+      "image": "/episode4_thursday.png",
+      "mood": "She's gone. The locker is empty. What you carry out of this week is yours to decide.",
+      "totalPages": 42
     }
   ],
   "themes": ["identity", "friendship", "pride", "ego", "belonging", "loyalty"]
