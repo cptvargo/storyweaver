@@ -9,7 +9,7 @@
     { "type": "dialogue", "speaker": "Eli", "content": "I appreciate walking. I've always appreciated walking." },
     { "type": "dialogue", "speaker": "Meilin", "content": "You complained about walking to the mailbox last week." },
     { "type": "dialogue", "speaker": "Eli", "content": "That's a different kind of walking." },
-    { "type": "narration", "content": "She went with him anyway. Millhaven on a November evening — the last of the leaves down, the air cold and clean, the houses beginning to put lights in their windows." },
+    { "type": "narration", "content": "She went with him anyway. Millhaven on a November evening â€” the last of the leaves down, the air cold and clean, the houses beginning to put lights in their windows." },
     { "type": "dialogue", "speaker": "Meilin", "content": "Where are we going." },
     { "type": "dialogue", "speaker": "Eli", "content": "Nowhere specific." },
     { "type": "dialogue", "speaker": "Meilin", "content": "Eli." },
@@ -24,10 +24,10 @@
     { "type": "narration", "content": "He turned to her. Reached into his jacket pocket." },
     { "type": "dialogue", "speaker": "Eli", "content": "I don't have a film. I don't have a field or a plan or lanterns. I'm not Kit." },
     { "type": "dialogue", "speaker": "Meilin", "content": "I know you're not Kit." },
-    { "type": "dialogue", "speaker": "Eli", "content": "What I have is — you. And the absolute certainty that I don't want to do anything that's coming next without you in it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "What I have is â€” you. And the absolute certainty that I don't want to do anything that's coming next without you in it." },
     { "type": "narration", "content": "He held up the ring. Simple, small, exactly right." },
     { "type": "dialogue", "speaker": "Eli", "content": "Meilin Bai???????????", "translation": "Meilin Bai. Will you marry me. Please." },
-    { "type": "narration", "content": "She stared at him. He had been practicing this for three weeks — in secret, from recordings, getting the tones wrong and starting over." },
+    { "type": "narration", "content": "She stared at him. He had been practicing this for three weeks â€” in secret, from recordings, getting the tones wrong and starting over." },
     { "type": "narration", "content": "The please made her laugh. The ring made her cry. She said yes." }
   ]
 }

@@ -5,10 +5,10 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "The pitch got picked up." },
-    { "type": "narration", "content": "Not by a major studio — a small production company that funded personal projects, the kind of outfit that cared more about what a filmmaker was trying to say than whether it would chart on a streaming algorithm. The budget was modest. The timeline was eight months. The project was entirely his." },
+    { "type": "narration", "content": "Not by a major studio â€” a small production company that funded personal projects, the kind of outfit that cared more about what a filmmaker was trying to say than whether it would chart on a streaming algorithm. The budget was modest. The timeline was eight months. The project was entirely his." },
     { "type": "narration", "content": "Kit sat with the offer letter for a long time before he signed it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What's wrong." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Nothing. I just — I need to tell you what the film is actually about." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Nothing. I just â€” I need to tell you what the film is actually about." },
     { "type": "narration", "content": "She sat down across from him." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's about a town. About leaving. About what it means when someone walks out the door and doesn't come back, and what the people left behind do with that." },
     { "type": "narration", "content": "He watched her understand." },

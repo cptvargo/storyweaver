@@ -15,7 +15,7 @@
     { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I KNOW" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I'm calling you right now" },
     { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I know you are" },
-    { "type": "narration", "content": "The call lasted an hour. Mostly Eli telling the story of the street corner — the Mandarin he'd practiced in secret for three weeks, the tones that were wrong, and the please that wasn't planned — and Meilin laughing through crying, and Kit listening." },
+    { "type": "narration", "content": "The call lasted an hour. Mostly Eli telling the story of the street corner â€” the Mandarin he'd practiced in secret for three weeks, the tones that were wrong, and the please that wasn't planned â€” and Meilin laughing through crying, and Kit listening." },
     { "type": "dialogue", "speaker": "Kit", "content": "You asked her in Mandarin." },
     { "type": "dialogue", "speaker": "Eli", "content": "I practiced for three weeks. My tones were completely wrong." },
     { "type": "dialogue", "speaker": "Kit", "content": "What did she say about that." },
