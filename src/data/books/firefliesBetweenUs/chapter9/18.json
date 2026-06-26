@@ -19,7 +19,7 @@
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "claire got us hot chocolate from the place on washington" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "good roommate" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "the best actually" },
-    { "type": "narration", "content": "They were almost back. The careful texts had given way to normal ones, then to longer ones, and something in the fight had burned off the last of whatever they'd both been holding at arm's length. They'd had it out. They were still here." },
+    { "type": "narration", "content": "They were almost back. They'd had it out. They were still here." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i'm proud of you" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i know" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "daisy." },

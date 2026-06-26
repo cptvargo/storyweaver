@@ -16,12 +16,11 @@
     { "type": "dialogue", "speaker": "Kit", "content": "What do you want me to say, Savannah?" },
     { "type": "dialogue", "speaker": "Savannah", "content": "I want you to say what you actually want to say." },
     { "type": "dialogue", "speaker": "Kit", "content": "She should go if she wants to go. He's a good guy." },
-    { "type": "narration", "content": "Savannah looked at him for a long second with the particular expression of someone watching someone else miss the point on purpose." },
+    { "type": "narration", "content": "Savannah looked at him for a long second." },
     { "type": "dialogue", "speaker": "Savannah", "content": "She's going to say yes." },
     { "type": "dialogue", "speaker": "Kit", "content": "Then she should." },
     { "type": "dialogue", "speaker": "Savannah", "content": "You know, for someone who's supposed to be her best friend—" },
     { "type": "dialogue", "speaker": "Kit", "content": "Savannah. I said she should go. I mean it." },
-    { "type": "narration", "content": "She held his gaze for one more second and then walked away, and Kit stood at the water fountain and looked at nothing and said to himself, very clearly, for the first time: you are running out of time." },
-    { "type": "narration", "content": "He didn't know what to do with that yet." }
+    { "type": "narration", "content": "She held his gaze for one more second and then walked away, and Kit stood at the water fountain and looked at nothing and said to himself, very clearly, for the first time: you are running out of time." }
   ]
 }

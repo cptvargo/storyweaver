@@ -4,18 +4,97 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Wednesday practice. Something clicked between me and Jonathan on the field — the kind of rhythm where the throw is already in the air before I've finished the break. Coach Briggs clapped once, sharp. He only did that when something was actually right." },
-    { "type": "dialogue", "speaker": "Coach Briggs", "content": "That's what I'm talking about. Both of you. That timing. Remember what that felt like." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "You felt that right?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's what it's supposed to be. I throw before you turn. You're already there." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Trust." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's it. That's the whole thing. You trust I'm gonna put it where you're going, not where you are." },
-    { "type": "internalThought", "content": "I thought about Crystal saying 'you didn't expect it to hit like that.' I thought about Mr. Cole saying I already knew what to do. All of it was the same thing in different language — trust what you know before you need to know it." },
-    { "type": "internalThought", "content": "After practice Stacy was back in the bleachers. Same spot. Same notebook. Jonathan noticed but he didn't say anything about it. He ran an extra route he didn't need to." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Extra route." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm working on footwork." },
-    { "type": "dialogue", "speaker": "Larry", "content": "The footwork you just said was perfect." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "There's always room to improve." }
+    {
+      "type": "internalThought",
+      "content": "Wednesday practice. Something clicked between me and Jonathan on the field — the kind of rhythm where the throw is already in the air before I've finished the break. Coach Briggs clapped once, sharp. He only did that when something was actually right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Coach Briggs",
+      "content": "That's what I'm talking about. Both of you. That timing. Remember what that felt like."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "You felt that right?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "That's what it's supposed to be. I throw before you turn. You're already there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Trust."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "That's it. That's the whole thing. You trust I'm gonna put it where you're going, not where you are."
+    },
+    {
+      "type": "internalThought",
+      "content": "I thought about Crystal saying 'you didn't expect it to hit like that.' I thought about Mr. Cole saying I already knew what to do. All of it was the same thing in different language — trust what you know before you need to know it."
+    },
+    {
+      "type": "internalThought",
+      "content": "After practice Stacy was back in the bleachers. Same spot. Same notebook. Jonathan noticed but he didn't say anything about it. He ran an extra route he didn't need to."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Extra route."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "I'm working on footwork."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "The footwork you just said was perfect."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "There's always room to improve."
+    },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is running an extra route he just said was already perfect.",
+      "options": [
+        {
+          "id": "ep3_called_j_routes",
+          "label": "\"You don't need extra reps right now.\"",
+          "goto": 44,
+          "flagsSet": [
+            "ep3_called_j_routes"
+          ]
+        },
+        {
+          "id": "ep3_ran_with_him",
+          "label": "Run alongside him. Don't say anything about it.",
+          "goto": 44,
+          "flagsSet": [
+            "ep3_ran_with_him"
+          ]
+        },
+        {
+          "id": "ep3_watched_j_stacy",
+          "label": "Watch him decide to work harder because she's watching.",
+          "goto": 44,
+          "flagsSet": [
+            "ep3_watched_j_stacy"
+          ]
+        }
+      ]
+    }
   ]
 }

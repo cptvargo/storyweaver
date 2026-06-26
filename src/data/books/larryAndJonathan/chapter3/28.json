@@ -4,25 +4,148 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Friday came the way you'd expect — exactly as slow as it needed to, then suddenly all at once.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I met her at the theater at 6:45. She was already there, standing near the entrance in a dark blue jacket I hadn't seen before. She had her phone in her hand but she wasn't looking at it. She was looking at the street.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "She saw me before I got to the door. Smiled — not the polite kind. The real one. The same one from the steps.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "You're early.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "So are you.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I'm always early. I didn't know you were.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'm not usually. But tonight I didn't want to be late.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I said it before I thought about it. She looked at me for half a second longer than normal.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Good answer.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "We went in. She picked seats in the middle — not too far back, not too close. I noticed that. The kind of person who thinks about where they sit.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Friday afternoon. No plans. Just the block.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Diego was out front. He had a basketball and nowhere specific to be, which meant we both just stood there for a while passing it back and forth.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Diego", "content": "You look like you're waiting for something.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'm not.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Diego", "content": "Okay.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "He didn't push. Diego never pushed. He just asked the thing once and then let you be wrong about it if you needed to.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Diego", "content": "That kid Daniel. You hear anything from him?", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "He's been quiet.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Diego", "content": "Quiet's not done.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "I know.", "conditionNot": "asked_number_ep2" }
+    {
+      "type": "internalThought",
+      "content": "Friday came the way you'd expect — exactly as slow as it needed to, then suddenly all at once.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I met her at the theater at 6:45. She was already there, standing near the entrance in a dark blue jacket I hadn't seen before. She had her phone in her hand but she wasn't looking at it. She was looking at the street.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "She saw me before I got to the door. Smiled — not the polite kind. The real one. The same one from the steps.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "You're early.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "So are you.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I'm always early. I didn't know you were.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I'm not usually. But tonight I didn't want to be late.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I said it before I thought about it. She looked at me for half a second longer than normal.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Good answer.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "We went in. She picked seats in the middle — not too far back, not too close. I noticed that. The kind of person who thinks about where they sit.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Friday afternoon. No plans. Just the block.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Diego was out front. He had a basketball and nowhere specific to be, which meant we both just stood there for a while passing it back and forth.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "You look like you're waiting for something.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I'm not.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "Okay.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "He didn't push. Diego never pushed. He just asked the thing once and then let you be wrong about it if you needed to.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "That kid Daniel. You hear anything from him?",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "He's been quiet.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "Quiet's not done.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I know.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "choice",
+      "condition": "asked_number_ep2",
+      "prompt": "She picked the middle seats. She'd already thought about tonight.",
+      "options": [
+        {
+          "id": "ep3_noticed_seats_p28",
+          "label": "I noticed. I didn't say anything. I just noticed.",
+          "goto": 29,
+          "flagsSet": [
+            "ep3_noticed_seats_p28"
+          ]
+        },
+        {
+          "id": "ep3_settled_in_p28",
+          "label": "Stop thinking about what things mean. Just be here.",
+          "goto": 29,
+          "flagsSet": [
+            "ep3_settled_in_p28"
+          ]
+        },
+        {
+          "id": "ep3_watching_previews",
+          "label": "She's smiling at the previews. You can't stop looking.",
+          "goto": 29,
+          "flagsSet": [
+            "ep3_watching_previews"
+          ]
+        }
+      ]
+    }
   ]
 }

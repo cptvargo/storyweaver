@@ -4,22 +4,120 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "heard the sound from next door. He was already at the window.", "condition": "ep1_shape_person" },
-    { "type": "consequence", "character": "Julian", "text": "heard the sound from next door. He was already dressed.", "condition": "ep1_door_wrong" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "What was that?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Door." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian —" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Something happened." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You don't know that." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The window was open last night. The room was dark by 9:43. I heard an argument. I saw a shape. And now someone is trying to break through a door." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm going over." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Wait — Julian." },
-    { "type": "internalThought", "content": "The sound from next door changed. Voices dropped low. The kind that means someone already knows." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I'm coming with you." },
-    { "type": "choice", "prompt": "What does Julian do?", "options": [
-      { "id": "ep1_julian_goes_alone", "label": "\"Stay here. I'll be right back.\"" },
-      { "id": "ep1_julian_lets_mara_come", "label": "He doesn't argue. He just moves." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "heard the sound from next door. He was already dressed.",
+      "condition": "ep1_door_wrong"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had given it the simplest explanation. Asleep. Some mornings that's the only story.",
+      "condition": "ep1_door_asleep"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had said nothing out loud. He kept it where he could find it.",
+      "condition": "ep1_door_files"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had held it.",
+      "condition": "ep1_p29_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "What was that?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian â€”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Something happened."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "Marcus had gone to bed at nine. I'd been thinking about that since I woke up. It was the wrong kind of tired.",
+      "condition": "ep1_marcus_stays"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You don't know that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The window was open last night. The room was dark by 9:43. I heard an argument. I saw a shape. And now someone is trying to break through a door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm going over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Wait â€” Julian."
+    },
+    {
+      "type": "internalThought",
+      "content": "The sound from next door changed. Voices dropped low. The kind that means someone already knows.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I'm coming with you."
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Julian do?",
+      "options": [
+        {
+          "id": "ep1_julian_goes_alone",
+          "label": "\"Stay here. I'll be right back.\"",
+          "goto": 31,
+          "flagsSet": [
+            "ep1_julian_goes_alone"
+          ]
+        },
+        {
+          "id": "ep1_julian_lets_mara_come",
+          "label": "He doesn't argue. He just moves.",
+          "goto": 31,
+          "flagsSet": [
+            "ep1_julian_lets_mara_come"
+          ]
+        },
+        {
+          "id": "ep1_p30_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p30_silent"
+          ],
+          "goto": 31
+        }
+      ]
+    }
   ]
 }

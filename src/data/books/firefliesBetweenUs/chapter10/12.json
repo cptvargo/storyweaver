@@ -1,15 +1,15 @@
-{
+﻿{
   "page": 12,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Dark came in slowly. The way it did in Georgia in July — reluctant, like it knew what it was giving up." },
+    { "type": "narration", "content": "Dark came in slowly." },
     { "type": "narration", "content": "And with it: fireflies." },
     { "type": "narration", "content": "First just a few at the edge of the field where the grass met the tree line. Then more. Then the whole field beginning to blink — slow and unhurried, like the field itself was breathing." },
-    { "type": "dialogue", "speaker": "Priya", "content": "I've never seen that many." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "I've never seen that many." },
     { "type": "dialogue", "speaker": "Eli", "content": "Wait until the fireworks." },
-    { "type": "dialogue", "speaker": "Priya", "content": "Both at the same time?" },
+    { "type": "dialogue", "speaker": "Meilin", "content": "Both at the same time?" },
     { "type": "dialogue", "speaker": "Eli", "content": "That is the plan, yes." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Eli Turner has a vision." },
     { "type": "dialogue", "speaker": "Eli", "content": "Eli Turner has always had a vision. People are only now recognizing it." },
@@ -22,6 +22,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "It was nine-thirty. We were in the middle of something." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We were lying in the grass looking at the sky." },
     { "type": "dialogue", "speaker": "Kit", "content": "We were in the middle of something." },
-    { "type": "narration", "content": "She smiled. Around them, the field kept filling with light — the slow, patient blink of a thousand fireflies doing what they'd always done, the same as they'd done the summer these two were twelve years old and just starting to understand something they didn't have words for yet." }
+    { "type": "narration", "content": "She smiled. Around them, the field kept filling with light — the field full of fireflies." }
   ]
 }

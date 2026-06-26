@@ -1,0 +1,24 @@
+{
+  "page": 27,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
+    { "type": "narration", "content": "She turned toward him. He lowered the phone." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I took a test this morning. Before we left the house." },
+    { "type": "narration", "content": "He went still." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I wasn't going to tell you tonight. Tonight wasn't supposed to be about that. But I've been standing here and I keep thinking — your mom knew every time something big was coming. She always knew. And I think she'd want us to have this." },
+    { "type": "narration", "content": "He looked at her for a long moment. The fireflies moved between them." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "We're going to have a baby." },
+    { "type": "narration", "content": "He didn't say anything." },
+    { "type": "narration", "content": "He looked out at the field, then up at the sky. Then he looked back at her." },
+    { "type": "narration", "content": "He reached out and pulled her close. Her head against his chest. His arms around her in the field, in the dark, in the town where they had started." },
+    { "type": "narration", "content": "He said:" },
+    { "type": "dialogue", "speaker": "Kit", "content": "She knew." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She knew." },
+    { "type": "narration", "content": "Above them, the April sky. Around them, the field. Between them — the first fireflies of the season." }
+  ]
+}

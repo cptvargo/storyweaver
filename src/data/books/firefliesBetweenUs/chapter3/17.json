@@ -4,7 +4,7 @@
   "chapterTitle": "The Long Way Home",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Her house had the porch light on and the blue flicker of a television through the front window. Her mom was probably still up. They stopped at the end of the front walk the way they always stopped, at the invisible line where he didn't go further and she didn't quite leave yet." },
+    { "type": "narration", "content": "Her house had the porch light on and a television flickering through the front window. They stopped at the end of the front walk the way they always did." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Don't forget to check if that notebook is actually from math." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll check." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You won't check." },

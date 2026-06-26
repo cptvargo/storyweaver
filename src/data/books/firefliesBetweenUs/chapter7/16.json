@@ -23,6 +23,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Good night, Eli." },
     { "type": "dialogue", "speaker": "Eli", "content": "You've been not saying it since we were twelve —" },
     { "type": "dialogue", "speaker": "Kit", "content": "Good night." },
-    { "type": "narration", "content": "He hung up. Sat in the dark. Eli wasn't wrong. He just wasn't ready. He kept thinking he'd know when he was ready." }
+    { "type": "narration", "content": "He hung up. Sat in the dark. Eli wasn't wrong. He just wasn't ready." }
   ]
 }

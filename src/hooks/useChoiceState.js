@@ -14,11 +14,13 @@ export function useChoiceState(bookId) {
 
   const makeChoice = (chapterIndex, pageIndex, option) => {
     const choiceKey = `${chapterIndex}_${pageIndex}`
+    const extraFlags = (option.flagsSet ?? []).filter(f => !state.tags.includes(f))
+    const baseTags = option.id && !state.tags.includes(option.id)
+      ? [...state.tags, option.id, ...extraFlags]
+      : [...state.tags, ...extraFlags]
     const next = {
       choices: { ...state.choices, [choiceKey]: { id: option.id, goto: option.goto } },
-      tags: option.id && !state.tags.includes(option.id)
-        ? [...state.tags, option.id]
-        : state.tags,
+      tags: baseTags,
     }
     setState(next)
     try { window.localStorage.setItem(key, JSON.stringify(next)) } catch {}

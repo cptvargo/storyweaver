@@ -4,23 +4,123 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Officially — we are treating this as a suspicious death pending toxicology." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "What does that mean for us?" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "It means none of you leave the county until I say otherwise. We'll need formal statements from each of you. If tox comes back clean it may well be nothing." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "And if it doesn't come back clean?" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Then we deal with that when we get there." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "You think one of us —" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I'm not saying that." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "You're not not saying it." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Ms. Laurent. I am asking everyone in this house to cooperate and stay available. That is all I am doing right now." },
-    { "type": "internalThought", "content": "Nadia's expression didn't change. The others showed fear or grief or both. She had already settled into something past that." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "We'll cooperate." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Thank you." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Whatever you need, Inspector. Marcus deserves the truth." },
-    { "type": "internalThought", "content": "She meant it. I was almost certain she meant it." },
-    { "type": "choice", "prompt": "Nadia said Marcus deserves the truth. Does she mean it?", "options": [
-      { "id": "ep1_nadia_means_truth", "label": "Yes. Even now, the grief is real." },
-      { "id": "ep1_nadia_performance", "label": "She said exactly what someone would say. That's not the same as meaning it." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had confirmed the window. 9:43 to 10:30 — that was real time with real edges.",
+      "condition": "ep1_back_hour_yes"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had not committed to the hour yet. He needed the evidence to hold it first.",
+      "condition": "ep1_back_hour_no"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "held it without committing to it out loud.",
+      "condition": "ep1_p46_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Officially â€” we are treating this as a suspicious death pending toxicology."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "What does that mean for us?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "It means none of you leave the county until I say otherwise. We'll need formal statements from each of you. If tox comes back clean it may well be nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "And if it doesn't come back clean?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Then we deal with that when we get there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "You think one of us â€”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "I'm not saying that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "You're not not saying it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Ms. Laurent. I am asking everyone in this house to cooperate and stay available. That is all I am doing right now."
+    },
+    {
+      "type": "internalThought",
+      "content": "Nadia's expression didn't change. The others showed fear or grief or both. She had already settled into something past that.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "We'll cooperate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Thank you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Whatever you need, Inspector. Marcus deserves the truth."
+    },
+    {
+      "type": "internalThought",
+      "content": "She meant it. I was almost certain she meant it.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nadia said Marcus deserves the truth. Does she mean it?",
+      "options": [
+        {
+          "id": "ep1_nadia_means_truth",
+          "label": "Yes. Even now, the grief is real.",
+          "goto": 48,
+          "flagsSet": [
+            "ep1_nadia_means_truth"
+          ]
+        },
+        {
+          "id": "ep1_nadia_performance",
+          "label": "She said exactly what someone would say. That's not the same as meaning it.",
+          "goto": 48,
+          "flagsSet": [
+            "ep1_nadia_performance"
+          ]
+        },
+        {
+          "id": "ep1_p47_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p47_silent"
+          ],
+          "goto": 48
+        }
+      ]
+    }
   ]
 }

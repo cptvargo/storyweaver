@@ -4,18 +4,17 @@
   "chapterTitle": "Away Message",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The next morning was the first time in as long as Kit could remember that sitting next to Daisy in homeroom felt different." },
-    { "type": "narration", "content": "Not bad. Just — aware. Like there was a new variable in a thing that hadn't had variables before." },
+    { "type": "narration", "content": "The next morning sitting next to Daisy in homeroom felt different." },
     { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Hey." },
-    { "type": "narration", "content": "They'd said hey to each other ten thousand times. This was the same word. It landed slightly differently." },
+    { "type": "narration", "content": "They'd said hey to each other ten thousand times." },
     { "type": "dialogue", "speaker": "Kit", "content": "Eli told me about the note thing." },
     { "type": "dialogue", "speaker": "Daisy", "content": "It's nothing." },
     { "type": "dialogue", "speaker": "Kit", "content": "I know." },
     { "type": "dialogue", "speaker": "Daisy", "content": "People just—" },
     { "type": "dialogue", "speaker": "Kit", "content": "I know. It's fine." },
-    { "type": "narration", "content": "The teacher came in. They both looked at the front of the room. Around them, homeroom did what homeroom did — the noise and the shuffling and the particular chaos of thirty kids trying to settle." },
-    { "type": "narration", "content": "Daisy had her notebook open. Kit had his notebook closed. Normally she would have said something about that." },
+    { "type": "narration", "content": "The teacher came in. They both looked at the front of the room." },
+    { "type": "narration", "content": "Daisy had her notebook open. Kit's was closed." },
     { "type": "narration", "content": "She didn't say anything about it." },
     { "type": "narration", "content": "He noticed." }
   ]

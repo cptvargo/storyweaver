@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 9,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The first hour was easy. It went the way all good nights do when everyone has been apart long enough to have things to say." },
+    { "type": "narration", "content": "The first hour was easy." },
     { "type": "dialogue", "speaker": "Marcus", "content": "Tell me about film school." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's not film school technically —" },
     { "type": "dialogue", "speaker": "Eli", "content": "It's film school." },
@@ -21,10 +21,10 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Of course she did." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You were going to downplay it. Someone had to tell people correctly." },
     { "type": "dialogue", "speaker": "Eli", "content": "This is what they're like now. All the time. It's great." },
-    { "type": "dialogue", "speaker": "Priya", "content": "I think it's sweet." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "I think it's sweet." },
     { "type": "dialogue", "speaker": "Eli", "content": "Sweet and great. Both things." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're right here." },
     { "type": "dialogue", "speaker": "Eli", "content": "I know. That's why I'm saying it to your face." },
-    { "type": "narration", "content": "Kit reached over and stole her drink. She took it back without looking at him. The group noticed. Nobody said anything. That was the thing about this group — they knew when to push and when to let things be what they were." }
+    { "type": "narration", "content": "Kit reached over and stole her drink. She took it back without looking at him. The group noticed. Nobody said anything." }
   ]
 }

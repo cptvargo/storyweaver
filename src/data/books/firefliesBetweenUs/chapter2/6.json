@@ -4,17 +4,18 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "It wasn't the big things that got you." },
-    { "type": "narration", "content": "Kit had expected the big things — the waterlogged ceiling, the wallpaper peeling in long strips from the plaster, the window in the kitchen cracked clean across from some winter that had come and gone while nobody was watching. All of that was there. He walked past all of it." },
-    { "type": "narration", "content": "It was the small things." },
-    { "type": "narration", "content": "A pair of children's boots by the back door. Lined up neatly, toes pointing out, like someone had taken them off before coming inside and fully intended to put them on again in the morning." },
-    { "type": "narration", "content": "A hook on the kitchen wall with two keys still on it. One car key. One smaller one. Just hanging there." },
-    { "type": "narration", "content": "In the living room, a paperback novel left open face-down on the windowsill to keep the page — whatever page someone had been on the last night they'd been in this house." },
-    { "type": "narration", "content": "Daisy picked up the book. Looked at the cover. Set it back down face-up — not the way it had been, but differently, deliberately. She was giving it something back. Kit wasn't sure what." },
+    { "type": "narration", "content": "It wasn't the big things that got you. The waterlogged ceiling, the wallpaper peeling in long strips — Kit walked past all of it." },
+    { "type": "narration", "content": "A pair of children's boots by the back door. Lined up neatly, toes pointing out." },
+    { "type": "narration", "content": "A hook on the kitchen wall with two keys still on it. Just hanging there." },
+    { "type": "narration", "content": "In the living room, a paperback novel left open face-down on the windowsill to keep the page." },
+    { "type": "narration", "content": "Daisy picked up the book. Looked at the cover. Set it back down face-up — differently from how it had been, deliberately." },
     { "type": "dialogue", "speaker": "Daisy", "content": "They left so fast." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "All this stuff. They just — walked away from all of it." },
-    { "type": "narration", "content": "Kit looked at the boots. Small. A child's size. He thought about a room in his own house that had been different one day when he came home from school, and how the things had stayed in it for weeks after, and how walking past the doorway had required a specific kind of not-looking that he'd gotten very good at." },
-    { "type": "narration", "content": "He said, \"Let's go upstairs,\" and he said it like he just wanted to see the upstairs." }
+    { "type": "dialogue", "speaker": "Eli", "content": "Think there's still food in the kitchen?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Eli. Don't." },
+    { "type": "narration", "content": "Kit looked at the boots. Small. A child's size." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Let's go upstairs." },
+    { "type": "narration", "content": "Daisy looked at him. Then followed." }
   ]
 }

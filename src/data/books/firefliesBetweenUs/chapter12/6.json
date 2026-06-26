@@ -4,15 +4,13 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Year one had the shape of a good thing under pressure — the money was tight, the apartment was small, and two people with strong opinions about their work living in close quarters will always find new edges to bump against." },
+    { "type": "narration", "content": "Year one: the money was tight, the apartment was small." },
     { "type": "narration", "content": "There was the month Kit took on a freelance project that ran six weeks over schedule and turned him into someone who came to bed at two and left before she was awake. She didn't say anything for the first three weeks. On week four she sat down across from him at the editing table at midnight and said:" },
     { "type": "dialogue", "speaker": "Daisy", "content": "I need you to know I'm here. That I exist in this apartment." },
-    { "type": "narration", "content": "He stopped what he was doing. Looked at her. And to his credit — to everything Dr. Reeves had worked into him — he didn't defend himself. He said:" },
+    { "type": "narration", "content": "He stopped what he was doing and looked at her. He said:" },
     { "type": "dialogue", "speaker": "Kit", "content": "You're right. I'm sorry. Tell me what you need." },
-    { "type": "narration", "content": "Not: I'm doing this for us. Not: it's almost done. Just: you're right." },
-    { "type": "narration", "content": "He wrapped the project ten days later. Took her to dinner. Not a grand gesture — just the Italian place on the corner they'd been walking past for six months and never gone into. They sat for two hours. He asked about the book. She told him about the chapter she'd been stuck on for three weeks. He asked the second question — the way he always did when he was really listening — and somewhere in the answer she found the thread she'd been missing." },
+    { "type": "narration", "content": "He wrapped the project ten days later and took her to dinner � the Italian place on the corner they'd been walking past for six months. She told him about the chapter she'd been stuck on. Somewhere in the conversation she found the thread." },
     { "type": "narration", "content": "She wrote four pages the next morning." },
-    { "type": "narration", "content": "That was the pattern of their first year. Pressure, friction, a moment where one of them said the true thing, and then the repair. Not easy. Not seamless. But always repair." },
-    { "type": "narration", "content": "By the time December came, they had a rhythm. A life. Something that belonged to both of them and neither of them alone." }
+    { "type": "narration", "content": "By the time December came, they had a rhythm." }
   ]
 }

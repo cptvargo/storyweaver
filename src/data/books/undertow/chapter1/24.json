@@ -4,28 +4,143 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "made a note. Wren saw things. She had been doing it all weekend.", "condition": "ep1_wren_sharp" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm going to head up. Long day." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It's nine." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm tired." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You sure?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Stay. Don't let me kill the night." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "We'll be up in a bit." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "No rush. I'll sleep better knowing you're all down here being loud." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Good night, man." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Good night." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We should probably head back too." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "One more round of sparkling cider first." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "One more." },
-    { "type": "internalThought", "content": "9:17pm. The voices started through the ceiling." },
-    { "type": "internalThought", "content": "Two of them. One was Marcus. The other — harder to place from below." },
-    { "type": "internalThought", "content": "Not shouting. Worse than shouting. The controlled kind that people use when they don't want the floor to hear." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Is that —" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Just leave it." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Yeah." },
-    { "type": "choice", "prompt": "The room has gone quiet. What does Julian do?", "options": [
-      { "id": "ep1_julian_listens", "label": "He sits very still and listens." },
-      { "id": "ep1_julian_watches_group", "label": "He watches the group's faces instead." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "made a note. Wren saw things. She had been doing it all weekend.",
+      "condition": "ep1_wren_sharp"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "left it at coincidence. Maybe she'd just been looking at the right moment.",
+      "condition": "ep1_wren_coincidence"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "noted it without naming it.",
+      "condition": "ep1_p23_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'm going to head up. Long day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It's nine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'm tired."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You sure?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. Stay. Don't let me kill the night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "We'll be up in a bit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "No rush. I'll sleep better knowing you're all down here being loud."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Good night, man."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Good night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We should probably head back too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "One more round of sparkling cider first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "One more."
+    },
+    {
+      "type": "internalThought",
+      "content": "9:17pm. The voices started through the ceiling.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "internalThought",
+      "content": "Two of them. One was Marcus. The other â€” harder to place from below.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "internalThought",
+      "content": "Not shouting. Worse than shouting. The controlled kind that people use when they don't want the floor to hear.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Is that â€”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Just leave it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Yeah."
+    },
+    {
+      "type": "choice",
+      "prompt": "The room has gone quiet. What does Julian do?",
+      "options": [
+        {
+          "id": "ep1_julian_listens",
+          "label": "He sits very still and listens.",
+          "goto": 25,
+          "flagsSet": [
+            "ep1_julian_listens"
+          ]
+        },
+        {
+          "id": "ep1_julian_watches_group",
+          "label": "He watches the group's faces instead.",
+          "goto": 25,
+          "flagsSet": [
+            "ep1_julian_watches_group"
+          ]
+        },
+        {
+          "id": "ep1_p24_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p24_silent"
+          ],
+          "goto": 25
+        }
+      ]
+    }
   ]
 }

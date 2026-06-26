@@ -4,25 +4,24 @@
   "chapterTitle": "The Long Way Home",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The movie started with the projector's characteristic flicker — one long stuttering second and then there it was, huge and silver on the park screen, a world in black and white while the real one went gold and then purple around them." },
+    { "type": "narration", "content": "The movie started with the projector's characteristic flicker — one long stuttering second and then there it was, huge and silver on the park screen." },
     { "type": "dialogue", "speaker": "Eli", "content": "This is old." },
     { "type": "dialogue", "speaker": "Savannah", "content": "It's a classic." },
     { "type": "dialogue", "speaker": "Eli", "content": "I thought classic meant really good, not really old." },
     { "type": "dialogue", "speaker": "Savannah", "content": "It can mean both." },
-    { "type": "narration", "content": "For a while they actually watched it. Eli made quiet commentary. Savannah shushed him, then quietly laughed at the same things. Kit stretched out on the grass with his arms behind his head and looked at the screen and at the sky and back at the screen, and Daisy sat cross-legged beside him with her hands in her lap." },
+    { "type": "narration", "content": "Kit stretched out on the grass with his arms behind his head. Daisy sat cross-legged beside him." },
     { "type": "dialogue", "speaker": "Kit", "content": "He's really good at that." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Told you." },
     { "type": "dialogue", "speaker": "Kit", "content": "I didn't say you didn't tell me." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You implied it." },
     { "type": "dialogue", "speaker": "Kit", "content": "I implied I didn't know who he was. That's different." },
-    { "type": "narration", "content": "He could feel her almost-smiling without looking. He'd gotten good at that." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You doing okay?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Why?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "You've been kind of quiet." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm always quiet." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You're never quiet." },
-    { "type": "narration", "content": "He thought about that. She was right. The quiet was new, and he didn't entirely know what to do with it." },
+    { "type": "narration", "content": "He thought about that. She was right." },
     { "type": "dialogue", "speaker": "Kit", "content": "I just don't want it to end." },
-    { "type": "narration", "content": "He meant the summer. She knew he meant the summer. She looked at the screen and didn't say anything, and on the grass between them, her hand was three inches from his." }
+    { "type": "narration", "content": "She looked at the screen. On the grass between them, her hand was three inches from his." }
   ]
 }

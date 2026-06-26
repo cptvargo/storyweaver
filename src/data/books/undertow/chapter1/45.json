@@ -4,27 +4,146 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You're the analyst." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "What does that mean? For you. In a situation like this." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It means I notice things." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "What kind of things?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The kind people don't usually think to hide because they don't know anyone is watching." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "And you think someone in our group did this." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I think the door was locked from the inside and the window was twenty feet off the ground." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "That's not an answer." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Marcus was my closest friend. For ten years. I need to know what happened to him." },
-    { "type": "internalThought", "content": "She held eye contact the entire time. The kind of steadiness that either means you have nothing to hide or everything to protect." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Then I hope the investigation gets there quickly." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Do you think it will?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I think the evidence will tell us what happened. It always does. The only question is how long it takes." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "That sounds like a yes." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's a certainty. I'm careful about those." },
-    { "type": "choice", "prompt": "Nadia. After this conversation. What does Julian know?", "options": [
-      { "id": "ep1_nadia_grieving", "label": "She's grieving. This is what grief looks like when you're controlled." },
-      { "id": "ep1_nadia_testing", "label": "She came to see what he knows. She's measuring his reach." },
-      { "id": "ep1_nadia_both", "label": "Both things are true at the same time." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had committed. He was in this now.",
+      "condition": "ep1_commitment_yes"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had committed to what he could. He would not promise the rest.",
+      "condition": "ep1_commitment_measured"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had not said what he would do. He would know when he got there.",
+      "condition": "ep1_p44_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You're the analyst."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "What does that mean? For you. In a situation like this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It means I notice things."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "What kind of things?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The kind people don't usually think to hide because they don't know anyone is watching."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "And you think someone in our group did this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I think the door was locked from the inside and the window was twenty feet off the ground."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "That's not an answer."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Marcus was my closest friend. For ten years. I need to know what happened to him."
+    },
+    {
+      "type": "internalThought",
+      "content": "She held eye contact the entire time. The kind of steadiness that either means you have nothing to hide or everything to protect.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Then I hope the investigation gets there quickly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Do you think it will?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I think the evidence will tell us what happened. It always does. The only question is how long it takes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "That sounds like a yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's a certainty. I'm careful about those."
+    },
+    {
+      "type": "choice",
+      "prompt": "Nadia. After this conversation. What does Julian know?",
+      "options": [
+        {
+          "id": "ep1_nadia_grieving",
+          "label": "She's grieving. This is what grief looks like when you're controlled.",
+          "goto": 46,
+          "flagsSet": [
+            "ep1_nadia_grieving"
+          ]
+        },
+        {
+          "id": "ep1_nadia_testing",
+          "label": "She came to see what he knows. She's measuring his reach.",
+          "goto": 46,
+          "flagsSet": [
+            "ep1_nadia_testing"
+          ]
+        },
+        {
+          "id": "ep1_nadia_both",
+          "label": "Both things are true at the same time.",
+          "goto": 46,
+          "flagsSet": [
+            "ep1_nadia_both"
+          ]
+        },
+        {
+          "id": "ep1_p45_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p45_silent"
+          ],
+          "goto": 46
+        }
+      ]
+    }
   ]
 }

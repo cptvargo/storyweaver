@@ -4,7 +4,7 @@
   "chapterTitle": "Almost",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The gym smelled like streamers and someone's too-strong cologne and the particular energy of a hundred and fifty teenagers who had all decided to pretend this was more glamorous than it was. The lights were low and the DJ was setting up in the corner and the basketball hoops had been taped with orange ribbon." },
+    { "type": "narration", "content": "The gym smelled like streamers and someone's too-strong cologne. The lights were low and the DJ was setting up in the corner and the basketball hoops had been taped with orange ribbon." },
     { "type": "narration", "content": "Eli surveyed it with the expression of a man who had arrived somewhere and found it satisfactory." },
     { "type": "dialogue", "speaker": "Eli", "content": "This is acceptable." },
     { "type": "dialogue", "speaker": "Savannah", "content": "It's a high school gym." },
@@ -13,7 +13,6 @@
     { "type": "narration", "content": "He'd seen her at the door when they all arrived together, and she'd been wearing the dark green dress, and his mom had been right." },
     { "type": "dialogue", "speaker": "Kit", "content": "You look good." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You too." },
-    { "type": "narration", "content": "That was the whole of it, which was not the whole of it at all, but it was what he had." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Eli's already gone." },
     { "type": "dialogue", "speaker": "Kit", "content": "Eli goes where the people are." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Come on." },

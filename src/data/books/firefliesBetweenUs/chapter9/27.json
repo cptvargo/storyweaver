@@ -21,7 +21,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Let me figure out if it's actually good first. Then you can see it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You think I'd be harsh." },
     { "type": "dialogue", "speaker": "Kit", "content": "I think you'd be honest. Which in this case might be the same thing." },
-    { "type": "narration", "content": "She laughed. The table between them felt smaller than it used to. Like the scale of the whole house had shifted slightly." },
+    { "type": "narration", "content": "She laughed." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I want to talk about what I said. On the phone. In October." },

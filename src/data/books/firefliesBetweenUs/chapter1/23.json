@@ -5,19 +5,18 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "He saw the first one from the porch." },
-    { "type": "narration", "content": "Not right away — at first it was just dark settling over the street, the amber streetlights doing their job, a bat doing a fast erratic circle over the Winstons' oak tree and then gone. The kind of quiet evening that doesn't announce itself." },
+    { "type": "narration", "content": "Not right away — at first it was just dark settling over the street, the amber streetlights doing their job, a bat making a fast erratic circle over the Winstons' oak tree and then gone." },
     { "type": "narration", "content": "Then: a pulse of light in the grass below the porch steps. Small. Green-gold. There for half a second and then not, like something winking." },
     { "type": "narration", "content": "He watched." },
-    { "type": "narration", "content": "Another one, in the yard across the street." },
-    { "type": "narration", "content": "Three more, down at the far end, over the weedy rectangle beside the Henderson property — probably the warmest spot on the block, the best drainage after the rain. Which apparently fireflies knew something about." },
+    { "type": "narration", "content": "Another one, in the yard across the street. Three more down at the far end, over the weedy rectangle beside the Henderson property — the warmest spot on the block, best drainage after the rain." },
     { "type": "narration", "content": "Kit got up." },
-    { "type": "narration", "content": "He went around the back of the house, through the gate, along the fence line, and out to the field behind their block. The field that had no name, that had always been there, that probably belonged to someone and had never been used for anything as long as Kit could remember. In summer it grew up to his waist in places, chest-high in the center — switchgrass and ragweed and the occasional volunteer sunflower pushing up wherever it had decided to grow." },
+    { "type": "narration", "content": "He went through the gate and along the fence line, out to the field behind the block. It had no name, grew up to his waist in switchgrass and ragweed, chest-high in the center where a volunteer sunflower had pushed up." },
     { "type": "narration", "content": "The fireflies were everywhere." },
-    { "type": "narration", "content": "Not just a few. He was standing in the edge of them and they were going up and coming down and drifting sideways in their slow irregular way — hundreds of them across the whole field, each light independent, each one lasting half a second before it blinked out and something else blinked on somewhere nearby." },
+    { "type": "narration", "content": "Not just a few. He was standing in the edge of them — hundreds across the whole field, each light independent, each one lasting half a second before it blinked out and something else blinked on somewhere nearby." },
     { "type": "narration", "content": "Together they made something that wasn't quite light but felt like it. Like the field itself was breathing." },
     { "type": "narration", "content": "He stood there for a while." },
-    { "type": "narration", "content": "He thought about the view from the tower. The Winstons' oak, small from sixty feet up. His mom's street. The way the whole town looked like something you could hold in your hands." },
-    { "type": "narration", "content": "He thought about Daisy saying yeah, it was — just that, easy and true." },
-    { "type": "narration", "content": "Some evenings gave you the whole day back." }
+    { "type": "narration", "content": "He thought about the view from the tower. The Winstons' oak, small from sixty feet up. The town held out where you could see all of it at once." },
+    { "type": "narration", "content": "He thought about Daisy saying yeah, it was." },
+    { "type": "narration", "content": "He stayed out there until the first crickets started up." }
   ]
 }

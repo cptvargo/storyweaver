@@ -4,25 +4,87 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "internalThought", "content": "I found it on the first night." },
-    { "type": "internalThought", "content": "In the front pocket of his bag, folded in quarters. My handwriting. Eight years old and still there." },
-    { "type": "internalThought", "content": "He kept it." },
-    { "type": "internalThought", "content": "I had chosen every word carefully. I had written it and rewritten it and folded it and given it to someone I trusted completely. And that person kept it." },
-    { "type": "internalThought", "content": "Not lost. Not forgotten. Kept." },
-    { "type": "internalThought", "content": "Eight years. I sat across tables from him. I flew to his wedding. I watched everything I had asked for in that letter become someone else's life — and I thought he had said no. I thought he had decided. I thought he knew and chose not to answer." },
-    { "type": "internalThought", "content": "He never saw it." },
-    { "type": "internalThought", "content": "He never saw it because it was here. In a front pocket, folded in quarters, carried for eight years by the one person who should have handed it over." },
-    { "type": "internalThought", "content": "I held it for a long time. The paper had gone soft at the folds. Eight years in a pocket will do that to anything." },
-    { "type": "internalThought", "content": "I don't know why. I may never know why. What I know is that he kept it, and eight years passed, and the person I wrote it for never received a single word." },
-    { "type": "internalThought", "content": "I have been patient for eight years. I have been careful. I have been the most controlled person in every room I've walked into since the day I stopped waiting for a response that was never going to come." },
-    { "type": "internalThought", "content": "And now I am standing in the dark at the top of the stairs, and the house is quiet, and I have made a decision." },
+    {
+      "type": "narrative",
+      "content": "Eight years ago. A bag on a kitchen counter, zipper half-open. Someone asked for the charger — said it was in the front pocket."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "My own handwriting. Front pocket, folded in quarters, gone soft at the folds."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "I had written that letter slowly. I chose every word. I gave it to the one person I trusted to make sure it arrived."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "I had been waiting for an answer for weeks. Then months. I told myself the silence was the answer. What else was it going to be."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "It never left the pocket."
+    },
+    {
+      "type": "narrative",
+      "content": "The charger was there too. Right underneath."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "I put the letter back. I handed the charger over. I smiled. No one noticed anything."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "Eight years. I sat across tables. I flew to things I had no reason to fly to. I watched the life I asked for in that letter slowly become someone else's, piece by piece, quietly."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "The whole time I thought I understood why. I thought he'd made his choice. It was in the pocket the whole time."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "What was I supposed to say? There were people in the next room. It had been eight years. What sentence starts that conversation?"
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "The Killer",
+      "content": "I drove home that night and sat in my car for a long time. I went back through every dinner, every flight, every time I convinced myself it didn't matter. All of it."
+    },
     {
       "type": "choice",
-      "prompt": "Something about these words stays with you. What do you hold onto?",
+      "prompt": "A pocket. Eight years. What stays with you?",
       "options": [
-        { "id": "ep1_prologue_kept", "label": "He kept it." },
-        { "id": "ep1_prologue_years", "label": "Eight years." },
-        { "id": "ep1_prologue_handwriting", "label": "My own handwriting." }
+        {
+          "id": "ep1_prologue_evidence",
+          "label": "The letter was in there the whole time.",
+          "flagsSet": ["ep1_focused_evidence"],
+          "goto": 2
+        },
+        {
+          "id": "ep1_prologue_grief",
+          "label": "Everything built on top of a silence that was never an answer.",
+          "flagsSet": ["ep1_focused_grief"],
+          "goto": 2
+        },
+        {
+          "id": "ep1_prologue_decision",
+          "label": "Put it back. Hand over the charger. Smile.",
+          "flagsSet": ["ep1_made_decision"],
+          "goto": 2
+        },
+        {
+          "id": "ep1_prologue_silent",
+          "label": "...",
+          "flagsSet": ["ep1_prologue_silent"],
+          "goto": 2
+        }
       ]
     }
   ]

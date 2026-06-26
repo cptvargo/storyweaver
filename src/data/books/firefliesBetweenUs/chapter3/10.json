@@ -4,7 +4,7 @@
   "chapterTitle": "The Long Way Home",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The park at night smelled like grass and popcorn and the particular warmth that came off a Georgia summer after sundown — not cool exactly, but gentler. The movie played. Gene Kelly danced through rain that was pretend rain, and the audience laughed at things that were still funny fifty years later." },
+    { "type": "narration", "content": "The park at night smelled like grass and popcorn and the particular warmth that came off a Georgia summer after sundown. The movie played." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What's Marcus like?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Savannah's Marcus?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Do you know another Marcus?" },
@@ -14,11 +14,11 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Do you think she actually likes him?" },
     { "type": "dialogue", "speaker": "Kit", "content": "She went home early." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Point taken." },
-    { "type": "narration", "content": "The screen flickered. On it, someone was in love and trying not to say so, which is the natural condition of most movies and — Kit was starting to understand — of most people." },
+    { "type": "narration", "content": "The screen flickered. On it, someone was in love and trying not to say so." },
     { "type": "dialogue", "speaker": "Kit", "content": "Is it weird that she didn't say anything?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "You don't always have to say things out loud." },
     { "type": "dialogue", "speaker": "Kit", "content": "Since when?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Since always." },
-    { "type": "narration", "content": "He looked at her. She was watching the movie. He looked at the movie." }
+    { "type": "narration", "content": "He looked at her. She was watching the movie." }
   ]
 }

@@ -4,13 +4,69 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Tuesday. English. Ms. Barrett asked us to write about a choice we'd made that week. Real or fictional, she said, but told us she could always tell which one it was." },
-    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "The best writing is when you're trying to understand something that happened to you, not just describe it. If you're not confused at all, it's probably not the real version." },
-    { "type": "internalThought", "content": "I thought about Daniel. I thought about Mr. Cole's car. I thought about the corner at the end of Friday night. I had too many choices and I wasn't sure which one was the right one to write about because they all still felt unfinished." },
-    { "type": "internalThought", "content": "I wrote about Thursday at the side exit. Not what I chose — just the moment before. The three seconds where I could see all the options and didn't know which one was the person I actually was." },
-    { "type": "internalThought", "content": "I wrote: 'I don't think I know who I am when things get fast. I know who I want to be. But when it's actually happening the gap between those two things is very wide and very loud.'" },
-    { "type": "internalThought", "content": "Ms. Barrett collected them at the end of class. On the way out she said my name." },
-    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "That one was real." },
-    { "type": "internalThought", "content": "I didn't answer. But she was right." }
+    {
+      "type": "internalThought",
+      "content": "Tuesday. English. Ms. Barrett asked us to write about a choice we'd made that week. Real or fictional, she said, but told us she could always tell which one it was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ms. Barrett",
+      "content": "The best writing is when you're trying to understand something that happened to you, not just describe it. If you're not confused at all, it's probably not the real version."
+    },
+    {
+      "type": "internalThought",
+      "content": "I thought about Daniel. I thought about Mr. Cole's car. I thought about the corner at the end of Friday night. I had too many choices and I wasn't sure which one was the right one to write about because they all still felt unfinished."
+    },
+    {
+      "type": "internalThought",
+      "content": "I wrote about Thursday at the side exit. Not what I chose — just the moment before. The three seconds where I could see all the options and didn't know which one was the person I actually was."
+    },
+    {
+      "type": "internalThought",
+      "content": "I wrote: 'I don't think I know who I am when things get fast. I know who I want to be. But when it's actually happening the gap between those two things is very wide and very loud.'"
+    },
+    {
+      "type": "internalThought",
+      "content": "Ms. Barrett collected them at the end of class. On the way out she said my name."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ms. Barrett",
+      "content": "That one was real."
+    },
+    {
+      "type": "internalThought",
+      "content": "I didn't answer. But she was right."
+    },
+    {
+      "type": "choice",
+      "prompt": "Ms. Barrett said 'that was real.' On the way out of class.",
+      "options": [
+        {
+          "id": "ep3_acknowledged_barrett",
+          "label": "\"Yeah. It was.\"",
+          "goto": 43,
+          "flagsSet": [
+            "ep3_acknowledged_barrett"
+          ]
+        },
+        {
+          "id": "ep3_silent_barrett",
+          "label": "Nod. Don't stop walking. She already knew the answer.",
+          "goto": 43,
+          "flagsSet": [
+            "ep3_silent_barrett"
+          ]
+        },
+        {
+          "id": "ep3_asked_barrett_how",
+          "label": "\"How do you always know?\"",
+          "goto": 43,
+          "flagsSet": [
+            "ep3_asked_barrett_how"
+          ]
+        }
+      ]
+    }
   ]
 }

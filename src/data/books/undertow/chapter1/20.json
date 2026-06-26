@@ -4,29 +4,139 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're doing the walk." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm walking along the beach." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're walking along the beach in a very specific direction." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's the only direction. It's a beach." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're looking at the house." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's a beautiful house." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian Crane." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The bedroom windows. Second floor. The one on the far left has a direct angle from the exterior drainage line." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Why are you looking at drainage lines on a beach vacation?" },
-    { "type": "internalThought", "content": "Twenty foot drop. Iron brackets spaced unevenly. The window was open even with the temperature dropping." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Force of habit." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Your habits are exhausting." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "What room is that?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I don't know who has it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "But you want to know." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's an interesting architectural detail." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's a window." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "With a very specific access profile." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Come back to the water." },
-    { "type": "choice", "prompt": "The window. Does Julian keep thinking about it?", "options": [
-      { "id": "ep1_window_files", "label": "He files it. He doesn't know why yet." },
-      { "id": "ep1_window_drops", "label": "He lets it go. It's just a window." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had read it as nostalgia at the time. He was less sure about that now.",
+      "condition": "ep1_nadia_nostalgic"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "held that. Measuring someone takes intention. That was different from just being present.",
+      "condition": "ep1_nadia_measuring"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "wasn't sure what she had known before she asked. The look in that moment had been specific.",
+      "condition": "ep1_nadia_resigned"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "carried it forward without naming it.",
+      "condition": "ep1_p19_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're doing the walk."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm walking along the beach."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're walking along the beach in a very specific direction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's the only direction. It's a beach."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're looking at the house."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's a beautiful house."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian Crane."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Second floor. Far left. That light went off before nine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "People go to bed, Julian."
+    },
+    {
+      "type": "internalThought",
+      "content": "The rest of the house was still going — voices carrying, music on the porch, everyone else exactly where I'd left them. But one room had gone quiet early. And he hadn't said goodnight to anyone.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He left the table at eight forty-seven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You clocked that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I clock everything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "He was tired. He's been tired since Friday."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "That's what I mean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Come back to the water."
+    },
+    {
+      "type": "choice",
+      "prompt": "Marcus went to bed before nine. Does Julian keep thinking about it?",
+      "options": [
+        {
+          "id": "ep1_window_files",
+          "label": "He files it. He doesn't know why yet.",
+          "goto": 21,
+          "flagsSet": [
+            "ep1_window_files"
+          ]
+        },
+        {
+          "id": "ep1_window_drops",
+          "label": "He lets it go. It's just a window.",
+          "goto": 21,
+          "flagsSet": [
+            "ep1_window_drops"
+          ]
+        },
+        {
+          "id": "ep1_p20_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p20_silent"
+          ],
+          "goto": 21
+        }
+      ]
+    }
   ]
 }

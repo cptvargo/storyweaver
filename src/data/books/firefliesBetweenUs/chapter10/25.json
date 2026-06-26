@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 25,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The summer went. The way summers do when you're finally where you want to be — too fast, in that bittersweet way the good things always go." },
+    { "type": "narration", "content": "The summer went." },
     { "type": "narration", "content": "Saturday mornings at Hester's. The same booth they'd sat in since middle school, coffee for her, sweet tea for him, and the whole morning spread out ahead of them with nowhere to be." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What do you want to make first. When you go back." },
     { "type": "dialogue", "speaker": "Kit", "content": "Something real. Not an assignment. Something I actually have to say." },

@@ -4,16 +4,14 @@
   "chapterTitle": "The Last Light of Summer",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Callaway Park had a baseball diamond that nobody used for actual baseball in summer except for the organized Saturday morning games — which the Jenkins-Turner-Jones-Brooks crew was consistently not part of, because it required showing up on time, and Kit Jenkins had never in his twelve years successfully shown up for anything scheduled before nine a.m." },
-    { "type": "narration", "content": "The rest of the time the diamond was fair territory." },
-    { "type": "narration", "content": "They used it for a game that had evolved over three summers and now had rules that nobody outside the four of them fully understood. It involved bases, as advertised, and also a Frisbee, two bats for reasons that made sense within the system, and a scoring system that Daisy kept in her head because no one else could be trusted with it." },
-    { "type": "narration", "content": "There were already other kids there — Tommy Frazier and the Lester twins and a girl named Anna who was visiting her grandparents for the summer and who had been trying to figure out the game for a week." },
+    { "type": "narration", "content": "Callaway Park had a baseball diamond that nobody used for actual baseball in summer, which made it fair territory for other things." },
+    { "type": "narration", "content": "The other kids were already there — Tommy Frazier, the Lester twins, and Anna, a girl visiting her grandparents for the summer who had been trying to figure out their game for a week." },
     { "type": "dialogue", "speaker": "Anna", "content": "What are the bats for?" },
     { "type": "dialogue", "speaker": "Eli", "content": "Defense." },
     { "type": "dialogue", "speaker": "Anna", "content": "Defense against what?" },
     { "type": "dialogue", "speaker": "Eli", "content": "We'll get to that." },
-    { "type": "narration", "content": "They played until the sun started to angle differently — that particular shift in the afternoon light that doesn't mean evening is close, only that the day has been going long enough that the world is starting to consider it." },
-    { "type": "narration", "content": "Kit was on the team with Eli and Anna, which meant they had more bravado than strategy and were losing by three points under Daisy's system, which Daisy maintained was not her fault." },
+    { "type": "narration", "content": "They played until the sun started to angle differently — that particular shift in the afternoon light that doesn't mean evening, only that the day has been going long enough to consider it." },
+    { "type": "narration", "content": "Kit's team was losing by three under Daisy's scoring system, which Daisy maintained was not her fault." },
     { "type": "dialogue", "speaker": "Kit", "content": "You could help us." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm on the other team." },
     { "type": "dialogue", "speaker": "Kit", "content": "Switch." },
@@ -22,6 +20,6 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Yes. Including the one about switching." },
     { "type": "narration", "content": "Tommy Frazier, watching this, said: \"She's got you, man.\"" },
     { "type": "dialogue", "speaker": "Kit", "content": "She always has me." },
-    { "type": "narration", "content": "He said it like it was a joke. It was more true than that, and it landed that way — Daisy heard it, and looked at the ground for one second before she looked back at the game, and her expression was something she didn't let stay on her face long." }
+    { "type": "narration", "content": "He said it like it was a joke. Daisy looked at the ground for one second before she looked back at the game." }
   ]
 }

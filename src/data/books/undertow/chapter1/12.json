@@ -4,29 +4,87 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "noted it. Every answer Nadia gave was exactly right. Not a word more than needed.", "condition": "ep1_marcus_nadia_deflect" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're doing it." },
+    { "type": "consequence", "character": "Mara", "text": "followed his eyeline. \"Whatever you're doing over there — stop it.\"", "condition": "ep1_nadia_meant_it" },
+    { "type": "consequence", "character": "Mara", "text": "had been watching him watch. She said nothing. She'd seen him go quiet like this before.", "condition": "ep1_nadia_calibrated" },
+    { "type": "consequence", "character": "Julian", "text": "looked at the fire. He'd been doing enough of it and he knew Mara knew.", "condition": "ep1_nadia_stop" },
+    { "type": "consequence", "character": "Mara", "text": "appeared at his elbow. She had a specific look she got when she'd been patient long enough.", "condition": "ep1_p11_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're doing it."
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm sitting here." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're sitting here and watching that woman like she's a case file." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm not." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "She deflected six questions in four minutes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "She's tired from the drive." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's what she said." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Because it's true." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "People who are tired from a drive say less. They don't answer questions with exactly the right amount of words every single time." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Some people are just private." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We're on vacation." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "And she hasn't done anything." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Then stop." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm stopped." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Your version of stopped and my version of stopped are very different things." },
-    { "type": "choice", "prompt": "Does Julian stop?", "options": [
-      { "id": "ep1_julian_stops", "label": "He tries. He looks at the fire instead." },
-      { "id": "ep1_julian_keeps_watching", "label": "Not completely. He just gets quieter about it." }
-    ]}
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You are sitting here watching that woman like she is a case file open on your desk and I can see it from ten feet away. We have been out here for two hours."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "She deflected six questions in four minutes. Completely — not evasions, real answers. But every one was exactly the minimum length needed to close the question. You don't get that clean without having done it before."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "She is on a trip with her friends and she had a long drive and some people are private. That's allowed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Private people give short answers. They don't consistently calibrate the exact right length. There's a difference."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian. I have worked with you for three years. You cannot take a bonfire and run behavioral profiles on it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm not running anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You are doing the thing where your face goes very still and your eyes stop moving. You are absolutely running something."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She was right. I'd been doing it since Nadia said the fire was getting low."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "We are on vacation." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Yes. We are on vacation and you were actually here for parts of tonight and those were the good parts, Julian. Look at the water. Look at the stars. Let the rest of it go."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I hear you." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "And?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "And I'm looking at the water."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "There it is."
+    },
+    {
+      "type": "choice",
+      "prompt": "He's looking at the water. Is he actually here?",
+      "options": [
+        { "id": "ep1_julian_here", "label": "Actually, yes. The water is good and he lets it be good.", "flagsSet": ["ep1_julian_here"], "goto": 13 },
+        { "id": "ep1_julian_filed", "label": "He looks at the water. The pattern is already filed. He just stops talking about it.", "flagsSet": ["ep1_julian_filed"], "goto": 13 },
+        { "id": "ep1_julian_mara_water", "label": "He looks at the water. And then at her looking at the water. That's not the same as nothing.", "flagsSet": ["ep1_julian_mara_water"], "goto": 13 },
+        { "id": "ep1_p12_silent", "label": "...", "flagsSet": ["ep1_p12_silent"], "goto": 13 }
+      ]
+    }
   ]
 }

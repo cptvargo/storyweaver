@@ -5,19 +5,18 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "The storm moved through in eighteen minutes." },
-    { "type": "narration", "content": "Eli had been counting — not for any useful reason, just because Eli counted things. He announced eighteen minutes and then the rain was down to a light pattering and then to nothing, and the sky to the west was already showing the orange edge that meant it was done." },
-    { "type": "narration", "content": "They came out from under the overhang into the aftermath." },
-    { "type": "narration", "content": "The street glistened. The trees dripped. The gutters still ran red and clear, mixing, carrying whatever the storm had dislodged. And the air — the air smelled like the town had been wrung out and hung up to dry, like wet grass and warm asphalt and something blooming nearby that the rain had opened up." },
+    { "type": "narration", "content": "Eli announced this. Then the rain was down to light pattering, and then nothing." },
+    { "type": "narration", "content": "They came out from under the overhang into the aftermath — the street glistening, the trees dripping, gutters still running red and clear. The air smelled like wet grass and warm asphalt and something blooming nearby that the rain had opened up." },
     { "type": "dialogue", "speaker": "Eli", "content": "There it is." },
-    { "type": "narration", "content": "He meant the sky. It had gone from storm-gray to a battered, specific gold — the sun finding the gap between the cloud edge and the horizon and doing something serious with it. The light hit the wet street and scattered everywhere." },
+    { "type": "narration", "content": "The sky had gone from storm-gray to a battered, specific gold — the sun finding the gap between the cloud edge and the horizon and doing something serious with it. The light hit the wet street and scattered everywhere." },
     { "type": "narration", "content": "They stood there for a second and just looked." },
-    { "type": "narration", "content": "These were the moments Millhaven was made of, if you were paying attention. The unremarkable ones that assembled themselves into something you'd carry forward without quite knowing when they'd gotten in." },
     { "type": "dialogue", "speaker": "Savannah", "content": "We should get home before dark." },
     { "type": "dialogue", "speaker": "Kit", "content": "Still a couple hours of light." },
     { "type": "dialogue", "speaker": "Savannah", "content": "My mama's going to worry." },
     { "type": "dialogue", "speaker": "Eli", "content": "Tell her about the tower. She'll stop worrying about the storm and start worrying about the tower, and then you can redirect to literally anything." },
     { "type": "dialogue", "speaker": "Savannah", "content": "That is genuinely terrible advice." },
-    { "type": "narration", "content": "They split at the hardware store. Savannah turned south toward her street. Eli made a detour east for a reason he explained briefly and thoroughly that no one followed. That left Kit and Daisy, who lived within a few blocks of each other on the north side, heading the same direction." },
+    { "type": "narration", "content": "They split at the hardware store. Savannah turned south. Eli made a detour east for a reason he explained briefly and thoroughly that no one followed." },
+    { "type": "narration", "content": "That left Kit and Daisy, who lived within a few blocks of each other on the north side, heading the same direction." },
     { "type": "narration", "content": "They rode side by side through streets that smelled like rain and orange light." }
   ]
 }

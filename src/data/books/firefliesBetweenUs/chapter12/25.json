@@ -4,19 +4,16 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "There is a video on Kit Jenkins' phone, unlabeled, filed between footage from the festival and a grocery list voice memo he never deleted." },
-    { "type": "narration", "content": "Four minutes and twelve seconds." },
-    { "type": "narration", "content": "It begins with the field. The April dark, the sound of the town somewhere behind it, the particular silence of a piece of land at the edge of night. Then the fireflies — a few, blinking in and out, too early in the season to be sure of themselves." },
-    { "type": "narration", "content": "Then it turns. A woman's face in low light. Dark hair. Eyes that have been crying and aren't quite done and don't seem to care. She is looking at something just above the lens — at him, past the glass — and the look on her face is the particular look of someone who has just given a person the most important news of their life and is watching it land." },
-    { "type": "narration", "content": "She says: don't." },
-    { "type": "narration", "content": "He says: you look — I want to remember how you look right now." },
-    { "type": "narration", "content": "She says: I've been crying for four days." },
-    { "type": "narration", "content": "He says: I know. That's part of it." },
-    { "type": "narration", "content": "She looks at the lens. She is still. She lets herself be seen." },
-    { "type": "narration", "content": "She says: what are you going to do with all this footage." },
-    { "type": "narration", "content": "He says: give it to our kid. One day." },
-    { "type": "narration", "content": "And in the four minutes and twelve seconds of that video — in the field, in the dark, with the early fireflies and the town behind them and everything that came before them pressing in from both sides — you can see exactly what twenty years of knowing someone looks like when it finally comes home to rest." },
-    { "type": "narration", "content": "It looks like that." },
-    { "type": "narration", "content": "It looks exactly like that." }
+    { "type": "narration", "content": "They stayed five days." },
+    { "type": "narration", "content": "They sorted through the house slowly, a room at a time. There were things Kit kept � a watch, a recipe box in his mother's handwriting, a photograph of himself at nine years old." },
+    { "type": "narration", "content": "He held the photograph for a long time." },
+    { "type": "narration", "content": "Daisy boxed the kitchen. She didn't make it a task � she moved slowly, held things, set some aside. In the back of a drawer she found a clipping from the local paper, a small notice about Millhaven's documentary win at Austin. Ruth had cut it out. She'd had it in her kitchen drawer." },
+    { "type": "narration", "content": "Daisy put it in the box she was keeping for Kit. Didn't say anything about it." },
+    { "type": "narration", "content": "On their fourth night, after the work was done and the house was quiet, she told him she needed some air. He asked if she wanted company." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Yes. Come with me." },
+    { "type": "narration", "content": "They walked without planning a direction. Millhaven after dark had its own grammar � the yellow porch lights, the sound of somewhere someone was watching television, the smell of the night in Georgia in April." },
+    { "type": "narration", "content": "She knew where her feet were taking her before she said it." },
+    { "type": "narration", "content": "He did too." },
+    { "type": "narration", "content": "They walked toward the field." }
   ]
 }

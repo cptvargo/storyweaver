@@ -15,13 +15,13 @@
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit. When you are in your head. What's in there." },
     { "type": "narration", "content": "A long beat." },
     { "type": "dialogue", "speaker": "Kit", "content": "Whether I'm enough. Whether what I'm building is worth anything. Whether she's going to wake up in ten years and wonder why she stayed." },
-    { "type": "narration", "content": "Daisy didn't say anything. Her expression across the screen said everything." },
+    { "type": "narration", "content": "Daisy didn't say anything." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit, I want you to hear what you just said. That is not a thought about the present. That is a story you are telling about the future based on a wound from the past. Your father's absence is not a prophecy about yours." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "When you go into your head and disappear from Daisy — she is not the cause of that. But she does live inside the consequence. That's worth knowing." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know he's not going anywhere." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Tell him that. Not me." },
     { "type": "narration", "content": "She looked straight into the camera." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know you're not going anywhere. And I need you to know I'm not either. Whatever's in your head — bring it here. That's what here is for." },
-    { "type": "narration", "content": "He was quiet. Not the weighted kind. The kind that was trying to hold something." }
+    { "type": "narration", "content": "He was quiet." }
   ]
 }

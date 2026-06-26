@@ -4,25 +4,119 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He's not breathing." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "No. No no no —" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Sophie, get back." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "What do you mean he's —" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Call 911. Somebody call 911." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "I'm calling." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He was fine. He was at dinner, he was fine —" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Sophie. Outside. Now." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Don't touch anything. Don't touch anything in here." },
-    { "type": "internalThought", "content": "The window was open. The room was forty-seven degrees. The water glass on the nightstand was half empty. He looked like he had simply stopped." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Is he —" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Dean." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Get everyone downstairs. Please." },
-    { "type": "choice", "prompt": "Julian is standing in the doorway. What does he see first?", "options": [
-      { "id": "ep1_first_window", "label": "The open window. The bracket he noticed on the exterior wall." },
-      { "id": "ep1_first_glass", "label": "The water glass. Half empty, not knocked over." },
-      { "id": "ep1_first_door", "label": "The door. Locked from the inside. No one was in this room." }
-    ]}
+    { "type": "consequence", "character": "Julian", "text": "had gone alone. He hadn't wanted to involve anyone else before he knew what he was walking into.", "condition": "ep1_julian_goes_alone" },
+    { "type": "consequence", "character": "Julian", "text": "had brought Mara. She'd be useful if it was something.", "condition": "ep1_julian_lets_mara_come" },
+    { "type": "consequence", "character": "Julian", "text": "had gone without deciding anything first.", "condition": "ep1_p30_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "He's not breathing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "No. No no no —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Sophie, get back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "What do you mean he's —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Call 911. Somebody call 911."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "I'm calling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "He was fine. He was at dinner, he was fine —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Sophie. Outside. Now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Don't touch anything. Don't touch anything in here."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "The water glass on the nightstand was half empty. He looked like he had simply stopped."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "Nadia stopped at the frame. Everyone else had crossed into the room. She stood exactly at the threshold and didn't move forward.",
+      "condition": "ep1_saw_nadia"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Is he —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Dean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Get everyone downstairs. Please."
+    },
+    {
+      "type": "choice",
+      "prompt": "Julian is standing in the doorway. What does he see first?",
+      "options": [
+        {
+          "id": "ep1_first_window",
+          "label": "Marcus. The room was still. He looked like someone who had simply stopped.",
+          "goto": 32,
+          "flagsSet": ["ep1_first_window"]
+        },
+        {
+          "id": "ep1_first_glass",
+          "label": "The water glass. Half empty, not knocked over.",
+          "goto": 32,
+          "flagsSet": ["ep1_first_glass"]
+        },
+        {
+          "id": "ep1_first_door",
+          "label": "The door. Locked from the inside. No one was in this room.",
+          "goto": 32,
+          "flagsSet": ["ep1_first_door"]
+        },
+        {
+          "id": "ep1_p31_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": ["ep1_p31_silent"],
+          "goto": 32
+        }
+      ]
+    }
   ]
 }

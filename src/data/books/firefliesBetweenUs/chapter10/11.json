@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 11,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -20,8 +20,8 @@
     { "type": "dialogue", "speaker": "Kit", "content": "The lanterns." },
     { "type": "dialogue", "speaker": "Eli", "content": "The lanterns." },
     { "type": "dialogue", "speaker": "Kit", "content": "Eli." },
-    { "type": "dialogue", "speaker": "Eli", "content": "A man is allowed to curate the environment. Does Priya know? Priya helped me pick the color. Warm white. Neutral white is too harsh." },
-    { "type": "narration", "content": "Kit laughed — the kind that was half disbelief — and shook his head." },
+    { "type": "dialogue", "speaker": "Eli", "content": "A man is allowed to curate the environment. Does Meilin know? Meilin helped me pick the color. Warm white. Neutral white is too harsh." },
+    { "type": "narration", "content": "Kit laughed and shook his head." },
     { "type": "dialogue", "speaker": "Eli", "content": "You've been waiting long enough. She has too. Stop overthinking it and just let it happen." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm not overthinking it." },
     { "type": "dialogue", "speaker": "Eli", "content": "You think about things approximately four times longer than necessary. Always have." },

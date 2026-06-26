@@ -4,7 +4,7 @@
   "chapterTitle": "The Long Way Home",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Callaway Park turned into a different place at night. In the daytime it was just a park — the big oak at the center, the concrete paths, the fountain that worked about half the time. But on summer nights when the city put up the screen, it became the kind of place people brought their best selves to." },
+    { "type": "narration", "content": "Callaway Park turned into a different place at night. In the daytime it was just a park — the big oak at the center, the concrete paths, the fountain that worked about half the time." },
     { "type": "narration", "content": "They got there early enough to claim a good spot on the grass. Eli had brought a blanket that was too small for four people, which he didn't mention until they were already setting up." },
     { "type": "dialogue", "speaker": "Eli", "content": "It stretches." },
     { "type": "dialogue", "speaker": "Savannah", "content": "It does not stretch." },

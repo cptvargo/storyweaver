@@ -1,11 +1,10 @@
-{
+﻿{
   "page": 23,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "He got home and sat on his bed in the dark for a while. His mom was asleep. The house was quiet." },
-    { "type": "narration", "content": "He thought about a summer when he was twelve and a girl on a bike with her chin up taking a dare she didn't have to take. He thought about the water tower and the walk home and the moment in seventh grade when he started to understand what the feeling in his chest actually was. He thought about all of it — every almost, every wrong moment, every year of careful — and none of it felt wasted from here. All of it was the road." },
     { "type": "narration", "content": "His phone buzzed." },
     { "type": "message", "platform": "SMS", "sender": "Eli", "content": "I need you to know. Warm white. I chose warm white for the lanterns specifically. Neutral white is too harsh for emotional moments. I did the research." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "Eli." },

@@ -4,22 +4,137 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Jonathan", "content": "bro answer your phone", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "sorry. was on the steps.", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Crystal steps?", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "yes", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "and????", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "we talked for like an hour j", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "about WHAT", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "just. real stuff. she asked me what I was afraid of.", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "what did you say", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "the real answer", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "........", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "and then????", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "and then she said something and then she had to go and", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "LARRY", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "something happened when she was leaving", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "BRO IF YOU DON'T JUST TELL ME", "platform": "AIM" },
-    { "type": "dialogue", "speaker": "Larry", "content": "lmaoooo okay okay", "platform": "AIM" }
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "bro answer your phone",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "sorry. was on the steps.",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Crystal steps?",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "yes",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "and????",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "we talked for like an hour j",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "about WHAT",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "just. real stuff. she asked me what I was afraid of.",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "what did you say",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "the real answer",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "........",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "and then????",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "and then she said something and then she had to go and",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "LARRY",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "something happened when she was leaving",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "BRO IF YOU DON'T JUST TELL ME",
+      "platform": "AIM"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "lmaoooo okay okay",
+      "platform": "AIM"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is waiting for the whole story. You're about to tell him.",
+      "options": [
+        {
+          "id": "ep3_told_everything_p51",
+          "label": "Tell him everything. All of it. In order.",
+          "goto": 52,
+          "flagsSet": [
+            "ep3_told_everything_p51"
+          ]
+        },
+        {
+          "id": "ep3_told_headline_p51",
+          "label": "Give him the headline. Let him ask for the rest.",
+          "goto": 52,
+          "flagsSet": [
+            "ep3_told_headline_p51"
+          ]
+        },
+        {
+          "id": "ep3_made_j_wait_p51",
+          "label": "\"I'm not gonna rush through this. Hold on.\"",
+          "goto": 52,
+          "flagsSet": [
+            "ep3_made_j_wait_p51"
+          ]
+        }
+      ]
+    }
   ]
 }

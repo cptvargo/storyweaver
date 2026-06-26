@@ -4,26 +4,149 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "watched Nadia go. She walked toward the south end of the beach, away from the house. She didn't look back.", "condition": "ep1_track_nadia_walk" },
-    { "type": "consequence", "character": "Julian", "text": "watched Cade lead Marcus toward the far end of the porch. Whatever this was, Marcus hadn't expected it.", "condition": "ep1_track_cade_marcus" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You two eat with us tonight. I'm not taking no." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We weren't going to say no." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Good. Marcus is cooking. Which means Cade will cook half of it and Marcus will take credit." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I heard that." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Good." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "He does the same thing with dessert." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I have good taste. That's different from taking credit." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He pointed at mine and said that one. Like he'd made a decision." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I did make a decision. A very good one." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "It was a good dessert." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "See. Wren knows." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "What time is it?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Coming up on six." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Okay. One hour." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "One hour. Somebody make sure the table's set." },
-    { "type": "choice", "prompt": "This is the last easy hour of the weekend. Do you feel it?", "options": [
-      { "id": "ep1_feel_ease", "label": "Not yet. It still feels like a good weekend." },
-      { "id": "ep1_feel_weight", "label": "Something about the afternoon settled wrong." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Nadia go. She walked toward the south end of the beach, away from the house. She didn't look back.",
+      "condition": "ep1_track_nadia_walk"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Cade lead Marcus toward the far end of the porch. Whatever this was, Marcus hadn't expected it.",
+      "condition": "ep1_track_cade_marcus"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "went back inside with Mara. Whatever was on the porch could wait.",
+      "condition": "ep1_track_nothing"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "came back in without having tracked anything in particular.",
+      "condition": "ep1_p21_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You two eat with us tonight. I'm not taking no."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We weren't going to say no."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Good. Marcus is cooking. Which means Cade will cook half of it and Marcus will take credit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I heard that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "He does the same thing with dessert."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I have good taste. That's different from taking credit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He pointed at mine and said that one. Like he'd made a decision."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I did make a decision. A very good one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "It was a good dessert."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Who cooked it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I did."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I did."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "See. Wren knows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "What time is it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Coming up on six."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Okay. One hour."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "One hour. Somebody make sure the table's set."
+    },
+    {
+      "type": "choice",
+      "prompt": "This is the last easy hour of the weekend. Do you feel it?",
+      "options": [
+        {
+          "id": "ep1_feel_ease",
+          "label": "Not yet. It still feels like a good weekend.",
+          "goto": 23,
+          "flagsSet": [
+            "ep1_feel_ease"
+          ]
+        },
+        {
+          "id": "ep1_feel_weight",
+          "label": "Something about the afternoon settled wrong.",
+          "goto": 23,
+          "flagsSet": [
+            "ep1_feel_weight"
+          ]
+        },
+        {
+          "id": "ep1_p22_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p22_silent"
+          ],
+          "goto": 23
+        }
+      ]
+    }
   ]
 }

@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 34,
   "chapter": 9,
   "chapterTitle": "The Distance",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "May. Semester ended. Daisy drove home alone this time — Claire was going to Iowa, promises to keep in touch, real ones. The drive felt different from December. She knew what she was going back to now. She knew what was waiting." },
+    { "type": "narration", "content": "May. Semester ended. Daisy drove home alone this time — Claire was going to Iowa, promises to keep in touch, real ones." },
     { "type": "narration", "content": "Kit's flight landed on a Friday afternoon, different airline, same drive from the airport. Georgia through the window. The pines. The clay. Home." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "landed" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "i've been home two days. your mom told my mom you were coming in today" },
@@ -15,10 +15,8 @@
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "of course she did" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "six o clock" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "I'll be there" },
-    { "type": "narration", "content": "Summer opened up ahead of them. July fourth was six weeks out. Eli had been planning something since February involving the field and fireworks and the whole group and Priya and a cooler that was probably unreasonably large." },
-    { "type": "narration", "content": "Kit sat in his bedroom with his bag still half-unpacked and his phone on his chest and thought about a field and fireflies in the dark and a girl who'd been next door his entire life." },
-    { "type": "narration", "content": "He thought about the almost-kiss at the dance. The porch in February. The walk home from prom. The phone call across two thousand miles, her falling asleep on the line." },
-    { "type": "narration", "content": "He thought about the fact that they'd been building to something since they were twelve years old, and that the thing they'd been building was almost done." },
+    { "type": "narration", "content": "Summer opened up ahead of them. July fourth was six weeks out. Eli had been planning something since February involving the field and fireworks and the whole group and Meilin and a cooler that was probably unreasonably large." },
+    { "type": "narration", "content": "Kit sat in his bedroom with his bag still half-unpacked and his phone on his chest." },
     { "type": "narration", "content": "Six weeks." }
   ]
 }

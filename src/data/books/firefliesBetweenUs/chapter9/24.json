@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 24,
   "chapter": 9,
   "chapterTitle": "The Distance",
@@ -8,14 +8,14 @@
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "You look older." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's been four months." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Four months can be a long time." },
-    { "type": "narration", "content": "The drive to Millhaven took two hours. He watched Georgia come back through the window — red clay and pine trees and the particular flatness of home — and felt something in his chest loosen." },
+    { "type": "narration", "content": "The drive to Millhaven took two hours. He watched Georgia come back through the window — red clay and pine trees and the particular flatness of home." },
     { "type": "narration", "content": "His room was exactly as he'd left it. He dropped his bag and sat on the edge of the bed and sent one text." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i'm home" },
     { "type": "narration", "content": "She responded in twenty-two seconds." },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "one more day. my last final is tomorrow morning" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "go sleep. call me after" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "deal" },
-    { "type": "narration", "content": "He lay back on his bed. The ceiling had the same water stain in the corner from when a pipe leaked during seventh grade. He'd been staring at that stain his whole life. It occurred to him that he hadn't thought about it once in four months." },
+    { "type": "narration", "content": "He lay back on his bed. The ceiling had the same water stain in the corner." },
     { "type": "narration", "content": "His mom knocked at eight with dinner and they ate at the kitchen table and she asked about USC and the film and Darius and she didn't ask about Daisy — but he knew she was waiting for him to bring it up, and he didn't, and she let it sit." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "The Joneses' lights were on when I drove past Tuesday. Her mom mentioned she gets back tomorrow." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. After her last final." },

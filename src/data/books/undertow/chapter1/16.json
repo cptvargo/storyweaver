@@ -4,31 +4,81 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You went for a walk." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Early morning." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "And?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Marcus was on the beach." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Couldn't sleep." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He said that. Said he was carrying something. Didn't say what." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian, people say things like that." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Cade came out after. Marcus looked at him and said you don't look so well. Cade said drop it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Friends push back on each other. That's not a case." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No. It's not." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We are on vacation." },
+    { "type": "consequence", "character": "Julian", "text": "held onto it. Marcus knew about whatever Cade was dealing with, and Cade knew Marcus knew. That was a particular kind of weight for both of them to carry around a bonfire.", "condition": "ep1_cade_debt" },
+    { "type": "consequence", "character": "Julian", "text": "held onto it. Cade wasn't just being private — he was actively holding something at bay. That was a different thing.", "condition": "ep1_cade_scared" },
+    { "type": "consequence", "character": "Julian", "text": "noted it: Marcus gave exactly what Cade asked for and not more. That was real trust.", "condition": "ep1_cade_respected" },
+    { "type": "consequence", "character": "Julian", "text": "watched Cade sit down next to Marcus and say nothing else about it. Marcus let him.", "condition": "ep1_p15_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You went for a walk. An early one, by the look of you."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Marcus was on the beach. Cade came out after." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You were out there for an hour. I tracked you from the window. Because I was up and there was nothing else to do and also because I track you."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's a surveillance operation." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "It's called knowing where you are. How was Marcus?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He's been up since four-thirty. Says he's carrying something — didn't say what. Changed the subject fast. Cade came out and Marcus looked at him and said you don't look so well. Cade asked him to leave it for today and Marcus agreed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Old friends push back on each other. That's what ten years sounds like. It's not a case, Julian."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "But."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He also said there was something he needed to get to Dean. Before the weekend was over. Something he'd been forgetting he had."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian — people have things they mean to get to. That's not a detail. That's a person being a person."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We. Are. On. Vacation."
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "We are on vacation." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Say it like you mean it." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Say it like you mean it this time."
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "We are on vacation." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Better. Come eat something." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Mara." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Marcus said Nadia had a rough couple of years. The quiet kind." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "A lot of people have rough years." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He's protective of her. Has been for a long time." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's called being a good friend." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "choice", "prompt": "Does Julian let it go?", "options": [
-      { "id": "ep1_lets_it_go", "label": "He sits down and eats. He lets it go." },
-      { "id": "ep1_cant_let_go", "label": "He sits down. But he doesn't let it go." }
-    ]}
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Better. Come eat. There's actual food." },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She had a specific way of ending a conversation that felt like progress. She'd found something in me she wanted to protect on this trip and she was going about it very practically."
+    },
+    {
+      "type": "choice",
+      "prompt": "Marcus is carrying something. Cade is carrying something. Nadia is carrying something. Does Julian let all of it go?",
+      "options": [
+        { "id": "ep1_lets_it_go", "label": "He sits down and eats. He lets it go.", "flagsSet": ["ep1_lets_it_go"], "goto": 17 },
+        { "id": "ep1_cant_let_go", "label": "He sits down. But he doesn't let it go.", "flagsSet": ["ep1_cant_let_go"], "goto": 17 },
+        { "id": "ep1_tabled_it", "label": "He files it. Not gone — tabled. There's a difference.", "flagsSet": ["ep1_tabled_it"], "goto": 17 },
+        { "id": "ep1_p16_silent", "label": "...", "flagsSet": ["ep1_p16_silent"], "goto": 17 }
+      ]
+    }
   ]
 }

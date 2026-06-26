@@ -9,7 +9,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Things. Your mom. She just looks at you and she already knows." },
     { "type": "dialogue", "speaker": "Kit", "content": "Knows what, though?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "I don't know. Things." },
-    { "type": "narration", "content": "He thought about the raised eyebrow, the small smile. Maybe Daisy was right. He didn't always know what it was his mom knew, but she usually knew something." },
+    { "type": "narration", "content": "He thought about the raised eyebrow, the small smile. Maybe Daisy was right." },
     { "type": "dialogue", "speaker": "Kit", "content": "She likes you." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
     { "type": "dialogue", "speaker": "Kit", "content": "She's always said you're the sensible one." },
@@ -22,6 +22,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "More than sometimes." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You don't have to say that." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm not saying it to be nice. I'm saying it because it's true." },
-    { "type": "narration", "content": "She didn't answer. They turned onto her block and the night insects got louder, the way they always did on this particular street, and he didn't know if that was just how he remembered it or if it was actually true." }
+    { "type": "narration", "content": "She didn't answer. They turned onto her block and the night insects got louder." }
   ]
 }

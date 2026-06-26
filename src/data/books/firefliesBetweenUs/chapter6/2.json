@@ -4,18 +4,18 @@
   "chapterTitle": "Somebody",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Eli had been planning for high school since sixth grade, which meant he walked in on the first day with a campaign already drafted in his head and a list of teachers to introduce himself to by the end of the week. He made class president by October." },
+    { "type": "narration", "content": "Eli had been planning for high school since sixth grade. He made class president by October." },
     { "type": "dialogue", "speaker": "Kit", "content": "You've been class president for two years." },
     { "type": "dialogue", "speaker": "Eli", "content": "Middle school and high school are two entirely different institutions. This is a new mandate." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Did you run against anyone?" },
     { "type": "dialogue", "speaker": "Eli", "content": "Two people. I won by a significant margin." },
     { "type": "dialogue", "speaker": "Daisy", "content": "How significant." },
     { "type": "dialogue", "speaker": "Eli", "content": "Historically significant." },
-    { "type": "narration", "content": "Savannah arrived at lunch with Marcus, who was now a junior and carried himself accordingly — not arrogant, just at ease in a building he'd already spent two years in. He and Kit shook hands the way they'd been shaking hands since eighth grade, which was fine, which was how it had always been, even if Kit had occasionally noticed the way Savannah looked at Marcus and thought about something he wasn't going to think about." },
+    { "type": "narration", "content": "Savannah arrived at lunch with Marcus, who was now a junior. He and Kit shook hands the way they always had." },
     { "type": "dialogue", "speaker": "Marcus", "content": "Freshmen. How's the first week." },
     { "type": "dialogue", "speaker": "Kit", "content": "Big." },
     { "type": "dialogue", "speaker": "Marcus", "content": "Gets smaller. Give it a month." },
     { "type": "narration", "content": "Marcus was right, which Kit noted without saying so." },
-    { "type": "narration", "content": "Their table in this cafeteria was not the same as their table in the middle school cafeteria, because this cafeteria was different and the table assignments hadn't calcified yet. For the first three weeks, where you sat was still negotiable. Then it stopped being negotiable. That was how it always worked." }
+    { "type": "narration", "content": "Their table here hadn't calcified yet. For the first three weeks, where you sat was still negotiable." }
   ]
 }

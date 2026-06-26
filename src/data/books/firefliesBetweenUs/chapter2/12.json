@@ -4,17 +4,16 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Kit didn't move." },
-    { "type": "narration", "content": "He looked at the window at the end of the upstairs hall — the one with the missing pane, the open square of daylight — and he thought about angles and distances and the fact that both men were currently looking at him and not at it." },
-    { "type": "narration", "content": "A rock came through the window." },
-    { "type": "narration", "content": "Not big. Not thrown with a lot of force. But it came through that empty pane at exactly the right angle and caught the man at the top of the stairs square in the shoulder and he lurched sideways with a shout — more surprise than pain, but loud, sharp — and in the half-second that both men's eyes snapped toward the window, Kit yanked." },
-    { "type": "narration", "content": "The rotten wood gave. His ankle came free. He grabbed the banister stump, used it to lever himself upright, and went down the remaining stairs like they were nothing, like the whole building was nothing, through the entry hall and into the front door with both hands and across the porch and off the side of it — didn't use the steps — landed in the tall grass already running." },
-    { "type": "narration", "content": "Behind him, one of the men was on the porch. Yelling something. Kit wasn't listening. He was at the fence, through the gap, on the other side." },
-    { "type": "narration", "content": "He came up breathing hard and nearly ran straight into Daisy." },
-    { "type": "narration", "content": "She was standing three feet from the gap, still holding a second rock she hadn't needed to throw. Eli was behind her. Savannah was behind Eli. All three of them were staring at him." },
-    { "type": "narration", "content": "He was scraped. His ankle throbbed. His hair was a disaster and there was a piece of rotten wood still stuck in his shoelace. He stood there catching his breath and looked at Daisy, who was looking at him with an expression that moved through about four things in two seconds." },
-    { "type": "narration", "content": "She punched him in the shoulder." },
-    { "type": "narration", "content": "Not hard — more of a hit, the kind that says something words aren't fast enough for." },
+    { "type": "narration", "content": "Kit didn't move. He looked at the window at the end of the hall — the missing pane, the open square of daylight — and he waited." },
+    { "type": "narration", "content": "A rock came through the window. It caught the man at the top of the stairs square in the shoulder — surprise more than pain, but loud." },
+    { "type": "narration", "content": "Both men's eyes went to the window. Kit yanked his ankle free, levered himself up, and went down the remaining stairs like they were nothing." },
+    { "type": "narration", "content": "Through the entry hall, out the front door, off the side of the porch — landed already running." },
+    { "type": "narration", "content": "He came up breathing hard and nearly ran straight into Daisy. Three feet from the gap, still holding a second rock she hadn't needed." },
+    { "type": "dialogue", "speaker": "Eli", "content": "He made it." },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Obviously he made it." },
+    { "type": "dialogue", "speaker": "Eli", "content": "I wasn't certain." },
+    { "type": "narration", "content": "Kit was scraped. His ankle throbbed. There was a piece of rotten wood still stuck in his shoelace." },
+    { "type": "narration", "content": "Daisy punched him in the shoulder. Not hard — the kind that says something words aren't fast enough for." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You scared me. You absolute jerk." }
   ]
 }

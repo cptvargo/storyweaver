@@ -4,8 +4,7 @@
   "chapterTitle": "Somebody",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Millhaven High School was three times the size of the middle school and smelled like a different kind of ambition. Bigger hallways, bigger classes, upperclassmen who moved through the building like they owned it because they did — they had, for three years, and they were not particularly interested in making room for the incoming class." },
-    { "type": "narration", "content": "Kit had been looking forward to high school in the abstract way you looked forward to things you couldn't picture yet. Now that he was in it, it felt less like a beginning and more like a test he hadn't studied for." },
+    { "type": "narration", "content": "Millhaven High School was three times the size of the middle school. Bigger hallways, bigger classes, upperclassmen who moved through the building like they owned it." },
     { "type": "narration", "content": "Daisy, predictably, had already figured out where everything was." },
     { "type": "dialogue", "speaker": "Kit", "content": "How do you know where the gym is." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I looked at the map they sent over the summer." },
@@ -13,9 +12,10 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "I didn't read everything they sent." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know you didn't." },
-    { "type": "narration", "content": "She steered him left at the junction by the library and he followed because that was what he did, and they found their homeroom with four minutes to spare, and she looked at him with the expression of someone who had been navigating for two people for a very long time and had made peace with it." },
+    { "type": "narration", "content": "She steered him left at the junction by the library and they found their homeroom with four minutes to spare." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Read the things they send you." },
     { "type": "dialogue", "speaker": "Kit", "content": "I have you." },
-    { "type": "narration", "content": "She shook her head and went to find a seat. He sat next to her and looked around at the new room and thought: okay. High school. We can do this." }
+    { "type": "narration", "content": "She shook her head and went to find a seat. He sat next to her." },
+    { "type": "internalThought", "speaker": "Kit", "content": "Okay. High school. We can do this." }
   ]
 }

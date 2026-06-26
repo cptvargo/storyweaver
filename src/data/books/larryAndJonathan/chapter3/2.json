@@ -4,14 +4,94 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "you were at the game?", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "I said I might come to one.", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "you said nobody ever made it feel like something you should see", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "exactly.", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I held the phone for a long time after that.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "I want you all to think about a moment where you knew something was about to change. Before it happened. That anticipation — that's what we're working with today." },
-    { "type": "internalThought", "content": "I already knew what I was thinking about." },
-    { "type": "dialogue", "speaker": "Ms. Barrett", "content": "Don't overthink it. Write what you felt, not what you knew. Those are different things." },
-    { "type": "internalThought", "content": "Crystal was two rows over. I didn't look. I was learning not to look too fast." }
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Larry",
+      "recipient": "Crystal",
+      "content": "you were at the game?",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Crystal",
+      "recipient": "Larry",
+      "content": "I said I might come to one.",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Larry",
+      "recipient": "Crystal",
+      "content": "you said nobody ever made it feel like something you should see",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Crystal",
+      "recipient": "Larry",
+      "content": "exactly.",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I held the phone for a long time after that.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ms. Barrett",
+      "content": "I want you all to think about a moment where you knew something was about to change. Before it happened. That anticipation — that's what we're working with today."
+    },
+    {
+      "type": "internalThought",
+      "content": "I already knew what I was thinking about."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ms. Barrett",
+      "content": "Don't overthink it. Write what you felt, not what you knew. Those are different things."
+    },
+    {
+      "type": "internalThought",
+      "content": "Crystal was two rows over. I didn't look. I was learning not to look too fast."
+    },
+    {
+      "type": "choice",
+      "prompt": "Ms. Barrett says write what you felt. Crystal is two rows over.",
+      "options": [
+        {
+          "id": "ep3_looked_crystal_p2",
+          "label": "Look up. Let yourself look.",
+          "goto": 3,
+          "flagsSet": [
+            "ep3_looked_crystal_p2"
+          ]
+        },
+        {
+          "id": "ep3_stayed_page_p2",
+          "label": "Stay on the page. You're learning not to look too fast.",
+          "goto": 3,
+          "flagsSet": [
+            "ep3_stayed_page_p2"
+          ]
+        },
+        {
+          "id": "ep3_both_looked_p2",
+          "label": "You look up at the same time she does. Both look away.",
+          "goto": 3,
+          "flagsSet": [
+            "ep3_both_looked_p2"
+          ]
+        }
+      ]
+    }
   ]
 }

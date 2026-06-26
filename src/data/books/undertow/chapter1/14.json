@@ -4,29 +4,106 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "was still standing at the door when he paused. She didn't move until he went inside.", "condition": "ep1_goodnight_pause" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You're up early." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Couldn't sleep." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Good morning." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Morning." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "How's the water?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cold. Still nice to look at." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You come out here often? In the morning?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "When I need to think." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Something on your mind?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Nothing specific. Just — you ever feel like you're carrying something and you're not sure when you picked it up?" },
+    { "type": "consequence", "character": "Julian", "text": "slept fine. That surprised him a little.", "condition": "ep1_goodnight_nothing" },
+    { "type": "consequence", "character": "Julian", "text": "held the door for a second. Didn't examine it. Let it close.", "condition": "ep1_goodnight_pause" },
+    { "type": "consequence", "character": "Mara", "text": "was still standing at the water when he looked back. She didn't turn around.", "condition": "ep1_goodnight_looks" },
+    { "type": "consequence", "character": "Julian", "text": "stood there a moment longer than he needed to. Then went in.", "condition": "ep1_p13_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You're up early."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Couldn't sleep. I come out here when that happens — something about the water before anyone else is on it. You too?"
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Usually up at six. Habit." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Good habit." },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Cold out here. Still worth it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "How long have you been out?"
+    },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Since four-thirty." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's not insomnia. That's something else." },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Ha. Yeah. Maybe."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You ever feel like you're carrying something and you're not entirely sure when you picked it up, or how heavy it actually is?"
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It's like that." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Anyway." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It's a good morning. The light out here is different before everyone else wakes up." },
-    { "type": "internalThought", "content": "He changed the subject fast. Not nervous — practiced." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "How long have you known Nadia?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Since sophomore year. She tutored me through organic chemistry. I would not have survived without her." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Close?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "One of my closest. Why?" },
-    { "type": "choice", "prompt": "What does Julian say?", "options": [
-      { "id": "ep1_julian_nothing_reason", "label": "\"Just getting to know the group.\"" },
-      { "id": "ep1_julian_honest_reason", "label": "\"She seems like someone who pays close attention to things.\"" }
-    ]}
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It's like that. Anyway." },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I was actually thinking — last night, I said there was something I needed to get to Dean. I should find it today. Before the weekend's over."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "What is it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Something I was supposed to give him a while ago and I just — I kept forgetting. That's the honest version. I kept putting it down and walking away from it. I'm going to find it today."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "He said it like he wanted to be held to it. Like saying it out loud was an intention he was making real."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "The light's different out here in the morning. Worth getting up for even when the rest of it doesn't cooperate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "How long have you known Cade?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Twenty-three years. Longer than anyone here. Why?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You know him well enough to know when something's wrong."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. I do. He's — Cade's dealing with something. He's been dealing with it for a few months and he doesn't want to talk about it yet. I'm waiting him out."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Is he okay?" },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He will be. That's my read. I've seen Cade in bad shape before and this isn't that. He just needs time."
+    },
+    {
+      "type": "choice",
+      "prompt": "Marcus says he's waiting Cade out. What does Julian make of that?",
+      "options": [
+        { "id": "ep1_marcus_patience", "label": "He means it. He's the kind of person who waits people out and means it.", "flagsSet": ["ep1_marcus_patience"], "goto": 15 },
+        { "id": "ep1_cade_stress", "label": "Cade is carrying something Marcus doesn't fully know yet.", "flagsSet": ["ep1_cade_stress"], "goto": 15 },
+        { "id": "ep1_marcus_trust", "label": "Julian believes him. Marcus knows his people. That matters.", "flagsSet": ["ep1_marcus_trust"], "goto": 15 },
+        { "id": "ep1_p14_silent", "label": "...", "flagsSet": ["ep1_p14_silent"], "goto": 15 }
+      ]
+    }
   ]
 }

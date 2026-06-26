@@ -4,36 +4,206 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "was already watching the right person.", "condition": "ep1_notice_who_watches" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "How long have you all known each other?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Ten years, give or take. First semester of college." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus decided we were all friends before any of us had agreed to it." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "That's just how it works." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "It worked." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "See. Wren gets it." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Do you remember the lake house? Three summers ago?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "The kayaking disaster." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You kept grabbing my paddle." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You would have spun in circles the whole afternoon." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I had it." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You had the general concept of it." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "What are you two talking about?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Nadia's kayaking technique." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Oh no." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "It was one afternoon." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm sure you were great." },
-    { "type": "internalThought", "content": "Sophie reached for Dean's arm without looking. He shifted toward her the same way. The kind of movement you stop having to think about." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Everything okay, Nadia?" },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Of course." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "The fire's getting low." },
-    { "type": "internalThought", "content": "The fire was not getting low." },
+    {
+      "type": "consequence",
+      "character": "Mara",
+      "text": "glanced over when Julian laughed. She looked back at the fire before he noticed her looking.",
+      "condition": "ep1_julian_laughs"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Cade take the story against himself with complete ease. Most people who do that have been practicing it a long time.",
+      "condition": "ep1_julian_watching_cade"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "looked away before she could notice. The laugh had been real. It had been a good sound.",
+      "condition": "ep1_julian_watching_mara"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "held it without naming it.",
+      "condition": "ep1_p8_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "How long have you all known each other? Because you talk like people who've been through something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Ten years. First semester. I decided we were all going to be friends before any of them had agreed to it. Cade in particular took about three months to accept that the decision had been made."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I came around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He did. Eventually."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "It worked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "See. Wren gets it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "The lake house three summers ago. Do you remember the kayaking afternoon?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "We are not still on that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You went in circles for forty minutes, Dean. I was watching you from the dock. I didn't say anything at first because I didn't want to embarrass you. Then you hit the dock and I thought, he's had enough dignity preserved."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I grazed the dock. And the paddle was clearly unbalanced — I checked it before I went in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You borrowed my paddle. The paddle was fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He hit the dock twice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Once. I grazed it once on the way in and once—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You apologized to the dock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I was being polite."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "What are you talking about? What dock?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "It was three years ago and we have all agreed to—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Dean's kayaking technique."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Oh no."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I'm being sacrificed again. This is fine. I accept this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "How long were you actually in circles?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That's not—"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Forty minutes. We have video from the dock."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That video is inadmissible."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "Sophie reached for Dean's arm while she was laughing. He was already turning toward her before she touched him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "You okay, Nadia? You got quiet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Of course. I was just going to say — the fire's getting low."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "The fire was not getting low."
+    },
     {
       "type": "choice",
-      "prompt": "You saw something just now. What was it?",
+      "prompt": "Something just happened at the edge of a good moment. What did you catch?",
       "options": [
-        { "id": "ep1_saw_nadia", "label": "The way Nadia's expression shifted when Sophie reached for Dean." },
-        { "id": "ep1_saw_sophie", "label": "The way Sophie glanced at Nadia after she turned away." },
-        { "id": "ep1_saw_nothing", "label": "Nothing. It was just conversation by a fire." }
+        {
+          "id": "ep1_saw_nadia",
+          "label": "Nadia went somewhere else the moment Sophie reached for Dean. She came back fast — but she went.",
+          "flagsSet": [
+            "ep1_saw_nadia"
+          ],
+          "goto": 10
+        },
+        {
+          "id": "ep1_saw_fire",
+          "label": "The fire comment. A change of subject dressed up as an observation.",
+          "flagsSet": [
+            "ep1_saw_fire"
+          ],
+          "goto": 10
+        },
+        {
+          "id": "ep1_saw_nothing",
+          "label": "Nothing. It was a good night and not everything is something.",
+          "flagsSet": [
+            "ep1_saw_nothing"
+          ],
+          "goto": 10
+        },
+        {
+          "id": "ep1_p9_silent",
+          "label": "...",
+          "flagsSet": [
+            "ep1_p9_silent"
+          ],
+          "goto": 10
+        }
       ]
     }
   ]

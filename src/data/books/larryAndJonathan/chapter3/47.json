@@ -4,19 +4,101 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Crystal", "content": "Can I say something and you won't make it weird?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'll try." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I've been looking forward to Thursdays." },
-    { "type": "internalThought", "content": "I looked at her." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Like — specifically. During the week. When things are hard I just think 'Thursday, steps, it'll be fine.'" },
-    { "type": "dialogue", "speaker": "Larry", "content": "You look forward to sitting on the steps?" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I look forward to you being on the steps. Don't make it into something smaller than that." },
-    { "type": "internalThought", "content": "There it was. The version of her that didn't make herself smaller." },
-    { "type": "internalThought", "content": "I'd been looking forward to Thursdays too. Every single one. But I hadn't said it like that. I'd just let it accumulate quietly in me like something I wasn't ready to name." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I've been looking forward to them too." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Yeah?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Same reason." },
-    { "type": "internalThought", "content": "She leaned back on her palms. Looked up at the sky for a second. When she looked back at me the amber light was on her face and she was smiling." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Okay. Good." }
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Can I say something and you won't make it weird?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I'll try."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I've been looking forward to Thursdays."
+    },
+    {
+      "type": "internalThought",
+      "content": "I looked at her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Like — specifically. During the week. When things are hard I just think 'Thursday, steps, it'll be fine.'"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You look forward to sitting on the steps?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I look forward to you being on the steps. Don't make it into something smaller than that."
+    },
+    {
+      "type": "internalThought",
+      "content": "There it was. The version of her that didn't make herself smaller."
+    },
+    {
+      "type": "internalThought",
+      "content": "I'd been looking forward to Thursdays too. Every single one. But I hadn't said it like that. I'd just let it accumulate quietly in me like something I wasn't ready to name."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I've been looking forward to them too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Yeah?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. Same reason."
+    },
+    {
+      "type": "internalThought",
+      "content": "She leaned back on her palms. Looked up at the sky for a second. When she looked back at me the amber light was on her face and she was smiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Okay. Good."
+    },
+    {
+      "type": "choice",
+      "prompt": "She said it out loud and didn't make it smaller. She's waiting to see what you do with that.",
+      "options": [
+        {
+          "id": "ep3_said_same_p47",
+          "label": "\"Me too. Same reason.\" Exactly as simply as she said it.",
+          "goto": 48,
+          "flagsSet": [
+            "ep3_said_same_p47"
+          ]
+        },
+        {
+          "id": "ep3_took_moment_p47",
+          "label": "Pause before you answer. Let it be real.",
+          "goto": 48,
+          "flagsSet": [
+            "ep3_took_moment_p47"
+          ]
+        },
+        {
+          "id": "ep3_almost_more_p47",
+          "label": "You almost said more than that. You stopped yourself.",
+          "goto": 48,
+          "flagsSet": [
+            "ep3_almost_more_p47"
+          ]
+        }
+      ]
+    }
   ]
 }

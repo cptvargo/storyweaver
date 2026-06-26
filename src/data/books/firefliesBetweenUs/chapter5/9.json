@@ -5,12 +5,11 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Daisy didn't sleep much." },
-    { "type": "narration", "content": "She lay in the dark and looked at the ceiling and was careful about it — careful not to call it what it was, careful not to follow the feeling all the way to where it was going. If she followed it that far she'd have to admit something she'd been not-admitting for two years, and she wasn't ready to do that in the dark by herself on a Monday night." },
+    { "type": "narration", "content": "She lay in the dark and looked at the ceiling, careful not to follow the feeling all the way to where it was going." },
     { "type": "narration", "content": "What she kept coming back to was the water tower." },
-    { "type": "narration", "content": "Not the kiss — that was Kit's to give or not give, it wasn't hers, she had no claim on it and she knew that. But the tower. The specific place. She and Kit had stood up there in the summer they were twelve and the whole town had been below them and something had almost happened, something had been right there at the edge of the moment, and she had thought about that edge more times than she would ever say out loud." },
-    { "type": "narration", "content": "He'd taken someone else there." },
-    { "type": "narration", "content": "He'd taken someone else to the exact place and given away the exact moment and he either knew what he was doing or he didn't, and she wasn't sure which one hurt more." },
-    { "type": "narration", "content": "In the morning she got up and got dressed and ate breakfast and her mom watched her from the kitchen doorway with the expression she'd been getting from her mom her whole life — the one that said she was seen, all the way through — and Daisy just said:" },
+    { "type": "narration", "content": "Not the kiss — that was Kit's to give. But the tower. The specific place. She had stood up there in the summer they were twelve and something had almost happened." },
+    { "type": "narration", "content": "He'd taken someone else there. He either knew what he was doing or he didn't." },
+    { "type": "narration", "content": "In the morning she got up and dressed and ate breakfast and her mom watched her from the kitchen doorway." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm fine." },
     { "type": "narration", "content": "Her mom didn't say anything." },
     { "type": "narration", "content": "Daisy picked up her bag and went to school." }

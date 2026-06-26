@@ -4,28 +4,152 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She does. She always has. Even back in college — she'd notice things nobody else caught. Small things." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It used to drive people a little crazy actually. Like you'd say something offhand and two weeks later she'd reference it and you'd think — how did you hold onto that?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Memory like that is usually tied to something specific." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Like what?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Caring a lot about something. Or someone." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. That tracks." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She's had a rough couple years. Not anything dramatic — just quiet hard. The kind you don't talk about." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's usually the hardest kind." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I just want this weekend to be good for her. For all of us. It's been a while since we were just — us. No distance. No life stuff in the way." },
-    { "type": "internalThought", "content": "He meant every word of it. That was the part that was hard to file away." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "There he is. I knew you'd be out here." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You don't look so well." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I slept fine." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I wasn't talking about sleep." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I'm good." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cade." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I said I'm good. Drop it." },
-    { "type": "choice", "prompt": "Julian is watching this. What does he read?", "options": [
-      { "id": "ep1_cade_stress", "label": "Cade is carrying something he doesn't want Marcus to see." },
-      { "id": "ep1_cade_private", "label": "He just wants his space. Some people don't do mornings." },
-      { "id": "ep1_cade_afraid", "label": "He's not just private. He's scared of something." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Marcus say it. He'd met a handful of people in his life who meant things the way Marcus meant them.",
+      "condition": "ep1_marcus_patience"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept it. Marcus knew something was wrong with Cade, and he didn't know how wrong. Those were two different problems.",
+      "condition": "ep1_cade_stress"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "believed him. That was unusual — most people's reads of other people were optimistic self-deception. Marcus's felt like knowledge.",
+      "condition": "ep1_marcus_trust"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched. He didn't put a name on what he was watching.",
+      "condition": "ep1_p14_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "How long have you known Nadia? Close friends?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Wait — I asked last night, didn't I. You got quiet."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Nadia had a rough couple of years. You mentioned it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. The quiet kind. Nothing that gets a name or anyone's sympathy — just the kind that piles up and you're not sure what you're looking at until it's all there. She's been carrying that for a while. I don't push. She talks when she's ready."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Memory like hers — holding onto things nobody else noticed — that's usually tied to caring about something very specifically."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "That tracks. Yeah. She holds on. She's always been like that — she'll remember something you said in passing six months later like she's been turning it over the whole time. Used to throw people who didn't know her."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "He said it with complete warmth. He'd never considered it as anything other than a kind of loyalty."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "There you are. I knew you'd be out here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You don't look so well."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I slept fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I wasn't talking about sleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I know you weren't. I'm good. Drop it today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Cade."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I know. I hear you. I'm saying leave it for today. One day. Can you do that?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "One day."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Thank you."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "He wasn't okay. But he knew Marcus would let him say he was. That was the ask — not for Marcus to believe it, just to let it stand."
+    },
+    {
+      "type": "choice",
+      "prompt": "Cade asked for one day. What is Julian reading in that?",
+      "options": [
+        {
+          "id": "ep1_cade_debt",
+          "label": "Whatever it is, it's something Marcus already knows about. That's a specific kind of burden.",
+          "flagsSet": [
+            "ep1_cade_debt"
+          ],
+          "goto": 16
+        },
+        {
+          "id": "ep1_cade_scared",
+          "label": "He's not just private. There's something he's actively trying not to think about.",
+          "flagsSet": [
+            "ep1_cade_scared"
+          ],
+          "goto": 16
+        },
+        {
+          "id": "ep1_cade_respected",
+          "label": "He asked for space and Marcus gave it. That's real trust.",
+          "flagsSet": [
+            "ep1_cade_respected"
+          ],
+          "goto": 16
+        },
+        {
+          "id": "ep1_p15_silent",
+          "label": "...",
+          "flagsSet": [
+            "ep1_p15_silent"
+          ],
+          "goto": 16
+        }
+      ]
+    }
   ]
 }

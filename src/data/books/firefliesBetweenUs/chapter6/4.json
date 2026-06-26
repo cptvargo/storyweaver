@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Ryan Callaway was in Daisy's English class." },
-    { "type": "narration", "content": "Kit found this out in the way he found out most things about her schedule — she mentioned it in passing, on the walk to school, the way you mentioned things that weren't a big deal because they weren't a big deal." },
+    { "type": "narration", "content": "Kit found this out on the walk to school — she mentioned it in passing." },
     { "type": "dialogue", "speaker": "Daisy", "content": "There's a guy in my English class who's actually read the book we're doing. Like, already read it." },
     { "type": "dialogue", "speaker": "Kit", "content": "What book." },
     { "type": "dialogue", "speaker": "Daisy", "content": "To Kill a Mockingbird." },
@@ -19,6 +19,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Hm." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What does hm mean." },
     { "type": "dialogue", "speaker": "Kit", "content": "Nothing. Good that he reads." },
-    { "type": "narration", "content": "She looked at him with the sideways expression she used when she was deciding whether something was worth pushing. She decided it wasn't. They walked the rest of the way to school and Kit did not think about Ryan Callaway from Augusta who had opinions about books." }
+    { "type": "narration", "content": "She looked at him with the sideways expression she used when she was deciding whether something was worth pushing. She decided it wasn't. They walked the rest of the way to school." }
   ]
 }

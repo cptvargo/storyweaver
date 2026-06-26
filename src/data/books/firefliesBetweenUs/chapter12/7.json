@@ -5,14 +5,14 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "She told him on a Tuesday." },
-    { "type": "narration", "content": "Not a planned Tuesday. Not a special one. She'd been sitting with it for four days — four days of knowing and not saying, not because she was afraid of his reaction but because she wanted to hold it alone for just a little while before it became something they both carried." },
-    { "type": "narration", "content": "He came home from the studio at six. She was at the counter with two cups of tea — she'd been off coffee for a week and hadn't told him why — and she waited until he'd set down his bag and washed his hands the way he always did before she said anything." },
+    { "type": "narration", "content": "Not a planned Tuesday. Not a special one. She'd been sitting with it for four days — four days of knowing and not saying." },
+    { "type": "narration", "content": "He came home from the studio at six. She was at the counter with two cups of tea — she'd been off coffee for a week and hadn't told him why — and she waited until he'd set down his bag and washed his hands before she said anything." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Sit down." },
     { "type": "narration", "content": "He sat. Read her face." },
     { "type": "dialogue", "speaker": "Kit", "content": "Good or bad." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Good." },
     { "type": "narration", "content": "She slid the test across the counter." },
-    { "type": "narration", "content": "He looked at it for a long moment. She watched him absorb it — the stillness first, then something moving behind his eyes, then his hand coming flat down on the counter like he needed to feel something solid." },
+    { "type": "narration", "content": "He looked at it for a long moment. She watched his hand come flat down on the counter." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
     { "type": "narration", "content": "He came around the counter. She stood and he held her — not the careful hold, not the polished one, but the real kind, both arms, full, the kind that meant something had cracked open in him in the best way." },
@@ -20,6 +20,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "We're going to need a bigger place." },
     { "type": "dialogue", "speaker": "Daisy", "content": "One crisis at a time." },
     { "type": "narration", "content": "He laughed. She felt it in his chest before she heard it." },
-    { "type": "narration", "content": "They stayed like that for a while. The city moved outside the window. The tea went cold. Harold watched from the sill with his usual expression of mild and uncritical approval." }
+    { "type": "narration", "content": "They stayed like that for a while. The city moved outside the window." }
   ]
 }

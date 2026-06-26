@@ -4,29 +4,151 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Davenport", "text": "looked at Julian. He had noticed the man the moment he arrived — standing in the doorway, not family, not a guest. Watching.", "condition": "ep1_julian_steps_forward" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Mr. Crane." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Inspector." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You were next door." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "And you heard the argument." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "From our porch. Two voices. Controlled. Four minutes, approximately. One voice went upstairs and didn't come back down." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Which voice?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I couldn't identify it." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "What do you do, Mr. Crane?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Behavioral analysis. Independent contractor. Fraud, corporate litigation mostly." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Mostly." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Mostly." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I'll need a full statement from you. From both of you." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Of course." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I'll also need you to stay available. You may have been the only people who weren't inside the house." },
-    { "type": "internalThought", "content": "He said it like it was procedural. It wasn't procedural. He was already thinking the same thing I was." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We'll cooperate with everything you need." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Thank you, Ms. Voss." },
-    { "type": "choice", "prompt": "Davenport. What's Julian's first read?", "options": [
-      { "id": "ep1_davenport_sharp", "label": "He's sharper than he looks. He's already running the same math." },
-      { "id": "ep1_davenport_procedural", "label": "By the book. Experienced. He'll follow procedure before instinct." },
-      { "id": "ep1_davenport_open", "label": "He's open. He'll listen to someone who has more." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Davenport",
+      "text": "looked at Julian. He had noticed the man the moment he arrived â€” standing in the doorway, not family, not a guest. Watching.",
+      "condition": "ep1_julian_steps_forward"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had stayed back. He watched from the edge and said nothing until he had something to say.",
+      "condition": "ep1_julian_silent"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had waited for the right moment to step in.",
+      "condition": "ep1_p34_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Mr. Crane."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Inspector."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You were next door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "And you heard the argument."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "From our porch. Two voices. Controlled. Four minutes, approximately. One voice went upstairs and didn't come back down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Which voice?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I couldn't identify it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "What do you do, Mr. Crane?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Behavioral analysis. Independent contractor. Fraud, corporate litigation mostly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Mostly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Mostly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "I'll need a full statement from you. From both of you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Of course."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "I'll also need you to stay available. You may have been the only people who weren't inside the house."
+    },
+    {
+      "type": "internalThought",
+      "content": "He said it like it was procedural. It wasn't procedural. He was already thinking the same thing I was.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We'll cooperate with everything you need."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Thank you, Ms. Voss."
+    },
+    {
+      "type": "choice",
+      "prompt": "Davenport. What's Julian's first read?",
+      "options": [
+        {
+          "id": "ep1_davenport_sharp",
+          "label": "He's sharper than he looks. He's already running the same math.",
+          "goto": 36,
+          "flagsSet": [
+            "ep1_davenport_sharp"
+          ]
+        },
+        {
+          "id": "ep1_davenport_procedural",
+          "label": "By the book. Experienced. He'll follow procedure before instinct.",
+          "goto": 36,
+          "flagsSet": [
+            "ep1_davenport_procedural"
+          ]
+        },
+        {
+          "id": "ep1_davenport_open",
+          "label": "He's open. He'll listen to someone who has more.",
+          "goto": 36,
+          "flagsSet": [
+            "ep1_davenport_open"
+          ]
+        },
+        {
+          "id": "ep1_p35_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p35_silent"
+          ],
+          "goto": 36
+        }
+      ]
+    }
   ]
 }

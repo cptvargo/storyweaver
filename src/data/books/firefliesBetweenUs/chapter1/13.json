@@ -4,11 +4,9 @@
   "chapterTitle": "The Last Light of Summer",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They left Savannah's around three, because the afternoon had reached the point where even the shade wasn't giving much and motion was better than sitting still." },
-    { "type": "narration", "content": "On the way toward Callaway Park they passed Mr. Whitaker, crouched over a sprinkler valve in his front yard with a particular expression of focused displeasure — the kind of look that meant man vs. machine and the machine was currently winning." },
-    { "type": "narration", "content": "Mr. Whitaker was sixty-eight years old, retired from something nobody had ever fully understood, and had the best garden in the neighborhood by a considerable margin. He also had a standing policy of giving neighborhood kids unsolicited advice, which could last anywhere from thirty seconds to fifteen minutes depending on the subject." },
+    { "type": "narration", "content": "On the way toward Callaway Park they passed Mr. Whitaker, crouched over a sprinkler valve in his front yard with the expression of a man losing to a machine." },
     { "type": "dialogue", "speaker": "Kit", "content": "Hey, Mr. Whitaker." },
-    { "type": "narration", "content": "The old man looked up. Took in the four of them. Read something in the situation." },
+    { "type": "narration", "content": "The old man looked up. Took in the four of them." },
     { "type": "dialogue", "speaker": "Mr. Whitaker", "content": "Where have y'all been?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Water tower." },
     { "type": "dialogue", "speaker": "Mr. Whitaker", "content": "Old one or new one?" },
@@ -18,12 +16,12 @@
     { "type": "narration", "content": "He looked back at his sprinkler valve." },
     { "type": "dialogue", "speaker": "Mr. Whitaker", "content": "Don't tell anybody I told you that." },
     { "type": "dialogue", "speaker": "Kit", "content": "No sir." },
-    { "type": "narration", "content": "He fixed the sprinkler, or did something to it that seemed satisfactory, and stood up with the careful unfolding of someone who has been on one knee too long. He looked out at his lawn — the greenest on the street, because he was the most stubborn about it — and then up at the sky." },
+    { "type": "narration", "content": "He did something to the valve that seemed satisfactory, stood up carefully, and looked at his lawn — the greenest on the street — and then at the sky." },
     { "type": "dialogue", "speaker": "Mr. Whitaker", "content": "It's dry. Been praying for rain all week." },
     { "type": "dialogue", "speaker": "Eli", "content": "You think it'll come?" },
     { "type": "dialogue", "speaker": "Mr. Whitaker", "content": "Always does. Just never when you're ready for it." },
-    { "type": "narration", "content": "He went up to the porch and came back with four Coca-Colas in glass bottles — cold from the back of the cooler, the kind that sweat immediately the moment they hit the afternoon air." },
-    { "type": "narration", "content": "They said thank you. He waved them off and went back to his sprinkler without another word, like it was nothing, because for him it was nothing." },
+    { "type": "narration", "content": "He went up to the porch and came back with four Coca-Colas in glass bottles, cold from the back of the cooler, sweating the second they hit the afternoon air." },
+    { "type": "narration", "content": "They said thank you. He waved them off and went back to his sprinkler like it was nothing." },
     { "type": "narration", "content": "It wasn't nothing." }
   ]
 }

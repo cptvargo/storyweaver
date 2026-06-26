@@ -1,4 +1,4 @@
-﻿{
+{
   "page": 15,
   "chapter": 5,
   "chapterTitle": "Offline",
@@ -15,7 +15,7 @@
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "I'm sorry" },
     { "type": "narration", "content": "Her name went gray." },
     { "type": "narration", "content": "Offline." },
-    { "type": "narration", "content": "He sat in front of the screen for a while after that. The buddy list was quiet — Eli had gone to bed, Savannah wasn't on. Brooke's screen name showed active but he didn't open it. He looked at the empty window — Daisy's name greyed out at the top — and the three messages he'd sent sitting there unanswered, and the nothing where her words would have been." },
+    { "type": "narration", "content": "He sat in front of the screen for a while after that. He looked at Daisy's name greyed out at the top, and the three messages sitting there unanswered." },
     { "type": "narration", "content": "He changed his away message." },
     { "type": "narration", "content": "It said: my bad." },
     { "type": "narration", "content": "He knew she wouldn't see it." }

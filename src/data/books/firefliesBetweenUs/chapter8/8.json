@@ -23,6 +23,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I hear you." },
     { "type": "dialogue", "speaker": "Eli", "content": "Do you." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. I do." },
-    { "type": "narration", "content": "Eli unlocked his bike. Said nothing else. He didn't need to." }
+    { "type": "narration", "content": "Eli unlocked his bike. Said nothing else." }
   ]
 }

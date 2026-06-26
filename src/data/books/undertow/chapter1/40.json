@@ -4,28 +4,151 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You were outside last night." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You heard it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The argument? Yes." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Did you hear what it was about?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No. Just that it happened." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It wasn't —" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It wasn't what it sounded like." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "What did it sound like?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Look, I'm not — I talked to Marcus last night. Earlier, on the porch. We had a disagreement. It wasn't serious." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "About what?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Personal stuff. Old stuff." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Did the argument through the ceiling involve the same old stuff?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "No. That wasn't me." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Who was it?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I don't know." },
-    { "type": "internalThought", "content": "He answered too fast. He had been sitting with that answer before I asked." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I just need you to know it wasn't me. Okay? Whatever the police think — it wasn't me." },
-    { "type": "choice", "prompt": "Cade just came to Julian unprompted. What does that mean?", "options": [
-      { "id": "ep1_cade_guilty_conscience", "label": "Guilty conscience. He's scared of how it looks." },
-      { "id": "ep1_cade_protecting_someone", "label": "He knows who it was. And he's covering for them." },
-      { "id": "ep1_cade_innocent_panic", "label": "He's innocent and terrified. That's a different kind of scared." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had framed it as working with him. Davenport had responded to that better than to being managed.",
+      "condition": "ep1_davenport_alliance"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had left Davenport a warning. What Davenport did with it was up to him.",
+      "condition": "ep1_davenport_warning"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had stayed quiet. He would let the evidence do the talking.",
+      "condition": "ep1_p39_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "You were outside last night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "You heard it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The argument? Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Did you hear what it was about?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No. Just that it happened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It wasn't â€”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It wasn't what it sounded like."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "What did it sound like?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Look, I'm not â€” I talked to Marcus last night. Earlier, on the porch. We had a disagreement. It wasn't serious."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "About what?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Personal stuff. Old stuff."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Did the argument through the ceiling involve the same old stuff?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "No. That wasn't me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Who was it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I don't know."
+    },
+    {
+      "type": "internalThought",
+      "content": "He answered too fast. He had been sitting with that answer before I asked.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I just need you to know it wasn't me. Okay? Whatever the police think â€” it wasn't me."
+    },
+    {
+      "type": "choice",
+      "prompt": "Cade just came to Julian unprompted. What does that mean?",
+      "options": [
+        {
+          "id": "ep1_cade_guilty_conscience",
+          "label": "Guilty conscience. He's scared of how it looks.",
+          "goto": 41,
+          "flagsSet": [
+            "ep1_cade_guilty_conscience"
+          ]
+        },
+        {
+          "id": "ep1_cade_protecting_someone",
+          "label": "He knows who it was. And he's covering for them.",
+          "goto": 41,
+          "flagsSet": [
+            "ep1_cade_protecting_someone"
+          ]
+        },
+        {
+          "id": "ep1_cade_innocent_panic",
+          "label": "He's innocent and terrified. That's a different kind of scared.",
+          "goto": 41,
+          "flagsSet": [
+            "ep1_cade_innocent_panic"
+          ]
+        },
+        {
+          "id": "ep1_p40_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p40_silent"
+          ],
+          "goto": 41
+        }
+      ]
+    }
   ]
 }

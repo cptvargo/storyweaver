@@ -4,28 +4,148 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "To the coast. And to people who actually show up." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "To showing up." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "To the food, which is incredible." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Thank you. I made it." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I made most of it." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He made most of it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's really good." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Glad you're here. Both of you. It's good to have more people at the table." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Thank you for having us." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Nah. Thank you for saying yes. Some people need convincing." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He means me. I said we shouldn't invite strangers to dinner." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He said exactly that." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "And I was wrong." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "He's almost never wrong. He'll be talking about this for weeks." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "That's fair." },
-    { "type": "internalThought", "content": "Marcus laughed and it reached his eyes. For the first time all day it fully reached his eyes." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "Marcus. You okay?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Just — yeah." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I'm good. I'm really good." },
-    { "type": "choice", "prompt": "Wren asked first. What does that mean?", "options": [
-      { "id": "ep1_wren_sharp", "label": "She sees things before other people do." },
-      { "id": "ep1_wren_coincidence", "label": "She just happened to be looking." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had felt the ease walking in. The afternoon had settled into something quieter.",
+      "condition": "ep1_feel_ease"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had felt the weight still in him. But this table helped carry it.",
+      "condition": "ep1_feel_weight"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "came to the table without having decided what he felt.",
+      "condition": "ep1_p22_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "To the coast. And to people who actually show up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "To showing up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "To the food, which is incredible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Thank you. I made it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I made most of it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He made most of it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "It's really good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Glad you're here. Both of you. It's good to have more people at the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Thank you for having us."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Nah. Thank you for saying yes. Some people need convincing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "He means me. I said we shouldn't invite strangers to dinner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He said exactly that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "And I was wrong."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "He's almost never wrong. He'll be talking about this for weeks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That's fair."
+    },
+    {
+      "type": "internalThought",
+      "content": "Marcus laughed and it reached his eyes. For the first time all day it fully reached his eyes.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "Marcus. You okay?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. Just â€” yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'm good. I'm really good."
+    },
+    {
+      "type": "choice",
+      "prompt": "Wren asked first. What does that mean?",
+      "options": [
+        {
+          "id": "ep1_wren_sharp",
+          "label": "She sees things before other people do.",
+          "goto": 24,
+          "flagsSet": [
+            "ep1_wren_sharp"
+          ]
+        },
+        {
+          "id": "ep1_wren_coincidence",
+          "label": "She just happened to be looking.",
+          "goto": 24,
+          "flagsSet": [
+            "ep1_wren_coincidence"
+          ]
+        },
+        {
+          "id": "ep1_p23_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p23_silent"
+          ],
+          "goto": 24
+        }
+      ]
+    }
   ]
 }

@@ -4,20 +4,106 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Thursday. The steps. Same time as always — after school, right before the late buses. The crowd thinned out fast and then it was just the ones who were always there." },
-    { "type": "internalThought", "content": "Crystal came down the steps and sat two spots to my left. Close enough to talk, far enough to say we were just sitting in the same place." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Hey." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Hey." },
-    { "type": "internalThought", "content": "That was the whole greeting. We'd gotten past the performance of it." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "How was your week so far." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Better than last week. Quieter." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Daniel?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "He's around. But it's different now. He's thinking." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Thinking is better than acting." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "internalThought", "content": "She looked out at the street. There was a pause — not awkward. The kind you don't have to fill." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Can I ask you something kind of personal?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Why football? Like, what is it actually. Not the answer you give to people who don't play." }
+    {
+      "type": "internalThought",
+      "content": "Thursday. The steps. Same time as always — after school, right before the late buses. The crowd thinned out fast and then it was just the ones who were always there."
+    },
+    {
+      "type": "internalThought",
+      "content": "Crystal came down the steps and sat two spots to my left. Close enough to talk, far enough to say we were just sitting in the same place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Hey."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Hey."
+    },
+    {
+      "type": "internalThought",
+      "content": "That was the whole greeting. We'd gotten past the performance of it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "How was your week so far."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Better than last week. Quieter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Daniel?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "He's around. But it's different now. He's thinking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Thinking is better than acting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah."
+    },
+    {
+      "type": "internalThought",
+      "content": "She looked out at the street. There was a pause — not awkward. The kind you don't have to fill."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Can I ask you something kind of personal?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Why football? Like, what is it actually. Not the answer you give to people who don't play."
+    },
+    {
+      "type": "choice",
+      "prompt": "She asked you why football. The real answer, not the one you give at dinner.",
+      "options": [
+        {
+          "id": "ep3_answered_real_football",
+          "label": "Answer her. The version nobody's heard.",
+          "goto": 45,
+          "flagsSet": [
+            "ep3_answered_real_football"
+          ]
+        },
+        {
+          "id": "ep3_paused_before_p44",
+          "label": "Take a beat before you answer. This one deserves it.",
+          "goto": 45,
+          "flagsSet": [
+            "ep3_paused_before_p44"
+          ]
+        },
+        {
+          "id": "ep3_said_nobody_asked",
+          "label": "\"Nobody's ever asked me that before.\"",
+          "goto": 45,
+          "flagsSet": [
+            "ep3_said_nobody_asked"
+          ]
+        }
+      ]
+    }
   ]
 }

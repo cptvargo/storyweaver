@@ -4,34 +4,136 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "smiled at the water. She didn't make it a bigger moment than it was.", "condition": "ep1_julian_thanks" },
-    { "type": "consequence", "character": "Mara", "text": "understood. She looked at the water too.", "condition": "ep1_julian_silence" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Hey — you two just get in?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "About an hour ago. I'm Mara. This is Julian." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Marcus. Come meet everyone — they're right behind me." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Dean. Good to meet you both." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Sophie. How was the drive?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Long but worth it. This place is beautiful." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Cade. You two neighbors for the whole weekend?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Through Sunday." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Perfect. We'll put you to work." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Nadia. The beach is best in the morning before the wind picks up. If you haven't been to this part of the coast before." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "First time. Thank you — I'll be up early." },
-    { "type": "internalThought", "content": "Six of them. Marcus introduced everyone by name, got everyone's name back. Cade shook hands like he was running for something. Dean gave one look, clean and direct. Nadia gave useful information about the coast before anyone asked. Sophie pulled Mara in immediately. Wren said her name and nothing else." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "Wren." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Hi, Wren." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "We're doing a bonfire tonight if you two want to come by. Nothing fancy. Just a fire, good people." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That sounds really nice. What time?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Anytime after seven. No pressure." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Please come. We have way too much food." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Then we'll definitely be there." },
+    { "type": "consequence", "character": "Mara", "text": "looked at the water. \"Any time,\" she said, like it was nothing. She made it nothing so he didn't have to carry it.", "condition": "ep1_julian_thanks" },
+    { "type": "consequence", "character": "Mara", "text": "understood the silence. She'd learned to read the ones that meant yes.", "condition": "ep1_julian_silence" },
+    { "type": "consequence", "character": "Mara", "text": "said \"obviously\" without looking up. He smiled. She didn't see it.", "condition": "ep1_julian_wry" },
+    { "type": "consequence", "character": "Mara", "text": "let the quiet run. She was good at that with him.", "condition": "ep1_p5_silent" },
+    {
+      "type": "narration",
+      "content": "By the time they walked over, the fire was properly going — orange and low, the kind you build when you know what you're doing. Someone had dragged chairs into a loose circle. Sparkling cider cans on the cooler lid. Music still coming from the speaker but quieter now, background."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You made it. Grab something to drink — it's all on the cooler."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Fair warning — Marcus told us you cook, so now he wants to do a whole thing tomorrow. He's been planning it for twenty minutes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I said maybe we could do a joint situation. That's not a plan, that's an idea."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "What were you thinking?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I don't know yet. I was going to ask what you had in mind."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Cast iron. Whatever's fresh at the marina store in the morning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Done. That's the plan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It became a plan. I saw it happen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "I'm going in the water tomorrow before it gets warm. Anyone who wants to come — seven-thirty, no later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You said that yesterday."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "And I meant it yesterday. Tomorrow I'm actually doing it."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "It was easy. That was the thing about them — they'd been doing this long enough that there was nothing to prove. The fire, the cooler, the way nobody filled every silence. I'd been here twenty minutes and I already felt like I'd been here longer."
+    },
+    {
+      "type": "narration",
+      "content": "Wren was in the chair furthest from the fire, turned slightly so the light didn't hit her face directly. She had a drink and she was watching the water. She hadn't said anything since they'd arrived."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Where are you two based?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "DC. You?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Charlotte. Same as most of us — Marcus dragged everyone from a three-state radius."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I prefer to call it organizing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You called us four months in advance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Good weekends don't happen by accident."
+    },
     {
       "type": "choice",
-      "prompt": "Six people. One of them stays with you. Which one?",
+      "prompt": "An hour in. The fire's warm, the group is easy. Who does Julian keep coming back to?",
       "options": [
-        { "id": "ep1_marcus_warm", "label": "The one who made everyone feel included — without trying." },
-        { "id": "ep1_marcus_center", "label": "The one who said her name and nothing else. Not shy. Deliberate." },
-        { "id": "ep1_marcus_note", "label": "The one who was watching someone else while everyone else was watching Marcus." }
+        {
+          "id": "ep1_marcus_stays",
+          "label": "Marcus — he made every person feel like they were the reason he came outside.",
+          "flagsSet": ["ep1_marcus_stays"],
+          "goto": 7
+        },
+        {
+          "id": "ep1_wren_stays",
+          "label": "Wren — she hasn't said a word in an hour and nobody's pushed her on it.",
+          "flagsSet": ["ep1_wren_stays"],
+          "goto": 7
+        },
+        {
+          "id": "ep1_nadia_stays",
+          "label": "Nadia — useful before anyone asked. She knew exactly how to come across.",
+          "flagsSet": ["ep1_nadia_stays"],
+          "goto": 7
+        },
+        {
+          "id": "ep1_p6_silent",
+          "label": "...",
+          "flagsSet": ["ep1_p6_silent"],
+          "goto": 7
+        }
       ]
     }
   ]

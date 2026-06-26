@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 33,
   "chapter": 9,
   "chapterTitle": "The Distance",
@@ -25,7 +25,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm proud of you." },
     { "type": "dialogue", "speaker": "Kit", "content": "You keep saying that." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'll keep meaning it." },
-    { "type": "narration", "content": "February went. March. The distance was still real — still a thing with weight and friction — but it had become something they were doing together rather than something happening to them. Different category. Different gravity." },
+    { "type": "narration", "content": "February went. March. The distance was still real." },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "what are you doing for 4th of july" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "coming home. eli mentioned something" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "good" },

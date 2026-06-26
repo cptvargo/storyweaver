@@ -5,19 +5,19 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Kit's street was three blocks west, and they were on it before either of them acknowledged they'd decided to go this way instead of the other way." },
-    { "type": "narration", "content": "His house had the light on above the garage. His mom's car was in the driveway. On the front porch, a single lamp burned orange in the warm dark, and under it, on the old porch swing that had been there since Kit could remember, his mom was reading." },
+    { "type": "narration", "content": "His house had the light on above the garage. On the front porch, on the old swing, his mom was reading." },
     { "type": "dialogue", "speaker": "Kit", "content": "She's up." },
     { "type": "dialogue", "speaker": "Daisy", "content": "She's always up." },
-    { "type": "narration", "content": "His mom looked up from her book when they reached the front walk and she smiled — the easy kind, the kind that didn't ask any questions about where they'd been or why they'd taken this route home." },
+    { "type": "narration", "content": "His mom looked up from her book and smiled." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "How was the movie?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Good." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy, you want to come in? I've got sweet tea." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I should get back. But thank you, Mrs. Jenkins." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "You tell your mama I said hello." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I will." },
-    { "type": "narration", "content": "His mom looked at Kit with the slight raise of an eyebrow that said she knew something and had chosen to find it endearing rather than interrogatable, which was one of her better qualities." },
+    { "type": "narration", "content": "His mom raised an eyebrow at Kit." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Don't be too long." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll walk her home." },
-    { "type": "narration", "content": "His mom went back to her book. The porch swing creaked once. Kit and Daisy walked on." }
+    { "type": "narration", "content": "His mom went back to her book. Kit and Daisy walked on." }
   ]
 }

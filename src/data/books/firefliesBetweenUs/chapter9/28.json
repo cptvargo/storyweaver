@@ -18,7 +18,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I'm not saying let's figure it all out tonight. I'm saying — you don't have to be scared of naming something that already exists. We're not building something new. We're just calling it what it is." },
     { "type": "dialogue", "speaker": "Daisy", "content": "And what is it." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's you and me. It's always been you and me." },
-    { "type": "narration", "content": "She exhaled slowly. He watched her — the way she processed things, taking each piece and turning it over before she answered. He'd been watching her do this for ten years. He could wait." },
+    { "type": "narration", "content": "She exhaled slowly." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What about the distance. Spring semester." },
     { "type": "dialogue", "speaker": "Kit", "content": "We did the distance." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We did the distance with no name." },

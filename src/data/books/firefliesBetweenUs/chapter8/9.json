@@ -4,7 +4,7 @@
   "chapterTitle": "Before August",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "It was February. They'd been at her kitchen table for two hours, AP History spread between them, when she said she needed air. He followed her out to the porch without asking why. He always did." },
+    { "type": "narration", "content": "It was February. They'd been at her kitchen table for two hours, AP History spread between them, when she said she needed air. He followed her out to the porch without asking." },
     { "type": "narration", "content": "She stood at the railing for a minute looking at the yard. Then she turned around." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I heard Molly." },
     { "type": "narration", "content": "He went still. He knew exactly what she meant before she finished the sentence." },
@@ -20,7 +20,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I didn't know if you'd see it. If you'd get it. I told myself I wasn't saying anything." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You were saying something." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. I was." },
-    { "type": "narration", "content": "She leaned back against the railing and looked at him straight on. Not the sideways look, not the careful one. Straight." },
+    { "type": "narration", "content": "She leaned back against the railing and looked at him straight on." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Tell me the rest." },
     { "type": "narration", "content": "He looked at the porch floor for a moment. Then he said it." },
     { "type": "dialogue", "speaker": "Kit", "content": "I saw you and Ryan kiss. In the hall. Beginning of sophomore year, outside the science rooms." },

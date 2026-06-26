@@ -4,28 +4,123 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "looked at the window first. The bracket. The height. The access profile he had clocked the day before.", "condition": "ep1_first_window" },
-    { "type": "consequence", "character": "Julian", "text": "looked at the glass first. Positioned correctly. Not moved. Someone who drank from it went to sleep and didn't wake up.", "condition": "ep1_first_glass" },
-    { "type": "consequence", "character": "Julian", "text": "looked at the door first. The latch was thrown from the inside. Nobody else was here. Except someone was.", "condition": "ep1_first_door" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Come away from there." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The door was locked from the inside." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I know." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The window is open." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The glass on the nightstand —" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Don't." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nobody touched it. It's sitting exactly where someone placed it. Not where someone set it down in a hurry." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We need to wait for the police." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Promise me you will wait for the police." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I promise." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "And then you will tell them exactly what you saw and let them handle it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Say it like you mean it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll wait for the police." },
-    { "type": "choice", "prompt": "Julian promised. Will he keep it?", "options": [
-      { "id": "ep1_promise_keeps", "label": "Yes. He means it." },
-      { "id": "ep1_promise_limited", "label": "He'll wait. But waiting isn't the same as stopping." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "looked at Marcus first. He'd been watching him all weekend. Something had been wrong before any of this.",
+      "condition": "ep1_first_window"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "looked at the glass first. Positioned correctly. Not moved. Someone who drank from it went to sleep and didn't wake up.",
+      "condition": "ep1_first_glass"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "looked at the door first. The latch was thrown from the inside. Nobody else was here. Except someone was.",
+      "condition": "ep1_first_door"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "took it all in at once.",
+      "condition": "ep1_p31_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian. Come away from there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The door was locked from the inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The glass on the nightstand —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Don't."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Nobody touched it. It's sitting exactly where someone placed it. Not where someone set it down in a hurry."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We need to wait for the police."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Promise me you will wait for the police."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I promise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "And then you will tell them exactly what you saw and let them handle it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Say it like you mean it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'll wait for the police."
+    },
+    {
+      "type": "choice",
+      "prompt": "Julian promised. Will he keep it?",
+      "options": [
+        {
+          "id": "ep1_promise_keeps",
+          "label": "Yes. He means it.",
+          "goto": 33,
+          "flagsSet": ["ep1_promise_keeps"]
+        },
+        {
+          "id": "ep1_promise_limited",
+          "label": "He'll wait. But waiting isn't the same as stopping.",
+          "goto": 33,
+          "flagsSet": ["ep1_promise_limited"]
+        },
+        {
+          "id": "ep1_p32_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": ["ep1_p32_silent"],
+          "goto": 33
+        }
+      ]
+    }
   ]
 }

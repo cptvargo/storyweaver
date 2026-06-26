@@ -4,26 +4,138 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Dr. Mills." },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Inspector." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "First read?" },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Young, healthy male. No obvious external trauma. Could be cardiac. Could be a number of things. I won't know more until tox." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Timeline?" },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Twelve to fifteen hours, roughly. Which puts it somewhere in the nine to midnight window." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The group heard an argument at 9:15." },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "That fits." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The water glass." },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Bagged it already. We'll run it." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "What are you thinking?" },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "I'm thinking I don't think anything until I have results. You know better than to ask me that." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Unofficially." },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Unofficially — the room was cold. Window open in forty-seven degree weather, no blanket pulled up. Either he went to sleep like that or someone opened the window after." },
-    { "type": "internalThought", "content": "She'd seen the same thing I had. The water glass. The window. The way the room was arranged just slightly too deliberately." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "How soon on tox?" },
-    { "type": "dialogue", "speaker": "Dr. Audra Mills", "content": "Rush it — seventy-two hours minimum." },
-    { "type": "choice", "prompt": "Dr. Mills is careful. What does Julian read between her lines?", "options": [
-      { "id": "ep1_mills_suspicious", "label": "She suspects this isn't natural. She's just not saying it yet." },
-      { "id": "ep1_mills_open", "label": "She's keeping an open mind. Professionally, that's the right call." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had given Davenport that. He was persuadable. That was enough for now.",
+      "condition": "ep1_davenport_convinced"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had his doubts. Davenport was working from procedure. Julian was working from something else.",
+      "condition": "ep1_davenport_skeptical"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "reserved his read.",
+      "condition": "ep1_p36_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Dr. Mills."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Inspector."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "First read?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Young, healthy male. No obvious external trauma. Could be cardiac. Could be a number of things. I won't know more until tox."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Timeline?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Twelve to fifteen hours, roughly. Which puts it somewhere in the nine to midnight window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "The group heard an argument at 9:15."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "That fits."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "The water glass."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Bagged it already. We'll run it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "What are you thinking?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "I'm thinking I don't think anything until I have results. You know better than to ask me that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Unofficially."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Unofficially â€” the room was cold. Window open in forty-seven degree weather, no blanket pulled up. Either he went to sleep like that or someone opened the window after."
+    },
+    {
+      "type": "internalThought",
+      "content": "She'd seen the same thing I had. The water glass. The window. The way the room was arranged just slightly too deliberately.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "How soon on tox?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Audra Mills",
+      "content": "Rush it â€” seventy-two hours minimum."
+    },
+    {
+      "type": "choice",
+      "prompt": "Dr. Mills is careful. What does Julian read between her lines?",
+      "options": [
+        {
+          "id": "ep1_mills_suspicious",
+          "label": "She suspects this isn't natural. She's just not saying it yet.",
+          "goto": 38,
+          "flagsSet": [
+            "ep1_mills_suspicious"
+          ]
+        },
+        {
+          "id": "ep1_mills_open",
+          "label": "She's keeping an open mind. Professionally, that's the right call.",
+          "goto": 38,
+          "flagsSet": [
+            "ep1_mills_open"
+          ]
+        },
+        {
+          "id": "ep1_p37_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p37_silent"
+          ],
+          "goto": 38
+        }
+      ]
+    }
   ]
 }

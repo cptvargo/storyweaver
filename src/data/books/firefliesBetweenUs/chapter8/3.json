@@ -13,7 +13,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "It's a reach. I know that. I just — I want to try." },
     { "type": "dialogue", "speaker": "Eli", "content": "No, man, that's not — that's not what I'm saying." },
     { "type": "dialogue", "speaker": "Kit", "content": "Then what are you saying." },
-    { "type": "narration", "content": "Eli looked at him for a moment with the expression he used when he was thinking something through before he said it." },
+    { "type": "narration", "content": "Eli looked at him for a moment." },
     { "type": "dialogue", "speaker": "Eli", "content": "Does Daisy know?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
     { "type": "dialogue", "speaker": "Eli", "content": "You know she's doing Minnesota." },
@@ -25,6 +25,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I will." },
     { "type": "dialogue", "speaker": "Eli", "content": "Before you get in. Not after." },
     { "type": "dialogue", "speaker": "Kit", "content": "I said I will." },
-    { "type": "narration", "content": "They rode home. Kit didn't say anything else. He'd been not saying things his whole life. One more didn't feel like much. And then again — lately, it did." }
+    { "type": "narration", "content": "They rode home. Kit didn't say anything else. Lately, it did." }
   ]
 }

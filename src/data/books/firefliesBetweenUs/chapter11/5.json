@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 5,
   "chapter": 11,
   "chapterTitle": "On Purpose",
@@ -16,7 +16,7 @@
     { "type": "narration", "content": "Eli looked at him over the roof of the car." },
     { "type": "dialogue", "speaker": "Eli", "content": "She's going to fall apart." },
     { "type": "dialogue", "speaker": "Kit", "content": "Good. I need it real." },
-    { "type": "narration", "content": "Millhaven in October was all copper and gold, the trees doing their annual slow fire, the air carrying that first edge of cold that Georgia only got for about six weeks before winter gave up. He'd forgotten how beautiful it was. LA had its own beauty but it didn't look like this — didn't smell like this, didn't have this particular quality of light that hit the old houses at four in the afternoon like something out of a painting." },
+    { "type": "narration", "content": "Millhaven in October was all copper and gold, the trees doing their annual slow fire, the air carrying that first edge of cold that Georgia only got for about six weeks before winter gave up." },
     { "type": "dialogue", "speaker": "Kit", "content": "I want to start at the street." },
     { "type": "dialogue", "speaker": "Eli", "content": "Our street." },
     { "type": "dialogue", "speaker": "Kit", "content": "Where it all started." },

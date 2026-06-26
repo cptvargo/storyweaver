@@ -4,19 +4,19 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The porch steps were the first real test. Kit put his foot on the bottom one slow, let it take his weight. It flexed but didn't give. Second step fine. Third had a soft spot dead center, and he stepped to the outer edge where the wood was solid and turned and showed the others where to walk. They came up one at a time — Eli, Savannah, Daisy last — and all four of them stood on the porch looking at the front door." },
-    { "type": "narration", "content": "It was unlocked. More than unlocked — slightly open already, a black gap where the frame had warped and the door no longer sat flush against it." },
+    { "type": "narration", "content": "The porch steps were the first real test. Kit went first, testing each one — third had a soft spot, he stepped to the outer edge. Turned and showed the others where to walk." },
+    { "type": "narration", "content": "The front door was more than unlocked — slightly open already, a black gap where the frame had warped." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Who goes first." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll go first." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Obviously." },
-    { "type": "narration", "content": "But she was right behind him when he pushed the door open. It swung inward on a groan that went through the whole frame, through the walls, through the floor, like the house exhaling something it had been holding for three years. The air inside shifted — stale, close, warm in a different way than outside — and Kit stepped in and stopped and let his eyes adjust." },
-    { "type": "narration", "content": "The entry hall. Staircase at the end. Doorways left and right. The floor was dark wood, and where afternoon light came through the far window it caught the dust on the surface — thick, settled, undisturbed except for a ghost trail of footprints. Older ones. Danny Pruett's crew, probably, months back." },
+    { "type": "narration", "content": "He pushed the door open. It swung inward on a groan that went through the whole frame, and Kit stepped in and stopped and let his eyes adjust." },
+    { "type": "narration", "content": "The entry hall. Staircase at the end. Doorways left and right. The floor was dark wood, thick with settled dust." },
     { "type": "narration", "content": "Kit bounced his weight lightly on the boards beneath him." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Please don't bounce in an abandoned house." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm checking the floor." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I can see that." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's solid." },
     { "type": "dialogue", "speaker": "Daisy", "content": "And if it isn't, we'll know by the sound you make going through it." },
-    { "type": "narration", "content": "He moved left into what had been the living room. The others followed, spreading slightly but staying in sight, and the house opened up around them and just — sat there, doing nothing, waiting to be looked at." }
+    { "type": "narration", "content": "He moved left into the living room. The others followed, spreading slightly but staying in sight." }
   ]
 }

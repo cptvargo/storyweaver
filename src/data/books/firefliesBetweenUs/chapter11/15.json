@@ -16,7 +16,7 @@
     { "type": "dialogue", "speaker": "Eli", "content": "I did not cry." },
     { "type": "dialogue", "speaker": "Kit", "content": "Eli." },
     { "type": "dialogue", "speaker": "Eli", "content": "I had something in both eyes simultaneously. Different thing." },
-    { "type": "narration", "content": "Kit laughed. On his end of the line, he heard Eli go quiet in the way he only did when something real was happening underneath." },
+    { "type": "narration", "content": "Kit laughed. On his end of the line, he heard Eli go quiet." },
     { "type": "dialogue", "speaker": "Eli", "content": "I'm happy for you, man. Both of you. You did this right." },
     { "type": "dialogue", "speaker": "Kit", "content": "Still have to actually get married." },
     { "type": "dialogue", "speaker": "Eli", "content": "You'll do that right too." },

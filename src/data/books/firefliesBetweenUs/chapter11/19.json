@@ -12,7 +12,7 @@
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Has this caused conflict." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yes." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Walk me through one." },
-    { "type": "narration", "content": "They walked her through October of freshman year. The girl at the party. Jordan in the library. The phone call that turned into the fight that turned into the real conversation. Kit pushed and Daisy got cornered and they both said true things badly." },
+    { "type": "narration", "content": "They walked her through October of freshman year." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "And how did you come back from it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "He called back. He said he wasn't done. We kept talking until we actually understood each other." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit, what made you call back." },

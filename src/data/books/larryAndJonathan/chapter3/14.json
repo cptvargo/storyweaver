@@ -4,16 +4,95 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Diego", "content": "Aye. That kid Daniel." },
-    { "type": "dialogue", "speaker": "Larry", "content": "What about him." },
-    { "type": "dialogue", "speaker": "Diego", "content": "He was asking about you. To some guys by the corner store. I wasn't gonna say anything but — he was asking specific things. Like where you walk home. What time." },
-    { "type": "internalThought", "content": "I stopped walking." },
-    { "type": "dialogue", "speaker": "Larry", "content": "When was this?" },
-    { "type": "dialogue", "speaker": "Diego", "content": "Yesterday. I don't know who those guys were. But they weren't from school." },
-    { "type": "internalThought", "content": "Daniel asking about my route home. Getting outside help. This wasn't just hallway stuff anymore." },
-    { "type": "dialogue", "speaker": "Diego", "content": "I'm just saying. Watch yourself this week." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Thanks." },
-    { "type": "dialogue", "speaker": "Diego", "content": "You know where I am if something goes sideways." },
-    { "type": "internalThought", "content": "He was thirteen. He said it like it was nothing. I didn't know whether to feel better or worse about that." }
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "Aye. That kid Daniel."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "What about him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "He was asking about you. To some guys by the corner store. I wasn't gonna say anything but — he was asking specific things. Like where you walk home. What time."
+    },
+    {
+      "type": "internalThought",
+      "content": "I stopped walking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "When was this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "Yesterday. I don't know who those guys were. But they weren't from school."
+    },
+    {
+      "type": "internalThought",
+      "content": "Daniel asking about my route home. Getting outside help. This wasn't just hallway stuff anymore."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "I'm just saying. Watch yourself this week."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. Thanks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "You know where I am if something goes sideways."
+    },
+    {
+      "type": "internalThought",
+      "content": "He was thirteen. He said it like it was nothing. I didn't know whether to feel better or worse about that."
+    },
+    {
+      "type": "choice",
+      "prompt": "Daniel is asking people outside school where you walk. This isn't hallway stuff anymore.",
+      "options": [
+        {
+          "id": "ep3_told_j_warning",
+          "label": "\"I'm telling Jonathan tonight.\"",
+          "goto": 15,
+          "flagsSet": [
+            "ep3_told_j_warning"
+          ]
+        },
+        {
+          "id": "ep3_changed_route_p14",
+          "label": "\"I'm taking a different way home this week.\"",
+          "goto": 15,
+          "flagsSet": [
+            "ep3_changed_route_p14"
+          ]
+        },
+        {
+          "id": "ep3_asked_diego_more",
+          "label": "\"How specific was he getting?\"",
+          "goto": 15,
+          "flagsSet": [
+            "ep3_asked_diego_more"
+          ]
+        },
+        {
+          "id": "ep3_silent_warning",
+          "label": "Take it in. Say nothing yet.",
+          "goto": 15,
+          "flagsSet": [
+            "ep3_silent_warning"
+          ]
+        }
+      ]
+    }
   ]
 }

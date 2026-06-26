@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 21,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The night wound down the way good nights do — slowly, nobody wanting to be the first to leave. Priya fell asleep leaning against Eli's shoulder and that decided it for him. Marcus and DeShawn said their goodbyes. Savannah hugged Daisy long enough to say something without words." },
+    { "type": "narration", "content": "Meilin fell asleep leaning against Eli's shoulder and that decided it for him. Marcus and DeShawn said their goodbyes. Savannah hugged Daisy long enough to say something without words." },
     { "type": "dialogue", "speaker": "Savannah", "content": "I'm so happy for you." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Call me tomorrow." },
@@ -21,6 +21,6 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "He sent the spreadsheet to my mom." },
     { "type": "dialogue", "speaker": "Kit", "content": "He loves us." },
     { "type": "dialogue", "speaker": "Daisy", "content": "He really does." },
-    { "type": "narration", "content": "The street was empty this late. Millhaven had gone quiet the way only small towns could — completely, like the whole place had agreed to rest at the same time. Their footsteps on the sidewalk were the only sound, and neither of them rushed it." }
+    { "type": "narration", "content": "The street was empty this late. Millhaven had gone quiet. Their footsteps on the sidewalk were the only sound, and neither of them rushed it." }
   ]
 }

@@ -5,14 +5,28 @@ const IMAGE_EXT = /\.(png|jpe?g|gif|webp|avif|svg)$/i
 
 function ConsequenceBlock({ block, onConsequence }) {
   useEffect(() => { onConsequence?.(block) }, [])
-  return null
+
+  const text = block.text
+    ? (block.character ? `${block.character} ${block.text}` : block.text)
+    : block.content
+
+  if (!text) return null
+
+  return (
+    <div className="block block--consequence">
+      <span className="consequence__dot" />
+      <span className="consequence__text">{text}</span>
+    </div>
+  )
 }
 
 export default function ContentBlock({ block, pov, povAliases, characters, onChoice, currentChoice, hasTag, onConsequence }) {
   if (block.condition && !hasTag?.(block.condition)) return null
   if (block.conditionNot && hasTag?.(block.conditionNot)) return null
+  if (block.requiresFlag && !hasTag?.(block.requiresFlag)) return null
 
   switch (block.type) {
+    case 'narrative':
     case 'narration':
       return <p className="block block--narration">{block.content}</p>
 
@@ -26,24 +40,29 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
               <div className="dialogue__body">
                 <span className="dialogue__speaker">{block.speaker}</span>
                 <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
+                {block.translation && <p className="dialogue__translation">{block.translation}</p>}
               </div>
             </div>
           ) : (
             <>
               <span className="dialogue__speaker">{block.speaker}</span>
               <p className="dialogue__line">&ldquo;{block.content}&rdquo;</p>
+              {block.translation && <p className="dialogue__translation">{block.translation}</p>}
             </>
           )}
         </div>
       )
     }
 
-    case 'internalThought':
+    case 'internalThought': {
+      const thoughtSpeaker = block.mindOf ?? block.speaker ?? null
       return (
-        <div className="block block--thought">
+        <div className="block block--thought" data-speaker={thoughtSpeaker ?? undefined}>
+          {thoughtSpeaker && <span className="thought__speaker">{thoughtSpeaker}</span>}
           <p>{block.content}</p>
         </div>
       )
+    }
 
     case 'callStart':
       return (
@@ -119,6 +138,9 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
       const isLocked = currentChoice !== null
       return (
         <div className="block block--choice">
+          <div className="choice__header">
+            <span className="choice__eyebrow">{isLocked ? 'Your choice' : 'Make your choice'}</span>
+          </div>
           {block.prompt && <p className="choice__prompt">{block.prompt}</p>}
           <div className="choice__options">
             {block.options.map((opt) => {
@@ -139,6 +161,14 @@ export default function ContentBlock({ block, pov, povAliases, characters, onCho
         </div>
       )
     }
+
+    case 'toastNotification':
+      return (
+        <div className="block block--toast-notification">
+          <span className="toast-notification__icon">◆</span>
+          <span className="toast-notification__text">{block.content}</span>
+        </div>
+      )
 
     case 'consequence':
       return <ConsequenceBlock block={block} onConsequence={onConsequence} />

@@ -1,16 +1,16 @@
-{
+﻿{
   "page": 30,
   "chapter": 9,
   "chapterTitle": "The Distance",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The group got together two nights later. Eli's living room. Priya was there, which told Kit everything about how that had gone — Eli's face when he introduced her was the same face Kit had seen on exactly one other occasion, which was every time Eli talked about something he genuinely loved." },
+    { "type": "narration", "content": "The group got together two nights later. Eli's living room. Meilin was there." },
     { "type": "dialogue", "speaker": "Eli", "content": "Before anyone says anything — yes, we're official, yes she knows about all of you, and yes I told her the DJ story from homecoming." },
     { "type": "dialogue", "speaker": "Savannah", "content": "All of it?" },
     { "type": "dialogue", "speaker": "Eli", "content": "She needed context for who she was dealing with." },
-    { "type": "dialogue", "speaker": "Priya", "content": "He has mentioned the DJ many times." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "He has mentioned the DJ many times." },
     { "type": "dialogue", "speaker": "Eli", "content": "Justified." },
-    { "type": "narration", "content": "Savannah caught Daisy's eye across the room. Daisy was sitting close to Kit — close in the specific way that was new, that had a name now — and Savannah clocked it in under a second and her face did the thing it did when she was trying not to make a big deal about something she'd been waiting for." },
+    { "type": "narration", "content": "Savannah caught Daisy's eye across the room. Daisy was sitting close to Kit. Savannah clocked it in under a second." },
     { "type": "narration", "content": "She waited until they were in the kitchen." },
     { "type": "dialogue", "speaker": "Savannah", "content": "So." },
     { "type": "dialogue", "speaker": "Daisy", "content": "So." },

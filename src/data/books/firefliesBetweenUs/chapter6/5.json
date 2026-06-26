@@ -4,8 +4,8 @@
   "chapterTitle": "Somebody",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "He met Ryan three weeks later at a Friday night football game, which was now a thing they did because high school football was a different animal than anything in middle school — lights, crowds, the whole town showing up the way small towns showed up for things that mattered." },
-    { "type": "narration", "content": "Daisy introduced them in the stands, easy and natural, the way you introduced people who weren't a big deal." },
+    { "type": "narration", "content": "He met Ryan three weeks later at a Friday night football game." },
+    { "type": "narration", "content": "Daisy introduced them in the stands." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit, this is Ryan. Ryan, Kit. We've been friends since we were eight." },
     { "type": "dialogue", "speaker": "Ryan", "content": "The water tower guy." },
     { "type": "narration", "content": "Kit looked at him." },
@@ -13,8 +13,8 @@
     { "type": "dialogue", "speaker": "Ryan", "content": "She mentioned it. Said you climbed it when you were twelve." },
     { "type": "dialogue", "speaker": "Kit", "content": "She exaggerates." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I don't exaggerate. I stated a fact." },
-    { "type": "narration", "content": "Ryan laughed at that — easy, like someone who laughed often and meant it — and Kit shook his hand and sat down and watched the first quarter and decided Ryan Callaway was probably fine. He was tall without being the kind of tall that needed to announce itself. He had the easy manner of someone who had moved enough times to know how to fit into a new place quickly. He asked good questions about the game, which meant he was paying attention." },
+    { "type": "narration", "content": "Ryan laughed and Kit shook his hand. Ryan was tall. He had the easy manner of someone who knew how to fit into a new place quickly." },
     { "type": "narration", "content": "Kit did not like how much he noticed about Ryan Callaway." },
-    { "type": "narration", "content": "Daisy laughed at something Ryan said in the second quarter — the real one, the one that didn't always come out — and Kit looked at the field." }
+    { "type": "narration", "content": "Daisy laughed at something Ryan said in the second quarter, and Kit looked at the field." }
   ]
 }

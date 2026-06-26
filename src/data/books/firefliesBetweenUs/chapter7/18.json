@@ -6,7 +6,7 @@
   "blocks": [
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "hey" },
     { "type": "narration", "content": "She stared at it." },
-    { "type": "narration", "content": "One word. The same word she'd sent him a hundred times, the same word he'd sent her. But this one sat differently on the screen. It sat like something he'd typed and deleted and typed again." },
+    { "type": "narration", "content": "One word. The same word she'd sent him a hundred times. But this one sat differently on the screen." },
     { "type": "narration", "content": "She typed: hey back." },
     { "type": "narration", "content": "Then deleted it." },
     { "type": "narration", "content": "Typed: tonight was fun." },

@@ -4,18 +4,118 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "how was practice", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "good. ran a route I couldn't run last week", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "what changed", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Larry", "recipient": "Crystal", "content": "I stopped waiting to be ready", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "message", "platform": "SMS", "sender": "Crystal", "recipient": "Larry", "content": "I like that.", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Whoever she was texting — that's what she showed up as on the steps. The same person. No performance.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Wednesday after practice. Walking home. I'd been thinking about what Jonathan said — that I stopped hesitating. I didn't know if it was the field or something else that did it." },
-    { "type": "dialogue", "speaker": "Diego", "content": "You running every day now?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Practice." },
-    { "type": "dialogue", "speaker": "Diego", "content": "You look tired but like — the good kind of tired. Like you did something." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I did something." },
-    { "type": "dialogue", "speaker": "Diego", "content": "Cool. You look good out there. I watched from the corner during drills one time." },
-    { "type": "internalThought", "content": "I didn't know he did that. Diego from the block, watching through the fence. There was something about that I couldn't name." }
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Crystal",
+      "recipient": "Larry",
+      "content": "how was practice",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Larry",
+      "recipient": "Crystal",
+      "content": "good. ran a route I couldn't run last week",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Crystal",
+      "recipient": "Larry",
+      "content": "what changed",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Larry",
+      "recipient": "Crystal",
+      "content": "I stopped waiting to be ready",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "message",
+      "platform": "SMS",
+      "sender": "Crystal",
+      "recipient": "Larry",
+      "content": "I like that.",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Whoever she was texting — that's what she showed up as on the steps. The same person. No performance.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Wednesday after practice. Walking home. I'd been thinking about what Jonathan said — that I stopped hesitating. I didn't know if it was the field or something else that did it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "You running every day now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Practice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "You look tired but like — the good kind of tired. Like you did something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I did something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Diego",
+      "content": "Cool. You look good out there. I watched from the corner during drills one time."
+    },
+    {
+      "type": "internalThought",
+      "content": "I didn't know he did that. Diego from the block, watching through the fence. There was something about that I couldn't name."
+    },
+    {
+      "type": "choice",
+      "prompt": "Diego watched you practice through the fence. He said it like it was nothing.",
+      "options": [
+        {
+          "id": "ep3_acknowledged_diego",
+          "label": "\"Thanks for watching.\" It was worth saying.",
+          "goto": 14,
+          "flagsSet": [
+            "ep3_acknowledged_diego"
+          ]
+        },
+        {
+          "id": "ep3_surprised_diego",
+          "label": "\"I didn't know you did that.\"",
+          "goto": 14,
+          "flagsSet": [
+            "ep3_surprised_diego"
+          ]
+        },
+        {
+          "id": "ep3_kept_walking_p13",
+          "label": "Nod. Keep walking. Some things don't need words.",
+          "goto": 14,
+          "flagsSet": [
+            "ep3_kept_walking_p13"
+          ]
+        }
+      ]
+    }
   ]
 }

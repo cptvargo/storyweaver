@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 14,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -17,9 +17,8 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I'm here. In this field. In the same place where all of it started. And I need to say it out loud right here, tonight — not across two thousand miles, not on a porch in February, not over the phone. Here." },
     { "type": "dialogue", "speaker": "Daisy", "content": "All of it started here." },
     { "type": "dialogue", "speaker": "Kit", "content": "You know it did." },
-    { "type": "narration", "content": "She looked at him for a long moment. The kind of look she gave things she needed to be sure were real. He waited. He'd always been able to wait for her." },
+    { "type": "narration", "content": "She looked at him for a long moment." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I've been in love with you for a long time, Kit." },
-    { "type": "narration", "content": "She said it simply. Straight, without decoration, the way she said the things that mattered most." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I didn't say it because saying it felt like standing at the edge of something I couldn't come back from. And I needed to be sure. I needed to know it wasn't just the closeness or the comfort or the way we fit. I needed to know it was actually you." },
     { "type": "dialogue", "speaker": "Kit", "content": "And." },
     { "type": "dialogue", "speaker": "Daisy", "content": "It's you. It has been for a long time. It's just you." }

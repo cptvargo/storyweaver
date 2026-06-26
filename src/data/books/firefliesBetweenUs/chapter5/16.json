@@ -1,13 +1,13 @@
-﻿{
+{
   "page": 16,
   "chapter": 5,
   "chapterTitle": "Offline",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "The week moved the way bad weeks moved — slowly in the moment, and then all at once gone." },
-    { "type": "narration", "content": "Daisy came to school. She sat in homeroom and said hey and answered questions in class and ate lunch with Savannah. She wasn't cold to him — it was somehow worse than cold. She was just slightly less available, like a radio station going just a little off frequency. Still there. Just with static now." },
+    { "type": "narration", "content": "Daisy came to school, said hey in homeroom, ate lunch with Savannah. She wasn't cold to him — just slightly less available." },
     { "type": "narration", "content": "Kit tried twice more to catch her alone at her locker. Both times she had somewhere to be." },
-    { "type": "narration", "content": "Eli watched all of this and said nothing, which was the most alarming thing Eli had ever done." },
+    { "type": "narration", "content": "Eli watched all of this and said nothing." },
     { "type": "narration", "content": "On Thursday Savannah stopped at Kit's locker in a way that was not accidental." },
     { "type": "dialogue", "speaker": "Savannah", "content": "She's not going to bring it up. You know that, right." },
     { "type": "dialogue", "speaker": "Kit", "content": "I know." },

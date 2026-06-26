@@ -4,7 +4,7 @@
   "chapterTitle": "On Purpose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They found Dr. Carol Reeves in December — a licensed marriage counselor in Atlanta with a Skype practice for couples doing long-distance sessions. Her profile said she specialized in intentional commitment. That phrase was what made Daisy send the inquiry." },
+    { "type": "narration", "content": "They found Dr. Carol Reeves in December — a licensed marriage counselor in Atlanta with a Skype practice for couples doing long-distance sessions. Her profile said she specialized in intentional commitment." },
     { "type": "narration", "content": "The first call was just the three of them getting acquainted." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Tell me about yourselves. Not the story — I'll get to that. Just who you are right now. Where you are." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm a junior at the University of Minnesota. English. I go home to Georgia in the summers." },

@@ -15,7 +15,7 @@
     { "type": "narration", "content": "She held out her hand. He took it." },
     { "type": "narration", "content": "They moved to the same kind of open space as before — not center, somewhere between the lights and the edge — but it was different now. Everything the same on the surface and completely different underneath. She put her hand on his shoulder. He put his at her waist. They started to move." },
     { "type": "narration", "content": "He could feel her breathe." },
-    { "type": "narration", "content": "She leaned in — not dramatically, just a small degree of closer — and he met her there, and for a few bars of the song they were just two people who had been in orbit around each other since seventh grade, finally close enough that the orbit didn't feel like a gap anymore. It felt like arriving." },
+    { "type": "narration", "content": "She leaned in — not dramatically, just a small degree of closer — and he met her there." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Don't overthink it." },
@@ -25,7 +25,6 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "The one where you're thinking too loud." },
     { "type": "narration", "content": "He looked down at her. She was already looking up at him." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm not thinking about anything." },
-    { "type": "narration", "content": "She held his gaze. She knew that wasn't true. He knew she knew. And somehow that was fine — because she was still there, still leaning in, still moving with him like they'd been doing this their whole lives." },
-    { "type": "narration", "content": "Because they had been." }
+    { "type": "narration", "content": "She held his gaze. She knew that wasn't true. He knew she knew." }
   ]
 }

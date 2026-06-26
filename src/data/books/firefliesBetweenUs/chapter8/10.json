@@ -30,7 +30,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "The worst." },
     { "type": "narration", "content": "She laughed — not a big laugh, just a small exhale of one — and it broke something loose in the air between them." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What are we doing, Kit." },
-    { "type": "narration", "content": "Not quite a question. More like something she needed to hear out loud." },
     { "type": "dialogue", "speaker": "Kit", "content": "I don't know." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're going to different states. In six months." },
     { "type": "dialogue", "speaker": "Kit", "content": "Six months. Yeah. I've been counting." },
@@ -38,15 +37,15 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I know." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Stop saying I know." },
     { "type": "dialogue", "speaker": "Kit", "content": "What else do I say." },
-    { "type": "narration", "content": "She didn't have an answer for that. Neither did he. They sat with it — the thing between them, finally named, still not solved. He could see her breath in the cold." },
+    { "type": "narration", "content": "She didn't have an answer for that. Neither did he. He could see her breath in the cold." },
     { "type": "narration", "content": "Then he said it." },
     { "type": "dialogue", "speaker": "Kit", "content": "Come to prom with me." },
     { "type": "narration", "content": "She looked at him." },
     { "type": "dialogue", "speaker": "Kit", "content": "Not as the group. As my date. With me." },
-    { "type": "narration", "content": "The porch light buzzed softly. She held his gaze for a long moment — the full look, checking if something was real." },
+    { "type": "narration", "content": "The porch light buzzed softly. She held his gaze for a long moment." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah. Okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
-    { "type": "narration", "content": "He nodded. She looked back at the yard. They didn't move toward each other. They just stood on the porch in the February cold — the thing still unsolved, one more thing added to it, and somehow that was exactly enough." }
+    { "type": "narration", "content": "He nodded. She looked back at the yard. They stood on the porch in the February cold." }
   ]
 }

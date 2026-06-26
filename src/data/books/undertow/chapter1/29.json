@@ -4,30 +4,161 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Marcus." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Maybe he's still sleeping." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "It's past nine. He's never up past seven." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He said he was tired." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Marcus." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "What's going on?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He's not answering." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He's a heavy sleeper." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Not this heavy." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Dean." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Marcus, open the door." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "Is it locked?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "It's locked." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "He probably just locked it before bed. Habit." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He doesn't do that. He never locks his door." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Marcus." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Dean, stop. You're scaring me." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Go downstairs." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm not going downstairs." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Dean. Break it." },
-    { "type": "choice", "prompt": "The door is locked from the inside. What does that mean?", "options": [
-      { "id": "ep1_door_asleep", "label": "He locked it in his sleep. It happens." },
-      { "id": "ep1_door_wrong", "label": "Something is very wrong." },
-      { "id": "ep1_door_files", "label": "It means someone wanted it locked." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "went to bed believing it. The shape in that window was a real detail and he had treated it as one.",
+      "condition": "ep1_means_it"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "went to bed without deciding. He'd resisted as long as he could.",
+      "condition": "ep1_doesnt_mean_it"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "took it with him without naming it.",
+      "condition": "ep1_p28_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Maybe he's still sleeping."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "It's past nine. He's never up past seven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "He said he was tired."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "What's going on?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "He's not answering."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He's a heavy sleeper."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Not this heavy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Dean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Marcus, open the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "Is it locked?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "It's locked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "He probably just locked it before bed. Habit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He doesn't do that. He never locks his door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Dean, stop. You're scaring me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Go downstairs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "I'm not going downstairs."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Dean. Break it."
+    },
+    {
+      "type": "choice",
+      "prompt": "The door is locked from the inside. What does that mean?",
+      "options": [
+        {
+          "id": "ep1_door_asleep",
+          "label": "He locked it in his sleep. It happens.",
+          "goto": 30,
+          "flagsSet": [
+            "ep1_door_asleep"
+          ]
+        },
+        {
+          "id": "ep1_door_wrong",
+          "label": "Something is very wrong.",
+          "goto": 30,
+          "flagsSet": [
+            "ep1_door_wrong"
+          ]
+        },
+        {
+          "id": "ep1_door_files",
+          "label": "It means someone wanted it locked.",
+          "goto": 30,
+          "flagsSet": [
+            "ep1_door_files"
+          ]
+        },
+        {
+          "id": "ep1_p29_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p29_silent"
+          ],
+          "goto": 30
+        }
+      ]
+    }
   ]
 }

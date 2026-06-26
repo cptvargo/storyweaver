@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "November. Cold in the mornings now." },
-    { "type": "narration", "content": "They didn't talk about the dance. But things had shifted sideways into a place without a clear map, and both of them were navigating it without saying so." },
+    { "type": "narration", "content": "They didn't talk about the dance." },
     { "type": "narration", "content": "Lunch. Tuesday." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Are you going to eat that." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yes." },
@@ -13,12 +13,12 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I'm thinking." },
     { "type": "dialogue", "speaker": "Daisy", "content": "About your sandwich." },
     { "type": "dialogue", "speaker": "Kit", "content": "About a lot of things." },
-    { "type": "narration", "content": "Eli looked between them. Looked at Savannah. Looked back at his own tray and said nothing, which was genuinely impressive." },
+    { "type": "narration", "content": "Eli looked between them. Looked at Savannah. Looked back at his own tray and said nothing." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Eat your sandwich." },
     { "type": "narration", "content": "He looked at her. She was already looking at her own tray. He ate his sandwich." },
     { "type": "narration", "content": "Savannah kicked Eli under the table. Eli took a very focused interest in his apple." },
-    { "type": "narration", "content": "Same as always. Except everything was careful now, and they all knew it, and nobody said a word." }
+    { "type": "narration", "content": "Same as always. Except everything was careful now." }
   ]
 }

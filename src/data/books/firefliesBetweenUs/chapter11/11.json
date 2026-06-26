@@ -1,17 +1,16 @@
-{
+﻿{
   "page": 11,
   "chapter": 11,
   "chapterTitle": "On Purpose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Back in LA, he spent three days editing." },
-    { "type": "narration", "content": "Darius left him alone without being asked. He could read a room. Kit sat at his desk with headphones on and the footage spread out in front of him and worked the way he only worked when something mattered — slowly, deliberately, every cut meaning something." },
+    { "type": "narration", "content": "Darius left him alone without being asked. Kit sat at his desk with headphones on and the footage spread out in front of him and worked, deliberately, every cut meaning something." },
     { "type": "narration", "content": "The street. The field in daylight. Rhonda in the booth. Mrs. Jones in the hallway. Savannah in socks on the porch. His mom at the door." },
-    { "type": "narration", "content": "He watched his mom's footage back three times. What she'd said about his dad. He is not his father. She hadn't planned to say it. It had just come out, the way things do when the camera is rolling and the guard is down." },
+    { "type": "narration", "content": "He watched his mom's footage back three times. What she'd said about his dad. He is not his father. She hadn't planned to say it." },
     { "type": "narration", "content": "He left it in." },
-    { "type": "narration", "content": "He thought about his dad while he worked. Not with anger anymore — that had burned off years ago, replaced by something quieter. More like a warning he carried. A reminder of what it looked like when a person stopped choosing. When a man decided the weight of staying was more than the weight of leaving and made the wrong call." },
     { "type": "narration", "content": "Kit had watched his mom become someone who didn't need anyone after that. Watched her build a life that was whole and good on her own terms. He was proud of her. He was also terrified of repeating what had made that necessary." },
-    { "type": "narration", "content": "So he edited. And what he made was a record — not just of places, but of intention. Every frame saying the same thing: I was here. I came back. I am choosing this on purpose." },
+    { "type": "narration", "content": "So he edited." },
     { "type": "narration", "content": "The field at night last. His own face in the dark. His voice saying the true thing." },
     { "type": "narration", "content": "He watched it through once without stopping. Then he closed the laptop and sat in the quiet for a while." },
     { "type": "dialogue", "speaker": "Darius", "content": "You good?" },

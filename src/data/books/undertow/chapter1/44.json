@@ -4,25 +4,128 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "thought about Nadia going upstairs before dinner to freshen up. He let the thought settle without saying it.", "condition": "ep1_glass_someone" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Are they saying it was — are they saying someone did this?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Suspicious death. That's all they've confirmed." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "That's not nothing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "We were all right there. We were in the same house." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "If someone did this — someone we know —" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Try not to think too far ahead yet. Let the investigation run." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Easy for you to say. You didn't know him." },
-    { "type": "internalThought", "content": "That was true. And it was also the thing that let me see clearly." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "He was the best of us. I mean that literally. Not just — he was actually the best person I've known." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He seemed like it." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "From two days." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You can tell in less." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Find out what happened to him. I don't care how. Just find out." },
-    { "type": "choice", "prompt": "Dean just asked Julian directly. Does Julian make a commitment?", "options": [
-      { "id": "ep1_commitment_yes", "label": "\"I will.\" He means it." },
-      { "id": "ep1_commitment_measured", "label": "\"I'll do what I can.\" That's more honest." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "thought about Nadia going upstairs before dinner to freshen up. He let the thought settle without saying it.",
+      "condition": "ep1_glass_someone"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had read the glass as Marcus's. His own water, placed by his own hand.",
+      "condition": "ep1_glass_marcus"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept the glass in mind without drawing a conclusion yet.",
+      "condition": "ep1_p43_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Are they saying it was â€” are they saying someone did this?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Suspicious death. That's all they've confirmed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That's not nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "We were all right there. We were in the same house."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "If someone did this â€” someone we know â€”"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Try not to think too far ahead yet. Let the investigation run."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Easy for you to say. You didn't know him."
+    },
+    {
+      "type": "internalThought",
+      "content": "That was true. And it was also the thing that let me see clearly.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "He was the best of us. I mean that literally. Not just â€” he was actually the best person I've known."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He seemed like it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "From two days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You can tell in less."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Find out what happened to him. I don't care how. Just find out."
+    },
+    {
+      "type": "choice",
+      "prompt": "Dean just asked Julian directly. Does Julian make a commitment?",
+      "options": [
+        {
+          "id": "ep1_commitment_yes",
+          "label": "\"I will.\" He means it.",
+          "goto": 45,
+          "flagsSet": [
+            "ep1_commitment_yes"
+          ]
+        },
+        {
+          "id": "ep1_commitment_measured",
+          "label": "\"I'll do what I can.\" That's more honest.",
+          "goto": 45,
+          "flagsSet": [
+            "ep1_commitment_measured"
+          ]
+        },
+        {
+          "id": "ep1_p44_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p44_silent"
+          ],
+          "goto": 45
+        }
+      ]
+    }
   ]
 }

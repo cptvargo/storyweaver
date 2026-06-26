@@ -6,14 +6,15 @@
   "blocks": [
     { "type": "narration", "content": "October. The homecoming banner went up on the gym doors on a Monday morning, orange and white, slightly crooked on the left side." },
     { "type": "dialogue", "speaker": "Eli", "content": "We're going." },
-    { "type": "narration", "content": "He said it at lunch like it had already been decided, which with Eli usually meant it had." },
+    { "type": "narration", "content": "He said it at lunch like it had already been decided." },
     { "type": "dialogue", "speaker": "Kit", "content": "I wasn't planning on it." },
     { "type": "dialogue", "speaker": "Eli", "content": "Revise your plan. Savannah's coming, Marcus is coming, and I'm currently unattached and refuse to go alone." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You could ask someone." },
     { "type": "dialogue", "speaker": "Eli", "content": "I could. Or the group could go together and I could spend the night being charming to multiple people at once. I prefer the second option. Kit. You're going." },
-    { "type": "narration", "content": "Kit looked at Daisy across the table. She raised an eyebrow — the one that meant: I already said yes, your call." },
+    { "type": "narration", "content": "Kit looked at Daisy across the table. She raised an eyebrow." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Fine." },
     { "type": "dialogue", "speaker": "Eli", "content": "Good. Dress like you made an effort. Not a suit. Just — effort." },
-    { "type": "narration", "content": "Daisy laughed. Kit watched her laugh and thought: sophomore year. He had time. He kept telling himself he had time." }
+    { "type": "narration", "content": "Daisy laughed." },
+    { "type": "internalThought", "speaker": "Kit", "content": "Sophomore year. I have time." }
   ]
 }

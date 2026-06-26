@@ -4,33 +4,166 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "counted. Four minutes and twelve seconds. Then silence.", "condition": "ep1_julian_listens" },
-    { "type": "consequence", "character": "Julian", "text": "read every face in the room. Cade looked down. Dean looked at the ceiling. Nadia didn't move at all.", "condition": "ep1_julian_watches_group" },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "It stopped." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He's fine." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Should someone go up?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Give him a minute." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "He'll come back down if he wants company." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I just want to make sure he's okay." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "He's okay. I'll check on him in a bit." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We're going to head out. Thank you for dinner." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Of course. See you tomorrow." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Good night." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Good night everyone." },
-    { "type": "internalThought", "content": "Two voices. One was Marcus. The other didn't come back downstairs." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We don't know what that was." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It could be nothing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Say something." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "One voice didn't come back down." },
-    { "type": "choice", "prompt": "The second voice. Who does Julian think it was?", "options": [
-      { "id": "ep1_voice_cade", "label": "Cade. He said he needed to tell Marcus something." },
-      { "id": "ep1_voice_nadia", "label": "Nadia. She didn't move once during the argument." },
-      { "id": "ep1_voice_unknown", "label": "He doesn't know. He won't guess." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "counted. Four minutes and twelve seconds. Then silence.",
+      "condition": "ep1_julian_listens"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "read every face in the room. Cade looked down. Dean looked at the ceiling. Nadia didn't move at all.",
+      "condition": "ep1_julian_watches_group"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had sat with it.",
+      "condition": "ep1_p24_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "It stopped."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He's fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Should someone go up?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Give him a minute."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "He'll come back down if he wants company."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "I just want to make sure he's okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He's okay. I'll check on him in a bit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We're going to head out. Thank you for dinner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Of course. See you tomorrow."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Good night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Good night everyone."
+    },
+    {
+      "type": "internalThought",
+      "content": "Two voices. One was Marcus. The other didn't come back downstairs.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We don't know what that was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "It could be nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian. Say something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "One voice didn't come back down."
+    },
+    {
+      "type": "choice",
+      "prompt": "The second voice. Who does Julian think it was?",
+      "options": [
+        {
+          "id": "ep1_voice_cade",
+          "label": "Cade. He said he needed to tell Marcus something.",
+          "goto": 26,
+          "flagsSet": [
+            "ep1_voice_cade"
+          ]
+        },
+        {
+          "id": "ep1_voice_nadia",
+          "label": "Nadia. She didn't move once during the argument.",
+          "goto": 26,
+          "flagsSet": [
+            "ep1_voice_nadia"
+          ]
+        },
+        {
+          "id": "ep1_voice_unknown",
+          "label": "He doesn't know. He won't guess.",
+          "goto": 26,
+          "flagsSet": [
+            "ep1_voice_unknown"
+          ]
+        },
+        {
+          "id": "ep1_p25_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p25_silent"
+          ],
+          "goto": 26
+        }
+      ]
+    }
   ]
 }

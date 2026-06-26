@@ -4,29 +4,151 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "was still there an hour later. She didn't mention it in the morning.", "condition": "ep1_mara_stays" },
-    { "type": "internalThought", "content": "9:43pm. The light in the upstairs window went dark." },
-    { "type": "internalThought", "content": "9:51pm. A shape moved past the window on the far end of the house. Fast. Low." },
-    { "type": "internalThought", "content": "10:30pm. The shape didn't come back through the window." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Someone went out." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "What?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Upstairs. A shape past the window. Fast." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian, it's almost eleven. Somebody probably went to get water." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "From the window." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "They walked past the window." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "They didn't come back through it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Because they went back to bed through the door." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The light's been off since 9:43." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "People sleep with the lights off. Julian. You need to stop." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You're right." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Come inside." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "In a minute." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Now." },
-    { "type": "internalThought", "content": "The window stayed dark. I went inside." },
-    { "type": "choice", "prompt": "That shape at the window. What do you think it was?", "options": [
-      { "id": "ep1_shape_person", "label": "Someone going out. Not coming back in the same way." },
-      { "id": "ep1_shape_shadow", "label": "A shadow. A trick of the light at night." },
-      { "id": "ep1_shape_files", "label": "He doesn't know. But he won't forget it." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Mara",
+      "text": "was still there an hour later. She didn't mention it in the morning.",
+      "condition": "ep1_mara_stays"
+    },
+    {
+      "type": "consequence",
+      "character": "Mara",
+      "text": "had gone inside. She trusted him to come in when he was ready.",
+      "condition": "ep1_mara_goes_in"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had not answered her. The question had already answered itself.",
+      "condition": "ep1_p26_silent"
+    },
+    {
+      "type": "internalThought",
+      "content": "9:43pm. The light in the upstairs window went dark.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "internalThought",
+      "content": "9:51pm. A shape moved past the window on the far end of the house. Fast. Low.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "internalThought",
+      "content": "10:30pm. The shape didn't come back through the window.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Someone went out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "What?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Upstairs. A shape past the window. Fast."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian, it's almost eleven. Somebody probably went to get water."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "From the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "They walked past the window."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "They didn't come back through it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Because they went back to bed through the door."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The light's been off since 9:43."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "People sleep with the lights off. Julian. You need to stop."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You're right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Come inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "In a minute."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Now."
+    },
+    {
+      "type": "internalThought",
+      "content": "The window stayed dark. I went inside.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "choice",
+      "prompt": "That shape at the window. What do you think it was?",
+      "options": [
+        {
+          "id": "ep1_shape_person",
+          "label": "Someone going out. Not coming back in the same way.",
+          "goto": 28,
+          "flagsSet": [
+            "ep1_shape_person"
+          ]
+        },
+        {
+          "id": "ep1_shape_shadow",
+          "label": "A shadow. A trick of the light at night.",
+          "goto": 28,
+          "flagsSet": [
+            "ep1_shape_shadow"
+          ]
+        },
+        {
+          "id": "ep1_shape_files",
+          "label": "He doesn't know. But he won't forget it.",
+          "goto": 28,
+          "flagsSet": [
+            "ep1_shape_files"
+          ]
+        },
+        {
+          "id": "ep1_p27_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p27_silent"
+          ],
+          "goto": 28
+        }
+      ]
+    }
   ]
 }

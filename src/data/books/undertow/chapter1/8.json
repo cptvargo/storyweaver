@@ -4,32 +4,216 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You made it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We made it." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Dean — this is Julian and Mara from next door." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Good to meet you both." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Are you here for the whole weekend?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Through Sunday." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "So are we. The sunrise from the water side tomorrow morning is going to be something." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Dean was supposed to wake us all up for the sunrise last time." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I set an alarm." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He set an alarm and then slept through it with the phone under his pillow." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "That's not what happened." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Sophie was there. Sophie." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm not getting involved." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "She was there." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus has been talking about this fire for two months." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I said it would be good." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "You said it would be transformative." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "And?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It's a very good fire." },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "let himself be a person at the bonfire. He was mostly successful at it.",
+      "condition": "ep1_nothing_yes"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept the Nadia detail in the background all evening. Not the center — just there.",
+      "condition": "ep1_nothing_no"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "didn't mention it again. But when Nadia sat down by the fire he noted where she positioned herself.",
+      "condition": "ep1_nothing_mara"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "said nothing about it. He let the night be a night.",
+      "condition": "ep1_p7_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You made it! I was starting to think you found something in that rental that needed more cataloguing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We made it. You were right about the fire — this is a good one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I told everyone it would be. Cade said I oversold it. Dean — back me up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I said nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Your silence was a vote against. I clocked it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Get close to the fire, it gets cold fast out here. Are you two staying for the whole weekend? Marcus keeps inviting you two into plans like you've been here for days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Sunday afternoon. And we're happy to be included — this is already better than whatever we would have done otherwise."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Marcus has been building up to this bonfire for two months. We've all been hearing about it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I said it would be a good weekend. I stand by that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "You said transformative. I have a text. I can show them the text."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "That word was used in a specific context."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "The context was: this weekend is going to be transformative."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "To be fair, the fire is very good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Thank you, Dean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That's all I'm giving you."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "Marcus laughed at himself like it cost him nothing. There was something genuinely easy about him — the kind of person who treats a small win the same as a big one and seems richer for it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "What's the Appalachian Trail story? I heard it mentioned and I feel like I need the full version."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Oh. Oh, this is a gift. Cade."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "We have new people. They deserve to know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It was one afternoon and everyone has taken an unreasonable amount of mileage from it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He had a map of the wrong trail. He walked the perimeter of a parking lot for eleven hours because his map said the trailhead was the summit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I'm sorry — the parking lot?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It was a large lot. There was elevation variance."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "He apologized to a parking attendant. He thought the attendant was a ranger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He was very official-looking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "He asked the parking attendant for the summit trail."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "He was helpful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "What did the attendant charge for the summit?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Nothing. He validated my parking."
+    },
     {
       "type": "choice",
-      "prompt": "Julian takes in the group. What does he notice first?",
+      "prompt": "The whole group is laughing. This is the first real moment of the weekend. What is Julian doing?",
       "options": [
-        { "id": "ep1_notice_dean_sophie", "label": "How easy Dean and Sophie are together." },
-        { "id": "ep1_notice_marcus_center", "label": "How everything flows through Marcus." },
-        { "id": "ep1_notice_who_watches", "label": "Who's laughing. And who's watching." }
+        {
+          "id": "ep1_julian_laughs",
+          "label": "Laughing. Actually laughing — not the polite kind.",
+          "flagsSet": [
+            "ep1_julian_laughs"
+          ],
+          "goto": 9
+        },
+        {
+          "id": "ep1_julian_watching_cade",
+          "label": "Watching Cade tell the story against himself. That's a specific kind of ease.",
+          "flagsSet": [
+            "ep1_julian_watching_cade"
+          ],
+          "goto": 9
+        },
+        {
+          "id": "ep1_julian_watching_mara",
+          "label": "Watching Mara laugh. He'd forgotten how long it had been since he'd seen that.",
+          "flagsSet": [
+            "ep1_julian_watching_mara"
+          ],
+          "goto": 9
+        },
+        {
+          "id": "ep1_p8_silent",
+          "label": "...",
+          "flagsSet": [
+            "ep1_p8_silent"
+          ],
+          "goto": 9
+        }
       ]
     }
   ]

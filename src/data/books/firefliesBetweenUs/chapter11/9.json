@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 9,
   "chapter": 11,
   "chapterTitle": "On Purpose",
@@ -9,10 +9,10 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Hi, Mom." },
     { "type": "narration", "content": "She grabbed him. Camera and all. He laughed and held her back and let her have the moment before he stepped back and lifted the camera." },
     { "type": "dialogue", "speaker": "Kit", "content": "I need you to say something. For Daisy." },
-    { "type": "narration", "content": "His mom looked at the camera. Then at her son. The same look she'd been giving him his whole life — the one that said she saw more than he thought she did." },
+    { "type": "narration", "content": "His mom looked at the camera. Then at her son." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "You're asking her." },
     { "type": "dialogue", "speaker": "Kit", "content": "I am." },
-    { "type": "narration", "content": "She was quiet for a moment. When she spoke it was carefully — the way she chose words when they mattered." },
+    { "type": "narration", "content": "She was quiet for a moment. When she spoke it was carefully —" },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy. You have been a part of this family since before either of you understood what that meant. My son has loved you his whole life. I have watched him try to be worthy of that — try to be the kind of man who earns what he's asking for." },
     { "type": "narration", "content": "She paused. Something moved across her face — something old and private." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "He is not his father. I want you to know that. He chose differently. He has always chosen differently. And I am proud of him for it every single day." },

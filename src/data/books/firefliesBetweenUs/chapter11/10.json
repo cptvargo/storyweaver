@@ -1,11 +1,11 @@
-{
+﻿{
   "page": 10,
   "chapter": 11,
   "chapterTitle": "On Purpose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "The last thing he filmed was the field at night." },
-    { "type": "narration", "content": "Eli came with him. They stood out there in the dark with the camera on the tripod and the October cold coming down and the field doing what the field always did — being completely itself, indifferent and patient and full of everything they'd put into it over the years." },
+    { "type": "narration", "content": "Eli came with him. They stood out there in the dark with the camera on the tripod and the October cold coming down." },
     { "type": "dialogue", "speaker": "Eli", "content": "You're going to talk to her. On camera." },
     { "type": "dialogue", "speaker": "Kit", "content": "At the end. Yeah." },
     { "type": "dialogue", "speaker": "Eli", "content": "You want me to go." },

@@ -29,11 +29,10 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Daisy Jones." },
     { "type": "narration", "content": "He heard her breath come in." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yes." },
-    { "type": "narration", "content": "Just that. One word. Plain and sure and everything." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yes. Obviously. Did you really think —" },
     { "type": "dialogue", "speaker": "Kit", "content": "I didn't think anything. I just needed to hear you say it." },
-    { "type": "narration", "content": "She laughed through the crying. He sat on the edge of his bed two thousand miles away with his head in his hand and felt something settle in him that had been unsettled his entire life." },
+    { "type": "narration", "content": "She laughed through the crying. He sat on the edge of his bed with his head in his hand." },
     { "type": "dialogue", "speaker": "Daisy", "content": "How long have you been planning this." },
     { "type": "dialogue", "speaker": "Kit", "content": "Since before July." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Before the field." },
@@ -44,6 +43,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I have one. I've had it since September." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "I told you I was planning." },
-    { "type": "narration", "content": "She laughed again — the real one, the one that was only ever his — and he laughed with her, and they stayed on the phone for two hours talking about nothing and everything, and by the time they hung up the whole world had a different shape than it had that morning." }
+    { "type": "narration", "content": "She laughed again, and he laughed with her, and they stayed on the phone for two hours." }
   ]
 }

@@ -19,12 +19,12 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I called you first. Before Savannah. I don't know why I'm telling you that." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm glad you did." },
-    { "type": "narration", "content": "Quiet on the line. Not uncomfortable. The kind of quiet they'd always been able to sit in." },
+    { "type": "narration", "content": "Quiet on the line. Not uncomfortable." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Where are you?" },
     { "type": "dialogue", "speaker": "Kit", "content": "My room." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm on the porch. It's cold." },
     { "type": "dialogue", "speaker": "Kit", "content": "Go inside." },
     { "type": "dialogue", "speaker": "Daisy", "content": "In a minute." },
-    { "type": "narration", "content": "He held the phone and listened to the quiet from her end, and she held hers, and neither of them said the thing that was sitting right there between the silence. They weren't ready yet. But they were closer than they'd ever been." }
+    { "type": "narration", "content": "He held the phone and listened to the quiet from her end, and she held hers." }
   ]
 }

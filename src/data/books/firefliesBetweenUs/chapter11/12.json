@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 12,
   "chapter": 11,
   "chapterTitle": "On Purpose",
@@ -13,7 +13,7 @@
     { "type": "narration", "content": "Three minutes passed. Then:" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "claire just left. sending me the link?" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "check your email" },
-    { "type": "narration", "content": "He sat on the edge of his bed with his phone in his hand. Darius was at the library. The room was quiet. Outside, LA was doing what it always did at nine o'clock — going louder instead of quieter, the city that didn't know how to wind down." },
+    { "type": "narration", "content": "He sat on the edge of his bed with his phone in his hand. Darius was at the library. The room was quiet. Outside, LA was going louder instead of quieter." },
     { "type": "narration", "content": "He counted the runtime in his head. Eleven minutes and forty seconds." },
     { "type": "narration", "content": "He watched the minutes go by on his phone. Ten. Eleven. Twelve." },
     { "type": "narration", "content": "His phone rang." }

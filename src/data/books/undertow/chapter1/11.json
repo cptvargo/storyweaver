@@ -4,31 +4,110 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "glanced over at Julian when he laughed. She looked back at the fire quickly.", "condition": "ep1_julian_laughs" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You good?" },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Of course." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You've been quiet." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I'm listening. I always listen." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "That's different from being present." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I'm present." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Okay." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I'm tired from the drive. That's all." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You drove four hours. That's not nothing." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I'm fine, Marcus." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "I know you're fine. I'm just checking." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You always check." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Somebody has to." },
-    { "type": "internalThought", "content": "She smiled at him like she meant it. She probably did." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Come sit closer to the fire. It's getting cold." },
+    { "type": "consequence", "character": "Julian", "text": "went in. The detail about Dean sat quietly in a way that most details don't.", "condition": "ep1_dean_thing_filed" },
+    { "type": "consequence", "character": "Julian", "text": "didn't follow it. Not yet. But it didn't disappear the way small things usually do.", "condition": "ep1_dean_thing_weight" },
+    { "type": "consequence", "character": "Julian", "text": "went back to his rental. He hoped Marcus would find whatever it was before Sunday.", "condition": "ep1_dean_thing_stay" },
+    { "type": "consequence", "character": "Julian", "text": "sat with Marcus another minute. Then went inside.", "condition": "ep1_p10_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Hey. You good?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Of course. Long drive, that's all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You've been quiet since you got in, though. That's different from tired."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You know how I am. I'm the one who listens. That's always been how I am in a group."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I've known you for twelve years. I know the difference between you listening and you being somewhere else."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "I'm right here, Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "I'm here. I wanted to be here. You organized this whole thing and it's beautiful and the fire was good. I'm just tired."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I believe you. I'm not pushing. I just — I check. You know I check."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You always check."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Somebody has to. Come sit closer to the fire for ten more minutes. Then you can be tired all you want."
+    },
     { "type": "dialogue", "speaker": "Nadia Reyes", "content": "In a minute." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "That's what you said twenty minutes ago." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Then I'll be there in a minute." },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You've been saying that for half an hour." },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Then I'm almost there."
+    },
     { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You're impossible." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You keep coming back anyway." },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You keep coming back anyway."
+    },
     { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Every time." },
-    { "type": "choice", "prompt": "What does Julian make of this exchange?", "options": [
-      { "id": "ep1_marcus_nadia_friendship", "label": "Two old friends. He looks out for her." },
-      { "id": "ep1_marcus_nadia_deflect", "label": "She deflected every question. Perfectly." }
-    ]}
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'm glad you came this weekend. For real."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Me too."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She smiled when she said it. I'd been watching her long enough to know what her baseline looked like. This read softer than that. Easier. Which meant either she was being genuine or she knew exactly how genuine looks.",
+      "condition": "ep1_nadia_stays"
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She smiled when she said it. It looked like she meant it. Both things could be true.",
+      "conditionNot": "ep1_nadia_stays"
+    },
+    {
+      "type": "choice",
+      "prompt": "Marcus cares about her and she knows it. What does Julian read in that?",
+      "options": [
+        { "id": "ep1_nadia_meant_it", "label": "She meant it. Whatever she's carrying, she meant she was glad to be here.", "flagsSet": ["ep1_nadia_meant_it"], "goto": 12 },
+        { "id": "ep1_nadia_calibrated", "label": "She said exactly what he needed to hear. That's a different thing from just saying it.", "flagsSet": ["ep1_nadia_calibrated"], "goto": 12 },
+        { "id": "ep1_nadia_stop", "label": "He stops watching. He'd been doing enough of that tonight.", "flagsSet": ["ep1_nadia_stop"], "goto": 12 },
+        { "id": "ep1_p11_silent", "label": "...", "flagsSet": ["ep1_p11_silent"], "goto": 12 }
+      ]
+    }
   ]
 }

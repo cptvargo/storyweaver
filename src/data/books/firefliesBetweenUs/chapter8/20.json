@@ -17,7 +17,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "This isn't me saying no forever." },
     { "type": "dialogue", "speaker": "Kit", "content": "That's not what I heard." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I just — I need a place for it. A real place. Not a maybe and then a goodbye." },
-    { "type": "narration", "content": "He held her hand. The street was quiet. He understood her, completely — and that was the hardest part about it, the understanding. Because he couldn't argue with any of it. She was right. She was right and it still ached." },
+    { "type": "narration", "content": "He held her hand. The street was quiet. She was right. It still ached." },
     { "type": "dialogue", "speaker": "Kit", "content": "Okay." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. We'll figure out the place." },
@@ -25,6 +25,6 @@
     { "type": "narration", "content": "At her porch she looked at him." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Goodnight, Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "Goodnight." },
-    { "type": "narration", "content": "She went inside. He walked home alone in the quiet. The thing between them was named now, fully, on both sides — and it was still unfinished, and somehow that didn't feel like failure. It felt like a sentence that still had more to say." }
+    { "type": "narration", "content": "She went inside. He walked home alone in the quiet." }
   ]
 }

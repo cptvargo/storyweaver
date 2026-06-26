@@ -24,7 +24,7 @@
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "goodnight" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "goodnight daisy" },
     { "type": "narration", "content": "He set the phone on his nightstand. Took his shoes off. Lay back and looked at the ceiling." },
-    { "type": "narration", "content": "August. Three months. He'd spent four years telling himself he had time." },
+    { "type": "narration", "content": "August. Three months." },
     { "type": "narration", "content": "Now the time had a shape." }
   ]
 }

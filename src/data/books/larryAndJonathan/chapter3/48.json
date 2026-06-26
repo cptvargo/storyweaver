@@ -4,18 +4,98 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Crystal", "content": "I want to ask you something else and I want you to actually answer it." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Okay." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "What are you afraid of? Real answer." },
-    { "type": "internalThought", "content": "Nobody had ever asked me that directly like that. Like they needed the answer, not the comfortable version." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Being the reason something didn't work." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "What kind of something?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Anything I care about. On the field, with the people I care about — I'm afraid that if something goes wrong it'll be because I was the one who was too slow or too scared or didn't trust right." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "That's a heavy thing to carry." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "You know what I think?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "What." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "The fact that you care that much is exactly what makes you not the reason something goes wrong." },
-    { "type": "internalThought", "content": "I sat with that for a moment. The late buses had mostly stopped now. The steps were quieter. It was just the two of us and the amber light and she'd just said the thing I hadn't known I needed to hear." }
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I want to ask you something else and I want you to actually answer it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "What are you afraid of? Real answer."
+    },
+    {
+      "type": "internalThought",
+      "content": "Nobody had ever asked me that directly like that. Like they needed the answer, not the comfortable version."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Being the reason something didn't work."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "What kind of something?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Anything I care about. On the field, with the people I care about — I'm afraid that if something goes wrong it'll be because I was the one who was too slow or too scared or didn't trust right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "That's a heavy thing to carry."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "You know what I think?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "What."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "The fact that you care that much is exactly what makes you not the reason something goes wrong."
+    },
+    {
+      "type": "internalThought",
+      "content": "I sat with that for a moment. The late buses had mostly stopped now. The steps were quieter. It was just the two of us and the amber light and she'd just said the thing I hadn't known I needed to hear."
+    },
+    {
+      "type": "choice",
+      "prompt": "She said the thing you didn't know you needed to hear.",
+      "options": [
+        {
+          "id": "ep3_said_thank_you_p48",
+          "label": "\"Thank you. That's — I needed that.\"",
+          "goto": 49,
+          "flagsSet": [
+            "ep3_said_thank_you_p48"
+          ]
+        },
+        {
+          "id": "ep3_sat_with_it_p48",
+          "label": "Sit with it. Don't try to move past it. Let it land.",
+          "goto": 49,
+          "flagsSet": [
+            "ep3_sat_with_it_p48"
+          ]
+        },
+        {
+          "id": "ep3_said_how_p48",
+          "label": "\"How do you always know the right thing to say?\"",
+          "goto": 49,
+          "flagsSet": [
+            "ep3_said_how_p48"
+          ]
+        }
+      ]
+    }
   ]
 }

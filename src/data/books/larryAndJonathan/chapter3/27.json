@@ -4,21 +4,136 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Jonathan", "content": "okay so I have to say something", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "what", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "that girl has been patient bro. she texted you after a rough day, she asked about you, and THEN she asked about the movies. that's not random. she planned that.", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "you think?", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "no cap. she was waiting for the right moment to ask. and she found it.", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I read the last message. Then I read Crystal's texts again from the beginning. He wasn't wrong.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "you nervous?", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "a little", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "good. means you care. just don't walk in trying to be smooth. just be you.", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "you sound like you've been preparing that speech", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "dead serious I have. I been waiting for you to figure out a reason to go.", "platform": "AIM", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Friday at school. I saw Crystal in the hallway between second and third period.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "She was walking with a girl I didn't recognize. She looked up when I passed. I nodded. She nodded back. That was it.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "There was no text thread. No context to do anything with a look in a hallway. Just — a look. And then we were both somewhere else.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I kept walking. Third period. Ms. Barrett. A writing prompt I mostly stared at.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I thought about asking for her number. The moment on the steps at the end of Episode 2. What I did and what I didn't. That decision had a shape now. I could feel the edges of it.", "conditionNot": "asked_number_ep2" }
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "okay so I have to say something",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "what",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "that girl has been patient bro. she texted you after a rough day, she asked about you, and THEN she asked about the movies. that's not random. she planned that.",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "you think?",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "no cap. she was waiting for the right moment to ask. and she found it.",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I read the last message. Then I read Crystal's texts again from the beginning. He wasn't wrong.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "you nervous?",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "a little",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "good. means you care. just don't walk in trying to be smooth. just be you.",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "you sound like you've been preparing that speech",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "dead serious I have. I been waiting for you to figure out a reason to go.",
+      "platform": "AIM",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Friday at school. I saw Crystal in the hallway between second and third period.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "She was walking with a girl I didn't recognize. She looked up when I passed. I nodded. She nodded back. That was it.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "There was no text thread. No context to do anything with a look in a hallway. Just — a look. And then we were both somewhere else.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I kept walking. Third period. Ms. Barrett. A writing prompt I mostly stared at.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I thought about asking for her number. The moment on the steps at the end of Episode 2. What I did and what I didn't. That decision had a shape now. I could feel the edges of it.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "choice",
+      "condition": "asked_number_ep2",
+      "prompt": "Jonathan says he's been waiting for you to find a reason to go.",
+      "options": [
+        {
+          "id": "ep3_called_j_out_p27",
+          "label": "\"You knew before I did.\"",
+          "goto": 28,
+          "flagsSet": [
+            "ep3_called_j_out_p27"
+          ]
+        },
+        {
+          "id": "ep3_let_j_win_p27",
+          "label": "\"Okay. You were right.\" Let him have it.",
+          "goto": 28,
+          "flagsSet": [
+            "ep3_let_j_win_p27"
+          ]
+        },
+        {
+          "id": "ep3_silent_j_win",
+          "label": "Say nothing. Let the silence say it.",
+          "goto": 28,
+          "flagsSet": [
+            "ep3_silent_j_win"
+          ]
+        }
+      ]
+    }
   ]
 }

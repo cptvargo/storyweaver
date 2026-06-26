@@ -4,28 +4,128 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The door was locked from the inside." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Privacy latch." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You went up there." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was in the doorway." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The window was open." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Twenty foot drop to the ground." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Drainage line on the exterior wall. Iron brackets, spaced unevenly. The lowest one showed stress fractures consistent with recent load." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "How do you know that?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I walked the exterior yesterday afternoon." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Why?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Force of habit." },
-    { "type": "internalThought", "content": "He looked at me the way experienced men look at things they haven't decided yet." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You're saying someone used the drainage line." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm saying the bracket shows recent stress. That's a fact. What it means is your question." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "That's a twenty foot climb in the dark." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You still think someone got up there." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The door was locked from the inside. Someone was in that room after Mr. Calloway went to bed. So either they came through the door and relocked it from the outside somehow — or they came through the window." },
-    { "type": "choice", "prompt": "Davenport is listening. Is he convinced?", "options": [
-      { "id": "ep1_davenport_convinced", "label": "He believes it. He just needs more before he can move on it." },
-      { "id": "ep1_davenport_skeptical", "label": "Not yet. He thinks Julian is reaching." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had read Davenport as sharp. The questions were better than they appeared on the surface.",
+      "condition": "ep1_davenport_sharp"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had read Davenport as procedural. Solid. Not brilliant. But thorough.",
+      "condition": "ep1_davenport_procedural"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "was still forming his read on Davenport. He needed more.",
+      "condition": "ep1_davenport_open"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "held his read until he had more.",
+      "condition": "ep1_p35_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "The door was locked from the inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Privacy latch."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You went up there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I was in the doorway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "What makes you certain someone else was in that room."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The glass. It was placed. Not set down in a hurry, not moved — placed. Someone put that glass there before he drank from it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "That's a reading."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's a fact. The glass had a coaster under it. Renters don't use coasters on a nightstand at midnight. Someone set that up before he went to bed."
+    },
+    {
+      "type": "internalThought",
+      "content": "He looked at me the way experienced men look at things they haven't decided yet.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "The door was locked from the inside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Which means whoever was in that room left through the door and locked it behind them from the hallway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You can't lock a privacy latch from the outside."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Not conventionally."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "So how."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I don't know yet. But that's the question."
+    },
+    {
+      "type": "choice",
+      "prompt": "Davenport is listening. Is he convinced?",
+      "options": [
+        {
+          "id": "ep1_davenport_convinced",
+          "label": "He believes it. He just needs more before he can move on it.",
+          "goto": 37,
+          "flagsSet": ["ep1_davenport_convinced"]
+        },
+        {
+          "id": "ep1_davenport_skeptical",
+          "label": "Not yet. He thinks Julian is reaching.",
+          "goto": 37,
+          "flagsSet": ["ep1_davenport_skeptical"]
+        },
+        {
+          "id": "ep1_p36_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": ["ep1_p36_silent"],
+          "goto": 37
+        }
+      ]
+    }
   ]
 }

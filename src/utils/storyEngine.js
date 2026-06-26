@@ -63,4 +63,17 @@ export async function loadChapterPages(bookId, chapterIndex, totalPages = 12) {
   return pages
 }
 
+export function resolveCharacterPortraits(bookMeta, chapterIndex) {
+  if (!bookMeta) return {}
+  if (bookMeta.characterPortraits) {
+    const result = {}
+    for (const [name, stages] of Object.entries(bookMeta.characterPortraits)) {
+      const stage = stages.find(s => chapterIndex >= s.from && chapterIndex <= s.to)
+      if (stage) result[name] = stage.image
+    }
+    return result
+  }
+  return bookMeta.characters ?? {}
+}
+
 export { ALL_BOOKS }

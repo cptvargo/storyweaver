@@ -4,21 +4,113 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Jonathan", "content": "She's been out there the whole practice." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You just noticed her now?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I was focused. Unlike some people last week." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I was focused last week." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Not on the route you weren't." },
-    { "type": "internalThought", "content": "He looked at her again. She was writing something, looking up at the field every few seconds like she was noting something. She had a thermos and a beanie on and she looked like she'd chosen this spot specifically." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "She's got a notebook." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I see it." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Like an actual notebook. Not a phone. A notebook." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Some people still use those." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "In the bleachers. On a Saturday. Watching practice." },
-    { "type": "internalThought", "content": "Jonathan was still looking. Not obviously — just the way he got when something registered." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You gonna say something to her?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "What? No. I'm just noticing." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You're doing the thing you told me not to do." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I'm not doing anything. Run the next route." }
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "She's been out there the whole practice."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You just noticed her now?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "I was focused. Unlike some people last week."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I was focused last week."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Not on the route you weren't."
+    },
+    {
+      "type": "internalThought",
+      "content": "He looked at her again. She was writing something, looking up at the field every few seconds like she was noting something. She had a thermos and a beanie on and she looked like she'd chosen this spot specifically."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "She's got a notebook."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I see it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Like an actual notebook. Not a phone. A notebook."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Some people still use those."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "In the bleachers. On a Saturday. Watching practice."
+    },
+    {
+      "type": "internalThought",
+      "content": "Jonathan was still looking. Not obviously — just the way he got when something registered."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You gonna say something to her?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "What? No. I'm just noticing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You're doing the thing you told me not to do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "I'm not doing anything. Run the next route."
+    },
+    {
+      "type": "choice",
+      "prompt": "Jonathan says 'I'm just noticing.' You both know what that means.",
+      "options": [
+        {
+          "id": "ep3_called_j_out_p37",
+          "label": "\"You've been running extra routes you don't need.\"",
+          "goto": 38,
+          "flagsSet": [
+            "ep3_called_j_out_p37"
+          ]
+        },
+        {
+          "id": "ep3_played_dumb_p37",
+          "label": "\"Run the next route.\" Play dumb.",
+          "goto": 38,
+          "flagsSet": [
+            "ep3_played_dumb_p37"
+          ]
+        },
+        {
+          "id": "ep3_gave_j_window",
+          "label": "\"After practice. If you want to talk to her.\"",
+          "goto": 38,
+          "flagsSet": [
+            "ep3_gave_j_window"
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -5,19 +5,18 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "They stopped at the corner without deciding to." },
-    { "type": "narration", "content": "This was the spot — Magnolia left, his street right — and they always slowed down here, and today Kit put his foot down on the pavement and just stood there with the bike between his hands and the summer sun pressing on the back of his neck and said:" },
+    { "type": "narration", "content": "Magnolia left, his street right. Kit put his foot down on the pavement and stood there with the bike between his hands." },
     { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
-    { "type": "narration", "content": "He tried to find the thing he wanted to say. It was in there somewhere — something about the field last night and the rock through the window and the way she'd looked at him through the window frame with her hands still on the sill and asked him to promise, and how that had been the most scared he'd felt all morning, not the man in the doorway but that — but the words for it weren't coming in the right order." },
+    { "type": "internalThought", "speaker": "Kit", "content": "Promise me you make it out." },
     { "type": "dialogue", "speaker": "Kit", "content": "Nothing. Never mind." },
     { "type": "narration", "content": "Daisy looked at the road." },
-    { "type": "narration", "content": "A long moment. Long enough that he figured she was going to let it go, which was the right call, the sensible one. The sprinklers on the corner made their arc. A car turned off a block away. The summer sat on everything and didn't move." },
+    { "type": "narration", "content": "A long moment. The sprinklers on the corner made their arc. A car turned off a block away." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Some things are better when you don't forget them." },
     { "type": "narration", "content": "She said it quietly and turned onto Magnolia without looking back." },
     { "type": "narration", "content": "Kit stood at the corner and watched her go." },
-    { "type": "narration", "content": "It wasn't a big thing to say. It was a small thing, the kind you could mean six different ways or no way at all. But she'd been looking at the road when she said it and not at him, and that was the part he kept turning over." },
     { "type": "narration", "content": "He rode home." },
-    { "type": "narration", "content": "Upstairs, in his room, with the ceiling fan going and the summer heat pressing through the screen, he lay on his bed and looked at the ceiling and thought about the child's drawing still on the wall of the Henderson house, and the boots by the back door lined up like someone was coming back, and Daisy's shoulder against his arm in the dark, steady as anything." },
+    { "type": "narration", "content": "Upstairs, with the ceiling fan going and the heat pressing through the screen, he lay on his bed and thought about the child's drawing on the wall of the Henderson house. Daisy's shoulder against his arm in the dark, steady as anything." },
     { "type": "narration", "content": "Some things are better when you don't forget them." },
     { "type": "narration", "content": "He wasn't going to forget any of it." }
   ]

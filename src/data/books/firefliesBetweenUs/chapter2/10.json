@@ -4,18 +4,16 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Kit got the window open one inch at a time, the old wood grinding in the frame, teeth clenched against every sound. The latch was corroded but it turned. The sash went up. The summer air came in — and it had never felt so good, the smell of the yard, the grass, the ordinary world." },
-    { "type": "narration", "content": "He helped Eli through first. Eli swung out, hung from the sill by his hands, and dropped. A soft thud in the tall grass. He rolled up immediately, unhurt, and looked back up. Savannah next — more careful, quieter, she barely made a sound when she landed and had her feet under her in a second." },
-    { "type": "narration", "content": "The footsteps were on the upper landing now. The hallway door was right there." },
-    { "type": "narration", "content": "Kit turned to Daisy." },
+    { "type": "narration", "content": "Kit got the window open one inch at a time, teeth clenched against every sound. The latch was corroded but it turned." },
+    { "type": "narration", "content": "Eli went first — swung out, hung from the sill, dropped. A soft thud in the grass. Savannah next, quieter, feet under her in a second." },
+    { "type": "narration", "content": "The footsteps were on the upper landing now." },
     { "type": "dialogue", "speaker": "Kit", "content": "Go. Now." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You're right behind me." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm right behind you. Go." },
-    { "type": "narration", "content": "She looked at him — one full second, the kind that has a lot in it — and went to the window. He helped her over the sill, her hands last on the frame, and for a moment they were eye to eye through it: her on the outside hanging on, him on the inside letting go." },
+    { "type": "narration", "content": "She went to the window. He helped her over the sill, her hands last on the frame, and for a moment they were eye to eye through it: her on the outside hanging on, him on the inside letting go." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit. Promise me you make it out." },
-    { "type": "narration", "content": "Not a request. Not a question. The kind of thing you say when you need to hear the words come back." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll make it out." },
-    { "type": "narration", "content": "She dropped. He heard her land. He spun back toward the window and reached for the sill—" },
+    { "type": "narration", "content": "She dropped. He heard her land. He spun back toward the window—" },
     { "type": "narration", "content": "The hallway door opened." }
   ]
 }

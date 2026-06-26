@@ -9,14 +9,15 @@
     { "type": "narration", "content": "He pulled back." },
     { "type": "dialogue", "speaker": "Brooke", "content": "Hey." },
     { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
-    { "type": "narration", "content": "She was smiling. It was a good smile. She was a good person — he knew that, had always known that — and that was somehow the part that made it worse, the fact that she'd done nothing wrong, that there was nothing here to be angry at except himself." },
+    { "type": "narration", "content": "She was smiling. She was a good person, and that made it worse." },
     { "type": "dialogue", "speaker": "Brooke", "content": "You okay?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Brooke", "content": "You went somewhere." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm here." },
-    { "type": "narration", "content": "She looked at him for a second with the directness she always had, the thing about her that never hedged, and then she turned back to the view and he looked at the field below and the November sky above it and the specific shape of the houses on Magnolia Street visible from up here if you knew where to look." },
+    { "type": "narration", "content": "She turned back to the view. He looked at the field below and the houses on Magnolia Street, visible from up here if you knew where to look." },
     { "type": "narration", "content": "He knew where to look." },
-    { "type": "narration", "content": "They climbed down without saying much. On the walk back, Brooke slipped her hand into his and he let her, and he thought: this is fine. This is a normal thing. This is what people do." },
+    { "type": "narration", "content": "They climbed down without saying much. On the walk back, Brooke slipped her hand into his and he let her." },
+    { "type": "internalThought", "speaker": "Kit", "content": "This is fine. This is a normal thing. This is what people do." },
     { "type": "narration", "content": "He thought it all the way home." }
   ]
 }

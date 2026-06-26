@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "They stopped at her front walk." },
-    { "type": "narration", "content": "The summer was already here in everything but name — the thick heat, the smell of the neighbor's gardenias, the particular quality of light at five in the afternoon in Millhaven in late May. He'd stood at this spot more times than he could count. It felt different every time." },
+    { "type": "narration", "content": "The summer was already here — the thick heat, the gardenias, the five-o'clock light. He'd stood at this spot more times than he could count." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You okay this summer? You seemed — I don't know. Somewhere else this year." },
     { "type": "narration", "content": "He looked at her." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm here." },
@@ -14,13 +14,13 @@
     { "type": "narration", "content": "A beat. The gardenias. A car going slow down the street." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm good. I promise. Just a long year." },
-    { "type": "narration", "content": "She studied him the way she studied things she wasn't sure about, and he held steady under it because he'd had practice." },
+    { "type": "narration", "content": "She studied him." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Hester's this Saturday? The group." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Definitely." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Ryan might come." },
     { "type": "dialogue", "speaker": "Kit", "content": "That's fine." },
-    { "type": "narration", "content": "She held his gaze for one moment — the particular searching look she had when she was deciding what was true — and then she nodded and took her bike up the walk." },
+    { "type": "narration", "content": "She held his gaze for one moment and then nodded and took her bike up the walk." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Good summer, Kit." },
-    { "type": "narration", "content": "He watched her go inside. Stood in the warm afternoon. Thought about the field and the fireflies and twelve years old and every summer since." }
+    { "type": "narration", "content": "He watched her go inside. Stood in the warm afternoon." }
   ]
 }

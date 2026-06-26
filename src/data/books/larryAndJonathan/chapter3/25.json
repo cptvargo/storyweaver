@@ -4,25 +4,174 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Crystal", "content": "Hey. I heard something happened after school.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Who told you.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "It's a small school Larry lol. Are you okay?", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Someone pulled up at the right time.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Good. I'm glad.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "She didn't ask more. Didn't press. That was the thing about her — she knew where the wall was and she didn't walk into it.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Can I ask you something kind of random", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "yeah", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Have you ever just needed to like, get out of your own head for a few hours? Just go somewhere with no homework, no drama, no school stuff?", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Today actually.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "There's a movie I really want to see. The 7 o'clock on Friday at the Regal. No pressure.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "The phone felt heavier than it should have. I read it twice. Then a third time.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Friday. She was asking about Friday.", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "Thursday night. I got home, ate, sat in my room. The phone didn't do anything.", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "That was the thing about not having her number. Nothing to wait for. Just the quiet.", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "bro you good? you've been quiet since the car drop", "platform": "AIM", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. Just thinking.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "about Daniel?", "platform": "AIM", "conditionNot": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Among other things.", "platform": "AIM", "conditionNot": "asked_number_ep2" },
-    { "type": "internalThought", "content": "He didn't push. He let it sit. Sometimes Jonathan was better at silence than I gave him credit for.", "conditionNot": "asked_number_ep2" }
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Hey. I heard something happened after school.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Who told you.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "It's a small school Larry lol. Are you okay?",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. Someone pulled up at the right time.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Good. I'm glad.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "She didn't ask more. Didn't press. That was the thing about her — she knew where the wall was and she didn't walk into it.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Can I ask you something kind of random",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "yeah",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Have you ever just needed to like, get out of your own head for a few hours? Just go somewhere with no homework, no drama, no school stuff?",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. Today actually.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "There's a movie I really want to see. The 7 o'clock on Friday at the Regal. No pressure.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "The phone felt heavier than it should have. I read it twice. Then a third time.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Friday. She was asking about Friday.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "Thursday night. I got home, ate, sat in my room. The phone didn't do anything.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "That was the thing about not having her number. Nothing to wait for. Just the quiet.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "bro you good? you've been quiet since the car drop",
+      "platform": "AIM",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. Just thinking.",
+      "platform": "AIM",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "about Daniel?",
+      "platform": "AIM",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Among other things.",
+      "platform": "AIM",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "He didn't push. He let it sit. Sometimes Jonathan was better at silence than I gave him credit for.",
+      "conditionNot": "asked_number_ep2"
+    },
+    {
+      "type": "choice",
+      "condition": "asked_number_ep2",
+      "prompt": "Crystal asked you to the movies. 7pm. Friday. Regal. Don't be late.",
+      "options": [
+        {
+          "id": "ep3_answered_fast_p25",
+          "label": "Texted back before you'd finished thinking.",
+          "goto": 26,
+          "flagsSet": [
+            "ep3_answered_fast_p25"
+          ]
+        },
+        {
+          "id": "ep3_put_phone_down",
+          "label": "Put the phone down. Picked it back up. Then answered.",
+          "goto": 26,
+          "flagsSet": [
+            "ep3_put_phone_down"
+          ]
+        },
+        {
+          "id": "ep3_called_j_before",
+          "label": "Called Jonathan first. He said go. You said you know.",
+          "goto": 26,
+          "flagsSet": [
+            "ep3_called_j_before"
+          ]
+        }
+      ]
+    }
   ]
 }

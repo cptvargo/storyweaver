@@ -4,27 +4,150 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "lay awake until past midnight. He never stopped watching the window.", "condition": "ep1_shape_person" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You didn't sleep." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I slept." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You look like you reasoned with yourself for eight hours." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm fine." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Whatever you're thinking — we don't have enough to think it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "These are people on a weekend trip. An argument happens and someone walks past a window at night and you are already building a case that doesn't exist." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm not building anything." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're the most honest person I know except about this." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm watching. That's all." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "What are you watching for?" },
-    { "type": "internalThought", "content": "I didn't have an answer for that yet." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Breakfast. Then the beach. Then we leave tomorrow afternoon and none of this is anything." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Okay." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Say it like you mean it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Okay." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That was worse." },
-    { "type": "choice", "prompt": "Does Julian mean it?", "options": [
-      { "id": "ep1_means_it", "label": "He's trying to. He genuinely is." },
-      { "id": "ep1_doesnt_mean_it", "label": "No. And Mara already knows that." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "lay awake until past midnight. He never stopped watching the window.",
+      "condition": "ep1_shape_person"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "was still building it. He didn't have enough yet. Just a shadow of something that might become a shape.",
+      "condition": "ep1_shape_shadow"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had filed it where he could find it. He was good at that — putting things somewhere without losing them.",
+      "condition": "ep1_shape_files"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had kept it to himself.",
+      "condition": "ep1_p27_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You didn't sleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I slept."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You look like you reasoned with yourself for eight hours."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You were actually laughing last night. I want that version of you back for one more day.",
+      "condition": "ep1_julian_laughs"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm fine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Julian. Whatever you're thinking â€” we don't have enough to think it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "These are people on a weekend trip. An argument happens and someone walks past a window at night and you are already building a case that doesn't exist."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm not building anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're the most honest person I know except about this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm watching. That's all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "What are you watching for?"
+    },
+    {
+      "type": "internalThought",
+      "content": "I didn't have an answer for that yet.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Breakfast. Then the beach. Then we leave tomorrow afternoon and none of this is anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Say it like you mean it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That was worse."
+    },
+    {
+      "type": "choice",
+      "prompt": "Does Julian mean it?",
+      "options": [
+        {
+          "id": "ep1_means_it",
+          "label": "He's trying to. He genuinely is.",
+          "goto": 29,
+          "flagsSet": [
+            "ep1_means_it"
+          ]
+        },
+        {
+          "id": "ep1_doesnt_mean_it",
+          "label": "No. And Mara already knows that.",
+          "goto": 29,
+          "flagsSet": [
+            "ep1_doesnt_mean_it"
+          ]
+        },
+        {
+          "id": "ep1_p28_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p28_silent"
+          ],
+          "goto": 29
+        }
+      ]
+    }
   ]
 }

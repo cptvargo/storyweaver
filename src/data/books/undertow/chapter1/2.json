@@ -4,27 +4,273 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "internalThought", "content": "The coast had a particular kind of quiet. Salt air and something older underneath — the smell of places that have been weathered into themselves over a long time." },
-    { "type": "internalThought", "content": "Mara had handled the booking. I hadn't looked at the listing. I had looked at the satellite image, once, and then closed the tab. Force of habit." },
-    { "type": "internalThought", "content": "Our rental was a grey-and-white structure on a modest lot. Clean lines. Good sight lines from the porch. Forty feet to the left was a larger house — two stories, wraparound porch, six vehicles parked at angles on a gravel pad." },
-    { "type": "internalThought", "content": "I was already counting." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Look at that water. Julian. Look at the actual water." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I see it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're facing the other house." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I can see both." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We've been here forty seconds." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Six vehicles. One arrived separately — recently. Parking angle." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Okay. One free observation. Then the water." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The water is nice." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Don't say it like you're filing a report." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's genuinely nice." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Better. Come help me with the bags." },
+    {
+      "type": "narration",
+      "content": "The salt air hit before the door was all the way open. Different from the city — older, and clean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "This is way nicer than the photos."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Living room's bigger, too. I was expecting narrower."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "The reviews were all five stars and I still kept second-guessing it. The photos had weird angles — I was convinced they were hiding something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Owner stays here part of the year. Floors are too good for a rental."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I was thinking the same thing. And that couch — Julian, look at that couch."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Go sit on it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I can tell just from here. Bad rental couch ruins the whole trip."
+    },
+    {
+      "type": "narration",
+      "content": "Julian dropped both bags and crossed the room. Sat down. Said nothing for a second."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Okay. You were right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "From the doorway."
+    },
+    {
+      "type": "narration",
+      "content": "She sat down next to him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I could do the whole weekend from this couch and call it a success."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "There's a grill on the deck. I saw it coming in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Of course you did."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's a Weber. Newer one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I genuinely cannot tell if you're excited about the grill or just excited."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Both."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Good. I'm glad that drive is over — I don't want to see a highway again until Sunday."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Cleared up past Richmond. Better than I expected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You were asleep at Richmond."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I woke up. I saw a sign."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "And then immediately asked me about the Harmon audit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The timing window doesn't add up. I kept running it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "It'll keep till Monday. I needed this — cases back to back since February and I didn't realize how tired I was until I got in the car this morning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I didn't realize either. I should have."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Neither of us did. That's the problem with cases — you just keep going."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Come look at the back before you do anything else."
+    },
+    {
+      "type": "narration",
+      "content": "The deck ran the full width of the house. Open sand, then the Atlantic — dark blue past the sandbar, afternoon light going warm and flat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Low tide. We've got a good stretch."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We should walk it before the light goes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Five minutes with the kitchen first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're on vacation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I know. I spotted a fish market on the way in — two miles south. If it's worth going to, we do it in the morning. I just want to know what I'm working with."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You had a meal plan before we crossed the state line."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's not a plan yet. It's an idea."
+    },
+    {
+      "type": "narration",
+      "content": "Real stove, solid counter space. A cast iron someone had left behind that hadn't been cleaned right."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "That was fixable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You're already planning the whole thing, aren't you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I need to see what the market has first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "So yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Possibly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Come outside before you rearrange the spice rack."
+    },
+    {
+      "type": "narration",
+      "content": "Next door, six people had a speaker on the deck and a fire pit going in the yard. Someone laughing. Chairs in a loose circle."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Should we go say hi?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Maybe at the fire tonight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You really can't help yourself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No."
+    },
     {
       "type": "choice",
-      "prompt": "Julian looks toward the house next door. What does he do?",
+      "prompt": "They're here. Three days. What does Julian actually want from this?",
       "options": [
-        { "id": "ep1_grab_bags", "label": "He grabs his bags without another word." },
-        { "id": "ep1_comment_group", "label": "\"One of them arrived separately. Within the last hour.\"" }
+        {
+          "id": "ep1_grab_bags",
+          "label": "To actually rest. He can't remember the last time he tried.",
+          "flagsSet": ["ep1_grab_bags"],
+          "goto": 3
+        },
+        {
+          "id": "ep1_comment_arrival",
+          "label": "To cook something good. That's what relaxing looks like for him.",
+          "flagsSet": ["ep1_comment_arrival"],
+          "goto": 3
+        },
+        {
+          "id": "ep1_comment_group",
+          "label": "To make Mara glad she pushed for this.",
+          "flagsSet": ["ep1_comment_group"],
+          "goto": 3
+        },
+        {
+          "id": "ep1_page2_silent",
+          "label": "...",
+          "flagsSet": ["ep1_page2_silent"],
+          "goto": 3
+        }
       ]
     }
   ]

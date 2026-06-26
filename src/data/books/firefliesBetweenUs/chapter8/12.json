@@ -31,6 +31,6 @@
     { "type": "dialogue", "speaker": "Eli", "content": "I'm making it exactly as weird as it deserves to be. You have been not-saying this thing since we were in middle school." },
     { "type": "dialogue", "speaker": "Kit", "content": "We still don't have a plan for August." },
     { "type": "dialogue", "speaker": "Eli", "content": "You have until August. Figure it out then." },
-    { "type": "narration", "content": "Kit unlocked his bike. He didn't say anything else. But Eli was right, and he knew it, and for the first time in a long time the August problem felt like something that could be figured out rather than something to avoid looking at." }
+    { "type": "narration", "content": "Kit unlocked his bike. He didn't say anything else." }
   ]
 }

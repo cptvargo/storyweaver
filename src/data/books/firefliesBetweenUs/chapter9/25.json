@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 25,
   "chapter": 9,
   "chapterTitle": "The Distance",
@@ -13,7 +13,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "And when you cross the state line." },
     { "type": "dialogue", "speaker": "Daisy", "content": "That specific." },
     { "type": "dialogue", "speaker": "Kit", "content": "Humor me." },
-    { "type": "narration", "content": "She texted him from the road at two-thirty. From the Tennessee border at six-twelve. He was sitting in his living room pretending to watch television and Darius and the editing bay and the whole LA semester felt like it belonged to a different chapter of something." },
+    { "type": "narration", "content": "She texted him from the road at two-thirty. From the Tennessee border at six-twelve. He was sitting in his living room pretending to watch television." },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "georgia" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "welcome home" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "thirty minutes" },

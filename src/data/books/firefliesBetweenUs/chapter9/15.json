@@ -6,7 +6,7 @@
   "blocks": [
     { "type": "narration", "content": "She didn't answer right away. He waited." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What is exactly us, Kit." },
-    { "type": "narration", "content": "The question landed like something thrown from a height. Not mean — desperate. Like it had been sitting behind her teeth for months." },
+    { "type": "narration", "content": "The question landed." },
     { "type": "dialogue", "speaker": "Kit", "content": "Daisy —" },
     { "type": "dialogue", "speaker": "Daisy", "content": "No. Answer me. What are we right now. Because from where I'm standing we're not together. We've never said we're together. You haven't asked me to be your girlfriend. I haven't said yes to anything that had a name. So when a girl puts her hand on your arm at a party what exactly am I upset about. What right do I even have." },
     { "type": "dialogue", "speaker": "Kit", "content": "You have every right —" },

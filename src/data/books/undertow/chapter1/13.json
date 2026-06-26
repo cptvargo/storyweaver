@@ -4,29 +4,76 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Good night, everyone." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Come back tomorrow. We'll be on the beach most of the day." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We might take you up on that." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "No might about it. The water's perfect in the morning." },
+    { "type": "consequence", "character": "Julian", "text": "found three things about the sky he would have missed otherwise. He counted that as a win.", "condition": "ep1_julian_here" },
+    { "type": "consequence", "character": "Julian", "text": "looked at the water. He was still processing, but quietly. That was as much as he could promise.", "condition": "ep1_julian_filed" },
+    { "type": "consequence", "character": "Mara", "text": "caught him looking once. She looked back at the water without saying anything.", "condition": "ep1_julian_mara_water" },
+    { "type": "consequence", "character": "Julian", "text": "sat with the water for a while. The fire eventually got actually low and people started heading in.", "condition": "ep1_p12_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Good night, you two. Come find us on the beach tomorrow — we'll be out there most of the day. No plans. Just show up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Thank you for having us. Seriously — this was a really good night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "We'll do it again tomorrow. Come back hungry."
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "Good night." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Night." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That was actually really nice." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You enjoyed yourself." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Parts of it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "The parts where you weren't running behavioral profiles." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Those parts too." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "The Appalachian Trail story was funny." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It was." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You laughed." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I did." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "See." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "See what?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Nothing. Good night, Julian." },
-    { "type": "internalThought", "content": "She said it differently than she usually did. I didn't say anything about it." },
-    { "type": "choice", "prompt": "What does Julian do?", "options": [
-      { "id": "ep1_goodnight_nothing", "label": "\"Good night.\" He goes inside." },
-      { "id": "ep1_goodnight_pause", "label": "He pauses at the door. One beat. Then goes inside." }
-    ]}
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Night." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That was actually really good. I wasn't sure — new people, first night, you always hope it isn't going to be awkward. But that wasn't awkward at all."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Parts that weren't you running behavioral profiles on people trying to enjoy a bonfire. What you think those parts?"
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Those too." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Good. And the Appalachian Trail story."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "That was genuinely funny." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "You laughed. I'm keeping evidence." },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "Evidence of what?" },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That you're capable of it. In case you try to tell me later that nothing happened on this vacation and it was just three days."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She said that like she believed more than three days were possible. I didn't argue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Good night, Julian."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She said it differently. Like the night had meant something and she was naming the end of it. I didn't know what to do with that."
+    },
+    {
+      "type": "choice",
+      "prompt": "She said it differently. What does he do with that?",
+      "options": [
+        { "id": "ep1_goodnight_nothing", "label": "\"Good night.\" He goes inside.", "flagsSet": ["ep1_goodnight_nothing"], "goto": 14 },
+        { "id": "ep1_goodnight_pause", "label": "He pauses at the door. One beat. Then goes inside.", "flagsSet": ["ep1_goodnight_pause"], "goto": 14 },
+        { "id": "ep1_goodnight_looks", "label": "He looks back. She's still standing there, facing the water.", "flagsSet": ["ep1_goodnight_looks"], "goto": 14 },
+        { "id": "ep1_p13_silent", "label": "...", "flagsSet": ["ep1_p13_silent"], "goto": 14 }
+      ]
+    }
   ]
 }

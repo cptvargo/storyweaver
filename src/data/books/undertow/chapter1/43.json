@@ -4,26 +4,133 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Wren", "text": "watched Julian walk away. She had made a decision. She just hadn't finished making it.", "condition": "ep1_trust_wren" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I've spoken with all five. They're staying for now." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Any of them give you the argument?" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Everyone heard it. Nobody claims to know who." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Cade said it wasn't him. The others didn't volunteer anything." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Nadia Reyes says she was downstairs the entire evening. Wren Cole confirms it." },
-    { "type": "internalThought", "content": "Confirmed by the only other person in the group who notices things. Either Wren was telling the truth or she had a reason to say it." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Dean Ashby and Sophie Laurent were together. They confirm each other." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Which leaves Cade." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Cade says he was outside alone for thirty minutes. Around ten. No one confirms it." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He had a conversation with Marcus earlier. He called it old stuff." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "I'll get to that." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The water glass." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "What about it?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It was placed. Not set down. The exact center of the nightstand. Someone put it there deliberately." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Some people are neat." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "The rest of the room wasn't neat. Clothes on the chair. Shoes left at the door. Belt still in the loops on the pants he'd worn. But the glass was centered exactly." },
-    { "type": "choice", "prompt": "The water glass. Who placed it there?", "options": [
-      { "id": "ep1_glass_marcus", "label": "Marcus put it there himself. It means nothing." },
-      { "id": "ep1_glass_someone", "label": "Someone placed it before he got there. Before he even went upstairs." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Wren",
+      "text": "watched Julian walk away. She had made a decision. She just hadn't finished making it.",
+      "condition": "ep1_trust_wren"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had pushed. Wren had resisted, which told him something.",
+      "condition": "ep1_push_wren"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had not pushed yet. He let her keep it for now.",
+      "condition": "ep1_p42_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "I've spoken with all five. They're staying for now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Any of them give you the argument?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Everyone heard it. Nobody claims to know who."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Cade said it wasn't him. The others didn't volunteer anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Nadia Reyes says she was downstairs the entire evening. Wren Cole confirms it."
+    },
+    {
+      "type": "internalThought",
+      "content": "Confirmed by the only other person in the group who notices things. Either Wren was telling the truth or she had a reason to say it.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Dean Ashby and Sophie Laurent were together. They confirm each other."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Which leaves Cade."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Cade says he was outside alone for thirty minutes. Around ten. No one confirms it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He had a conversation with Marcus earlier. He called it old stuff."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "I'll get to that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The water glass."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "What about it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It was placed. Not set down. The exact center of the nightstand. Someone put it there deliberately."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Some people are neat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "The rest of the room wasn't neat. Clothes on the chair. Shoes left at the door. Belt still in the loops on the pants he'd worn. But the glass was centered exactly."
+    },
+    {
+      "type": "choice",
+      "prompt": "The water glass. Who placed it there?",
+      "options": [
+        {
+          "id": "ep1_glass_marcus",
+          "label": "Marcus put it there himself. It means nothing.",
+          "goto": 44,
+          "flagsSet": [
+            "ep1_glass_marcus"
+          ]
+        },
+        {
+          "id": "ep1_glass_someone",
+          "label": "Someone placed it before he got there. Before he even went upstairs.",
+          "goto": 44,
+          "flagsSet": [
+            "ep1_glass_someone"
+          ]
+        },
+        {
+          "id": "ep1_p43_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p43_silent"
+          ],
+          "goto": 44
+        }
+      ]
+    }
   ]
 }

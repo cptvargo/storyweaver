@@ -4,35 +4,62 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "was already watching the house next door when she reached for her bag. She didn't say anything about it.", "condition": "ep1_comment_group" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "This is actually really nice." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Come look at the view from the back." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "In a minute." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You're at the window." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Good light in here." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian. Who are you looking at?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Nobody." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Your face does a specific thing when you say nobody and mean somebody." },
-    { "type": "internalThought", "content": "The one with the loudest laugh hadn't unloaded a single bag. He'd already introduced himself to two sets of neighbors. We were next." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "One of them is going to come over." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "How do you know that?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He's introduced himself to both properties on his left. We're next." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "And when he does, we say hello. Just hello." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Just hello." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "And you won't do the thing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "What thing?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "The thing where you shake someone's hand and in three seconds you know how they take their coffee and what they're worried about." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's just paying attention." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It's unsettling." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You find it unsettling?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I find it impressive. They'll find it unsettling." },
+    { "type": "consequence", "character": "Mara", "text": "caught it. The yes had come fast. She didn't say anything about it — just turned back to Marcus like the answer had always been yes.", "condition": "ep1_yes_her" },
+    { "type": "consequence", "character": "Julian", "text": "was already looking back at the fire when Marcus finished talking. The group. The whole setup. He just wanted to be in it.", "condition": "ep1_yes_beach" },
+    { "type": "consequence", "character": "Julian", "text": "didn't examine it. He just said yes and meant it.", "condition": "ep1_yes_break" },
+    { "type": "consequence", "character": "Mara", "text": "understood the yes. She nodded at Marcus like it had already been decided.", "condition": "ep1_p3_silent" },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "The beach was better than I expected. I didn't tell her that. She would have made it a moment and it didn't need to be a moment — it was just good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "This is actually incredible. Look at how far out the water goes. I can't see the end of it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's the Atlantic. The end is Portugal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I know what ocean it is, Julian."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know you know." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I'm saying it looks different when you're standing in front of it. Don't give me geography."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She was right about that too. It did look different. I spent a few seconds just watching it and didn't think about anything else."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "There you are."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm right here." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You were somewhere else for a second. Just now. That was good — that was you actually being here."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm always here." },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Not like that." },
     {
       "type": "choice",
-      "prompt": "He reads people for a living. Does he read her?",
+      "prompt": "She saw something in him that she was glad to see. What does he do with that?",
       "options": [
-        { "id": "ep1_mara_amused", "label": "He doesn't look. Some things he leaves alone on purpose." },
-        { "id": "ep1_mara_fond", "label": "He looks. There's something in it he hasn't named yet." }
+        { "id": "ep1_mara_look", "label": "He looks at her instead of the water. Just for a second.", "flagsSet": ["ep1_mara_look"], "goto": 5 },
+        { "id": "ep1_mara_water", "label": "He stays with the water. It's easier and it's actually good.", "flagsSet": ["ep1_mara_water"], "goto": 5 },
+        { "id": "ep1_mara_wry", "label": "\"You're keeping score.\" He almost smiles when he says it.", "flagsSet": ["ep1_mara_wry"], "goto": 5 },
+        { "id": "ep1_p4_silent", "label": "...", "flagsSet": ["ep1_p4_silent"], "goto": 5 }
       ]
     }
   ]

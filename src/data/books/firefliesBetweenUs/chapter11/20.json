@@ -12,7 +12,7 @@
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Good. Hold that." },
     { "type": "narration", "content": "She turned to Kit." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "Kit." },
-    { "type": "narration", "content": "He was quiet for a moment. The kind of quiet that had weight." },
+    { "type": "narration", "content": "He was quiet for a moment." },
     { "type": "dialogue", "speaker": "Kit", "content": "My parents aren't together. My dad left when I was eleven." },
     { "type": "dialogue", "speaker": "Dr. Reeves", "content": "What does left mean. In your experience of it." },
     { "type": "dialogue", "speaker": "Kit", "content": "He cheated on my mom. And then he left. One morning he was just — not there anymore. There was no conversation. No real explanation. Just a choice he made that ended everything." },

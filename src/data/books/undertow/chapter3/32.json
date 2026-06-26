@@ -4,15 +4,13 @@
   "chapterTitle": "No Alibi",
   "bookId": "undertow",
   "blocks": [
-    { "type": "narration", "content": "At five in the afternoon, someone from the forensics team arrived at the house. A single technician, unannounced, carrying a kit. She went around the side without going through the front door." },
-    { "type": "narration", "content": "Inside the house, nobody saw her arrive. Nobody knew what she was doing. To the five people in the living room she was invisible." },
-    { "type": "narration", "content": "Julian watched from his study window. He saw her examine the bracket. Photograph it. Take a sample from the scrape on the paint. Work methodically across the exterior wall below the window." },
-    { "type": "narration", "content": "She was there for twenty-two minutes. Then she left the same way she came." },
-    { "type": "narration", "content": "He turned back to his legal pad." },
-    { "type": "narration", "content": "The booking of the house. That was the thread. Someone had chosen this property, this layout, this window. Not by accident. Because they'd seen it — online, on a listing, studied the floor plan or the exterior photographs — and understood what it offered." },
-    { "type": "internalThought", "content": "You learn to work with the geometry of a situation before the situation even exists." },
+    { "type": "narration", "content": "He sat with his legal pad and worked backward." },
+    { "type": "narration", "content": "The tool — whatever it was — wasn't something you improvise. It had to fit under the door, reach the thumb turn at the right angle, and apply enough torque to throw the latch. You had to know the door in advance. The clearance, the mechanism, the gap." },
+    { "type": "narration", "content": "Which meant they'd seen it before they arrived." },
+    { "type": "internalThought", "content": "You learn to work with the geometry of a situation before the situation even exists.", "mindOf": "Julian" },
     { "type": "narration", "content": "That phrase. He'd been thinking it since last night and he didn't know where it had come from. Not something anyone had said to him. Something he'd arrived at from the inside out." },
-    { "type": "internalThought", "content": "Whoever did this is patient. Disciplined. Has been carrying this for a long time. Long enough to stop being angry about it and start being precise." },
+    { "type": "narration", "content": "The booking of the house. That was the thread. Someone had chosen this property, this layout. Not by accident. Because they'd seen it — online, on a listing, studied the floor plan or the exterior photographs — and understood what it offered." },
+    { "type": "internalThought", "content": "Whoever did this is patient. Disciplined. Has been carrying this for a long time. Long enough to stop being angry about it and start being precise.", "mindOf": "Julian" },
     { "type": "narration", "content": "Precision was harder to work against than anger. Anger makes mistakes. Precision has contingencies." },
     { "type": "narration", "content": "He needed to find the contingency they hadn't planned for." }
   ]

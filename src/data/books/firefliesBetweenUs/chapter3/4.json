@@ -19,7 +19,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Don't look at me. I've learned not to get between Daisy and food." },
     { "type": "dialogue", "speaker": "Daisy", "content": "That's the smartest thing you've ever said." },
     { "type": "dialogue", "speaker": "Eli", "content": "Nine more days of this and then you're back to eating in the school cafeteria." },
-    { "type": "narration", "content": "Something shifted in the booth. Not a big thing. Just a half-second where the easy noise of the diner pressed in a little more than usual." },
+    { "type": "narration", "content": "Something shifted in the booth. Not a big thing." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Nine days." },
     { "type": "dialogue", "speaker": "Eli", "content": "Don't say it like that." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Like what?" },

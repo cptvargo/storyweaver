@@ -4,8 +4,8 @@
   "chapterTitle": "Away Message",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "It happened again in the girls' bathroom between fourth and fifth period, which was where most things happened in seventh grade." },
-    { "type": "narration", "content": "A girl named Ashley from 7C was fixing her hair in the mirror and did that thing where she caught Daisy's eye in the reflection instead of turning around." },
+    { "type": "narration", "content": "It happened again in the girls' bathroom between fourth and fifth period." },
+    { "type": "narration", "content": "A girl named Ashley from 7C was fixing her hair in the mirror and caught Daisy's eye in the reflection instead of turning around." },
     { "type": "dialogue", "speaker": "Ashley", "content": "Are you the one who's with Kit Jenkins?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm his friend." },
     { "type": "dialogue", "speaker": "Ashley", "content": "Because Brooke Hadley was asking about him." },
@@ -13,9 +13,8 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Then she should ask him." },
     { "type": "dialogue", "speaker": "Ashley", "content": "I just meant — are you two like, a thing? Because if you're not—" },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're not a thing." },
-    { "type": "narration", "content": "She said it flat and final. Ashley shrugged and left. Daisy stood at the sink with the water still running and looked at herself in the mirror, and the thing she felt wasn't anger exactly, and it wasn't embarrassment exactly, and she didn't have a better word for it, so she turned off the faucet and went to fifth period." },
-    { "type": "narration", "content": "We're not a thing." },
-    { "type": "narration", "content": "True. Correct. The right answer." },
-    { "type": "narration", "content": "She sat in fifth period and copied notes from the board and didn't understand why saying the right answer felt like something she'd just given away." }
+    { "type": "narration", "content": "She said it flat and final. Ashley shrugged and left. Daisy stood at the sink with the water still running." },
+    { "type": "internalThought", "speaker": "Daisy", "content": "We're not a thing." },
+    { "type": "narration", "content": "She turned off the faucet and went to fifth period." }
   ]
 }

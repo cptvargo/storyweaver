@@ -4,15 +4,17 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Ruth Jenkins died on a morning in April." },
-    { "type": "narration", "content": "Not in a hospital. At home, in her own bed, with the window cracked the way she liked it even in the cold, a book on the nightstand that she'd been halfway through for six weeks. Kit and Daisy had been there for the last four days. They'd slept in his childhood room, woken early, made coffee, taken shifts so someone was always nearby without hovering." },
-    { "type": "narration", "content": "She went quietly. That was the grace of it. Quietly, in the morning, in her own house, with her son in the next room." },
-    { "type": "narration", "content": "He was the one who found her. Daisy came out of the kitchen and saw his face and she didn't need words." },
-    { "type": "narration", "content": "She went to him." },
-    { "type": "narration", "content": "The next hours had the strange mechanical quality of loss â€” the calls to be made, the people to notify, the things that had to happen regardless of what you were feeling because that was how the world worked when it took something from you. Kit moved through it all with the terrible, functional calm of someone running on something older than emotion." },
-    { "type": "narration", "content": "Daisy stayed close. She didn't try to fix anything. She just didn't leave." },
-    { "type": "narration", "content": "Eli drove up from Savannah that afternoon. Priya with him. They came in without knocking and Eli put both arms around Kit in the middle of the living room and held on without saying anything, and the two of them stood there in Ruth Jenkins' house with all of it between them â€” thirty years of friendship, every shared summer, every version of Kit that Eli had known â€” and that was the thing that finally broke the calm." },
-    { "type": "narration", "content": "He cried. At last. Fully." },
-    { "type": "narration", "content": "Priya and Daisy sat on the couch and let the two of them have it. Some things are for friends. Some griefs need a witness who knew you before everything." }
+    { "type": "narration", "content": "The film was called Millhaven." },
+    { "type": "narration", "content": "He shot it over two trips — one in January, when the town was grey and stripped, and one in June, when everything was green and loud." },
+    { "type": "narration", "content": "He filmed the water tower. The park. The street where he'd grown up. His mother's kitchen, her hands around a coffee cup." },
+    { "type": "narration", "content": "He filmed the field." },
+    { "type": "narration", "content": "He didn't film his father. His father was not in the film." },
+    { "type": "narration", "content": "Daisy wrote the narration in the evenings. He would send her the day's footage and she would watch it and then write." },
+    { "type": "narration", "content": "One passage she sent him, attached to footage of his mother's kitchen:" },
+    { "type": "narration", "content": "Some people leave. Some people stay and hold the shape of the ones who didn't. They don't call it anything — they just keep the lights on, keep the pantry stocked, keep the door unlocked in case something comes back that never does. They call that love. They call it Tuesday. They call it not thinking about it too hard." },
+    { "type": "narration", "content": "He read it three times before he could respond." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "That's the one. That's the whole film in eight sentences." },
+    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "Don't make me cry before nine am." },
+    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "Too late." }
   ]
 }

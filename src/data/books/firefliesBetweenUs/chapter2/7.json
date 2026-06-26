@@ -4,17 +4,16 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The stairs went up in one straight run — twelve steps, banister loose but present. Kit went first, testing each step on the outer edge where the wood was most solid, pointing to soft spots without turning around. Third step. Eighth. Eleventh. The others followed his path like a map." },
-    { "type": "narration", "content": "At the top: a hallway, four doors, two on each side. Light came through a window at the far end where a pane had gone missing, and through it drifted the sound of the yard below — the grass, a bird in the overgrown oak, the ordinary world going about its business while the four of them stood in the upstairs hallway of an abandoned house and figured out what to do next." },
-    { "type": "narration", "content": "Eli and Savannah drifted left toward the first door. Kit and Daisy went right." },
-    { "type": "narration", "content": "Not by any plan. Just how it happened." },
-    { "type": "narration", "content": "The room at the end of the hall had been a child's room. You could still see the intention of it in the bones — the small bed frame with the mattress gone, the empty shelving unit on the wall, the window with a hand-painted sill in a yellow that had faded to something almost white. And on the wall, still pinned directly to the faded wallpaper: a crayon drawing on yellow construction paper. A house with smoke from the chimney. Two people outside it. A sun in the corner with a face." },
-    { "type": "narration", "content": "Daisy stopped in the doorway." },
-    { "type": "narration", "content": "Kit stood beside her." },
-    { "type": "narration", "content": "It was the kind of drawing every kid makes — the house, the smiling sun — but something about it still pinned there while everything else was gone made it different. Whoever had packed up this house had taken the mattress and the toys and the books and left this one thing on the wall. Couldn't take it. Just couldn't." },
+    { "type": "narration", "content": "Twelve steps, banister loose but present. Kit went first, testing each step on the outer edge, pointing to soft spots without turning around. Third step. Eighth. Eleventh." },
+    { "type": "narration", "content": "At the top: a hallway, four doors. Light came through a window at the far end where a pane had gone missing." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Left?" },
+    { "type": "dialogue", "speaker": "Savannah", "content": "Left." },
+    { "type": "narration", "content": "Eli and Savannah took the first door. Kit and Daisy went to the end of the hall." },
+    { "type": "narration", "content": "It had been a child's room. Small bed frame, mattress gone, empty shelves. On the wall, still pinned: a crayon drawing on yellow construction paper. A house with smoke from the chimney. Two people outside it. A sun with a face." },
+    { "type": "narration", "content": "Daisy stopped in the doorway. Kit stood beside her." },
     { "type": "dialogue", "speaker": "Eli", "content": "Hey — there's a whole bathroom in here still set up. Like, soap and everything. Bar soap in a dish." },
     { "type": "dialogue", "speaker": "Daisy", "content": "That might be the saddest thing in this house." },
     { "type": "dialogue", "speaker": "Kit", "content": "Might be." },
-    { "type": "narration", "content": "She looked at him when he said it, like she'd heard something in it. He looked at the drawing." }
+    { "type": "narration", "content": "She looked at him. He looked at the drawing." }
   ]
 }

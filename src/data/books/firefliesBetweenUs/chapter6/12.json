@@ -5,13 +5,12 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "By January, Ryan Callaway was a fact at the lunch table on Tuesdays and Thursdays." },
-    { "type": "narration", "content": "He fit in the way he seemed to fit everywhere — without forcing it, without announcing himself. He asked questions and actually listened. He made Eli laugh twice in the first week, which was not nothing. Kit was polite." },
-    { "type": "narration", "content": "Polite the way you are when the only other option is something you can't afford." },
+    { "type": "narration", "content": "He fit in without forcing it. He made Eli laugh twice in the first week. Kit was polite." },
     { "type": "dialogue", "speaker": "Ryan", "content": "Daisy said you grew up on the same block." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Ryan", "content": "She said you know every back road in the county." },
     { "type": "dialogue", "speaker": "Kit", "content": "Something like that." },
-    { "type": "narration", "content": "Ryan tried again. Not pushily — the way someone does when they actually want to connect." },
+    { "type": "narration", "content": "Ryan tried again." },
     { "type": "dialogue", "speaker": "Ryan", "content": "My family moved around a lot. I never had a place I knew that well. A place that was just — mine, I guess." },
     { "type": "dialogue", "speaker": "Kit", "content": "Mm." },
     { "type": "narration", "content": "Ryan looked at him. A pause." },
@@ -19,8 +18,8 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah, well." },
     { "type": "narration", "content": "He picked up his tray." },
     { "type": "dialogue", "speaker": "Kit", "content": "It's just where I grew up." },
-    { "type": "narration", "content": "He didn't leave. He just closed. Ryan absorbed it without making a thing of it — nodded once, turned toward Eli, let the conversation shift. He was good at that. He was good at a lot of things." },
-    { "type": "narration", "content": "Daisy didn't say anything. But Kit felt her looking at him for the rest of lunch, reading him the way she always did. Ryan caught it too — the glance she gave Kit, and then the one she gave him, measuring something." },
+    { "type": "narration", "content": "Ryan nodded once, turned toward Eli, let the conversation shift." },
+    { "type": "narration", "content": "Daisy didn't say anything. But Kit felt her looking at him for the rest of lunch." },
     { "type": "narration", "content": "Eli saw the whole exchange. He didn't say a word at the table." }
   ]
 }

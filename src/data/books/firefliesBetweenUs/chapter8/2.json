@@ -19,7 +19,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Minneapolis, yes." },
     { "type": "dialogue", "speaker": "Eli", "content": "That's a long drive from here." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
-    { "type": "narration", "content": "Kit looked at his tray. Minneapolis. He'd known she was looking at it since junior year and it still landed differently as a sentence she said out loud at a lunch table in September." },
+    { "type": "narration", "content": "Kit looked at his tray. Minneapolis." },
     { "type": "dialogue", "speaker": "Eli", "content": "Savannah?" },
     { "type": "dialogue", "speaker": "Savannah", "content": "I'm applying to four places. I'll tell you when I have something to tell." },
     { "type": "dialogue", "speaker": "Eli", "content": "Reasonable. I respect the process." },

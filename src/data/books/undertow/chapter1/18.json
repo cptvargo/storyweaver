@@ -4,25 +4,144 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "filed it. Visible presence during the day. Quiet at the edges of the night. The pattern was becoming a shape.", "condition": "ep1_nadia_cover" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Hey. You got a second?" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Always." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I need to tell you something." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Okay." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Not here. Later." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Cade. What's going on?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Later. I just — I need you to know it's handled. Mostly." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "What's mostly handled?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Later, Marcus." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You can't say something like that and then say later." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I just did. Tonight. Okay? Tonight." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "The tide's coming in." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Thanks, Wren." },
-    { "type": "internalThought", "content": "Wren had been sitting eight feet away the entire time. She hadn't looked at either of them." },
-    { "type": "choice", "prompt": "What does Julian clock about what just happened?", "options": [
-      { "id": "ep1_cade_debt_feel", "label": "Cade owes someone something. And Marcus already knows part of it." },
-      { "id": "ep1_cade_argument_feel", "label": "Whatever Cade has to say — Marcus won't like it." },
-      { "id": "ep1_wren_noticed", "label": "Wren heard everything. She changed the subject on purpose." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "filed it. Visible presence during the day. Quiet at the edges of the night. The pattern was becoming a shape.",
+      "condition": "ep1_nadia_cover"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "gave her that. She did seem lighter out here. Maybe the beach helped.",
+      "condition": "ep1_nadia_lightened"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "let it go. She was laughing with the group. He let that be enough for now.",
+      "condition": "ep1_nadia_natural"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept his read to himself and watched Cade move toward Marcus.",
+      "condition": "ep1_p17_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Hey. You got a second?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Always."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I need to tell you something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Not here. Later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Cade. What's going on?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Later. I just â€” I need you to know it's handled. Mostly."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "What's mostly handled?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Later, Marcus."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You can't say something like that and then say later."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I just did. Tonight. Okay? Tonight."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "The tide's coming in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. Thanks, Wren."
+    },
+    {
+      "type": "internalThought",
+      "content": "Wren had been sitting eight feet away the entire time. She hadn't looked at either of them. I'd been watching her. She'd been watching something else entirely.",
+      "mindOf": "Julian",
+      "condition": "ep1_wren_stays"
+    },
+    {
+      "type": "internalThought",
+      "content": "Wren had been sitting eight feet away the entire time. She hadn't looked at either of them.",
+      "mindOf": "Julian",
+      "conditionNot": "ep1_wren_stays"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Julian clock about what just happened?",
+      "options": [
+        {
+          "id": "ep1_cade_debt_feel",
+          "label": "Cade owes someone something. And Marcus already knows part of it.",
+          "goto": 19,
+          "flagsSet": [
+            "ep1_cade_debt_feel"
+          ]
+        },
+        {
+          "id": "ep1_cade_argument_feel",
+          "label": "Whatever Cade has to say â€” Marcus won't like it.",
+          "goto": 19,
+          "flagsSet": [
+            "ep1_cade_argument_feel"
+          ]
+        },
+        {
+          "id": "ep1_wren_noticed",
+          "label": "Wren heard everything. She changed the subject on purpose.",
+          "goto": 19,
+          "flagsSet": [
+            "ep1_wren_noticed"
+          ]
+        },
+        {
+          "id": "ep1_p18_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p18_silent"
+          ],
+          "goto": 19
+        }
+      ]
+    }
   ]
 }

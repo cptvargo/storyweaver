@@ -5,27 +5,331 @@
   "bookId": "undertow",
   "blocks": [
     { "type": "consequence", "character": "Mara", "text": "was already watching the house next door when she reached for her bag. She didn't say anything about it.", "condition": "ep1_comment_group" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Okay. The view from the back is actually incredible. Come look." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll be there in a minute." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You said that and then you stood in the doorway for five minutes." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I was looking at the layout." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Of our vacation rental." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's a good layout." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Coming." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Do you want to walk the beach before it gets dark? We have time." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Yes." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That was fast." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It was a yes or no question." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You usually find a third option." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Not this time." },
+    { "type": "consequence", "character": "Julian", "text": "grabbed both bags without cataloguing anything. He was going to try.", "condition": "ep1_grab_bags" },
+    { "type": "consequence", "character": "Julian", "text": "went to the kitchen first. The layout was good. He could work with it.", "condition": "ep1_comment_arrival" },
+    { "type": "consequence", "character": "Julian", "text": "picked up both bags and came inside without saying anything. The water was good though. He'd give it that.", "condition": "ep1_page2_silent" },
+    {
+      "type": "narration",
+      "content": "The sand was still warm from the afternoon sun — fine, pale, the kind that gets into everything. Julian had taken his shoes off at the bottom of the deck stairs because Mara had already done it and left hers on the third step."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "When's the last time you had sand between your toes?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I don't remember."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That's the whole problem right there."
+    },
+    {
+      "type": "narration",
+      "content": "A jetski cut a white line across the water a quarter mile out, gone in ten seconds. Further south, two sailboats moved slowly along the horizon, their sails small and very white against the darkening blue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Those boats have been out since at least noon. Look at the angle they're running."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Are you navigating them?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'm just looking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Good. Keep doing that."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "There was something about being next to water. The sound of it — continuous, push and pull — made it hard to hold onto whatever I'd been carrying out of the car. I wasn't sure I wanted to examine that too closely."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Feel that?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yeah."
+    },
+    {
+      "type": "narration",
+      "content": "They walked south along the waterline. The wet sand was harder underfoot and the ocean came up past their ankles every few waves. Mara walked straight into the first one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Oh — okay. It went straight up to my thighs. I was not ready for that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You walked directly at it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I was looking at the boats."
+    },
+    {
+      "type": "narration",
+      "content": "Julian stepped in sideways, tracking the next wave. It caught him mid-shin and kept coming."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Okay. That's more pull than I expected."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Ha."
+    },
+    {
+      "type": "narration",
+      "content": "They were passing the neighboring house when the screen door swung open and a tall man with an easy stride came down toward the water, one hand raised like he already knew them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Hey! You're the neighbors, right? I'm Marcus. We've been watching to see who showed up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Julian."
+    },
+    {
+      "type": "narration",
+      "content": "They shook hands — firm, easy. Marcus had that thing where he looked at you like you were already someone he liked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Mara. It's so good to meet you."
+    },
+    {
+      "type": "narration",
+      "content": "She hugged him like they'd already been friends for ten minutes. Marcus laughed, surprised, and hugged her back."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Okay! We like these neighbors. Come on, let me get the rest of them."
+    },
+    {
+      "type": "narration",
+      "content": "He turned and called back toward the house: \"Yo — the neighbors are out here, come meet them.\" A screen door banged. Then another."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Cade. You survive the drive?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Mostly. You?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Four hours. GPS took me through a town that I'm pretty sure doesn't exist anymore."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That's awful. We had three and a half."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I hate you both."
+    },
+    {
+      "type": "narration",
+      "content": "Dean came down the steps with the kind of posture that didn't change based on who was around. He shook Julian's hand once, solid."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Dean. What do you do?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Consulting. Corporate side — fraud analysis, mostly. You?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Architect. Commercial projects, mostly downtown Charlotte."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Sophie — hey, come here."
+    },
+    {
+      "type": "narration",
+      "content": "She was already halfway down the steps, phone in one hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Hi! Oh — I love that top. Where is that from?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Thank you! It's from this little boutique in Georgetown — and can I just say, that whole look you've got going is absolutely the right energy for this weekend."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Stop it. Interior design — you train yourself to think about these things and then you can't turn it off."
+    },
+    {
+      "type": "narration",
+      "content": "Mara hugged her. Sophie, mid-sentence, hugged back just as warmly. Dean watched this happen with the expression of a man who was not even slightly surprised."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "She's mine, by the way. Just so you have the full picture."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "And I claim him. For the record."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That's a good match."
+    },
+    {
+      "type": "narration",
+      "content": "Nadia came down last — unhurried, pleasant smile. She shook Mara's hand and then leaned in for a brief hug, the kind that said she was comfortable with people without needing to be loud about it. Julian shook her hand, she held it a half second, looked at him once with calm dark eyes, and let go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Nadia. Good timing on the weekend — weather held better than I thought it would."
+    },
+    {
+      "type": "narration",
+      "content": "At the edge of the group, a woman with short dark hair stood slightly back from the rest. She'd been there since they walked up. Someone said her name — Wren — and she gave a small nod, like that covered it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Okay wait — are you two together?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Oh — no. We work together. Just two colleagues who needed a break."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "No offense, but that's not what it looks like."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I was going to say the same thing and I decided to be polite."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "She dragged me out here. That's the whole story."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I did. He needed it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "That sounds like a couple."
+    },
+    {
+      "type": "narration",
+      "content": "Everyone laughed. Mara shook her head, smiling at the sand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Listen — come over tonight. Fire's going by eight, we'll have food, it'll be a whole thing. You'd be doing us a favor. Dean already ran out of people to debate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That is not accurate."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "It's a little accurate."
+    },
+    {
+      "type": "narration",
+      "content": "Mara glanced over at Julian. She didn't even finish the look."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yeah. We'll be there."
+    },
+    {
+      "type": "narration",
+      "content": "Marcus grinned like that was exactly what he'd been hoping for."
+    },
     {
       "type": "choice",
-      "prompt": "He said yes immediately. Does he know why?",
+      "prompt": "He said yes without thinking about it. What just happened?",
       "options": [
-        { "id": "ep1_yes_her", "label": "Yes. It wasn't about the beach." },
-        { "id": "ep1_yes_beach", "label": "The beach. He genuinely wanted to see it." },
-        { "id": "ep1_yes_unknown", "label": "He doesn't examine it. Some things are better left alone." }
+        {
+          "id": "ep1_yes_her",
+          "label": "He knows why. Mara was right there and he knew she'd want to go.",
+          "flagsSet": ["ep1_yes_her"],
+          "goto": 4
+        },
+        {
+          "id": "ep1_yes_beach",
+          "label": "The fire. The group. He just wanted to be in it.",
+          "flagsSet": ["ep1_yes_beach"],
+          "goto": 4
+        },
+        {
+          "id": "ep1_yes_break",
+          "label": "He didn't think about it. That was the whole point.",
+          "flagsSet": ["ep1_yes_break"],
+          "goto": 4
+        },
+        {
+          "id": "ep1_p3_silent",
+          "label": "...",
+          "flagsSet": ["ep1_p3_silent"],
+          "goto": 4
+        }
       ]
     }
   ]

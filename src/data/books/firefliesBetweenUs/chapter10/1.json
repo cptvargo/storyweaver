@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 1,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Friday dinner at the Jones house. The table was set the way it always was — extra plate for Kit, sweet tea already poured, Mrs. Jones moving between the kitchen and the dining room with the particular efficiency of a woman who had been feeding this boy since he was twelve." },
+    { "type": "narration", "content": "Friday dinner at the Jones house. The table was set the way it always was — extra plate for Kit, sweet tea already poured, Mrs. Jones moving between the kitchen and the dining room." },
     { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Kit Jenkins. You look thin." },
     { "type": "dialogue", "speaker": "Kit", "content": "Mrs. Jones, I'm the same as I was at Christmas." },
     { "type": "dialogue", "speaker": "Mrs. Jones", "content": "California doesn't feed people right. Sit down." },
@@ -19,7 +19,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "That's what I told him." },
     { "type": "dialogue", "speaker": "Kit", "content": "She said it had emotional architecture." },
     { "type": "dialogue", "speaker": "Mrs. Jones", "content": "Well. That sounds like a compliment to me." },
-    { "type": "narration", "content": "After dinner, Daisy walked him to the porch. The night was warm — Georgia warm, the kind that sat on your shoulders. Fireflies had already started at the edges of the yard." },
+    { "type": "narration", "content": "After dinner, Daisy walked him to the porch. The night was warm — Georgia warm. Fireflies had already started at the edges of the yard." },
     { "type": "dialogue", "speaker": "Daisy", "content": "She's going to feed you every week this summer." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm not complaining." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know you're not." },

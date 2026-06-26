@@ -4,29 +4,151 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "had already noted the room assignment. He would remember it.", "condition": "ep1_window_files" },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "I'm going to go shower. Get the salt out." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I'll come up in a bit." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Take your time. I'll be a while." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Classic Sophie shower. Forty-five minutes minimum." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "It takes time to undo what the ocean does to your hair." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Documented fact." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Thank you, Cade." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I might take a walk. Clear my head before dinner." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Don't go too far. We're eating at seven." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I know." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Marcus, I need to talk to you. Now's a good time." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. Okay." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "I'll be on the porch." },
-    { "type": "internalThought", "content": "Five people. Five different directions. The afternoon had opened like a hand releasing something." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "What do you want to do?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Go back. Get changed." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "That's it?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's it." },
-    { "type": "choice", "prompt": "Everyone just separated. What does Julian track?", "options": [
-      { "id": "ep1_track_nadia_walk", "label": "Which direction Nadia went." },
-      { "id": "ep1_track_cade_marcus", "label": "Where Cade and Marcus went to talk." },
-      { "id": "ep1_track_nothing", "label": "Nothing. He goes back with Mara." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had already noted the room assignment. He would remember it.",
+      "condition": "ep1_window_files"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "let the window go. It was an old house and nothing was his business yet.",
+      "condition": "ep1_window_drops"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "came back without deciding anything about it.",
+      "condition": "ep1_p20_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "I'm going to go shower. Get the salt out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I'll come up in a bit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Take your time. I'll be a while."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Classic Sophie shower. Forty-five minutes minimum."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "It takes time to undo what the ocean does to your hair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Documented fact."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Thank you, Cade."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "I might take a walk. Clear my head before dinner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Don't go too far. We're eating at seven."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "Marcus, I need to talk to you. Now's a good time."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Yeah. Okay."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "I'll be on the porch."
+    },
+    {
+      "type": "internalThought",
+      "content": "Five people. Five different directions. The afternoon had opened like a hand releasing something.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "What do you want to do?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Go back. Get changed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "That's it?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "That's it."
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyone just separated. What does Julian track?",
+      "options": [
+        {
+          "id": "ep1_track_nadia_walk",
+          "label": "Which direction Nadia went.",
+          "goto": 22,
+          "flagsSet": [
+            "ep1_track_nadia_walk"
+          ]
+        },
+        {
+          "id": "ep1_track_cade_marcus",
+          "label": "Where Cade and Marcus went to talk.",
+          "goto": 22,
+          "flagsSet": [
+            "ep1_track_cade_marcus"
+          ]
+        },
+        {
+          "id": "ep1_track_nothing",
+          "label": "Nothing. He goes back with Mara.",
+          "goto": 22,
+          "flagsSet": [
+            "ep1_track_nothing"
+          ]
+        },
+        {
+          "id": "ep1_p21_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p21_silent"
+          ],
+          "goto": 22
+        }
+      ]
+    }
   ]
 }

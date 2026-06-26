@@ -4,22 +4,22 @@
   "chapterTitle": "Something to Lose",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The east side was quiet at this hour — past breakfast but before the heat settled in for real, that narrow window where Millhaven felt almost cool. They rode four across on the wide blocks, fell into pairs on the narrow ones. Eli talked the whole way. This was his natural state. Kit had stopped processing most of it around second grade and now just let it run in the background like a radio left on." },
+    { "type": "narration", "content": "The east side was quiet at this hour — past breakfast but before the heat settled in. They rode four across on the wide blocks, fell into pairs on the narrow ones." },
     { "type": "dialogue", "speaker": "Eli", "content": "—the saddle has to still be there because the Crenshaws said it was there last spring and nobody's been in since—" },
     { "type": "dialogue", "speaker": "Savannah", "content": "People have been in since." },
     { "type": "dialogue", "speaker": "Eli", "content": "Nobody who would take a saddle. A saddle is a very specific thing to take. You have to want a saddle. You don't just stumble out of an abandoned barn with one under your arm." },
     { "type": "dialogue", "speaker": "Savannah", "content": "You don't know what people take." },
     { "type": "dialogue", "speaker": "Eli", "content": "I know what people don't take. They don't take saddles." },
-    { "type": "narration", "content": "Daisy was riding beside Kit. Not close enough to touch — just close enough that he was aware of exactly where she was. He was always aware of where she was, the way you're always aware of the one sound in a room that's different from the others. He'd noticed this about himself before and then stopped thinking about it, the way you stop touching something that's warm when you're not sure if it's warm enough to be a problem." },
+    { "type": "narration", "content": "Daisy was riding beside Kit." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You okay?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. Why?" },
     { "type": "dialogue", "speaker": "Daisy", "content": "You're quiet." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm always quiet." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You are genuinely never quiet." },
-    { "type": "narration", "content": "He looked at her sideways. The morning light caught the edge of her hair. He looked at the road." },
+    { "type": "narration", "content": "He looked at her. The morning light caught the edge of her hair." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm thinking." },
     { "type": "dialogue", "speaker": "Daisy", "content": "About the property?" },
     { "type": "dialogue", "speaker": "Kit", "content": "About the property." },
-    { "type": "narration", "content": "She nodded like that was the right answer. Maybe it was. They rode the last two blocks without saying anything, and behind them Eli was explaining, with genuine passion, the logistics of removing a saddle from an abandoned barn." }
+    { "type": "narration", "content": "She nodded and they rode the last two blocks without saying anything, and behind them Eli was still explaining the logistics of removing a saddle from an abandoned barn." }
   ]
 }

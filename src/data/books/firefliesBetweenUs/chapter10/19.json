@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 19,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -23,6 +23,6 @@
     { "type": "dialogue", "speaker": "Eli", "content": "Long enough that this is not a surprise to anyone sitting at this fire." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We missed a memo apparently." },
     { "type": "dialogue", "speaker": "DeShawn", "content": "You were the memo. You were the whole memo." },
-    { "type": "narration", "content": "Daisy leaned into Kit's shoulder and he put his arm around her without thinking — out loud, in front of everyone, without it being a thing — and the whole group just let it be exactly what it was." }
+    { "type": "narration", "content": "Daisy leaned into Kit's shoulder and he put his arm around her without thinking — out loud, in front of everyone,." }
   ]
 }

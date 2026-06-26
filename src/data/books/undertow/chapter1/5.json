@@ -4,31 +4,101 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You actually look relaxed." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'm sitting down." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You sit down at your desk. This is different." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Is it?" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Your shoulders are lower." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's just gravity." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I'll take it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Why did you actually say yes to this trip? You say no to everything." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You asked." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I ask a lot of things you don't do." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "This one felt like it had a reason behind it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It did." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I know." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I haven't heard you laugh in a while. Not really." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's a strange thing to notice." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I don't track it. I just noticed." },
+    { "type": "consequence", "character": "Mara", "text": "caught him looking. She didn't say anything. She was good at that — catching things and letting them exist without a frame.", "condition": "ep1_mara_look" },
+    { "type": "consequence", "character": "Julian", "text": "stayed with the water. It was genuinely good and he didn't need to explain that to anyone.", "condition": "ep1_mara_water" },
+    { "type": "consequence", "character": "Mara", "text": "laughed when he said it. A real one. \"Yes,\" she said. \"I absolutely am.\"", "condition": "ep1_mara_wry" },
+    { "type": "consequence", "character": "Mara", "text": "let it sit. She was good at that.", "condition": "ep1_p4_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Your shoulders are lower than they were this morning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "That's gravity. I've been sitting down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You sit down for fourteen hours a day at your desk and your shoulders do not do this. Don't tell me it's gravity."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Fine. It's the salt air."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I'll take it. That's progress."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Can I ask you something?"
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "You're going to regardless." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Why did you actually say yes to this trip? Not the polite answer. Why."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I ask you things all the time. You said no to Kayla's birthday dinner three times. You said no to the Portland conference. You told me no about the film festival and then went home and watched the same two documentaries you always watch. So it wasn't just because I asked."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "This one felt different."
+    },
+    { "type": "dialogue", "speaker": "Mara Voss", "content": "Different how?" },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Like you needed me to say yes. Not asked-me. Needed."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "She didn't say anything for a moment. I couldn't tell if I'd said the right thing or the wrong one and I didn't look at her to find out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I haven't heard you laugh in a while. Not the meeting one. Just actually laugh."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I laugh."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I know you do. I'm saying it's been a while. And I figured — coast, no cases, three days. Maybe it would show up."
+    },
     { "type": "dialogue", "speaker": "Julian Crane", "content": "The water's nice." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Yeah. It is." },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Yeah. It is."
+    },
     {
       "type": "choice",
-      "prompt": "She noticed something about him that he doesn't say out loud about himself. What does he do?",
+      "prompt": "She noticed something about him that he never says out loud. Now what?",
       "options": [
-        { "id": "ep1_julian_thanks", "label": "He says thank you. It costs him something to say it." },
-        { "id": "ep1_julian_silence", "label": "He says nothing. But he doesn't look away either." },
-        { "id": "ep1_julian_deflect_water", "label": "He changes the subject. It's easier than letting it land." }
+        { "id": "ep1_julian_thanks", "label": "\"Thank you for coming.\" It costs him a little to say it.", "flagsSet": ["ep1_julian_thanks"], "goto": 6 },
+        { "id": "ep1_julian_silence", "label": "He says nothing. But he doesn't look away from the water either.", "flagsSet": ["ep1_julian_silence"], "goto": 6 },
+        { "id": "ep1_julian_wry", "label": "\"You planned this whole intervention, didn't you.\" He means it warmly.", "flagsSet": ["ep1_julian_wry"], "goto": 6 },
+        { "id": "ep1_p5_silent", "label": "...", "flagsSet": ["ep1_p5_silent"], "goto": 6 }
       ]
     }
   ]

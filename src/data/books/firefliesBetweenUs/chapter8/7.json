@@ -11,13 +11,13 @@
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "you're being weird" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "i know. its fine. morning?" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "10. come here" },
-    { "type": "narration", "content": "He got there at ten. She made him sit at the kitchen table with a glass of orange juice he didn't ask for, and she sat across from him with her own, and she looked at him over the rim the way she did when she already knew something was coming." },
+    { "type": "narration", "content": "He got there at ten. She made him sit at the kitchen table with a glass of orange juice he didn't ask for, and she sat across from him with her own, and she looked at him over the rim." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What." },
     { "type": "dialogue", "speaker": "Kit", "content": "I got into USC." },
     { "type": "narration", "content": "She set her glass down." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Los Angeles." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
-    { "type": "narration", "content": "She was quiet. Not a bad quiet — a processing one. He watched her work through it the way she worked through everything, careful and honest." },
+    { "type": "narration", "content": "She was quiet. He watched her." },
     { "type": "dialogue", "speaker": "Daisy", "content": "When did you find out." },
     { "type": "dialogue", "speaker": "Kit", "content": "Wednesday." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You waited till Friday." },
@@ -30,6 +30,6 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Are you going." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. I think so." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Then it's incredible." },
-    { "type": "narration", "content": "She smiled — the real one, the one she couldn't fake — and he felt it in his chest, warm and specific, and they sat at her kitchen table with their orange juice and the geography of August wide open between them." }
+    { "type": "narration", "content": "She smiled — the real one, the one she couldn't fake — and he felt it in his chest, they sat at her kitchen table with their orange juice and August between them." }
   ]
 }

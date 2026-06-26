@@ -1,17 +1,17 @@
-﻿{
+{
   "page": 19,
   "chapter": 5,
   "chapterTitle": "Offline",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "December came and with it the particular mercy of the end-of-semester grind — tests, projects, the cafeteria decorated with paper snowflakes that Eli claimed were a violation of the separation of church and state, which Savannah explained was not how that worked." },
-    { "type": "narration", "content": "Things weren't okay between them. But they were better than not okay. Daisy said hey in homeroom and meant it, and sometimes at lunch she laughed at something Kit said and didn't seem to notice she was doing it, and he counted those moments carefully." },
+    { "type": "narration", "content": "Things weren't okay between them, but they were getting there. Daisy said hey in homeroom and meant it." },
     { "type": "narration", "content": "Brooke asked him once, quietly, if he was alright." },
     { "type": "dialogue", "speaker": "Brooke", "content": "You don't have to explain it. I think I get it." },
     { "type": "narration", "content": "He looked at her." },
     { "type": "dialogue", "speaker": "Kit", "content": "Brooke, I—" },
     { "type": "dialogue", "speaker": "Brooke", "content": "It's okay." },
-    { "type": "narration", "content": "She said it without bitterness, which was more than he deserved, and she moved on with the particular ease of someone who had understood the situation clearly from the beginning and had chosen her own kind of dignity about it. He respected her for it. He always had." },
+    { "type": "narration", "content": "She said it without bitterness, which was more than he deserved, and she moved on." },
     { "type": "narration", "content": "On the last day before winter break, Eli pulled Kit aside at the bike rack." },
     { "type": "dialogue", "speaker": "Eli", "content": "For what it's worth. She still lights up when you walk in the room. She just doesn't let herself anymore." },
     { "type": "narration", "content": "Kit looked at him." },

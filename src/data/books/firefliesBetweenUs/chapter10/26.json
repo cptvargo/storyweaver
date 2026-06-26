@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 26,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "His flight was Tuesday. Hers was Thursday — same as last year, the same drive with her mom. Monday night they sat on her porch the way they always had, except now there was no word for what they were holding back because they weren't holding anything back." },
+    { "type": "narration", "content": "His flight was Tuesday. Hers was Thursday — same as last year, the same drive with her mom. Monday night they sat on her porch the way they always had." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Last year this felt like going off a cliff." },
     { "type": "dialogue", "speaker": "Kit", "content": "And now." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Now it feels like a pause. We know how to do the distance. We've already done it." },
@@ -17,12 +17,10 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I will." },
     { "type": "dialogue", "speaker": "Daisy", "content": "And then come home." },
     { "type": "dialogue", "speaker": "Kit", "content": "And then come home." },
-    { "type": "narration", "content": "He kissed her temple. She leaned into it. The porch light hummed the way it always had." },
+    { "type": "narration", "content": "He kissed her temple. She leaned into it. The porch light hummed." },
     { "type": "dialogue", "speaker": "Kit", "content": "I love you." },
-    { "type": "narration", "content": "He'd said versions of it before — in the field, in December, in every phone call that went long past midnight. But not those words. Not exactly. This was the plain true thing, said out loud on a porch in August, with nothing left to almost." },
     { "type": "narration", "content": "She looked at him." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I love you, Kit." },
-    { "type": "narration", "content": "Plain. True. Ten years in the making and worth every single one of them." },
-    { "type": "narration", "content": "Millhaven went quiet around them. They stayed exactly where they were for as long as they could — and when the night finally asked them to let go, they did, knowing exactly what was waiting on the other side of the distance." }
+    { "type": "narration", "content": "Millhaven went quiet around them. They stayed exactly where they were for as long as they could — and when the night finally asked them to let go, they did." }
   ]
 }

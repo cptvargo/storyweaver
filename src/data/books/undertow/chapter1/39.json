@@ -4,30 +4,153 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Mara", "text": "said it quietly. \"Not enough.\" Julian didn't argue. But he didn't stop either.", "condition": "ep1_mara_pushback" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Mr. Crane." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Inspector." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Walk with me." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "All right." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You know what you are in this situation." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "A civilian." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "A civilian. No authority. No standing. No jurisdiction." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I understand that." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "If this becomes what I think it might become, it becomes mine. Not yours." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Understood." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "But." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "But." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You were outside that house last night when everyone else was inside. And you apparently don't miss much." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Force of habit." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "The bracket. The window. The shape at 9:51. That's either very good instincts or very bad luck." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's usually both." },
-    { "type": "internalThought", "content": "He almost smiled. He stopped himself, but it was there." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Stay out of my way. Don't approach the five. Don't touch anything." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "And if I see something." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "You come to me. Not the other way around." },
-    { "type": "choice", "prompt": "Davenport just gave Julian an opening. What does Julian take from this?", "options": [
-      { "id": "ep1_davenport_alliance", "label": "He trusts me enough to keep me close. That's leverage." },
-      { "id": "ep1_davenport_warning", "label": "He's warning me as much as inviting me. Both things are true." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Mara",
+      "text": "said it quietly. \"Not enough.\" Julian didn't argue. But he didn't stop either.",
+      "condition": "ep1_mara_pushback"
+    },
+    {
+      "type": "consequence",
+      "character": "Mara",
+      "text": "had come around. She wasn't arguing anymore. That was its own answer.",
+      "condition": "ep1_mara_accepts"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had said nothing. She knew what she knew.",
+      "condition": "ep1_p38_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Mr. Crane."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Inspector."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Walk with me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "All right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You know what you are in this situation."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "A civilian."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "A civilian. No authority. No standing. No jurisdiction."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I understand that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "If this becomes what I think it might become, it becomes mine. Not yours."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Understood."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "But."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "But."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You were outside that house last night when everyone else was inside. And you apparently don't miss much."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Force of habit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "The door. The glass. The shape at 9:51. That's either very good instincts or very bad luck."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "It's usually both."
+    },
+    {
+      "type": "internalThought",
+      "content": "He almost smiled. He stopped himself, but it was there.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Stay out of my way. Don't approach the five. Don't touch anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "And if I see something."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "You come to me. Not the other way around."
+    },
+    {
+      "type": "choice",
+      "prompt": "Davenport just gave Julian an opening. What does Julian take from this?",
+      "options": [
+        {
+          "id": "ep1_davenport_alliance",
+          "label": "He trusts me enough to keep me close. That's leverage.",
+          "goto": 40,
+          "flagsSet": [
+            "ep1_davenport_alliance"
+          ]
+        },
+        {
+          "id": "ep1_davenport_warning",
+          "label": "He's warning me as much as inviting me. Both things are true.",
+          "goto": 40,
+          "flagsSet": [
+            "ep1_davenport_warning"
+          ]
+        },
+        {
+          "id": "ep1_p39_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p39_silent"
+          ],
+          "goto": 40
+        }
+      ]
+    }
   ]
 }

@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "January. The USC acceptance came on a Wednesday." },
-    { "type": "narration", "content": "Kit stared at the email for a long time. Then he printed it out, folded it, and put it in the drawer of his nightstand. He needed a minute to let it be real before it became a conversation." },
+    { "type": "narration", "content": "Kit stared at the email for a long time. Then he printed it out, folded it, and put it in the drawer of his nightstand." },
     { "type": "narration", "content": "He told his mom first." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "USC." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
@@ -23,6 +23,6 @@
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Have you told Daisy?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Not yet." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Tell her soon." },
-    { "type": "narration", "content": "He folded the email back up. Put it in his pocket. He'd tell her. He just needed to figure out what he was going to say around it first." }
+    { "type": "narration", "content": "He folded the email back up. Put it in his pocket. He'd tell her." }
   ]
 }

@@ -4,17 +4,125 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Crystal", "content": "I've been thinking about what you said.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Which thing", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "About being the reason something goes wrong. You said you're afraid of that.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I think you're wrong. I think you're the opposite of that. The reason things work when you're in them.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "You don't have to say that", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I know I don't have to. I'm saying it because it's true.", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I held the phone for a moment longer than I needed to.", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "thank you Crystal", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Crystal", "content": "good night larry", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "dialogue", "speaker": "Larry", "content": "good night", "platform": "SMS", "pov": "Larry", "condition": "asked_number_ep2" },
-    { "type": "internalThought", "content": "I put the phone down and picked up the notebook. Wrote her name. Then crossed it out. Some things didn't need to be written to be kept." }
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I've been thinking about what you said.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Which thing",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "About being the reason something goes wrong. You said you're afraid of that.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I think you're wrong. I think you're the opposite of that. The reason things work when you're in them.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You don't have to say that",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I know I don't have to. I'm saying it because it's true.",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I held the phone for a moment longer than I needed to.",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "thank you Crystal",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "good night larry",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "good night",
+      "platform": "SMS",
+      "pov": "Larry",
+      "condition": "asked_number_ep2"
+    },
+    {
+      "type": "internalThought",
+      "content": "I put the phone down and picked up the notebook. Wrote her name. Then crossed it out. Some things didn't need to be written to be kept."
+    },
+    {
+      "type": "choice",
+      "condition": "asked_number_ep2",
+      "prompt": "Crystal said you're the reason things work when you're in them.",
+      "options": [
+        {
+          "id": "ep3_said_it_back_p59",
+          "label": "\"You are too. I hope you know that.\"",
+          "goto": 60,
+          "flagsSet": [
+            "ep3_said_it_back_p59"
+          ]
+        },
+        {
+          "id": "ep3_said_ty_p59",
+          "label": "\"thank you Crystal. for real.\"",
+          "goto": 60,
+          "flagsSet": [
+            "ep3_said_ty_p59"
+          ]
+        },
+        {
+          "id": "ep3_held_it_p59",
+          "label": "Hold the phone. Read it one more time. Then put it down.",
+          "goto": 60,
+          "flagsSet": [
+            "ep3_held_it_p59"
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 4,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -25,7 +25,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "The fight in October was pretty bad." },
     { "type": "dialogue", "speaker": "Kit", "content": "We made it through the fight in October." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We did." },
-    { "type": "narration", "content": "The porch light hummed. Somewhere down the block a dog was barking at nothing. He reached over and she leaned her head against his shoulder like it had always belonged there — and maybe it had." },
+    { "type": "narration", "content": "The porch light hummed. Somewhere down the block a dog was barking at nothing. He reached over and she leaned her head against his shoulder." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I already know it's going to be okay. That's kind of the thing. I already know." },
     { "type": "dialogue", "speaker": "Kit", "content": "Then let's stop being nervous and just let it be what it is." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Deal." },

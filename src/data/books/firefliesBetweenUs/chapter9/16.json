@@ -27,6 +27,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Same." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "Okay." },
-    { "type": "narration", "content": "They weren't all the way back. But they'd found a floor — something solid underneath the argument — and both of them knew it was still there." }
+    { "type": "narration", "content": "They weren't all the way back. But they'd found a floor." }
   ]
 }

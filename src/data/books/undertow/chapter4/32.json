@@ -5,9 +5,9 @@
   "bookId": "undertow",
   "blocks": [
     { "type": "narration", "content": "That evening Julian sat on his porch with a cold coffee and his legal pad and the specific feeling of a case that had crossed from uncertain to inevitable." },
-    { "type": "narration", "content": "The evidence was building. Not enough yet — not nearly enough for a courtroom, not even enough for an arrest. But the architecture was there. The IP address. The bracket. The evening gap in Wren's memory. The tox that would come back and confirm what he already knew happened in that room." },
+    { "type": "narration", "content": "The evidence was building. Not enough yet — not nearly enough for a courtroom, not even enough for an arrest. But the architecture was there. The IP address. The locked door. The evening gap in Wren's memory. The tox that would come back and confirm what he already knew happened in that room." },
     { "type": "narration", "content": "And the piano wire. The piece nobody knew to look for yet." },
-    { "type": "narration", "content": "He'd been thinking about it since the beginning — the door locked from inside, the window used from outside. If you came in through the window and went out through the door, you needed a way to lock the door from outside. A tool. Something specific. Something you brought with you." },
+    { "type": "narration", "content": "He'd been thinking about it since the beginning — the door locked from inside. If you went out through the door, you needed a way to lock it from outside after leaving. A tool. Something specific. Something you brought with you." },
     { "type": "internalThought", "content": "She still has it. Or she got rid of it. If she got rid of it — when? She hasn't left the house without someone seeing." },
     { "type": "internalThought", "content": "Her walks. Both walks were alone. She walked south twenty minutes. Then north." },
     { "type": "internalThought", "content": "South twenty minutes is far enough to reach the jetty at the end of the public beach. Far enough to drop something into deep water where it wouldn't be found." },

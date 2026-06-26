@@ -4,7 +4,7 @@
   "chapterTitle": "Almost",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Wednesday he dropped a Hester's chocolate milkshake at her front door without knocking. She'd mentioned it three times in the last week. She probably didn't realize she'd mentioned it three times. He had counted." },
+    { "type": "narration", "content": "Wednesday he dropped a Hester's chocolate milkshake at her front door without knocking. She'd mentioned it three times. He had counted." },
     { "type": "narration", "content": "Twenty minutes later:" },
     { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "you didn't have to do that" },
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "do what" },

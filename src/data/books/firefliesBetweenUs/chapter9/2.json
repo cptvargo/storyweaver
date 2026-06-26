@@ -1,17 +1,17 @@
-{
+﻿{
   "page": 2,
   "chapter": 9,
   "chapterTitle": "The Distance",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "USC was nothing like Millhaven. Kit had known that going in and still wasn't prepared for the actual size of it — the campus sprawling in every direction, palm trees lining the walkways, everyone moving like they already knew where they were going." },
+    { "type": "narration", "content": "USC was nothing like Millhaven. Kit hadn't been prepared for the actual size of it — the campus sprawling in every direction, palm trees lining the walkways." },
     { "type": "narration", "content": "His roommate's name was Darius. Pre-med, from Atlanta, had already organized his side of the room with a precision that made Kit feel vaguely chaotic." },
     { "type": "dialogue", "speaker": "Darius", "content": "You're film?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Film studies. Yeah." },
     { "type": "dialogue", "speaker": "Darius", "content": "Cool. I don't understand film people but I respect the commitment." },
     { "type": "dialogue", "speaker": "Kit", "content": "I don't understand pre-med people but same." },
     { "type": "narration", "content": "They got along fine after that." },
-    { "type": "narration", "content": "LA was hot in August. Not Georgia hot — a different kind of dry and relentless. He walked to his first orientation session in shorts and a t-shirt and still felt overdressed compared to half the people around him. Everyone seemed to belong here already. He kept thinking about the walk to school. Two people on a sidewalk. The neighborhood he'd known since he was eight." },
+    { "type": "narration", "content": "LA was hot in August. Not Georgia hot — a different kind of dry and relentless. He walked to his first orientation session in shorts and a t-shirt." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "there are palm trees everywhere. like too many. its excessive" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "how many is too many" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "all of them. every single one is too many" },

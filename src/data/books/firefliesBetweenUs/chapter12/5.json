@@ -7,15 +7,14 @@
     { "type": "narration", "content": "Los Angeles in August was a different kind of heat than Georgia — drier, more insistent, the sun pressing down from a white sky instead of rising up out of the ground. Daisy stood at the window of their apartment on the fourth floor of a building in Silver Lake and looked out at the neighborhood below and thought: okay. This is the city. I can learn this." },
     { "type": "narration", "content": "Their apartment was small. One bedroom, a kitchen that was mostly counter space, a living room that held a couch, Kit's editing setup, and one of those bookshelves that pretends it's also a room divider. Harold sat on the windowsill beside her plant." },
     { "type": "narration", "content": "She had brought Harold. Kit had not said a word about this — just moved the bear to the windowsill without ceremony and gone back to setting up cables. That was the right answer." },
-    { "type": "narration", "content": "She had a contract editing job that paid enough, a manuscript she was three chapters into, and a husband who came home smelling like the studio and set his shoes by the door every night without being asked. She kept waiting to feel lost. She didn't. The city was loud and strange and not Georgia, but it had him in it, and that turned out to be the variable that mattered." },
-    { "type": "narration", "content": "Kit was working as a second editor on a documentary series — not his work, not his voice, but a job in the industry and a paycheck that kept them off the edge of the math. He came home tired. He came home full of opinions about cuts he wasn't allowed to make. He came home and ate whatever she'd put together and told her about his day and asked about hers and did the dishes without negotiating about it." },
-    { "type": "narration", "content": "These were not small things. She knew they were not small things." },
+    { "type": "narration", "content": "She had a contract editing job that paid enough, a manuscript she was three chapters into, and a husband who came home smelling like the studio and set his shoes by the door every night without being asked. The city was loud and strange and not Georgia, but it had him in it." },
+    { "type": "narration", "content": "Kit was working as a second editor on a documentary series � not his work, but a job in the industry. He came home tired, full of opinions about cuts he wasn't allowed to make, and did the dishes without negotiating about it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "How was it today." },
     { "type": "dialogue", "speaker": "Kit", "content": "They cut the scene I built the whole second act around." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Did you say anything." },
     { "type": "dialogue", "speaker": "Kit", "content": "I said 'understood' and then I went to the bathroom and stood there for a minute." },
     { "type": "dialogue", "speaker": "Daisy", "content": "That's growth." },
     { "type": "dialogue", "speaker": "Kit", "content": "That's survival." },
-    { "type": "narration", "content": "She handed him a fork. He sat at the counter beside her and ate, and she read her manuscript aloud to him the way she'd started doing when she got stuck — not for feedback, just to hear if it was alive. He listened. He always listened." }
+    { "type": "narration", "content": "She handed him a fork. He sat at the counter beside her and ate while she read her manuscript aloud." }
   ]
 }

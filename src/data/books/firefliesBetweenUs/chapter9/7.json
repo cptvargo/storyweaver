@@ -10,7 +10,7 @@
     { "type": "dialogue", "speaker": "Cassidy", "content": "That tracks actually. You see things differently than the LA kids." },
     { "type": "dialogue", "speaker": "Kit", "content": "Is that good or bad." },
     { "type": "dialogue", "speaker": "Cassidy", "content": "Really good. The LA kids all shoot the same things." },
-    { "type": "narration", "content": "She was easy to work with. Funny, direct, clearly talented. The group stayed late most Tuesdays in the film building editing bay, takeout containers spread across the desk, arguing about shot composition in the good-natured way that film students did." },
+    { "type": "narration", "content": "She was easy to work with. Funny, direct, clearly talented. The group stayed late most Tuesdays in the film building editing bay, takeout containers spread across the desk, arguing about shot composition." },
     { "type": "narration", "content": "Kit texted Daisy from the editing bay one Tuesday at ten-thirty." },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "still at school. editing project. send help" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "what kind of help" },
@@ -23,6 +23,6 @@
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "cassidy. the sophomore. she runs the schedule. good filmmaker" },
     { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "ok. don't stay too late" },
     { "type": "message", "platform": "SMS", "sender": "Kit", "content": "yes ma'am" },
-    { "type": "narration", "content": "He noticed the slight pause before her last message. He told himself it was nothing." }
+    { "type": "narration", "content": "He noticed the slight pause before her last message." }
   ]
 }

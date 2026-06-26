@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "The family computer was in the den, which meant AIM was a semi-public activity in the Jenkins household. Kit's mom didn't read over his shoulder but she walked through the room, and he had learned to angle the monitor slightly left." },
-    { "type": "narration", "content": "He logged on at eight-fifteen. The buddy list populated. Eli was already there — his away message read: presidential campaign: PENDING — and Daisy was online, her status just the default. Kit set his own away message: doing homework (he was not doing homework) and opened the group chat Eli had already titled MILLHAVEN MIDDLE SURVIVORS." },
+    { "type": "narration", "content": "He logged on at eight-fifteen. Eli was already there — his away message read: presidential campaign: PENDING — and the group chat was titled MILLHAVEN MIDDLE SURVIVORS." },
     { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "ok who had the worst teacher this year i'll go first: MR PATTERSON" },
     { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "he can't be that bad" },
     { "type": "message", "platform": "AIM", "sender": "eli_t_mvp", "content": "daisy he assigned homework ON THE FIRST DAY" },

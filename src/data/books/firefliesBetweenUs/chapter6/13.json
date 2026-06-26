@@ -9,7 +9,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "What." },
     { "type": "dialogue", "speaker": "Eli", "content": "At lunch. With Ryan." },
     { "type": "dialogue", "speaker": "Kit", "content": "I don't know what you're talking about." },
-    { "type": "narration", "content": "Eli had an expression he used when he'd already decided how direct to be and was giving Kit one last chance to make it unnecessary. He had it now." },
+    { "type": "narration", "content": "Eli looked at him." },
     { "type": "dialogue", "speaker": "Eli", "content": "He was trying to talk to you. Like a normal person. And you shut him down." },
     { "type": "dialogue", "speaker": "Kit", "content": "I was just eating lunch." },
     { "type": "dialogue", "speaker": "Eli", "content": "Daisy saw it." },
@@ -27,6 +27,6 @@
     { "type": "narration", "content": "Kit didn't answer." },
     { "type": "dialogue", "speaker": "Eli", "content": "He's not the problem, man." },
     { "type": "narration", "content": "He got on his bike and went. Didn't look back." },
-    { "type": "narration", "content": "Kit stood at the rack while the school emptied out around him. Eli was right. He knew Eli was right. He wasn't ready to say it out loud — wasn't sure he was ready to say it to himself — but he knew." }
+    { "type": "narration", "content": "Kit stood at the rack. Eli was right. He knew it." }
   ]
 }

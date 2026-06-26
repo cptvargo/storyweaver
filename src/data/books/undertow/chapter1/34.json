@@ -4,28 +4,149 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "noted it. Nadia hadn't moved from her position since they came downstairs. The same stillness from the bonfire. The same controlled surface.", "condition": "ep1_watch_nadia_still" },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Who found him?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I did. Me and Sophie." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "And you are?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Dean Ashby. We're all friends. We rented this house together for the weekend." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Who else was in the house last night?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "All of us. Cade Mercer. Nadia Reyes. Sophie Laurent. Wren Cole. And Marcus. Marcus Calloway." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Anyone else?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Julian Crane and Mara Voss. They're staying next door. They were here for dinner last night." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "And when did they leave?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Around ten." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Who was last to see Mr. Calloway alive?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I was. He said good night and went upstairs around nine." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Anyone hear anything after that?" },
-    { "type": "internalThought", "content": "Everyone went still. The argument. Nobody wanted to be the first to say it." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "There was — we heard voices. Upstairs. Around 9:15." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Voices." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "An argument. It didn't last long." },
-    { "type": "dialogue", "speaker": "Inspector Davenport", "content": "Could you identify either voice?" },
-    { "type": "choice", "prompt": "The room goes quiet. Nobody wants to answer that. What does Julian do?", "options": [
-      { "id": "ep1_julian_silent", "label": "He says nothing. He's listening to who stays quiet longest." },
-      { "id": "ep1_julian_steps_forward", "label": "He steps forward. \"Inspector. I heard it too.\"" }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "noted it. Nadia hadn't moved from her position since they came downstairs. The same stillness from the bonfire. The same controlled surface.",
+      "condition": "ep1_watch_nadia_still"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had watched Cade break. The kind of break that comes before the composure catches up.",
+      "condition": "ep1_watch_cade_break"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had watched Wren stop moving. Just stopped, completely still, for three full seconds.",
+      "condition": "ep1_watch_wren_stop"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had watched all of them.",
+      "condition": "ep1_p33_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Who found him?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I did. Me and Sophie."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "And you are?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Dean Ashby. We're all friends. We rented this house together for the weekend."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Who else was in the house last night?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "All of us. Cade Mercer. Nadia Reyes. Sophie Laurent. Wren Cole. And Marcus. Marcus Calloway."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Anyone else?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Julian Crane and Mara Voss. They're staying next door. They were here for dinner last night."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "And when did they leave?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Around ten."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Who was last to see Mr. Calloway alive?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "I was. He said good night and went upstairs around nine."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Anyone hear anything after that?"
+    },
+    {
+      "type": "internalThought",
+      "content": "Everyone went still. The argument. Nobody wanted to be the first to say it.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "There was â€” we heard voices. Upstairs. Around 9:15."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Voices."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "An argument. It didn't last long."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Inspector Davenport",
+      "content": "Could you identify either voice?"
+    },
+    {
+      "type": "choice",
+      "prompt": "The room goes quiet. Nobody wants to answer that. What does Julian do?",
+      "options": [
+        {
+          "id": "ep1_julian_silent",
+          "label": "He says nothing. He's listening to who stays quiet longest.",
+          "goto": 35,
+          "flagsSet": [
+            "ep1_julian_silent"
+          ]
+        },
+        {
+          "id": "ep1_julian_steps_forward",
+          "label": "He steps forward. \"Inspector. I heard it too.\"",
+          "goto": 35,
+          "flagsSet": [
+            "ep1_julian_steps_forward"
+          ]
+        },
+        {
+          "id": "ep1_p34_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p34_silent"
+          ],
+          "goto": 35
+        }
+      ]
+    }
   ]
 }

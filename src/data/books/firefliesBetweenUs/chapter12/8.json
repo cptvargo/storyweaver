@@ -6,8 +6,8 @@
   "blocks": [
     { "type": "narration", "content": "Nine weeks." },
     { "type": "narration", "content": "In those nine weeks they told no one. Just them and the thing growing quietly between them — the math of it, the impossible arithmetic that two people had made a third, that this apartment was going to hold something new, that words like stroller and pediatrician and names were now real words that applied to their real life." },
-    { "type": "narration", "content": "Kit started reading. He didn't announce this. She just found a paperback on his nightstand one morning — a pregnancy guide, dog-eared, with a sticky note on the chapter about the second trimester. She picked it up and looked at it and set it back exactly where she'd found it and went to the kitchen and stood at the window for a moment." },
-    { "type": "narration", "content": "He was going to be a good father. She had always known this in the abstract — in the way you know things about a person before there's evidence — but the book made it specific and real and she had to breathe through the feeling it gave her." },
+    { "type": "narration", "content": "Kit started reading. She found a pregnancy guide on his nightstand one morning, dog-eared, with a sticky note on the second trimester chapter." },
+    { "type": "internalThought", "speaker": "Daisy", "content": "He was going to be a good father." },
     { "type": "narration", "content": "At night they lay in bed and talked about things they had never talked about before. Names they liked. How they'd divide things. Whether they'd go back to Georgia when the time came or whether the time would find them here in California, in a bigger apartment, in a life they were still assembling." },
     { "type": "dialogue", "speaker": "Daisy", "content": "What if it's a boy and he has your stubbornness." },
     { "type": "dialogue", "speaker": "Kit", "content": "Then he'll figure things out." },
@@ -15,7 +15,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Eventually is fine." },
     { "type": "narration", "content": "She rolled toward him. Put her hand on his chest. He covered it with his." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm happy." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Me too." },
-    { "type": "narration", "content": "Simple as that. The truest exchange they knew how to have." }
+    { "type": "dialogue", "speaker": "Kit", "content": "Me too." }
   ]
 }

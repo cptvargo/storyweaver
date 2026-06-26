@@ -1280,6 +1280,18 @@ body {
   border-left: 2px solid var(--border);
 }
 
+.dialogue__translation {
+  font-family: var(--font-serif);
+  font-size: 0.88rem;
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  padding-left: 16px;
+  border-left: 2px solid var(--border);
+  margin-top: 4px;
+  opacity: 0.75;
+}
+
 /* Internal thought — frosted card with thought bubble icon */
 .block--thought {
   position: relative;
@@ -1305,6 +1317,17 @@ body {
   opacity: 0.85;
 }
 
+.thought__speaker {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(150, 100, 210, 0.55);
+  margin-bottom: 6px;
+}
+
 .block--thought p {
   font-family: var(--font-serif);
   font-style: italic;
@@ -1312,6 +1335,32 @@ body {
   font-size: 1rem;
   line-height: 1.8;
   margin: 0;
+}
+
+/* ─── Toast notification (Telltale-style game event banner) ─── */
+.block--toast-notification {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 4px 0 20px;
+  padding: 9px 14px;
+  background: rgba(0, 0, 0, 0.45);
+  border-left: 3px solid rgba(201, 168, 76, 0.5);
+  border-radius: 0 6px 6px 0;
+}
+
+.toast-notification__icon {
+  font-size: 0.55rem;
+  color: var(--gold-dim);
+  flex-shrink: 0;
+}
+
+.toast-notification__text {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-style: italic;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
 }
 
 /* ─── Phone call indicator ───────────────────────────────────── */
@@ -1627,6 +1676,24 @@ body {
   background: rgba(180, 140, 60, 0.05);
   border: 1px solid rgba(180, 140, 60, 0.18);
   border-radius: 16px;
+}
+
+.choice__header {
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.choice__eyebrow {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-family: var(--font-sans);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  opacity: 0.75;
+  border: 1px solid rgba(180, 140, 60, 0.25);
+  border-radius: 20px;
+  padding: 3px 12px;
 }
 
 .choice__prompt {

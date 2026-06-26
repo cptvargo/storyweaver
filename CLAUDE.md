@@ -51,7 +51,7 @@ Contemporary romance. Ethan and Cassandra. 4 chapters.
 12 chapters. Kit Jenkins and Daisy Monroe.
 - Chapter 12 "The Field" is the final chapter — wedding, LA, miscarriage, Kit's film "Millhaven", Ruth passing, Daisy pregnant in the field, fireflies, Kit films it on his phone.
 
-### 3. Undertow (in progress — 3 of 10 chapters written)
+### 3. Undertow (in progress — Episode 1 of 5 complete)
 Murder mystery. Psychological thriller. Locked room mystery.
 Inspired by Detective Conan / Shinichi Kudo.
 
@@ -60,7 +60,7 @@ Inspired by Detective Conan / Shinichi Kudo.
 ## Undertow — Full Detail
 
 ### Premise
-Six old friends rent a beach house on the Carolina coast for a weekend. By Saturday night one of them is dead — door locked from the inside, window open to a 47-degree night, an argument heard through the ceiling at 9:17pm. Julian Crane, a behavioral analyst staying in the rental next door, walked past their bonfire Friday night and noticed something he can't let go.
+Six old friends rent a beach house on the Carolina coast for a weekend in mid-June. By Saturday night one of them is dead — door locked from the inside, an argument heard through the ceiling at 9:17pm. Julian Crane, a behavioral analyst staying in the rental next door, walked past their bonfire Friday night and noticed something he can't let go.
 
 ### Characters
 
@@ -95,33 +95,54 @@ Six old friends rent a beach house on the Carolina coast for a weekend. By Satur
 - **Inspector Davenport** — mid-50s, heavyset, salt-and-pepper, always has his hat
 
 ### The House Booking (Option C — confirmed)
-Marcus booked the house. Nadia steered him toward it — casually mentioned the area, sent a link, suggested the coast. Marcus thought it was his idea. Julian discovers this in the booking trail — the suggestion originated with Nadia even though the reservation didn't. Nadia viewed the exterior photo gallery to study the window route. This is revealed in Chapter 7.
+Marcus booked the house. Nadia steered him toward it — casually mentioned the area, sent a link, suggested the coast. Marcus thought it was his idea. Julian discovers this in the booking trail — the suggestion originated with Nadia even though the reservation didn't. Nadia viewed the floor plan repeatedly to study the layout and the bedroom door geometry. This is revealed in Chapter 7.
 
 ### The Murder Method
-1. Nadia puts sleeping pills in Marcus's bedside water glass (placed before he went upstairs)
+1. Nadia puts sleeping pills in Marcus's bedside water glass (placed with a coaster before he went upstairs)
 2. Marcus drinks it, falls into deep unconscious sleep within the hour
 3. During the evening window (9:43–10:30pm) Nadia slips away from the group
-4. She goes OUTSIDE and climbs up to Marcus's window (20ft drop — HOW she got up is unsolved in Ch3, revealed Ch8/9)
-5. She enters through the open window (Marcus opened it because the drugs made him feel overheated)
-6. She suffocates him with a pillow
-7. She exits through the DOOR (unlocks the privacy latch from inside, steps into the hallway)
-8. Uses pre-cut piano wire looped around the thumb turn, threaded under the door gap, to relock from outside
-9. Pulls the wire free. Door appears locked from inside. She returns to the group.
+4. She enters Marcus's room through the DOOR (unlocked — Marcus did not engage the latch before falling asleep)
+5. She suffocates him with a pillow
+6. She exits through the DOOR into the hallway
+7. Uses pre-cut piano wire looped around the thumb turn, threaded under the door gap, to relock from outside
+8. Pulls the wire free. Door appears locked from inside. She returns to the group.
 
-**The locked room has TWO impossibilities:**
-- Door locked from inside → piano wire trick (revealed Ch9)
-- Window is a 20ft drop → HOW Nadia got up there is unsolved in Ch3, revealed Ch8/9
+**The locked room has ONE impossibility:**
+- Door locked from inside — Nadia exited through the door and relocked it using the piano wire trick (revealed Ch9)
+- The window is never used. There is no window entry/exit.
 
-**Physical evidence:**
-- Bent drainpipe bracket with scraped paint and synthetic fibers (Ch3 — proves window was used, HOW unknown)
-- Water glass — sleeping pills (tox screen Ch5)
+**Physical evidence (in order of discovery):**
+- Water glass with coaster — placed deliberately before Marcus drank (Ch1, Julian observes; tox screen Ch5 confirms sleeping pills)
+- Faint groove on the inner face of the thumb turn — something narrow was drawn across it under tension (Ch3 p30, Julian discovers; piano wire identified Ch9)
 - Petechial hemorrhaging / suffocation signs on re-examination (Ch7)
-- Piano wire score marks on the thumb turn of the latch (Ch9 deduction room)
+- Booking trail — Nadia viewed the floor plan 17 times, studying the layout and door geometry (Ch3 p33, Ch7 full reveal)
+- Piano wire score marks confirmed and method demonstrated in deduction room (Ch9)
 
 ### The Motive — 8 Years
-Nadia wrote a letter to Dean confessing her feelings. She gave it to Marcus to deliver. Marcus kept it — never gave it to Dean. Nadia spent 8 years believing Dean had rejected her, watching him from across dinner tables, watching him end up with Sophie. Finding the letter in Marcus's bag ON THIS TRIP (first night) is what triggered her to act. She had planned a version of this for a while — but finding the letter made it NOW.
+Nadia wrote a letter to Dean confessing her feelings. She gave it to Marcus to deliver. Marcus got sidetracked — a genuine accident — and the letter fell to the bottom of his bag pocket and stayed there. He forgot it was there. He never read it. He never intentionally withheld it. He just forgot.
 
-**Chapter 9 deduction room:** After Julian exposes her, Nadia breaks. Tears. She looks at Dean. She reads the letter aloud — her own words, in her own voice, 8 years late. Dean hears it for the first time. The room goes into shock. Not just because of the murder — because of what Marcus kept, and what none of them knew.
+Nadia spent 8 years believing Dean had rejected her, watching him from across dinner tables, watching him end up with Sophie. Finding the letter in Marcus's bag ON THIS TRIP (first night) is what triggered her to act. She had planned a version of this for a while — but finding the letter made it NOW.
+
+**The letter content is NEVER shown to the reader until the Episode 5 deduction room.** The prologue (Ep1 p1) is cryptic — no names, just the emotional weight of finding it. Nadia reads it aloud in the deduction room, in her own voice, for the first time. That is when Dean hears it. That is when everyone hears it.
+
+**Julian's hypothesis (middle episodes):** Julian cannot conclude from evidence alone why Marcus kept the letter. But he can form a behavioral hypothesis — everything he observed about Marcus is inconsistent with deliberate cruelty or malice. Julian frames it precisely: *"I can't tell you why he kept it. What I can tell you is that everything I observed about Marcus Calloway is inconsistent with someone who acts out of deliberate cruelty."* Hypothesis, not fact.
+
+**Dean's testimony in the Episode 5 deduction room** is what elevates hypothesis to truth: Dean says — almost as a throwaway memory — that Marcus once told him he had something for him. When Dean followed up, Marcus went completely blank. Couldn't place what it was. Dean thought nothing of it at the time. In the deduction room he realizes what Marcus couldn't remember.
+
+**Episode 5 deduction room — the breakdown:**
+After Julian walks through all evidence and exposes Nadia, Dean's testimony lands. The room understands: Marcus forgot. A genuine accident. Eight years of Nadia's grief, and her decision in the dark, all tracing back to Marcus getting distracted one day and never reaching into his bag.
+
+Nadia realizes what she has done. She breaks completely.
+- *"What have I done!?!"*
+- *"Marcus... Please... come back......"*
+- She is heavily remorseful, devastated, tears — this is not performance, this is a person collapsing under the weight of what they cannot undo
+- She looks at Dean. She reads the letter aloud — her own words, 8 years late. Dean hears it for the first time.
+- Wren and Sophie cannot compose themselves.
+- Julian feels the heaviness. He has solved it — and the solving of it doesn't feel like a victory.
+- Inspector Davenport puts Nadia in handcuffs. The room does not recover.
+
+**Episode 5 — court proceedings (closing act):**
+After the arrest, Episode 5 continues into the courtroom. Defense and prosecution both get their moment. The judge hears the full case — the evidence, the method, the motive, and the accident at the center of it. The judge's sentence closes the episode and the story. The reader sees the consequence all the way through.
 
 ### Planted clues (already written)
 - **Ch1 Page 2 (prologue):** *"I found it on the first night. In the front pocket of his bag, folded in quarters. My handwriting. Eight years old and still there."* — cryptic, no names
@@ -130,22 +151,17 @@ Nadia wrote a letter to Dean confessing her feelings. She gave it to Marcus to d
 - **Ch1 Page 29:** Marcus zones out on beach, internal thought blocks, Cade notices: *"You don't look so well"*
 - **Ch2 Page 17:** Davenport interviews all five — each has an interesting but non-damning note. Nadia's answers are "exactly right" — replaced with balanced observation across all five
 - **Ch3 Page 8:** *"Nadia's the only one with a real alibi for the afternoon"* — Cade says it as relief. Her cover, working.
-- **Ch3 Page 27:** Julian finds the exterior wall, porch roof, bent bracket below Marcus's window
+- **Ch3 Page 30:** Julian examines the bedroom door latch from the hallway — finds a faint groove on the inner face of the thumb turn. Something narrow was threaded under the door to lock it from outside. The HOW is not yet named. (Piano wire identified Ch9.)
 
-### Chapter Roadmap
+### Episode Roadmap (5-episode interactive structure)
 
-| Chapter | Title | Owns | Status |
+| Episode | Title | Owns | Status |
 |---------|-------|------|--------|
-| 1 | Arrival | Setup, group dynamics, prologue, Julian's bonfire walk | ✅ Written |
-| 2 | The Room | Discovery, Davenport arrives, Julian meets Davenport, suspicious death filed | ✅ Written |
-| 3 | No Alibi | Sunday morning, locked room argument, alibi conversation, Cade's realization, window route found, officially homicide | ✅ Written |
-| 4 | The Call | Phone call identity revealed — who Marcus was arguing with Saturday night | ⬜ Next |
-| 5 | — | Tox results: sleeping pills confirmed. Now officially homicide but HOW — pills alone don't kill a healthy man | ⬜ |
-| 6 | — | Red herring peaks — one person looks very guilty, isn't (likely Cade) | ⬜ |
-| 7 | — | Backstory surfaces — the letter found in Marcus's belongings during investigation. 8 years revealed. | ⬜ |
-| 8 | — | Wren's moment — she tells Julian what she saw during the evening window | ⬜ |
-| 9 | — | The deduction room — Julian assembles everyone, walks through all evidence, piano wire demonstration, Nadia's breakdown, letter read aloud | ⬜ |
-| 10 | — | Aftermath, consequence, resolution | ⬜ |
+| 1 | The Weekend | Friday arrival → Saturday night → Sunday discovery → Davenport arrives → investigation opens. 50 pages. | ✅ Complete |
+| 2 | — | The call identity revealed. Tox confirmed — sleeping pills. Now officially homicide. Cade red herring peaks. | ⬜ Next |
+| 3 | — | Red herring collapses. Backstory surfaces — letter found in Marcus's belongings, 8 years revealed to Julian. Julian's hypothesis forms. | ⬜ |
+| 4 | — | Wren tells Julian what she saw during the evening window. Julian's latch-mark theory hardens into piano wire. The case closes in. | ⬜ |
+| 5 | — | The deduction room — Julian assembles everyone, full evidence walkthrough, piano wire demonstration, Dean's testimony (Marcus couldn't remember), Nadia's breakdown, letter read aloud, handcuffs. Court proceedings: defense, prosecution, judge's sentence. | ⬜ |
 
 ### Key Rules for Writing Undertow
 - **Heavy dialogue, lighter narration** — majority of pages should be dialogue-driven

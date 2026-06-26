@@ -17,12 +17,12 @@
     { "type": "dialogue", "speaker": "Marcus", "content": "It is going to be strange." },
     { "type": "dialogue", "speaker": "Savannah", "content": "We'll be okay." },
     { "type": "dialogue", "speaker": "Eli", "content": "Yeah. We will." },
-    { "type": "narration", "content": "The movie played. Savannah fell asleep against Marcus. Eli started talking quietly to himself about something, which was how he processed big feelings, and then Marcus's eyes closed too, and then there were just two of them awake." },
+    { "type": "narration", "content": "The movie played. Savannah fell asleep against Marcus. Eli started talking quietly to himself, and then Marcus's eyes closed too, and then there were just two of them awake." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Hey." },
     { "type": "dialogue", "speaker": "Kit", "content": "Hey." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Thank you for tonight. For asking me." },
     { "type": "dialogue", "speaker": "Kit", "content": "Thank you for saying yes." },
-    { "type": "narration", "content": "She looked at him in the low light of the TV. He looked back. The thing between them sat there, fully present, not hiding. And then she looked at the movie." },
+    { "type": "narration", "content": "She looked at him in the low light of the TV. He looked back. And then she looked at the movie." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Take me home?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." }
   ]

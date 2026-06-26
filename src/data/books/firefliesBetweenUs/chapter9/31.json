@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 31,
   "chapter": 9,
   "chapterTitle": "The Distance",
@@ -24,6 +24,6 @@
     { "type": "dialogue", "speaker": "Eli", "content": "She's going to wreck you if you're not careful." },
     { "type": "dialogue", "speaker": "Kit", "content": "Already has. Multiple times." },
     { "type": "dialogue", "speaker": "Eli", "content": "Good. That's how you know it's real." },
-    { "type": "narration", "content": "They went back to the living room. On the couch, Daisy was talking to Priya about something, and when Kit came back she shifted slightly and he sat down next to her and their shoulders met the way they always had — except now it had a name, and that was the whole difference." }
+    { "type": "narration", "content": "They went back to the living room. On the couch, Daisy was talking to Meilin about something, and when Kit came back she shifted slightly and he sat down next to her." }
   ]
 }

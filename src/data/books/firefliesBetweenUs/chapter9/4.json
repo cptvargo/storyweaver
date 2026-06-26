@@ -28,12 +28,11 @@
     { "type": "dialogue", "speaker": "Kit", "content": "String lights." },
     { "type": "dialogue", "speaker": "Daisy", "content": "They're actually kind of nice." },
     { "type": "dialogue", "speaker": "Kit", "content": "Don't tell Eli. He'll get some." },
-    { "type": "narration", "content": "She laughed. The real one. He'd been waiting for it without knowing he was waiting for it." },
+    { "type": "narration", "content": "She laughed. The real one." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I miss you." },
-    { "type": "narration", "content": "She said it the way she said most things — straight, without decoration." },
     { "type": "dialogue", "speaker": "Kit", "content": "Same. A lot." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "Okay." },
-    { "type": "narration", "content": "They stayed on the line another forty minutes talking about nothing in particular — his film history syllabus, a weird dining hall dish she'd tried, whether Eli had texted either of them yet (he had, extensively). It was ordinary and it was the best thing that had happened to him since he got off the plane." }
+    { "type": "narration", "content": "They stayed on the line another forty minutes talking about nothing in particular — his film history syllabus, a weird dining hall dish she'd tried, whether Eli had texted either of them yet (he had, extensively)." }
   ]
 }

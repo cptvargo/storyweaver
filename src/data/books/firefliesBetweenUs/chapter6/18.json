@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "May. End of freshman year." },
-    { "type": "narration", "content": "Things with Ryan were still going. Kit had stopped counting the weeks. He'd made a kind of peace with it — not acceptance exactly, more like the particular numbness that set in when something hurt long enough. He was functional. He showed up at school. He was good at the things he was good at. He and Daisy still walked to school some mornings and talked on AIM and sat in the same place at lunch, and if there was a version of himself that ached every time Ryan Callaway appeared, that version had learned to stay quiet." },
+    { "type": "narration", "content": "Things with Ryan were still going. Kit had stopped counting the weeks." },
     { "type": "narration", "content": "On the last Friday of the year, after school, Daisy found him at his locker." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Walk home?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
@@ -17,7 +17,7 @@
     { "type": "narration", "content": "She looked at him sideways." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You're getting sentimental." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm being honest." },
-    { "type": "narration", "content": "She didn't answer. They rode on, and the afternoon was warm, and Kit thought: sophomore year. He'd have a whole year to figure it out. He had time." },
-    { "type": "narration", "content": "He told himself he had time." }
+    { "type": "narration", "content": "She didn't answer. They rode on." },
+    { "type": "internalThought", "speaker": "Kit", "content": "Sophomore year. I have time." }
   ]
 }

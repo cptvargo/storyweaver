@@ -1,16 +1,16 @@
-﻿{
+{
   "page": 20,
   "chapter": 5,
   "chapterTitle": "Offline",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They rode home together on the last day, which hadn't been guaranteed and then was, and it was cold enough now that their breath made shapes in the air and the trees on her street had gone bare and the whole world looked like a different season than the one they'd met in." },
+    { "type": "narration", "content": "They rode home together on the last day, their breath making shapes in the cold air, the trees on her street gone bare." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'm sorry. I know I said it on AIM but I wanted to say it right." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
     { "type": "dialogue", "speaker": "Kit", "content": "I should have—" },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit. I know. It's okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "Ask me again in a little while. You said that. Is it a little while yet." },
-    { "type": "narration", "content": "She looked at him over the handlebars. The cold had put color in her face and the bare trees were behind her and she was looking at him the way she used to before things had weight." },
+    { "type": "narration", "content": "She looked at him over the handlebars." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're okay." },
     { "type": "narration", "content": "They rode the rest of the way to her street without saying much, and stopped at the end of her walk, and the winter quiet sat on everything." },
@@ -20,7 +20,7 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Some things don't change." },
     { "type": "narration", "content": "She looked at him when she said it. He held it." },
     { "type": "dialogue", "speaker": "Kit", "content": "Daisy—" },
-    { "type": "narration", "content": "Her mom's car pulled into the driveway. They both looked. Mrs. Jones got out with grocery bags, waved at Kit, went inside. The moment folded closed." },
+    { "type": "narration", "content": "Her mom's car pulled into the driveway. They both looked. Mrs. Jones got out with grocery bags, waved at Kit, went inside." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Happy break, Kit." },
     { "type": "narration", "content": "She took her bike up the walk. He watched her go." }
   ]

@@ -21,6 +21,57 @@
   ],
   "description": "Millhaven, Georgia. Summer 2002. Kit Jenkins is twelve years old, reckless, and convinced that any plan worth having can be figured out along the way. Daisy May Jones has known him long enough to know he's right about that — and wrong about almost everything else. What starts as one long summer of bikes and thunderstorms and condemned water towers becomes the summer that everything quietly begins to change.",
   "shortDescription": "A nostalgic coming-of-age story about a small Southern town, a reckless boy, a girl who sees right through him, and the summer neither of them will forget.",
+  "characterPortraits": {
+    "Kit Jenkins": [
+      { "from": 1, "to": 3, "image": "/kit_childhood.png" },
+      { "from": 4, "to": 5, "image": "/kit_middle.png" },
+      { "from": 6, "to": 8, "image": "/kit_highschool.png" },
+      { "from": 9, "to": 12, "image": "/kit_adult.png" }
+    ],
+    "Daisy May Jones": [
+      { "from": 1, "to": 3, "image": "/daisy_childhood.png" },
+      { "from": 4, "to": 5, "image": "/daisy_middle.png" },
+      { "from": 6, "to": 8, "image": "/daisy_highschool.png" },
+      { "from": 9, "to": 12, "image": "/daisy_adult.png" }
+    ],
+    "Eli Turner": [
+      { "from": 1, "to": 3, "image": "/eli_childhood.png" },
+      { "from": 4, "to": 5, "image": "/eli_middle.png" },
+      { "from": 6, "to": 8, "image": "/eli_highschool.png" },
+      { "from": 9, "to": 12, "image": "/eli_adult.png" }
+    ],
+    "Savannah Brooks": [
+      { "from": 1, "to": 3, "image": "/savannah_childhood.png" },
+      { "from": 4, "to": 5, "image": "/savannah_middle.png" },
+      { "from": 6, "to": 8, "image": "/savannah_highschool.png" },
+      { "from": 9, "to": 12, "image": "/savannah_adult.png" }
+    ],
+    "Grandma Mae": [
+      { "from": 1, "to": 12, "image": "/grandma_mae.png" }
+    ],
+    "Kit's Mom": [
+      { "from": 1, "to": 12, "image": "/kits_mom.png" }
+    ],
+    "Mrs. Jones": [
+      { "from": 1, "to": 12, "image": "/mrs_jones_fireflies.png" }
+    ],
+    "Mrs. Brooks": [
+      { "from": 1, "to": 12, "image": "/mrs_brooks_fireflies.png" }
+    ],
+    "Mr. Whitaker": [
+      { "from": 1, "to": 12, "image": "/mr_whitaker.png" }
+    ],
+    "Marcus": [
+      { "from": 6, "to": 8, "image": "/marcus_highschool.png" },
+      { "from": 9, "to": 12, "image": "/marcus_adult.png" }
+    ],
+    "Meilin Bai": [
+      { "from": 9, "to": 12, "image": "/meilin_adult.png" }
+    ],
+    "Darius": [
+      { "from": 9, "to": 12, "image": "/darius_adult.png" }
+    ]
+  },
   "mainCharacters": [
     {
       "name": "Kit Jenkins",
@@ -42,7 +93,10 @@
     "Mrs. Jones",
     "Grandma Mae",
     "Mr. Whitaker",
-    "Kit's Mom"
+    "Kit's Mom",
+    "Marcus",
+    "Meilin Bai",
+    "Darius"
   ],
   "setting": [
     "Millhaven, Georgia",
@@ -127,7 +181,7 @@
     {
       "chapterIndex": 10,
       "title": "This Kind of Night",
-      "image": "/this_kind_of_night_fireflies.PNG",
+      "image": "/this_kind_of_night_fireflies.png",
       "mood": "July Fourth. The field. Ten years in the making. Fireflies, fireworks, and the moment they stopped waiting.",
       "totalPages": 26
     },
@@ -143,7 +197,7 @@
       "title": "The Field",
       "image": "/the_field_fireflies.png",
       "mood": "A wedding. A city. A loss that broke them open and a love that held. The film that was really about his father. A mother who stayed. And a field in April, with the first fireflies of the season, where everything that had ever mattered came back home.",
-      "totalPages": 25
+      "totalPages": 29
     }
   ],
   "themes": [

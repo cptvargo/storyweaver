@@ -4,17 +4,21 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The film was called Millhaven." },
-    { "type": "narration", "content": "He shot it over two trips — one in January, when the town was grey and stripped and showed its bones the way small Southern towns do in winter, and one in June, when everything was green and loud and the air smelled like the first eighteen years of his life." },
-    { "type": "narration", "content": "He filmed the water tower. The park. The street where he'd grown up. His mother's kitchen, her hands around a coffee cup, the way she moved through the house she'd kept alone for twenty years with a matter-of-factness that broke his heart every time he saw it." },
-    { "type": "narration", "content": "He filmed the field." },
-    { "type": "narration", "content": "He didn't film his father. His father was not in the film. He was in everything else — in the shape of what was missing, in the negative space, the way an absence becomes its own presence when you look at it long enough." },
-    { "type": "narration", "content": "Daisy wrote the narration in the evenings. He would send her the day's footage and she would watch it and then write — not a script, not voiceover in the traditional sense, but something between prose and poetry that moved alongside the images without explaining them." },
-    { "type": "narration", "content": "One passage she sent him, attached to footage of his mother's kitchen:" },
-    { "type": "narration", "content": "Some people leave. Some people stay and hold the shape of the ones who didn't. They don't call it anything — they just keep the lights on, keep the pantry stocked, keep the door unlocked in case something comes back that never does. They call that love. They call it Tuesday. They call it not thinking about it too hard." },
-    { "type": "narration", "content": "He read it three times before he could respond." },
-    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "That's the one. That's the whole film in eight sentences." },
-    { "type": "message", "platform": "SMS", "sender": "Daisy", "content": "Don't make me cry before nine am." },
-    { "type": "message", "platform": "SMS", "sender": "Kit", "content": "Too late." }
+    { "type": "narration", "content": "The hall went quiet for the tea ceremony." },
+    { "type": "narration", "content": "Eli and Meilin knelt on the cushions before her parents. Meilin poured. Two cups, deliberate, careful. They lifted them together with both hands and offered them across the table." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "I've never seen him that still." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Me neither." },
+    { "type": "narration", "content": "Her father received his cup and looked at Eli for a long moment before he spoke." },
+    { "type": "dialogue", "speaker": "Meilin's Father", "content": "我送她去了那么远。我以为她会变成陌生人。", "translation": "I sent her so far away. I thought she would become a stranger." },
+    { "type": "dialogue", "speaker": "Meilin's Father", "content": "但她回来时，比离开时更完整。这是你给她的。谢谢你。", "translation": "But she came back more whole than when she left. This is what you gave her. Thank you." },
+    { "type": "narration", "content": "Nobody moved." },
+    { "type": "narration", "content": "Meilin looked at Eli. She gave him the smallest nod." },
+    { "type": "dialogue", "speaker": "Eli", "content": "谢谢您信任我。我会一直照顾她。", "translation": "Thank you for trusting me. I will always take care of her." },
+    { "type": "narration", "content": "His tones were off. It didn't matter at all." },
+    { "type": "narration", "content": "Her father pushed the red envelope across the table. Then he smiled — the real one." },
+    { "type": "dialogue", "speaker": "Kit", "content": "He practiced a month for that." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "She knows." },
+    { "type": "dialogue", "speaker": "Kit", "content": "Her father knows too." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "That's the whole point." }
   ]
 }

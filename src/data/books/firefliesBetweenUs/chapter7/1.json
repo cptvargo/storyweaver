@@ -5,7 +5,7 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Sophomore year." },
-    { "type": "narration", "content": "The table had rearranged itself the way tables do — quietly, without announcement. Ryan Callaway sat on the other end now, with people from his English class. He'd say hey to Kit in the hall. Kit would say hey back. It was fine in the way things are fine when both people are working at it." },
+    { "type": "narration", "content": "The table had rearranged itself quietly. Ryan Callaway sat on the other end now, with people from his English class. He'd say hey to Kit in the hall. Kit would say hey back." },
     { "type": "narration", "content": "The space where Ryan used to sit was just Daisy again. Same as it had always been. Same ten o'clock AIM messages about nothing." },
     { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "ok so apparently homeroom assignments are completely random this year" },
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "how is that different from last year" },
@@ -17,6 +17,6 @@
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "lol okay" },
     { "type": "message", "platform": "AIM", "sender": "daisy_mjones", "content": "goodnight kit" },
     { "type": "message", "platform": "AIM", "sender": "sk8erkit_12", "content": "night" },
-    { "type": "narration", "content": "Same as always. Except it wasn't. And they both knew it. They just didn't say so." }
+    { "type": "narration", "content": "Same as always. Except it wasn't." }
   ]
 }

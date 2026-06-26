@@ -4,20 +4,109 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Aye. You texting somebody in class?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "No." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Bruh you are literally looking at your phone right now." },
-    { "type": "dialogue", "speaker": "Larry", "content": "It's nothing." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "It's Crystal." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I didn't say that." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "You didn't have to. You got that face." },
-    { "type": "dialogue", "speaker": "Larry", "content": "What face." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "The face where you're trying to look normal and failing completely. It's a whole thing." },
-    { "type": "internalThought", "content": "I put the phone in my pocket. Jonathan was already grinning. He was going to be insufferable about this." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "She texted you first didn't she." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Jonathan." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "SHE TEXTED YOU FIRST. BRO." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Keep your voice down." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I am keeping my voice down. This is my quiet voice. You're welcome." }
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Aye. You texting somebody in class?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Bruh you are literally looking at your phone right now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "It's nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "It's Crystal."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I didn't say that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "You didn't have to. You got that face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "What face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "The face where you're trying to look normal and failing completely. It's a whole thing."
+    },
+    {
+      "type": "internalThought",
+      "content": "I put the phone in my pocket. Jonathan was already grinning. He was going to be insufferable about this."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "She texted you first didn't she."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Jonathan."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "SHE TEXTED YOU FIRST. BRO."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Keep your voice down."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "I am keeping my voice down. This is my quiet voice. You're welcome."
+    },
+    {
+      "type": "choice",
+      "prompt": "Jonathan is going to be insufferable about Crystal for the rest of the day.",
+      "options": [
+        {
+          "id": "ep3_confirmed_j_p4",
+          "label": "\"Okay. Yes. It's Crystal.\"",
+          "goto": 5,
+          "flagsSet": [
+            "ep3_confirmed_j_p4"
+          ]
+        },
+        {
+          "id": "ep3_denied_j_p4",
+          "label": "\"I didn't say that.\" Keep playing it down.",
+          "goto": 5,
+          "flagsSet": [
+            "ep3_denied_j_p4"
+          ]
+        },
+        {
+          "id": "ep3_let_j_run_p4",
+          "label": "Say nothing. Let him have his moment.",
+          "goto": 5,
+          "flagsSet": [
+            "ep3_let_j_run_p4"
+          ]
+        }
+      ]
+    }
   ]
 }

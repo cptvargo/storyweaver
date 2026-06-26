@@ -1,15 +1,15 @@
-﻿{
+{
   "page": 14,
   "chapter": 5,
   "chapterTitle": "Offline",
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "Kit's mom noticed at dinner." },
-    { "type": "narration", "content": "She always noticed. It was the thing about her — she never crowded it, never asked the wrong question at the wrong time, but she noticed, and she'd sit with what she noticed until the moment was right, and the moment was right when he was helping her clear the dishes and she said, without looking up:" },
+    { "type": "narration", "content": "She always noticed. She never crowded it — just waited until the moment was right, which was when he was helping her clear the dishes." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "You want to talk about it or you want to leave it?" },
     { "type": "dialogue", "speaker": "Kit", "content": "Leave it." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Okay." },
-    { "type": "narration", "content": "They did the dishes. The radio was on low. Kit handed her plates and she stacked them and it was quiet in the way that their kitchen got quiet — not uncomfortable, just present." },
+    { "type": "narration", "content": "They did the dishes. The radio was on low. Kit handed her plates and she stacked them." },
     { "type": "dialogue", "speaker": "Kit", "content": "I think I did something I shouldn't have." },
     { "type": "narration", "content": "His mom didn't react, just kept stacking." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Something that hurt someone?" },
@@ -19,6 +19,6 @@
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Kit. You can like a lot of people in your life. That's normal, that's good. But the ones who actually know you — the ones who've seen the whole of you and stayed anyway — you don't get many of those." },
     { "type": "narration", "content": "He looked at the dish towel in his hands." },
     { "type": "dialogue", "speaker": "Kit's Mom", "content": "Don't be careless with those." },
-    { "type": "narration", "content": "She put the last dish away and turned off the kitchen light on her way out. Kit stood at the sink and looked at the dark window above it and saw his own reflection looking back, and didn't like what he saw." }
+    { "type": "narration", "content": "She put the last dish away and turned off the kitchen light on her way out. Kit stood at the sink and looked at his reflection in the dark window." }
   ]
 }

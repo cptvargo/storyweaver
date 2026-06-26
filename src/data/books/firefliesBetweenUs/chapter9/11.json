@@ -32,6 +32,6 @@
     { "type": "narration", "content": "Quiet on the line. The honest kind." },
     { "type": "dialogue", "speaker": "Kit", "content": "Not tonight." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Okay. Not tonight." },
-    { "type": "narration", "content": "They moved on. Talked about other things. But the pause stayed where they left it, waiting." }
+    { "type": "narration", "content": "They moved on. Talked about other things." }
   ]
 }

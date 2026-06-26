@@ -4,31 +4,156 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "had already seen it. Someone in that group had been watching someone else. He kept that detail separate from the rest.", "condition": "ep1_marcus_note" },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "He seems nice." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He is." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "We should go tonight." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "As neighbors." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "As people. Normal people who go to bonfires and talk about nothing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I can talk about nothing." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You can talk in ways that sound like nothing but are actually everything." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "That's the same thing." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "It is not the same thing." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "He said Nadia mentioned the area." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I heard that." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "You caught it too." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I work with you. Things leak." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "It's nothing." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Then stop saying it like it's something." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I said it was nothing." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Julian." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "We'll go at seven." },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept Marcus in his peripheral on the walk back. He noticed the way Marcus watched people leave — like he was already planning the next reason to bring them together.",
+      "condition": "ep1_marcus_stays"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "filed Wren separately from the others. The ones who say least usually notice most.",
+      "condition": "ep1_wren_stays"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "held onto it. Nadia had volunteered useful information before anyone thought to ask. He'd only met a few people who knew how to do that naturally.",
+      "condition": "ep1_nadia_stays"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "kept it. They were people around a fire.",
+      "condition": "ep1_p6_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "They seem good. All of them. Marcus especially — he's one of those people who makes a room feel like it was already full before you got there."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He is."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "We should actually go tonight. Not make an appearance — actually go. Eat their food, talk about nothing, stay too late."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "We're going."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I just want to be clear about what kind of going. Not the kind where you stand near the food and clock everyone's stress indicators."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I don't do that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You did it just now. In the driveway. You mapped that entire group in about forty-five seconds."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "Thirty seconds. But I wasn't going to correct her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Marcus said Nadia mentioned the area. That she'd been the one to suggest the coast. He said it like he'd just remembered it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I caught that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You caught it too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I work with you. Things leak. But Julian — people suggest places. She knew the coast, she mentioned it, he booked it. That's just how trips happen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "He said it like he was remembering he'd found the listing. Not like he remembered someone else suggested it. There's a difference in how that sounds."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Memory is unreliable. You know this. You have built entire presentations around the fact that memory is unreliable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Then file it and come eat something. And tonight — just be a person. Not an analyst. A person who is at a bonfire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I can be a person."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I know you can. I've seen it happen."
+    },
     {
       "type": "choice",
-      "prompt": "Nadia mentioned the area. Marcus found the listing. He thinks it was his idea.",
+      "prompt": "Nadia mentioned the area. Marcus thinks the idea was his. Does it matter?",
       "options": [
-        { "id": "ep1_nothing_yes", "label": "It's a weekend trip with friends. People suggest places. Leave it alone." },
-        { "id": "ep1_nothing_no", "label": "Someone who suggests a location always has a reason for that specific location." }
+        {
+          "id": "ep1_nothing_yes",
+          "label": "Not right now. File it. Be a person tonight.",
+          "flagsSet": [
+            "ep1_nothing_yes"
+          ],
+          "goto": 8
+        },
+        {
+          "id": "ep1_nothing_no",
+          "label": "Someone who suggests a specific location always has a reason for it. This stays open.",
+          "flagsSet": [
+            "ep1_nothing_no"
+          ],
+          "goto": 8
+        },
+        {
+          "id": "ep1_nothing_mara",
+          "label": "Mara's right. One detail doesn't make anything. But it doesn't disappear either.",
+          "flagsSet": [
+            "ep1_nothing_mara"
+          ],
+          "goto": 8
+        },
+        {
+          "id": "ep1_p7_silent",
+          "label": "...",
+          "flagsSet": [
+            "ep1_p7_silent"
+          ],
+          "goto": 8
+        }
       ]
     }
   ]

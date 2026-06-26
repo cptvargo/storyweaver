@@ -4,18 +4,98 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Can I say something real quick and then we never have to talk about it again?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Go." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "This has been a good episode for you, bro. Like genuinely. You walked into a confrontation, you handled it, Mr. Cole saw something in you worth talking to, you went on a date, you said something real to a girl on the steps. That's a lot of stuff for two weeks." },
-    { "type": "dialogue", "speaker": "Larry", "content": "When you say it like that —" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "I know. But it matters. Because the version of you that almost caught that ball during tryouts wouldn't have done any of that." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Almost?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "You had both hands on it and you still doubted. Remember?" },
-    { "type": "internalThought", "content": "I remembered. The ball, the crowd, the fear that I'd drop it even when I had it. I'd almost let go of something I was already holding." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah. I remember." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "You're not doing that anymore. At least not as much." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Not as much." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "That's progress bro. fr." },
-    { "type": "internalThought", "content": "I walked the rest of the block thinking about it. Everything that had accumulated — the routes, the steps, the car, the corner at night. Not resolved. Not finished. But different from where it started." }
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Can I say something real quick and then we never have to talk about it again?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "This has been a good episode for you, bro. Like genuinely. You walked into a confrontation, you handled it, Mr. Cole saw something in you worth talking to, you went on a date, you said something real to a girl on the steps. That's a lot of stuff for two weeks."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "When you say it like that —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "I know. But it matters. Because the version of you that almost caught that ball during tryouts wouldn't have done any of that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Almost?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "You had both hands on it and you still doubted. Remember?"
+    },
+    {
+      "type": "internalThought",
+      "content": "I remembered. The ball, the crowd, the fear that I'd drop it even when I had it. I'd almost let go of something I was already holding."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah. I remember."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "You're not doing that anymore. At least not as much."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Not as much."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "That's progress bro. fr."
+    },
+    {
+      "type": "internalThought",
+      "content": "I walked the rest of the block thinking about it. Everything that had accumulated — the routes, the steps, the car, the corner at night. Not resolved. Not finished. But different from where it started."
+    },
+    {
+      "type": "choice",
+      "prompt": "Jonathan says that's progress. You're standing at the end of two weeks that weren't small.",
+      "options": [
+        {
+          "id": "ep3_agreed_progress",
+          "label": "\"Yeah. It is.\" And you mean it this time.",
+          "goto": 58,
+          "flagsSet": [
+            "ep3_agreed_progress"
+          ]
+        },
+        {
+          "id": "ep3_asked_j_next",
+          "label": "\"What do you think comes next?\"",
+          "goto": 58,
+          "flagsSet": [
+            "ep3_asked_j_next"
+          ]
+        },
+        {
+          "id": "ep3_walked_it_p57",
+          "label": "Walk with it. Don't turn it into a bigger thing.",
+          "goto": 58,
+          "flagsSet": [
+            "ep3_walked_it_p57"
+          ]
+        }
+      ]
+    }
   ]
 }

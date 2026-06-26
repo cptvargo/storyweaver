@@ -4,7 +4,7 @@
   "chapterTitle": "The Last Light of Summer",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "After lunch they spread out in the backyard. Eli was on his back in the grass identifying clouds. Savannah was reading — she was always prepared, always had a book somewhere on her. The sky was deep Southern blue with high white clouds that looked permanent but weren't." },
+    { "type": "narration", "content": "After lunch they spread out in the backyard. Eli was on his back in the grass identifying clouds. Savannah had a book somewhere on her — she was always prepared." },
     { "type": "narration", "content": "Kit sat on the back steps with his knees up. Daisy sat on the top step beside him. Millhaven sounded like this in the afternoon: a lawn mower three streets over, the box fan, a radio too faint to make out the song." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You were looking at your mom's street up there." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
@@ -16,20 +16,19 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I think she comes home tired." },
     { "type": "dialogue", "speaker": "Daisy", "content": "She was tired before, too." },
     { "type": "dialogue", "speaker": "Kit", "content": "Different tired." },
-    { "type": "narration", "content": "Daisy knew what he meant by that. She didn't push on it." },
+    { "type": "narration", "content": "Daisy let it sit there." },
     { "type": "dialogue", "speaker": "Daisy", "content": "My dad used to work doubles at the hardware store. Before he got the supervisor thing. He'd come home and just — not be able to talk for about an hour. Mama called it refilling." },
     { "type": "dialogue", "speaker": "Kit", "content": "Refilling what." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Himself, I guess. All the parts that talking to people all day uses up." },
     { "type": "narration", "content": "Kit thought about his mom at the kitchen table. Glass of water, fifteen minutes. Nobody talking." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. That's the one." },
-    { "type": "narration", "content": "They were quiet for a minute. Eli had found a cloud shaped like a boat and was explaining this to the sky in some detail. Savannah turned a page." },
+    { "type": "narration", "content": "They were quiet for a minute. Eli had found a cloud shaped like a boat and was explaining this to the sky in some detail." },
     { "type": "dialogue", "speaker": "Daisy", "content": "It's good that she has something. The diner. Even if it's tiring." },
     { "type": "dialogue", "speaker": "Kit", "content": "I know." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Better than sitting." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
-    { "type": "narration", "content": "He said it simply, the way he said things when he meant them without wanting to make a whole thing out of it. Daisy let it sit there." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You want to go to Callaway Park later?" },
-    { "type": "narration", "content": "He looked over at her. Something in his face settled — the way it did when something that had been tight in him finally had somewhere to go." },
+    { "type": "narration", "content": "He looked over at her." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah. That'd be good." }
   ]
 }

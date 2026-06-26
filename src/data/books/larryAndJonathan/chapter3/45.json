@@ -4,18 +4,97 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "I thought about it. Really thought — not the polished version I gave to adults who asked at dinner." },
-    { "type": "dialogue", "speaker": "Larry", "content": "It's the only place where everything has to be immediate. Like — you can't think your way through a play once it starts. You just have to know and go. And either you do or you don't." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "And you're good at that? Knowing and going?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "I'm getting better at it. Off the field I'm not great at it." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "I think you're better at it than you think." },
-    { "type": "dialogue", "speaker": "Larry", "content": "You keep saying that." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Because it keeps being true." },
-    { "type": "internalThought", "content": "I looked at her. She was watching the street. The light was that Thursday-afternoon kind — low and amber, the kind that makes everything look quieter than it is." },
-    { "type": "dialogue", "speaker": "Larry", "content": "Okay. My turn." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "You're asking me something?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "What are you actually trying to figure out about yourself this year? Not the regular answer." },
-    { "type": "internalThought", "content": "She went quiet for a second. Long enough that I thought maybe I'd pushed too far." },
-    { "type": "dialogue", "speaker": "Crystal", "content": "Whether I can be honest about what I want without making it smaller so people are more comfortable with it." }
+    {
+      "type": "internalThought",
+      "content": "I thought about it. Really thought — not the polished version I gave to adults who asked at dinner."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "It's the only place where everything has to be immediate. Like — you can't think your way through a play once it starts. You just have to know and go. And either you do or you don't."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "And you're good at that? Knowing and going?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I'm getting better at it. Off the field I'm not great at it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "I think you're better at it than you think."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "You keep saying that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Because it keeps being true."
+    },
+    {
+      "type": "internalThought",
+      "content": "I looked at her. She was watching the street. The light was that Thursday-afternoon kind — low and amber, the kind that makes everything look quieter than it is."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Okay. My turn."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "You're asking me something?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "What are you actually trying to figure out about yourself this year? Not the regular answer."
+    },
+    {
+      "type": "internalThought",
+      "content": "She went quiet for a second. Long enough that I thought maybe I'd pushed too far."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Crystal",
+      "content": "Whether I can be honest about what I want without making it smaller so people are more comfortable with it."
+    },
+    {
+      "type": "choice",
+      "prompt": "She keeps saying you trust yourself more than you think. You're about to ask her the same question back.",
+      "options": [
+        {
+          "id": "ep3_asked_her_back",
+          "label": "Do it. Ask her the same question.",
+          "goto": 46,
+          "flagsSet": [
+            "ep3_asked_her_back"
+          ]
+        },
+        {
+          "id": "ep3_said_why_crystal",
+          "label": "\"Why do you keep saying that about me?\"",
+          "goto": 46,
+          "flagsSet": [
+            "ep3_said_why_crystal"
+          ]
+        },
+        {
+          "id": "ep3_just_heard_p45",
+          "label": "Stay with what she just said for a moment. Then ask.",
+          "goto": 46,
+          "flagsSet": [
+            "ep3_just_heard_p45"
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -1,19 +1,19 @@
-{
+﻿{
   "page": 8,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Eli had gone to real effort. Blankets laid out, a fire going in the center, lanterns strung between two poles he must have hauled out himself. Priya was there already, talking to Savannah. Marcus and DeShawn from high school showed up three minutes after Kit and Daisy." },
+    { "type": "narration", "content": "Eli had gone to real effort. Blankets laid out, a fire going in the center, lanterns strung between two poles he must have hauled out himself. Meilin was there already, talking to Savannah. Marcus and DeShawn from high school showed up three minutes after Kit and Daisy." },
     { "type": "dialogue", "speaker": "Eli", "content": "Six seventeen. You're late." },
     { "type": "dialogue", "speaker": "Kit", "content": "We're seventeen minutes on time." },
     { "type": "dialogue", "speaker": "Eli", "content": "I said six." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Eli. The lanterns are beautiful." },
     { "type": "narration", "content": "He straightened immediately." },
-    { "type": "dialogue", "speaker": "Eli", "content": "Thank you. Priya picked the spacing." },
-    { "type": "dialogue", "speaker": "Priya", "content": "He measured it. I said yes or no." },
+    { "type": "dialogue", "speaker": "Eli", "content": "Thank you. Meilin picked the spacing." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "He measured it. I said yes or no." },
     { "type": "dialogue", "speaker": "Savannah", "content": "How long did that take." },
-    { "type": "dialogue", "speaker": "Priya", "content": "Longer than it needed to." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "Longer than it needed to." },
     { "type": "dialogue", "speaker": "Eli", "content": "It needed to take that long." },
     { "type": "narration", "content": "Savannah caught Daisy's eye across the field. Both of them smiled." },
     { "type": "dialogue", "speaker": "DeShawn", "content": "Kit. You look like California." },
@@ -22,6 +22,6 @@
     { "type": "dialogue", "speaker": "Marcus", "content": "He's happy. That's what different looks like on him." },
     { "type": "dialogue", "speaker": "Kit", "content": "Are we doing this tonight or are we roasting me." },
     { "type": "dialogue", "speaker": "Eli", "content": "Both. Grab a drink. Fireworks start at dark." },
-    { "type": "narration", "content": "The field filled in slowly. The fire crackled. The lanterns swayed when the breeze came through. Above them, the sky was doing its last good work — purple at the edges, fading fast toward navy." }
+    { "type": "narration", "content": "The field filled in slowly. The fire crackled. The lanterns swayed when the breeze came through. Above them, the sky was purple at the edges, fading fast toward navy." }
   ]
 }

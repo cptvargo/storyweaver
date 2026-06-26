@@ -4,31 +4,167 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Wren", "text": "looked up once after Cade walked away. Then looked back at the water. She had heard everything and kept it.", "condition": "ep1_wren_noticed" },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You're out here by yourself." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Sophie's drying off. Needed five minutes." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Five minutes for you or five minutes from her?" },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Both, probably." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You two are good." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yeah. We are." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "She's good for you." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I think so." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "You seem settled. You didn't always." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "College was a long time ago." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "It was." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You doing okay? You seem — I don't know. Thoughtful." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "I'm always thoughtful." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "More than usual." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "Being back with everyone. It just makes you think about how much time passes." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Yeah. It does." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "There you are. I've been looking everywhere." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Five feet from where you left me." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "Everywhere." },
-    { "type": "internalThought", "content": "Nadia smiled when Sophie arrived. She looked at the water immediately after." },
-    { "type": "choice", "prompt": "What did Nadia mean — how much time passes?", "options": [
-      { "id": "ep1_nadia_nostalgic", "label": "She's nostalgic. Reunions do that to people." },
-      { "id": "ep1_nadia_measuring", "label": "She was measuring. How settled he is. How far gone." },
-      { "id": "ep1_nadia_resigned", "label": "She already knew the answer before she asked." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Wren",
+      "text": "looked up once after Cade walked away. Then looked back at the water. She had heard everything and kept it.",
+      "condition": "ep1_wren_noticed"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had filed it. The kind of debt people carry isn't only financial.",
+      "condition": "ep1_cade_debt_feel"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Marcus straighten slightly. He'd been right — Marcus hadn't liked what Cade had said.",
+      "condition": "ep1_cade_argument_feel"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "watched Cade walk away and kept it without naming it.",
+      "condition": "ep1_p18_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You're out here by yourself."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Sophie's drying off. Needed five minutes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Five minutes for you or five minutes from her?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Both, probably."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You two are good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Yeah. We are."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "She's good for you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I think so."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "You seem settled. You didn't always."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "College was a long time ago."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "It was."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You doing okay? You seem â€” I don't know. Thoughtful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "I'm always thoughtful."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "More than usual."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "Being back with everyone. It just makes you think about how much time passes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Yeah. It does."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "There you are. I've been looking everywhere."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Five feet from where you left me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "Everywhere."
+    },
+    {
+      "type": "internalThought",
+      "content": "Nadia smiled when Sophie arrived. She looked at the water immediately after.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "choice",
+      "prompt": "What did Nadia mean â€” how much time passes?",
+      "options": [
+        {
+          "id": "ep1_nadia_nostalgic",
+          "label": "She's nostalgic. Reunions do that to people.",
+          "goto": 20,
+          "flagsSet": [
+            "ep1_nadia_nostalgic"
+          ]
+        },
+        {
+          "id": "ep1_nadia_measuring",
+          "label": "She was measuring. How settled he is. How far gone.",
+          "goto": 20,
+          "flagsSet": [
+            "ep1_nadia_measuring"
+          ]
+        },
+        {
+          "id": "ep1_nadia_resigned",
+          "label": "She already knew the answer before she asked.",
+          "goto": 20,
+          "flagsSet": [
+            "ep1_nadia_resigned"
+          ]
+        },
+        {
+          "id": "ep1_p19_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p19_silent"
+          ],
+          "goto": 20
+        }
+      ]
+    }
   ]
 }

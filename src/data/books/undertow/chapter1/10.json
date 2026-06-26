@@ -4,30 +4,92 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "kept watching. He had already identified who in this group watched without being watched back.", "condition": "ep1_saw_nadia" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Okay. Story time. Since we have guests." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "No." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "The Appalachian Trail story." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "We are not telling that story." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "We are absolutely telling that story." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "There are new people here." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "That's why we're telling it." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Now I need to hear this." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It was one bad decision. One." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It was seventeen sequential bad decisions that he made sound like a plan." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "There was a map involved. He had a map." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "I had a map." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "He had a map of the wrong trail." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "They look the same." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "They really don't." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "You were gone for eleven hours." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "It was a long trail." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "It was a parking lot loop. He was in a parking lot loop for eleven hours." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I'm sorry — how?" },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "The lot was very large." },
-    { "type": "choice", "prompt": "The whole group is laughing. What does Julian do?", "options": [
-      { "id": "ep1_julian_laughs", "label": "He laughs. Actually laughs." },
-      { "id": "ep1_julian_smiles", "label": "He smiles. It almost reaches his eyes." }
-    ]}
+    { "type": "consequence", "character": "Julian", "text": "watched Nadia rejoin the group. She sat exactly where Marcus had asked her to, just later than he'd asked.", "condition": "ep1_saw_nadia" },
+    { "type": "consequence", "character": "Julian", "text": "let the fire comment go. She'd changed the subject and that was the thing that mattered — not what she said it about.", "condition": "ep1_saw_fire" },
+    { "type": "consequence", "character": "Julian", "text": "let the evening be what it was. It had been genuinely good and not everything needed to be more than that.", "condition": "ep1_saw_nothing" },
+    { "type": "consequence", "character": "Julian", "text": "let the evening settle without naming it. Some things worked better that way.", "condition": "ep1_p9_silent" },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "I have to sleep. I can feel it hitting."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Good call. Marcus — fire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'll get it. Five minutes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "That's what you said when the last fire was still going."
+    },
+    { "type": "dialogue", "speaker": "Cade Mercer", "content": "Good night, everybody." },
+    { "type": "dialogue", "speaker": "Wren Cole", "content": "Night." },
+    {
+      "type": "narration",
+      "content": "The group filtered inside. Mara went ahead — she'd been up since five. Eventually it was just Marcus and Julian at what was left of the fire."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Ten years. You'd think it would feel less new each time. But every time we do this — just get everyone in the same place — it still gets to me a little."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "You put a lot of work into keeping people together."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "It's not work. It's just — you get the time and then it's gone again. I'd rather not waste it wondering what everyone's up to. I'd rather just know."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "He meant it. There was no performance in it at all."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "There's actually something I've been meaning to get to Dean before the weekend's over. Small thing. I keep meaning to and then I forget I've got it. Probably nothing at this point."
+    },
+    { "type": "dialogue", "speaker": "Julian Crane", "content": "What is it?" },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "I'd have to find it. I should just — before Sunday, I should find it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Don't let the weekend get away from you before you do."
+    },
+    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "Yeah. You're right." },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "Anyway. I'm glad you two came over tonight. The group needed a couple of outsiders. Keeps it honest."
+    },
+    {
+      "type": "internalThought",
+      "mindOf": "Julian",
+      "content": "I'd have to find it. He said it like the thing itself was small. What he sounded like was someone who didn't know what he was carrying."
+    },
+    {
+      "type": "choice",
+      "prompt": "Marcus has something for Dean. He's been forgetting it. Does it mean anything?",
+      "options": [
+        { "id": "ep1_dean_thing_filed", "label": "Filed. Not significant — people have small intentions they forget all the time.", "flagsSet": ["ep1_dean_thing_filed"], "goto": 11 },
+        { "id": "ep1_dean_thing_weight", "label": "\"Probably nothing\" is what people say when something is something.", "flagsSet": ["ep1_dean_thing_weight"], "goto": 11 },
+        { "id": "ep1_dean_thing_stay", "label": "\"Don't let the weekend get away from you.\" He meant it more than he let on.", "flagsSet": ["ep1_dean_thing_stay"], "goto": 11 },
+        { "id": "ep1_p10_silent", "label": "...", "flagsSet": ["ep1_p10_silent"], "goto": 11 }
+      ]
+    }
   ]
 }

@@ -4,15 +4,78 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Saturday practice. Coach Briggs was running us through combo routes — the kind where the QB and receiver have to make the same read at the same time off the same coverage. Either you're both right or neither of you is." },
-    { "type": "dialogue", "speaker": "Coach Briggs", "content": "This is a trust drill. I'm not looking for the perfect route. I'm looking for two people making the same choice at the same time. Go." },
-    { "type": "internalThought", "content": "Jonathan and I looked at each other for about half a second. Then we ran it." },
-    { "type": "internalThought", "content": "Clean. The read happened before the snap even. We both felt the corner sitting back and we both adjusted — him at the line, me at the break — without saying anything." },
-    { "type": "dialogue", "speaker": "Coach Briggs", "content": "That's it. That's what I'm asking for. Do that again." },
-    { "type": "internalThought", "content": "We ran it again. And again. Every rep was the same — not perfect, but real. The kind of football that happens when two people stop performing and just play." },
-    { "type": "internalThought", "content": "I glanced at the bleachers at one point. Stacy was there. Same notebook. She was watching the coverage adjustments, marking something." },
-    { "type": "internalThought", "content": "Jonathan did not glance at the bleachers. He was completely focused. This was the version of him I ran with — the one who loved the work itself, separate from everything around it." },
-    { "type": "internalThought", "content": "After the session Coach kept me for a minute." },
-    { "type": "dialogue", "speaker": "Coach Briggs", "content": "Jenkins. Whatever shifted this week — keep it. That's the player I've been waiting for." }
+    {
+      "type": "internalThought",
+      "content": "Saturday practice. Coach Briggs was running us through combo routes — the kind where the QB and receiver have to make the same read at the same time off the same coverage. Either you're both right or neither of you is."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Coach Briggs",
+      "content": "This is a trust drill. I'm not looking for the perfect route. I'm looking for two people making the same choice at the same time. Go."
+    },
+    {
+      "type": "internalThought",
+      "content": "Jonathan and I looked at each other for about half a second. Then we ran it."
+    },
+    {
+      "type": "internalThought",
+      "content": "Clean. The read happened before the snap even. We both felt the corner sitting back and we both adjusted — him at the line, me at the break — without saying anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Coach Briggs",
+      "content": "That's it. That's what I'm asking for. Do that again."
+    },
+    {
+      "type": "internalThought",
+      "content": "We ran it again. And again. Every rep was the same — not perfect, but real. The kind of football that happens when two people stop performing and just play."
+    },
+    {
+      "type": "internalThought",
+      "content": "I glanced at the bleachers at one point. Stacy was there. Same notebook. She was watching the coverage adjustments, marking something."
+    },
+    {
+      "type": "internalThought",
+      "content": "Jonathan did not glance at the bleachers. He was completely focused. This was the version of him I ran with — the one who loved the work itself, separate from everything around it."
+    },
+    {
+      "type": "internalThought",
+      "content": "After the session Coach kept me for a minute."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Coach Briggs",
+      "content": "Jenkins. Whatever shifted this week — keep it. That's the player I've been waiting for."
+    },
+    {
+      "type": "choice",
+      "prompt": "Coach Briggs says that's the player he's been waiting for.",
+      "options": [
+        {
+          "id": "ep3_knew_shifted_p62",
+          "label": "\"I know what shifted.\" You're going to keep it.",
+          "goto": 63,
+          "flagsSet": [
+            "ep3_knew_shifted_p62"
+          ]
+        },
+        {
+          "id": "ep3_said_try_coach",
+          "label": "\"I'm trying, Coach.\"",
+          "goto": 63,
+          "flagsSet": [
+            "ep3_said_try_coach"
+          ]
+        },
+        {
+          "id": "ep3_nodded_coach",
+          "label": "Nod. Let it mean something without performing it.",
+          "goto": 63,
+          "flagsSet": [
+            "ep3_nodded_coach"
+          ]
+        }
+      ]
+    }
   ]
 }

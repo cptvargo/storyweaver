@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 2,
   "chapter": 11,
   "chapterTitle": "On Purpose",
@@ -11,7 +11,7 @@
     { "type": "dialogue", "speaker": "Darius", "content": "About Daisy." },
     { "type": "dialogue", "speaker": "Kit", "content": "About something." },
     { "type": "dialogue", "speaker": "Darius", "content": "About Daisy." },
-    { "type": "narration", "content": "Kit didn't answer. Darius had learned to read that as a yes." },
+    { "type": "narration", "content": "Kit didn't answer." },
     { "type": "dialogue", "speaker": "Darius", "content": "You going to ask her." },
     { "type": "dialogue", "speaker": "Kit", "content": "Ask her what." },
     { "type": "dialogue", "speaker": "Darius", "content": "Don't do that." },
@@ -27,6 +27,6 @@
     { "type": "dialogue", "speaker": "Darius", "content": "You're a filmmaker." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Darius", "content": "So make something." },
-    { "type": "narration", "content": "Kit looked at him. It was the simplest thing anyone had said to him in months. He didn't know why he hadn't gotten there himself." }
+    { "type": "narration", "content": "Kit looked at him." }
   ]
 }

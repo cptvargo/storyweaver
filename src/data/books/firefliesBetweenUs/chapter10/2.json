@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 2,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "June settled in easy. They fell back into each other the way they always had — except different now, with a name on it, and the weight of that name was lighter than either of them had expected." },
+    { "type": "narration", "content": "June settled in easy. They fell back into each other the way they always had." },
     { "type": "dialogue", "speaker": "Kit", "content": "You're staring." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I'm not staring. I'm sitting in the same room as you." },
     { "type": "dialogue", "speaker": "Kit", "content": "With your eyes pointed directly at me." },
@@ -21,12 +21,12 @@
     { "type": "dialogue", "speaker": "Kit", "content": "That sentence made sense." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You understood it." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah I did." },
-    { "type": "narration", "content": "He reached over and took her hand. She looked down at it — the same hand, the same gesture they'd been doing for months — and something in her face went quiet and settled." },
+    { "type": "narration", "content": "He reached over and took her hand. She looked down at it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're going to be okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "We're going to be better than okay." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Don't get ahead of yourself." },
     { "type": "dialogue", "speaker": "Kit", "content": "I've been waiting since we were twelve." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Eleven. Don't rewrite history." },
-    { "type": "narration", "content": "He laughed. She smiled at the ceiling. Outside, the yard was doing what Georgia yards do in June — humming, warm, alive with the sound of everything that lived in the dark." }
+    { "type": "narration", "content": "He laughed. She smiled at the ceiling. Outside, the yard was humming and warm." }
   ]
 }

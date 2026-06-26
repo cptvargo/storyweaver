@@ -1,10 +1,10 @@
-{
+﻿{
   "page": 13,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Eli announced it was time to set up the launch point, which required DeShawn and Marcus and what appeared to be a detailed verbal instruction set that Priya kept having to clarify. Savannah went with them, nominally to help, actually to give Kit and Daisy the field." },
+    { "type": "narration", "content": "Eli announced it was time to set up the launch point, which required DeShawn and Marcus and what appeared to be a detailed verbal instruction set that Meilin kept having to clarify. Savannah went with them, nominally to help, actually to give Kit and Daisy the field." },
     { "type": "dialogue", "speaker": "Savannah", "content": "That fuse looks short." },
     { "type": "dialogue", "speaker": "Eli", "content": "The fuse is regulation." },
     { "type": "dialogue", "speaker": "Savannah", "content": "Says who." },
@@ -21,6 +21,6 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "Eli was right." },
     { "type": "dialogue", "speaker": "Kit", "content": "He usually is. I hate it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Some things should just get to be free." },
-    { "type": "narration", "content": "She said it quietly, looking out at the field. He looked at her profile in the firelight and didn't say anything for a moment because some things didn't need a response — they just needed to be heard." }
+    { "type": "narration", "content": "She said it quietly, looking out at the field. He looked at her profile in the firelight." }
   ]
 }

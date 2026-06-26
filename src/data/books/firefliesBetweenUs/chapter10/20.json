@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 20,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -20,11 +20,11 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Daisy May Jones is blushing." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit Jenkins if you say one more word —" },
     { "type": "dialogue", "speaker": "Kit", "content": "You're the most beautiful person I've ever seen." },
-    { "type": "narration", "content": "She finally looked at him. The firelight between them. Her face did the thing it never let itself do with an audience — open and completely unguarded, every wall down, just Daisy." },
+    { "type": "narration", "content": "She finally looked at him. The firelight between them." },
     { "type": "dialogue", "speaker": "Daisy", "content": "That is not fair." },
     { "type": "dialogue", "speaker": "Kit", "content": "Completely fair." },
     { "type": "dialogue", "speaker": "Eli", "content": "I need a moment." },
-    { "type": "dialogue", "speaker": "Priya", "content": "Take your moment." },
+    { "type": "dialogue", "speaker": "Meilin", "content": "Take your moment." },
     { "type": "dialogue", "speaker": "Eli", "content": "I'm taking it. Thank you." }
   ]
 }

@@ -19,6 +19,6 @@
     { "type": "narration", "content": "He got on his bike. Eli was still watching him." },
     { "type": "dialogue", "speaker": "Eli", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll see you tomorrow." },
-    { "type": "narration", "content": "He rode home faster than usual. Not because he was upset. It was a rumor, it was nothing, it was seventh grade doing what seventh grade did. He rode past the field on the way home and didn't stop, which was something he would think about later." }
+    { "type": "narration", "content": "He rode home faster than usual. He rode past the field and didn't stop." }
   ]
 }

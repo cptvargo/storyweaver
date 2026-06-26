@@ -4,16 +4,87 @@
   "chapterTitle": "The Steps",
   "bookId": "larryAndJonathan",
   "blocks": [
-    { "type": "internalThought", "content": "Sunday came and went. I talked to my mom. Not all of it — the Daniel part, the after-school part. She went quiet in that way where I could feel her trying to figure out if she should call the school. She didn't — not yet. But I knew the countdown on that had started." },
-    { "type": "internalThought", "content": "By Monday, something had shifted in the hallways. I couldn't name it exactly. But Daniel looked at me once and looked away. Not the aggressive kind — the recalibrating kind. Like Mr. Cole's presence in that car had rearranged something he hadn't planned for." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "He clocked you in the hall." },
-    { "type": "dialogue", "speaker": "Larry", "content": "I know." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Different energy though. You notice?" },
-    { "type": "dialogue", "speaker": "Larry", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "He's figuring out who Mr. Cole is. Whether that was a fluke or not." },
-    { "type": "dialogue", "speaker": "Larry", "content": "What does he decide?" },
-    { "type": "dialogue", "speaker": "Jonathan", "content": "Depends what happens next." },
-    { "type": "internalThought", "content": "He wasn't wrong. Daniel was doing math. We'd bought a window — not a solution." },
-    { "type": "consequence", "character": "Daniel", "text": "is recalculating." }
+    {
+      "type": "internalThought",
+      "content": "Sunday came and went. I talked to my mom. Not all of it — the Daniel part, the after-school part. She went quiet in that way where I could feel her trying to figure out if she should call the school. She didn't — not yet. But I knew the countdown on that had started."
+    },
+    {
+      "type": "internalThought",
+      "content": "By Monday, something had shifted in the hallways. I couldn't name it exactly. But Daniel looked at me once and looked away. Not the aggressive kind — the recalibrating kind. Like Mr. Cole's presence in that car had rearranged something he hadn't planned for."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "He clocked you in the hall."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Different energy though. You notice?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "He's figuring out who Mr. Cole is. Whether that was a fluke or not."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Larry",
+      "content": "What does he decide?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jonathan",
+      "content": "Depends what happens next."
+    },
+    {
+      "type": "internalThought",
+      "content": "He wasn't wrong. Daniel was doing math. We'd bought a window — not a solution."
+    },
+    {
+      "type": "consequence",
+      "character": "Daniel",
+      "text": "is recalculating."
+    },
+    {
+      "type": "choice",
+      "prompt": "Daniel's recalculating. You bought a window, not a solution.",
+      "options": [
+        {
+          "id": "ep3_told_j_mom_p40",
+          "label": "\"I'm telling my mom about it. She should know.\"",
+          "goto": 41,
+          "flagsSet": [
+            "ep3_told_j_mom_p40"
+          ]
+        },
+        {
+          "id": "ep3_asked_j_daniel_p40",
+          "label": "\"What do you think he decides next?\"",
+          "goto": 41,
+          "flagsSet": [
+            "ep3_asked_j_daniel_p40"
+          ]
+        },
+        {
+          "id": "ep3_knew_window_p40",
+          "label": "I already knew. Keep moving.",
+          "goto": 41,
+          "flagsSet": [
+            "ep3_knew_window_p40"
+          ]
+        }
+      ]
+    }
   ]
 }

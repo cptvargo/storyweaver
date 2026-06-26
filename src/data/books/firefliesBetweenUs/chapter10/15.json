@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 15,
   "chapter": 10,
   "chapterTitle": "This Kind of Night",
@@ -10,13 +10,13 @@
     { "type": "dialogue", "speaker": "Daisy", "content": "I always knew." },
     { "type": "narration", "content": "The first firework went up from somewhere across town — the municipal display, distant, a bloom of gold spreading over the tree line. Someone in the group cheered. Then Eli's voice, announcing two minutes out." },
     { "type": "narration", "content": "Neither of them moved." },
-    { "type": "narration", "content": "He reached out and brushed her hair back from her face — slow, no rush in it — and she didn't look away. The fire behind them. The fireflies around them. The whole dark field holding still like it was waiting too." },
+    { "type": "narration", "content": "He reached out and brushed her hair back from her face — slow, no rush in it — and she didn't look away. The fire behind them. The fireflies around them." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Stop thinking." },
     { "type": "narration", "content": "Eli's first firework cracked open above them — white and gold, splitting the dark, the whole sky going bright — and the field filled with light and sound and Daisy was still looking at him and he was still looking at her." },
     { "type": "narration", "content": "He leaned in." },
     { "type": "narration", "content": "She met him." },
-    { "type": "narration", "content": "And then — finally, after ten years of almost — it became something else entirely." }
+    { "type": "narration", "content": "And then it happened." }
   ]
 }

@@ -4,34 +4,182 @@
   "chapterTitle": "The Weekend",
   "bookId": "undertow",
   "blocks": [
-    { "type": "consequence", "character": "Julian", "text": "spent the morning trying. He was mostly successful.", "condition": "ep1_lets_it_go" },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "You made it out." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Told you we might." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "No might about it. The coast decided." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "The water is so cold though. Dean went in." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "It's not that cold." },
-    { "type": "dialogue", "speaker": "Sophie Laurent", "content": "He turned blue." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "I did not turn blue." },
-    { "type": "dialogue", "speaker": "Nadia Reyes", "content": "A very healthy shade of blue." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "You all are against me." },
-    { "type": "dialogue", "speaker": "Marcus Calloway", "content": "The ocean is against you." },
-    { "type": "dialogue", "speaker": "Cade Mercer", "content": "The thermometer is against you." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "Science is against you." },
-    { "type": "dialogue", "speaker": "Dean Ashby", "content": "Thank you, Wren." },
-    { "type": "dialogue", "speaker": "Wren Cole", "content": "Anytime." },
-    { "type": "internalThought", "content": "Nadia was the most visibly present she had been all weekend. Laughing first. Moving between conversations. She had positioned herself where everyone could see her." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Do you want to go in?" },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "No." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "I do." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "Go." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "Come with me." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll watch." },
-    { "type": "dialogue", "speaker": "Mara Voss", "content": "You'll watch the group, you mean." },
-    { "type": "dialogue", "speaker": "Julian Crane", "content": "I'll watch the water." },
-    { "type": "choice", "prompt": "Nadia is the most visible person on the beach. What does Julian make of it?", "options": [
-      { "id": "ep1_nadia_cover", "label": "People who need to be seen usually need something covered." },
-      { "id": "ep1_nadia_lightened", "label": "She seems lighter today. Maybe last night helped." },
-      { "id": "ep1_nadia_natural", "label": "She's just enjoying herself. Let it go." }
-    ]}
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "spent the morning trying. He was mostly successful.",
+      "condition": "ep1_lets_it_go"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "sat down with it still running. He was good at keeping two things going at once.",
+      "condition": "ep1_cant_let_go"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "had tabled it. There was a difference between letting go and setting something down where you could find it.",
+      "condition": "ep1_tabled_it"
+    },
+    {
+      "type": "consequence",
+      "character": "Julian",
+      "text": "sat down and said nothing about any of it.",
+      "condition": "ep1_p16_silent"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "You made it out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Told you we might."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "No might about it. The coast decided."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "The water is so cold though. Dean went in."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "It's not that cold."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Sophie Laurent",
+      "content": "He turned blue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "I did not turn blue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Nadia Reyes",
+      "content": "A very healthy shade of blue."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "You all are against me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus Calloway",
+      "content": "The ocean is against you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Cade Mercer",
+      "content": "The thermometer is against you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "Science is against you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dean Ashby",
+      "content": "Thank you, Wren."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Wren Cole",
+      "content": "Anytime."
+    },
+    {
+      "type": "internalThought",
+      "content": "Nadia was the most visibly present she had been all weekend. Laughing first. Moving between conversations. She had positioned herself where everyone could see her.",
+      "mindOf": "Julian"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Do you want to go in?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "No."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "I do."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "Go."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "Come with me."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'll watch."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mara Voss",
+      "content": "You'll watch the group, you mean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Julian Crane",
+      "content": "I'll watch the water."
+    },
+    {
+      "type": "choice",
+      "prompt": "Nadia is the most visible person on the beach. What does Julian make of it?",
+      "options": [
+        {
+          "id": "ep1_nadia_cover",
+          "label": "People who need to be seen usually need something covered.",
+          "goto": 18,
+          "flagsSet": [
+            "ep1_nadia_cover"
+          ]
+        },
+        {
+          "id": "ep1_nadia_lightened",
+          "label": "She seems lighter today. Maybe last night helped.",
+          "goto": 18,
+          "flagsSet": [
+            "ep1_nadia_lightened"
+          ]
+        },
+        {
+          "id": "ep1_nadia_natural",
+          "label": "She's just enjoying herself. Let it go.",
+          "goto": 18,
+          "flagsSet": [
+            "ep1_nadia_natural"
+          ]
+        },
+        {
+          "id": "ep1_p17_silent",
+          "label": "[Say Nothing]",
+          "flagsSet": [
+            "ep1_p17_silent"
+          ],
+          "goto": 18
+        }
+      ]
+    }
   ]
 }

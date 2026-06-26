@@ -4,16 +4,17 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They stayed five days." },
-    { "type": "narration", "content": "They sorted through the house slowly, without rushing â€” the way it needs to be done, a room at a time, with space between to breathe. There were things Kit kept. A watch. A recipe box in his mother's handwriting. A photograph he found in the hallway closet of himself at nine years old, standing in front of this house with his mother's arm around him, squinting into the sun." },
-    { "type": "narration", "content": "He held the photograph for a long time." },
-    { "type": "narration", "content": "Daisy boxed the kitchen. She didn't make it a task â€” she moved slowly, held things, set some aside. In the back of a drawer she found a clipping from the local paper, a small notice about Millhaven's documentary win at Austin. Ruth had cut it out. She'd had it in her kitchen drawer." },
-    { "type": "narration", "content": "Daisy put it in the box she was keeping for Kit. Didn't say anything about it." },
-    { "type": "narration", "content": "On their fourth night, after the work was done and the house was quiet, she told him she needed some air. He asked if she wanted company." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Yes. Come with me." },
-    { "type": "narration", "content": "They walked without planning a direction. Millhaven after dark had its own grammar â€” the yellow porch lights, the sound of somewhere someone was watching television, the smell of the night in Georgia in April that was unlike any smell in the world." },
-    { "type": "narration", "content": "She knew where her feet were taking her before she said it." },
-    { "type": "narration", "content": "He did too." },
-    { "type": "narration", "content": "They walked toward the field." }
+    { "type": "narration", "content": "The call came on a Wednesday in November." },
+    { "type": "narration", "content": "Kit was at the studio. Daisy was at her desk when her phone lit up and she saw the name." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy, sweetheart. I need to tell you something before I tell Kit, because I want someone to know how to help him hear it." },
+    { "type": "narration", "content": "She closed the manuscript." },
+    { "type": "narration", "content": "Ruth Jenkins had been diagnosed in the summer — had known since August, had told no one. The word she used was manageable." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I'm telling him on Sunday. I just needed you to know first." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "Ruth. Why didn't you —" },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Because I didn't want a fuss. And I knew there'd be a fuss." },
+    { "type": "dialogue", "speaker": "Daisy", "content": "He's going to want to come home." },
+    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I know. Let him. Don't talk him out of it." },
+    { "type": "narration", "content": "Daisy sat at her desk for a long time after the call ended. The manuscript on the screen. The cursor blinking." },
+    { "type": "narration", "content": "She thought about Ruth in the green dress at the festival, pressing two fingers to her lips." }
   ]
 }

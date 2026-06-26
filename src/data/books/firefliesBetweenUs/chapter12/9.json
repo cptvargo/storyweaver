@@ -5,17 +5,17 @@
   "bookId": "firefliesBetweenUs",
   "blocks": [
     { "type": "narration", "content": "She woke at three in the morning and knew." },
-    { "type": "narration", "content": "Not all at once. Just a knowing that came from somewhere below thought — a change in the body that the body understood before the mind was willing to. She lay still in the dark for a long time. Kit's breathing beside her, slow and even." },
+    { "type": "narration", "content": "She lay still in the dark for a long time. Kit's breathing beside her, slow and even." },
     { "type": "narration", "content": "She didn't wake him. Not yet." },
     { "type": "narration", "content": "By morning the knowing had become something she could name. She sat on the edge of the bathtub with the door closed and her hands in her lap and breathed carefully through something that was not quite pain and not quite anything else — just a wrongness, a quiet alarm her body was sending up." },
     { "type": "narration", "content": "Kit knocked softly at seven." },
     { "type": "dialogue", "speaker": "Kit", "content": "Dais." },
     { "type": "narration", "content": "She opened the door." },
-    { "type": "narration", "content": "She didn't have to say it. He read it in her face the way he always read her — quickly, completely, before she'd chosen words for it. He came in and sat beside her on the edge of the tub and put his arm around her." },
+    { "type": "narration", "content": "She didn't have to say it. He came in and sat beside her on the edge of the tub and put his arm around her." },
     { "type": "dialogue", "speaker": "Kit", "content": "We're going in." },
     { "type": "dialogue", "speaker": "Daisy", "content": "It might be nothing." },
     { "type": "dialogue", "speaker": "Kit", "content": "We're going in." },
     { "type": "narration", "content": "She leaned against him. He held her. Neither of them said the thing they were afraid of." },
-    { "type": "narration", "content": "They drove to the hospital in the pale morning quiet of the city and Kit kept one hand on the wheel and one hand on hers and she watched the streets go by — the coffee shops opening, the people walking dogs, the city doing its ordinary indifferent thing — and she thought: please. Just that. Just the one word." }
+    { "type": "narration", "content": "They drove to the hospital in the pale morning quiet and Kit kept one hand on the wheel and one hand on hers." }
   ]
 }

@@ -4,12 +4,12 @@
   "chapterTitle": "Away Message",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They stopped at the end of her front walk. The porch light was on even though it was still afternoon, which meant her mom had forgotten to turn it off from last night, which was a Daisy Jones household thing." },
+    { "type": "narration", "content": "They stopped at the end of her front walk. The porch light was on even though it was still afternoon." },
     { "type": "dialogue", "speaker": "Daisy", "content": "We're okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I mean it. We're okay." },
     { "type": "dialogue", "speaker": "Kit", "content": "I know." },
-    { "type": "narration", "content": "She had her hand on her bike and she was looking at him directly, the way Daisy looked at things she wanted to make sure were understood." },
+    { "type": "narration", "content": "She had her hand on her bike and was looking at him directly." },
     { "type": "dialogue", "speaker": "Daisy", "content": "You can like who you like, Kit. That's not — that's not the thing." },
     { "type": "dialogue", "speaker": "Kit", "content": "What's the thing." },
     { "type": "narration", "content": "She paused. The porch light buzzed. Somewhere inside the house the TV was on." },
@@ -19,6 +19,6 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I came to C-wing today." },
     { "type": "dialogue", "speaker": "Daisy", "content": "I know." },
     { "type": "dialogue", "speaker": "Kit", "content": "I'll always come find you." },
-    { "type": "narration", "content": "She held his gaze for one second. Then she took her bike up the front walk and leaned it against the porch, and she went inside without looking back, but this time it felt like a decision, not a retreat." }
+    { "type": "narration", "content": "She held his gaze for one second. Then she took her bike up the walk and went inside." }
   ]
 }

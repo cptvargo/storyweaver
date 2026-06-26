@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/useLocalStorage'
 import { useChoiceState } from '../hooks/useChoiceState'
-import { loadPage, ALL_BOOKS } from '../utils/storyEngine'
+import { loadPage, ALL_BOOKS, resolveCharacterPortraits } from '../utils/storyEngine'
 import { publicUrl } from '../utils/publicUrl'
 import SceneRenderer from '../components/Story/SceneRenderer'
 import ChapterIntroCard from '../components/Story/ChapterIntroCard'
@@ -166,7 +166,7 @@ export default function Reader() {
     null
 
   const povAliases = selectedBook?.povAliases ?? []
-  const characters = selectedBook?.characters ?? {}
+  const characters = resolveCharacterPortraits(selectedBook, chapterIndex)
 
   const pageLabel = isIntroCard
     ? `${unitLabel} Intro`

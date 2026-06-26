@@ -1,4 +1,4 @@
-{
+﻿{
   "page": 21,
   "chapter": 9,
   "chapterTitle": "The Distance",
@@ -13,7 +13,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "Save me the pie." },
     { "type": "dialogue", "speaker": "Daisy", "content": "The pie will not last until December." },
     { "type": "dialogue", "speaker": "Kit", "content": "Tragic." },
-    { "type": "narration", "content": "They talked about everything and nothing — her grandmother's story about a Thanksgiving in 1967 that had apparently involved a small fire, Kit's film rough cut coming together finally, what Eli had texted the group (extensively, about Priya), what it felt like to come back to Millhaven and find it the same." },
+    { "type": "narration", "content": "They talked about everything and nothing — her grandmother's story about a Thanksgiving in 1967 that had apparently involved a small fire, Kit's film rough cut coming together finally, what Eli had texted the group (extensively, about Meilin), what it felt like to come back to Millhaven and find it the same." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Does it feel different to you. When you think about going back." },
     { "type": "dialogue", "speaker": "Kit", "content": "Different how." },
     { "type": "dialogue", "speaker": "Daisy", "content": "Like — does home mean the same thing it did in August." },
@@ -34,7 +34,7 @@
     { "type": "dialogue", "speaker": "Kit", "content": "I've been thinking about what you said. About being scared to name it." },
     { "type": "dialogue", "speaker": "Daisy", "content": "And." },
     { "type": "dialogue", "speaker": "Kit", "content": "And I want to talk about it properly. Not on the phone. In person." },
-    { "type": "narration", "content": "She pulled her blanket tighter. Outside, Millhaven was quiet the way it always got at night." },
+    { "type": "narration", "content": "She pulled her blanket tighter. Outside, Millhaven was quiet." },
     { "type": "dialogue", "speaker": "Daisy", "content": "December." },
     { "type": "dialogue", "speaker": "Kit", "content": "December." }
   ]
