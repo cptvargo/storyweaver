@@ -4,17 +4,100 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The doctor was kind." },
-    { "type": "narration", "content": "She held Kit's hand the whole time. He didn't move." },
-    { "type": "narration", "content": "Somewhere in the middle of the explanation she stopped hearing the words and started hearing only the sound of them." },
-    { "type": "narration", "content": "There were things the doctor said about the body. About next steps, about time, about the fact that this was not something either of them had done or failed to do." },
-    { "type": "narration", "content": "Kit thanked her." },
-    { "type": "narration", "content": "They walked to the car. He opened her door. He got in on his side. He sat for a moment with both hands on the wheel and did not start the engine." },
-    { "type": "narration", "content": "The parking structure was quiet at nine in the morning. The sound of the city existed somewhere far above them." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
-    { "type": "narration", "content": "He nodded." },
-    { "type": "narration", "content": "She reached across and put her hand over his on the wheel and they sat in the concrete quiet." },
-    { "type": "narration", "content": "After a while he started the car." },
-    { "type": "narration", "content": "He drove them home." }
+    {
+      "type": "narrative",
+      "content": "Nine weeks. Nobody knew but them."
+    },
+    {
+      "type": "narrative",
+      "content": "She found his copy of What to Expect on the nightstand one morning with a sticky note on the names chapter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "You highlighted Henry."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "It's a solid name."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "It is a solid name."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "What do you have."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Mae. If it's a girl."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "After Grandma Mae."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "After Grandma Mae."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Mae Jenkins."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Mae Jenkins."
+    },
+    {
+      "type": "narrative",
+      "content": "He looked at the ceiling."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "What if it's a boy and he has your stubbornness."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Then he'll figure things out."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Eventually."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Eventually is fine."
+    },
+    {
+      "type": "narrative",
+      "content": "She rolled toward him. He covered her hand with his."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I'm happy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Me too."
+    },
+    {
+      "type": "narrative",
+      "content": "The city moved outside the window. Just the two of them and the thing growing quietly between them, not yet named, not yet real to anyone but them."
+    }
   ]
 }

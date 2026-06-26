@@ -4,24 +4,81 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The banquet was four hours and nobody wanted it to end." },
-    { "type": "dialogue", "speaker": "Meilin", "content": "Longevity noodles. You eat the whole noodle without cutting it. It brings long life." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Without cutting it." },
-    { "type": "dialogue", "speaker": "Meilin", "content": "Do not bite." },
-    { "type": "narration", "content": "Marcus looked at the noodle. The noodle was very long. He attempted it with great sincerity." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "Marcus." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "I've got it." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "You do not have it." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "I'm committed." },
-    { "type": "narration", "content": "The table erupted. Meilin's uncle appeared to find this deeply charming." },
-    { "type": "narration", "content": "The toasts came. Eli stood." },
-    { "type": "dialogue", "speaker": "Eli", "content": "I have been learning Mandarin for two years. I want everyone here to know I have been trying very hard. I have also been failing very consistently. Meilin tells me my tones are — and I quote — creative." },
-    { "type": "narration", "content": "He turned to her parents and raised his glass." },
-    { "type": "dialogue", "speaker": "Eli", "content": "干杯。", "translation": "Cheers." },
-    { "type": "narration", "content": "Tones still wrong. The room cheered anyway." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Kit. You're filming it." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I didn't even realize I —" },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Film it." },
-    { "type": "narration", "content": "He filmed it." }
+    {
+      "type": "narration",
+      "content": "The hall went quiet for the tea ceremony."
+    },
+    {
+      "type": "narration",
+      "content": "Eli and Meilin knelt on the cushions before her parents. Meilin poured. Two cups, deliberate, careful. They lifted them together with both hands and offered them across the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I've never seen him that still."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Me neither."
+    },
+    {
+      "type": "narration",
+      "content": "Her father received his cup and looked at Eli for a long moment before he spoke."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin's Father",
+      "content": "我送她去了那么远。我以为她会变成陌生人。",
+      "translation": "I sent her so far away. I thought she would become a stranger."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin's Father",
+      "content": "但她回来时，比离开时更完整。这是你给她的。谢谢你。",
+      "translation": "But she came back more whole than when she left. This is what you gave her. Thank you."
+    },
+    {
+      "type": "narration",
+      "content": "Nobody moved."
+    },
+    {
+      "type": "narration",
+      "content": "Meilin looked at Eli. She gave him the smallest nod."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "谢谢您信任我。我会一直照顾她。",
+      "translation": "Thank you for trusting me. I will always take care of her."
+    },
+    {
+      "type": "narration",
+      "content": "His tones were off. It didn't matter at all."
+    },
+    {
+      "type": "narration",
+      "content": "Her father pushed the red envelope across the table. Then he smiled — the real one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "He practiced a month for that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "She knows."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Her father knows too."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "That's the whole point."
+    }
   ]
 }

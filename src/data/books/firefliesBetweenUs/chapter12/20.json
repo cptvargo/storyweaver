@@ -4,18 +4,95 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Millhaven premiered at a small documentary festival in Austin on a Thursday in March." },
-    { "type": "narration", "content": "Kit's mother flew in and sat in the third row in a green dress without saying a word. When the lights came up she remained seated — hands in her lap, eyes straight ahead." },
-    { "type": "narration", "content": "Then she turned to Daisy, who was seated beside her, and said:" },
-    { "type": "dialogue", "speaker": "Kit's Mom", "content": "He got it right." },
-    { "type": "narration", "content": "Daisy took her hand. Held it." },
-    { "type": "narration", "content": "In the Q&A afterward, someone asked what the film was really about. He looked out at the audience, then said:" },
-    { "type": "dialogue", "speaker": "Kit", "content": "What happens to love when it doesn't have anywhere to go. And whether it turns into something else, or whether it just — stays. Waiting." },
-    { "type": "narration", "content": "Another question: was it autobiographical." },
-    { "type": "dialogue", "speaker": "Kit", "content": "The narration isn't mine. My wife wrote it. And she's a better writer than I'll ever be, so the true parts — those are hers." },
-    { "type": "narration", "content": "Daisy, in the third row, looked at her lap and smiled." },
-    { "type": "narration", "content": "The film won the jury prize. Kit accepted, thanked the festival, and said one more thing:" },
-    { "type": "dialogue", "speaker": "Kit", "content": "This is for my mom. Who stayed." },
-    { "type": "narration", "content": "In the third row, Ruth Jenkins pressed two fingers to her lips." }
+    {
+      "type": "narration",
+      "content": "The pitch got picked up."
+    },
+    {
+      "type": "narration",
+      "content": "Not by a major studio — a small production company that funded personal projects, the kind of outfit that cared more about what a filmmaker was trying to say than whether it would chart on a streaming algorithm. The budget was modest. The timeline was eight months. The project was entirely his."
+    },
+    {
+      "type": "narration",
+      "content": "Kit sat with the offer letter for a long time before he signed it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "What's wrong."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Nothing. I just — I need to tell you what the film is actually about."
+    },
+    {
+      "type": "narration",
+      "content": "She sat down across from him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "It's about a town. About leaving. About what it means when someone walks out the door and doesn't come back, and what the people left behind do with that."
+    },
+    {
+      "type": "narration",
+      "content": "He watched her understand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Your dad."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "My dad. My mom. Me at eleven standing in a kitchen that was too quiet."
+    },
+    {
+      "type": "narration",
+      "content": "She was quiet for a moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Are you okay to make that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I think I need to make it. I've been carrying it for twenty years and the only language I have big enough for it is this one."
+    },
+    {
+      "type": "narration",
+      "content": "She reached across the table. Took his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Then make it. I'll be here."
+    },
+    {
+      "type": "narration",
+      "content": "He nodded. Looked at the offer letter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I want you to write the narration."
+    },
+    {
+      "type": "narration",
+      "content": "She looked up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Your words. My images. I don't want any other voice on it."
+    },
+    {
+      "type": "narration",
+      "content": "She said yes."
+    }
   ]
 }

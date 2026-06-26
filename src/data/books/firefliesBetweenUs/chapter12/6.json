@@ -4,13 +4,90 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Year one: the money was tight, the apartment was small." },
-    { "type": "narration", "content": "There was the month Kit took on a freelance project that ran six weeks over schedule and turned him into someone who came to bed at two and left before she was awake. She didn't say anything for the first three weeks. On week four she sat down across from him at the editing table at midnight and said:" },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I need you to know I'm here. That I exist in this apartment." },
-    { "type": "narration", "content": "He stopped what he was doing and looked at her. He said:" },
-    { "type": "dialogue", "speaker": "Kit", "content": "You're right. I'm sorry. Tell me what you need." },
-    { "type": "narration", "content": "He wrapped the project ten days later and took her to dinner — the Italian place on the corner they'd been walking past for six months. She told him about the chapter she'd been stuck on. Somewhere in the conversation she found the thread." },
-    { "type": "narration", "content": "She wrote four pages the next morning." },
-    { "type": "narration", "content": "By the time December came, they had a rhythm." }
+    {
+      "type": "narration",
+      "content": "The hotel was twelve minutes from the house. They'd laughed at that — the most romantic night of their lives and they were staying at the only hotel in Millhaven."
+    },
+    {
+      "type": "narration",
+      "content": "None of that mattered when the door closed behind them."
+    },
+    {
+      "type": "narration",
+      "content": "They stood in the quiet of the room and it went still."
+    },
+    {
+      "type": "narration",
+      "content": "She still had her hair up, a few pieces come loose. He crossed the room."
+    },
+    {
+      "type": "narration",
+      "content": "He reached up and pulled the last pin free. Her hair fell."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Twenty years."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Twenty years."
+    },
+    {
+      "type": "narration",
+      "content": "He tilted his head and pressed his lips to the side of her neck — slow, deliberate."
+    },
+    {
+      "type": "narration",
+      "content": "She exhaled. Her hands found the buttons at her back."
+    },
+    {
+      "type": "narration",
+      "content": "He helped her."
+    },
+    {
+      "type": "narration",
+      "content": "—"
+    },
+    {
+      "type": "narration",
+      "content": "Morning came through the gap in the curtains in a long stripe of gold. The city — such as Millhaven was a city — was already awake, already moving."
+    },
+    {
+      "type": "narration",
+      "content": "She was still asleep."
+    },
+    {
+      "type": "narration",
+      "content": "He lay on his side and looked at her. Her hair across the pillow, her hand open beside her face."
+    },
+    {
+      "type": "narration",
+      "content": "He thought: this is what I was waiting for."
+    },
+    {
+      "type": "narration",
+      "content": "She stirred. One eye opened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Stop watching me sleep."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I'm not."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "You absolutely are."
+    },
+    {
+      "type": "narration",
+      "content": "She turned toward him. He didn't look away."
+    }
   ]
 }

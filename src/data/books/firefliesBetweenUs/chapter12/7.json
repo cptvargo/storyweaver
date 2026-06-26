@@ -4,22 +4,59 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "She told him on a Tuesday." },
-    { "type": "narration", "content": "Not a planned Tuesday. Not a special one. She'd been sitting with it for four days — four days of knowing and not saying." },
-    { "type": "narration", "content": "He came home from the studio at six. She was at the counter with two cups of tea — she'd been off coffee for a week and hadn't told him why — and she waited until he'd set down his bag and washed his hands before she said anything." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Sit down." },
-    { "type": "narration", "content": "He sat. Read her face." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Good or bad." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Good." },
-    { "type": "narration", "content": "She slid the test across the counter." },
-    { "type": "narration", "content": "He looked at it for a long moment. She watched his hand come flat down on the counter." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Yeah?" },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Yeah." },
-    { "type": "narration", "content": "He came around the counter. She stood and he held her — not the careful hold, not the polished one, but the real kind, both arms, full, the kind that meant something had cracked open in him in the best way." },
-    { "type": "narration", "content": "She felt him exhale against her hair." },
-    { "type": "dialogue", "speaker": "Kit", "content": "We're going to need a bigger place." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "One crisis at a time." },
-    { "type": "narration", "content": "He laughed. She felt it in his chest before she heard it." },
-    { "type": "narration", "content": "They stayed like that for a while. The city moved outside the window." }
+    {
+      "type": "narration",
+      "content": "Los Angeles in August was a different kind of heat than Georgia — drier, more insistent, the sun pressing down from a white sky instead of rising up out of the ground. Daisy stood at the window of their apartment on the fourth floor of a building in Silver Lake and looked out at the neighborhood below and thought: okay. This is the city. I can learn this."
+    },
+    {
+      "type": "narration",
+      "content": "Their apartment was small. One bedroom, a kitchen that was mostly counter space, a living room that held a couch, Kit's editing setup, and one of those bookshelves that pretends it's also a room divider. Harold sat on the windowsill beside her plant."
+    },
+    {
+      "type": "narration",
+      "content": "She had brought Harold. Kit had not said a word about this — just moved the bear to the windowsill without ceremony and gone back to setting up cables. That was the right answer."
+    },
+    {
+      "type": "narration",
+      "content": "She had a contract editing job that paid enough, a manuscript she was three chapters into, and a husband who came home smelling like the studio and set his shoes by the door every night without being asked. The city was loud and strange and not Georgia, but it had him in it."
+    },
+    {
+      "type": "narration",
+      "content": "Kit was working as a second editor on a documentary series — not his work, but a job in the industry. He came home tired, full of opinions about cuts he wasn't allowed to make, and did the dishes without negotiating about it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "How was it today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "They cut the scene I built the whole second act around."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Did you say anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I said 'understood' and then I went to the bathroom and stood there for a minute."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "That's growth."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "That's survival."
+    },
+    {
+      "type": "narration",
+      "content": "She handed him a fork. He sat at the counter beside her and ate while she read her manuscript aloud."
+    }
   ]
 }

@@ -4,15 +4,59 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Ruth Jenkins died on a morning in April." },
-    { "type": "narration", "content": "Not in a hospital, but at home in her own bed. Kit and Daisy had been there for the last four days, taking shifts." },
-    { "type": "narration", "content": "She went quietly, in the morning, with her son in the next room." },
-    { "type": "narration", "content": "He was the one who found her. Daisy came out of the kitchen and saw his face and she didn't need words." },
-    { "type": "narration", "content": "She went to him." },
-    { "type": "narration", "content": "There were calls to make and people to notify. Kit moved through it all." },
-    { "type": "narration", "content": "Daisy stayed close. She didn't try to fix anything. She just didn't leave." },
-    { "type": "narration", "content": "Eli drove up from Savannah that afternoon with Meilin. They came in without knocking and Eli put both arms around Kit and held on without saying anything." },
-    { "type": "narration", "content": "He cried. At last. Fully." },
-    { "type": "narration", "content": "Meilin and Daisy sat on the couch." }
+    {
+      "type": "narration",
+      "content": "The call came on a Wednesday in November."
+    },
+    {
+      "type": "narration",
+      "content": "Kit was at the studio. Daisy was at her desk when her phone lit up and she saw the name."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "Daisy, sweetheart. I need to tell you something before I tell Kit, because I want someone to know how to help him hear it."
+    },
+    {
+      "type": "narration",
+      "content": "She closed the manuscript."
+    },
+    {
+      "type": "narration",
+      "content": "Ruth Jenkins had been diagnosed in the summer — had known since August, had told no one. The word she used was manageable."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "I'm telling him on Sunday. I just needed you to know first."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Ruth. Why didn't you —"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "Because I didn't want a fuss. And I knew there'd be a fuss."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "He's going to want to come home."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "I know. Let him. Don't talk him out of it."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy sat at her desk for a long time after the call ended. The manuscript on the screen. The cursor blinking."
+    },
+    {
+      "type": "narration",
+      "content": "She thought about Ruth in the green dress at the festival, pressing two fingers to her lips."
+    }
   ]
 }

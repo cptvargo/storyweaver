@@ -4,22 +4,85 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "It was the same field." },
-    { "type": "narration", "content": "The grass was April-high and damp, the tree line the same dark shape against the same dark sky." },
-    { "type": "narration", "content": "They stopped at the edge of it." },
-    { "type": "narration", "content": "The fireflies were out." },
-    { "type": "narration", "content": "Not the full summer display — April was too early for that — but a few, here and there, blinking in and out of the dark." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Look at that." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Early." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Eager." },
-    { "type": "narration", "content": "She laughed, soft, and the laugh loosened something that had been tight in her chest for five days. He reached out and took her hand in the dark. She held it." },
-    { "type": "narration", "content": "He reached into his jacket with his free hand and came out with his phone." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "You're filming this." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I'm filming this." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Why." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Because it's ours. Because I want to remember it the right way." },
-    { "type": "narration", "content": "He raised the phone. The fireflies drifted." },
-    { "type": "narration", "content": "She had been waiting for the right moment." },
-    { "type": "narration", "content": "She thought: this is it." }
+    {
+      "type": "narration",
+      "content": "The funeral was on a Saturday."
+    },
+    {
+      "type": "narration",
+      "content": "Small, the way Ruth had wanted it. Millhaven Baptist, the windows full of April light."
+    },
+    {
+      "type": "narration",
+      "content": "Kit spoke."
+    },
+    {
+      "type": "narration",
+      "content": "He'd written it the night before. Daisy had stayed up with him, sitting nearby."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "My mother taught me that showing up is a form of love. That staying is a form of love. She never said that in words — she just did it, every day, for twenty years, in a house that was quieter than it should have been. She showed me that love is not what you feel when things are easy. It's what you do when things are hard. I learned that from watching her. I hope I've been worth what she gave."
+    },
+    {
+      "type": "narration",
+      "content": "In the front row, Daisy kept her eyes on him."
+    },
+    {
+      "type": "narration",
+      "content": "After the service, people moved through the fellowship hall."
+    },
+    {
+      "type": "narration",
+      "content": "By late afternoon the house was quiet again. Kit and Daisy sat on the back porch in the cool evening and didn't say much."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "She was so proud of you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Not just the film. All of it. You."
+    },
+    {
+      "type": "narration",
+      "content": "He nodded. Looked out at the yard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I want to stay a few more days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I already cancelled our flights."
+    },
+    {
+      "type": "narration",
+      "content": "He looked at her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "When."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Yesterday."
+    },
+    {
+      "type": "narration",
+      "content": "He put his arm around her. She leaned in. The yard went dark."
+    }
   ]
 }

@@ -4,21 +4,50 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
-    { "type": "narration", "content": "She turned toward him. He lowered the phone." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I took a test this morning. Before we left the house." },
-    { "type": "narration", "content": "He went still." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I wasn't going to tell you tonight. Tonight wasn't supposed to be about that. But I've been standing here and I keep thinking — your mom knew every time something big was coming. She always knew. And I think she'd want us to have this." },
-    { "type": "narration", "content": "He looked at her for a long moment. The fireflies moved between them." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Daisy." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "We're going to have a baby." },
-    { "type": "narration", "content": "He didn't say anything." },
-    { "type": "narration", "content": "He looked out at the field, then up at the sky. Then he looked back at her." },
-    { "type": "narration", "content": "He reached out and pulled her close. Her head against his chest. His arms around her in the field, in the dark, in the town where they had started." },
-    { "type": "narration", "content": "He said:" },
-    { "type": "dialogue", "speaker": "Kit", "content": "She knew." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "She knew." },
-    { "type": "narration", "content": "Above them, the April sky. Around them, the field. Between them — the first fireflies of the season." }
+    {
+      "type": "narration",
+      "content": "They stayed five days."
+    },
+    {
+      "type": "narration",
+      "content": "They sorted through the house slowly, a room at a time. There were things Kit kept — a watch, a recipe box in his mother's handwriting, a photograph of himself at nine years old."
+    },
+    {
+      "type": "narration",
+      "content": "He held the photograph for a long time."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy boxed the kitchen. She didn't make it a task — she moved slowly, held things, set some aside. In the back of a drawer she found a clipping from the local paper, a small notice about Millhaven's documentary win at Austin. Ruth had cut it out. She'd had it in her kitchen drawer."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy put it in the box she was keeping for Kit. Didn't say anything about it."
+    },
+    {
+      "type": "narration",
+      "content": "On their fourth night, after the work was done and the house was quiet, she told him she needed some air. He asked if she wanted company."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Yes. Come with me."
+    },
+    {
+      "type": "narration",
+      "content": "They walked without planning a direction. Millhaven after dark had its own grammar — the yellow porch lights, the sound of somewhere someone was watching television, the smell of the night in Georgia in April."
+    },
+    {
+      "type": "narration",
+      "content": "She knew where her feet were taking her before she said it."
+    },
+    {
+      "type": "narration",
+      "content": "He did too."
+    },
+    {
+      "type": "narration",
+      "content": "They walked toward the field."
+    }
   ]
 }

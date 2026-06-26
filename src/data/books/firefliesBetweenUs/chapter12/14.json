@@ -4,26 +4,75 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The venue was red. Not accent-red — red the way a decision is. Gold lanterns, double happiness symbols on every surface, chrysanthemums in vases Kit couldn't name the meaning of." },
-    { "type": "narration", "content": "He stood at the entrance and felt Daisy squeeze his hand." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Kit. You're doing the face." },
-    { "type": "dialogue", "speaker": "Kit", "content": "What face." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "The one where you're framing everything." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I just want to remember it." },
-    { "type": "narration", "content": "Savannah appeared in a borrowed qipao — a cousin's — and wore it like she'd been wearing it her whole life." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "You look incredible." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "I know." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Where did you even get that." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "Meilin's cousin. We're the same size. It was meant to be." },
-    { "type": "narration", "content": "Then Eli came out. Navy tangzhuang, gold buttons." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "He looks good." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Don't tell him that." },
-    { "type": "dialogue", "speaker": "Marcus", "content": "Why not." },
-    { "type": "dialogue", "speaker": "Kit", "content": "He'll never stop talking about it." },
-    { "type": "narration", "content": "Meilin crossed the room to him. She was in red — qipao, gold embroidery at the collar and cuffs, hair up. She reached up and adjusted his collar." },
-    { "type": "dialogue", "speaker": "Meilin", "content": "你今天很好看。", "translation": "You look very handsome today." },
-    { "type": "dialogue", "speaker": "Eli", "content": "You're going to make me forget everything I practiced." },
-    { "type": "dialogue", "speaker": "Meilin", "content": "Then forget it. Just be here." },
-    { "type": "narration", "content": "He was." }
+    {
+      "type": "narration",
+      "content": "He stood up from the table."
+    },
+    {
+      "type": "narration",
+      "content": "Walked to the window. Stood with his back to her and his hands at his sides — and she could see it happening in the line of his shoulders, the thing he'd been holding for nine days trying to find somewhere to put it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I keep thinking about the book on my nightstand."
+    },
+    {
+      "type": "narration",
+      "content": "She didn't move."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I'd gotten through the whole second trimester chapter. I had tabs on names. I'd been looking at — I had a list. Of things we'd need. And I just — I don't know where to put any of it now. I don't know what to do with having wanted something that much and having it —"
+    },
+    {
+      "type": "narration",
+      "content": "He stopped. Breathed."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I didn't know I could want something that much. I didn't know I'd gotten there already. And now it's just gone and everyone keeps telling me it's common and it's normal and the body does what the body does and I know that. I know all of that. But it doesn't —"
+    },
+    {
+      "type": "narration",
+      "content": "His voice broke. Once. Clean."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "It doesn't feel like a statistic. It feels like losing someone."
+    },
+    {
+      "type": "narration",
+      "content": "She crossed the room."
+    },
+    {
+      "type": "narration",
+      "content": "She put her arms around him from behind — the way he used to hold her at sixteen, at the bonfire, that particular way — and pressed her face to his back and held on."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "It is losing someone. It counts. What we felt is real. What we lost is real."
+    },
+    {
+      "type": "narration",
+      "content": "He put his hands over her arms."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "You are not your father. You are not his silence. This — what you just did — this is the opposite of what he did."
+    },
+    {
+      "type": "narration",
+      "content": "He was quiet for a long time."
+    },
+    {
+      "type": "narration",
+      "content": "Then he turned around and held her back, and she let him, and they stood in the middle of their small Los Angeles apartment and grieved together the way the counseling had prepared them to — not alone, not in parallel, but the same thing at the same time."
+    }
   ]
 }

@@ -4,25 +4,53 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The hotel was twelve minutes from the house. They'd laughed at that — the most romantic night of their lives and they were staying at the only hotel in Millhaven." },
-    { "type": "narration", "content": "None of that mattered when the door closed behind them." },
-    { "type": "narration", "content": "They stood in the quiet of the room and it went still." },
-    { "type": "narration", "content": "She still had her hair up, a few pieces come loose. He crossed the room." },
-    { "type": "narration", "content": "He reached up and pulled the last pin free. Her hair fell." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Twenty years." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Twenty years." },
-    { "type": "narration", "content": "He tilted his head and pressed his lips to the side of her neck — slow, deliberate." },
-    { "type": "narration", "content": "She exhaled. Her hands found the buttons at her back." },
-    { "type": "narration", "content": "He helped her." },
-    { "type": "narration", "content": "—" },
-    { "type": "narration", "content": "Morning came through the gap in the curtains in a long stripe of gold. The city — such as Millhaven was a city — was already awake, already moving." },
-    { "type": "narration", "content": "She was still asleep." },
-    { "type": "narration", "content": "He lay on his side and looked at her. Her hair across the pillow, her hand open beside her face." },
-    { "type": "narration", "content": "He thought: this is what I was waiting for." },
-    { "type": "narration", "content": "She stirred. One eye opened." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Stop watching me sleep." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I'm not." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "You absolutely are." },
-    { "type": "narration", "content": "She turned toward him. He didn't look away." }
+    {
+      "type": "narration",
+      "content": "The vows they'd written themselves."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I've known you my whole life and I still don't have words big enough for what you are to me. So I'm going to say the small ones. I'll show up. I'll tell you the truth. I'll name the hard things instead of going quiet. I'll choose you on purpose — every morning, on purpose — for the rest of my life."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy pressed her lips together. Her eyes were bright."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I used to think love was a feeling. My mom taught me it's a verb. You do it every day whether you feel like it or not. I've watched you do it for years before you had a name for it. Before either of us did. So here's my promise: I will be here. In the room. For all of it — the good years and the hard ones and everything in between. And I will love you like it's a choice. Because it is. And I keep choosing it."
+    },
+    {
+      "type": "narration",
+      "content": "Somewhere in the third pew, Mrs. Jones stopped pretending she was not crying."
+    },
+    {
+      "type": "narration",
+      "content": "Somewhere behind her, Kit's mother sat with her hands folded in her lap and her chin up."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "I now pronounce you husband and wife."
+    },
+    {
+      "type": "narration",
+      "content": "The room held its breath."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "Kit. You may kiss your bride."
+    },
+    {
+      "type": "narration",
+      "content": "He kissed her."
+    },
+    {
+      "type": "narration",
+      "content": "The room came back."
+    }
   ]
 }

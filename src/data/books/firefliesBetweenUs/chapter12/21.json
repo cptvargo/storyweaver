@@ -4,17 +4,90 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The call came on a Wednesday in November." },
-    { "type": "narration", "content": "Kit was at the studio. Daisy was at her desk when her phone lit up and she saw the name." },
-    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Daisy, sweetheart. I need to tell you something before I tell Kit, because I want someone to know how to help him hear it." },
-    { "type": "narration", "content": "She closed the manuscript." },
-    { "type": "narration", "content": "Ruth Jenkins had been diagnosed in the summer — had known since August, had told no one. The word she used was manageable." },
-    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I'm telling him on Sunday. I just needed you to know first." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Ruth. Why didn't you —" },
-    { "type": "dialogue", "speaker": "Kit's Mom", "content": "Because I didn't want a fuss. And I knew there'd be a fuss." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "He's going to want to come home." },
-    { "type": "dialogue", "speaker": "Kit's Mom", "content": "I know. Let him. Don't talk him out of it." },
-    { "type": "narration", "content": "Daisy sat at her desk for a long time after the call ended. The manuscript on the screen. The cursor blinking." },
-    { "type": "narration", "content": "She thought about Ruth in the green dress at the festival, pressing two fingers to her lips." }
+    {
+      "type": "narrative",
+      "content": "The film was called Millhaven. He shot it in two trips — January, when the town was grey and stripped, and June, when everything was loud and green."
+    },
+    {
+      "type": "narrative",
+      "content": "He called her every evening from Georgia."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I filmed the water tower today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "How'd it look."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Like a water tower. But his water tower. You'll know what I mean when you see the cut."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I filmed your mom's kitchen. She kept moving around in it like it was nothing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Did she know you were filming."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I think she knew. She just didn't stop."
+    },
+    {
+      "type": "narrative",
+      "content": "He sent her the day's footage every evening. She would watch it, then write."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Read me what you have for the kitchen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "It's rough."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I know. Read it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Some people leave. Some people stay and hold the shape of the ones who didn't. They don't call it anything — they just keep the lights on, keep the pantry stocked, keep the door unlocked in case something comes back that never does. They call that love. They call it Tuesday. They call it not thinking about it too hard."
+    },
+    {
+      "type": "narrative",
+      "content": "He didn't say anything for a moment."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Daisy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "It's a first draft."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "That's the whole film. That's everything, right there."
+    },
+    {
+      "type": "narrative",
+      "content": "The line stayed open. She didn't try to fill it."
+    }
   ]
 }

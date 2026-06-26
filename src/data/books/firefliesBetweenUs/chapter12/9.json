@@ -4,18 +4,80 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "She woke at three in the morning and knew." },
-    { "type": "narration", "content": "She lay still in the dark for a long time. Kit's breathing beside her, slow and even." },
-    { "type": "narration", "content": "She didn't wake him. Not yet." },
-    { "type": "narration", "content": "By morning the knowing had become something she could name. She sat on the edge of the bathtub with the door closed and her hands in her lap and breathed carefully through something that was not quite pain and not quite anything else — just a wrongness, a quiet alarm her body was sending up." },
-    { "type": "narration", "content": "Kit knocked softly at seven." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Dais." },
-    { "type": "narration", "content": "She opened the door." },
-    { "type": "narration", "content": "She didn't have to say it. He came in and sat beside her on the edge of the tub and put his arm around her." },
-    { "type": "dialogue", "speaker": "Kit", "content": "We're going in." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "It might be nothing." },
-    { "type": "dialogue", "speaker": "Kit", "content": "We're going in." },
-    { "type": "narration", "content": "She leaned against him. He held her. Neither of them said the thing they were afraid of." },
-    { "type": "narration", "content": "They drove to the hospital in the pale morning quiet and Kit kept one hand on the wheel and one hand on hers." }
+    {
+      "type": "narration",
+      "content": "She told him on a Tuesday."
+    },
+    {
+      "type": "narration",
+      "content": "Not a planned Tuesday. Not a special one. She'd been sitting with it for four days — four days of knowing and not saying."
+    },
+    {
+      "type": "narration",
+      "content": "He came home from the studio at six. She was at the counter with two cups of tea — she'd been off coffee for a week and hadn't told him why — and she waited until he'd set down his bag and washed his hands before she said anything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Sit down."
+    },
+    {
+      "type": "narration",
+      "content": "He sat. Read her face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Good or bad."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Good."
+    },
+    {
+      "type": "narration",
+      "content": "She slid the test across the counter."
+    },
+    {
+      "type": "narration",
+      "content": "He looked at it for a long moment. She watched his hand come flat down on the counter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Yeah?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Yeah."
+    },
+    {
+      "type": "narration",
+      "content": "He came around the counter. She stood and he held her — not the careful hold, not the polished one, but the real kind, both arms, full, the kind that meant something had cracked open in him in the best way."
+    },
+    {
+      "type": "narration",
+      "content": "She felt him exhale against her hair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "We're going to need a bigger place."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "One crisis at a time."
+    },
+    {
+      "type": "narration",
+      "content": "He laughed. She felt it in his chest before she heard it."
+    },
+    {
+      "type": "narration",
+      "content": "They stayed like that for a while. The city moved outside the window."
+    }
   ]
 }

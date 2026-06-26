@@ -4,14 +4,88 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The vows they'd written themselves." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I've known you my whole life and I still don't have words big enough for what you are to me. So I'm going to say the small ones. I'll show up. I'll tell you the truth. I'll name the hard things instead of going quiet. I'll choose you on purpose — every morning, on purpose — for the rest of my life." },
-    { "type": "narration", "content": "Daisy pressed her lips together. Her eyes were bright." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I used to think love was a feeling. My mom taught me it's a verb. You do it every day whether you feel like it or not. I've watched you do it for years before you had a name for it. Before either of us did. So here's my promise: I will be here. In the room. For all of it — the good years and the hard ones and everything in between. And I will love you like it's a choice. Because it is. And I keep choosing it." },
-    { "type": "narration", "content": "Somewhere in the third pew, Mrs. Jones stopped pretending she was not crying." },
-    { "type": "narration", "content": "Somewhere behind her, Kit's mother sat with her hands folded in her lap and her chin up." },
-    { "type": "narration", "content": "The pastor said the words that mattered. Kit and Daisy said the word that mattered most." },
-    { "type": "narration", "content": "He kissed her." },
-    { "type": "narration", "content": "The room came back." }
+    {
+      "type": "narrative",
+      "content": "The room went still. The music faded. This was the part where it became real."
+    },
+    {
+      "type": "narrative",
+      "content": "Pastor Gerald Hayes had officiated forty-seven weddings at Millhaven Baptist. He took his time with every one."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "We gather today in the presence of God and these witnesses to join Kit Jenkins and Daisy May Jones in marriage. Marriage is not a light thing. It is a covenant — a promise made here and carried out in every ordinary morning that follows."
+    },
+    {
+      "type": "narrative",
+      "content": "Kit kept his eyes on Daisy's face. She was steady."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "Love is patient. Love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others. It keeps no record of wrongs. It always protects, always trusts, always hopes, always perseveres. Love never fails."
+    },
+    {
+      "type": "narrative",
+      "content": "Eli leaned close."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "Still breathing?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Yes."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "Good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "Who presents this woman to be married?"
+    },
+    {
+      "type": "narrative",
+      "content": "Mr. Jones's voice was quiet and even."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Jones",
+      "content": "Her mother and I do. With great joy."
+    },
+    {
+      "type": "narrative",
+      "content": "He found his wife in the front row. She was not pretending."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "Kit and Daisy, you have come here today to make a promise to each other before every person in this room who loves you. I am told you have both written words of your own, and we will get to those. But first — there are some things that need to be said."
+    },
+    {
+      "type": "narrative",
+      "content": "He looked at them both."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Pastor",
+      "content": "Are you ready?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Yes sir."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Yes."
+    }
   ]
 }

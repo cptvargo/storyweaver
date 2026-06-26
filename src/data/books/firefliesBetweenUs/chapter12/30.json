@@ -1,0 +1,88 @@
+{
+  "page": 30,
+  "chapter": 12,
+  "chapterTitle": "The Field",
+  "bookId": "firefliesBetweenUs",
+  "blocks": [
+    {
+      "type": "narration",
+      "content": "He picked the camera back up."
+    },
+    {
+      "type": "narration",
+      "content": "She watched him do it and didn't ask him to put it down."
+    },
+    {
+      "type": "narration",
+      "content": "He filmed the field. The fireflies. The dark edge of the tree line."
+    },
+    {
+      "type": "narration",
+      "content": "Then he turned the camera toward her."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Don't."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "You look — I want to remember how you look right now."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I've been crying for four days."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I know. That's part of it."
+    },
+    {
+      "type": "narration",
+      "content": "She looked at the camera."
+    },
+    {
+      "type": "narration",
+      "content": "She looked at the lens. Behind it, his face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "What are you going to do with all this footage."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Give it to our kid. One day."
+    },
+    {
+      "type": "narration",
+      "content": "Her throat tightened."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "That's not fair."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I know."
+    },
+    {
+      "type": "narration",
+      "content": "He lowered the phone. They stood in the field until the cold came in and walked home through the dark streets."
+    },
+    {
+      "type": "narration",
+      "content": "Behind them, the field went dark."
+    },
+    {
+      "type": "narration",
+      "content": "The fireflies blinked on."
+    }
+  ]
+}

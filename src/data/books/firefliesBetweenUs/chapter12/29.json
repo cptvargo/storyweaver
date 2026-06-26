@@ -4,16 +4,77 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "There is a video on Kit Jenkins' phone, unlabeled, filed between footage from the festival and a grocery list voice memo he never deleted." },
-    { "type": "narration", "content": "Four minutes and twelve seconds." },
-    { "type": "narration", "content": "It begins with the field. The April dark, the sound of the town somewhere behind it, the silence of the field. Then the fireflies — a few, blinking in and out." },
-    { "type": "narration", "content": "Then it turns. A woman's face in low light. Dark hair. Eyes that have been crying and aren't quite done. She is looking at him past the glass." },
-    { "type": "narration", "content": "She says: don't." },
-    { "type": "narration", "content": "He says: you look — I want to remember how you look right now." },
-    { "type": "narration", "content": "She says: I've been crying for four days." },
-    { "type": "narration", "content": "He says: I know. That's part of it." },
-    { "type": "narration", "content": "She looks at the lens. She is still. She lets herself be seen." },
-    { "type": "narration", "content": "She says: what are you going to do with all this footage." },
-    { "type": "narration", "content": "He says: give it to our kid. One day." }
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Kit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Yeah."
+    },
+    {
+      "type": "narration",
+      "content": "She turned toward him. He lowered the phone."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I took a test this morning. Before we left the house."
+    },
+    {
+      "type": "narration",
+      "content": "He went still."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I wasn't going to tell you tonight. Tonight wasn't supposed to be about that. But I've been standing here and I keep thinking — your mom knew every time something big was coming. She always knew. And I think she'd want us to have this."
+    },
+    {
+      "type": "narration",
+      "content": "He looked at her for a long moment. The fireflies moved between them."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Daisy."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "We're going to have a baby."
+    },
+    {
+      "type": "narration",
+      "content": "He didn't say anything."
+    },
+    {
+      "type": "narration",
+      "content": "He looked out at the field, then up at the sky. Then he looked back at her."
+    },
+    {
+      "type": "narration",
+      "content": "He reached out and pulled her close. Her head against his chest. His arms around her in the field, in the dark, in the town where they had started."
+    },
+    {
+      "type": "narration",
+      "content": "He said:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "She knew."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "She knew."
+    },
+    {
+      "type": "narration",
+      "content": "Above them, the April sky. Around them, the field. Between them — the first fireflies of the season."
+    }
   ]
 }

@@ -4,25 +4,91 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "The pitch got picked up." },
-    { "type": "narration", "content": "Not by a major studio — a small production company that funded personal projects, the kind of outfit that cared more about what a filmmaker was trying to say than whether it would chart on a streaming algorithm. The budget was modest. The timeline was eight months. The project was entirely his." },
-    { "type": "narration", "content": "Kit sat with the offer letter for a long time before he signed it." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "What's wrong." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Nothing. I just — I need to tell you what the film is actually about." },
-    { "type": "narration", "content": "She sat down across from him." },
-    { "type": "dialogue", "speaker": "Kit", "content": "It's about a town. About leaving. About what it means when someone walks out the door and doesn't come back, and what the people left behind do with that." },
-    { "type": "narration", "content": "He watched her understand." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Your dad." },
-    { "type": "dialogue", "speaker": "Kit", "content": "My dad. My mom. Me at eleven standing in a kitchen that was too quiet." },
-    { "type": "narration", "content": "She was quiet for a moment." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Are you okay to make that." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I think I need to make it. I've been carrying it for twenty years and the only language I have big enough for it is this one." },
-    { "type": "narration", "content": "She reached across the table. Took his hand." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Then make it. I'll be here." },
-    { "type": "narration", "content": "He nodded. Looked at the offer letter." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I want you to write the narration." },
-    { "type": "narration", "content": "She looked up." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Your words. My images. I don't want any other voice on it." },
-    { "type": "narration", "content": "She said yes." }
+    {
+      "type": "narration",
+      "content": "Meilin's mother came to her daughter when the hall had found its voice again."
+    },
+    {
+      "type": "narration",
+      "content": "She cupped her face in both hands. Said one thing."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin's Mother",
+      "content": "你找到了一个好人。",
+      "translation": "You found a good person."
+    },
+    {
+      "type": "narration",
+      "content": "Meilin's composure — steady through the whole ceremony — came undone in one breath."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savannah",
+      "content": "I'm not going to make it."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Don't you dare."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savannah",
+      "content": "I'm trying."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Try harder."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savannah",
+      "content": "I've known Eli for fifteen years."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I know. Me too."
+    },
+    {
+      "type": "narration",
+      "content": "Meilin's mother turned to Eli."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin's Mother",
+      "content": "Take care of my daughter."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "Every day. I promise."
+    },
+    {
+      "type": "narration",
+      "content": "She nodded once. Touched his arm. Returned to her seat."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Kit."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Yeah."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "I need a minute."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Take it."
+    }
   ]
 }

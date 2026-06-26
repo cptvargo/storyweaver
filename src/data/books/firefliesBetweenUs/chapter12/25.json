@@ -4,16 +4,72 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "They stayed five days." },
-    { "type": "narration", "content": "They sorted through the house slowly, a room at a time. There were things Kit kept — a watch, a recipe box in his mother's handwriting, a photograph of himself at nine years old." },
-    { "type": "narration", "content": "He held the photograph for a long time." },
-    { "type": "narration", "content": "Daisy boxed the kitchen. She didn't make it a task — she moved slowly, held things, set some aside. In the back of a drawer she found a clipping from the local paper, a small notice about Millhaven's documentary win at Austin. Ruth had cut it out. She'd had it in her kitchen drawer." },
-    { "type": "narration", "content": "Daisy put it in the box she was keeping for Kit. Didn't say anything about it." },
-    { "type": "narration", "content": "On their fourth night, after the work was done and the house was quiet, she told him she needed some air. He asked if she wanted company." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Yes. Come with me." },
-    { "type": "narration", "content": "They walked without planning a direction. Millhaven after dark had its own grammar — the yellow porch lights, the sound of somewhere someone was watching television, the smell of the night in Georgia in April." },
-    { "type": "narration", "content": "She knew where her feet were taking her before she said it." },
-    { "type": "narration", "content": "He did too." },
-    { "type": "narration", "content": "They walked toward the field." }
+    {
+      "type": "narrative",
+      "content": "The night before, he found her in the kitchen at two in the morning."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "Sit with me."
+    },
+    {
+      "type": "narrative",
+      "content": "He sat. She had a glass of water. The kitchen was exactly the same as it had always been."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "You're going to be a good father."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Mom."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "I know you've worried about it your whole life. But you are not him. You haven't been him for a long time."
+    },
+    {
+      "type": "narrative",
+      "content": "He looked at his hands on the table."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I hope you're right."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "I'm your mother. I'm always right."
+    },
+    {
+      "type": "narrative",
+      "content": "He laughed, quiet. She smiled."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "Go back to sleep. Let me sit here a little longer."
+    },
+    {
+      "type": "narrative",
+      "content": "He stood and held her — not carefully, the real hold — and she patted his back the way she had when he was small."
+    },
+    {
+      "type": "narrative",
+      "content": "He went back to bed."
+    },
+    {
+      "type": "narrative",
+      "content": "Ruth Jenkins died the next morning. At home, in her own bed. Quietly, with the light just coming in."
+    },
+    {
+      "type": "narrative",
+      "content": "Kit was in the next room. He found her. Daisy came out of the kitchen, saw his face, and crossed the room without a word."
+    }
   ]
 }

@@ -4,11 +4,74 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Grief doesn't leave on a schedule. It doesn't wait for you to be ready, doesn't give notice, doesn't check whether you have somewhere to be. It moves through a house the way weather does — present one morning and gone the next, then back again without warning in the middle of an otherwise ordinary Tuesday." },
-    { "type": "narration", "content": "They gave themselves the autumn." },
-    { "type": "narration", "content": "They called Dr. Reeves. She asked if they were still moving toward each other, and they said yes." },
-    { "type": "narration", "content": "Daisy's book helped. The work required her to stay present." },
-    { "type": "narration", "content": "Kit threw himself into a pitch — a short film about a boy and a field. He didn't tell Daisy what it was really about." },
-    { "type": "narration", "content": "By December they had begun to laugh again. Not performed laughter — real laughter, the kind that surprised you. They cooked elaborate things on Sunday nights and watched old films on the couch with Daisy's legs across his lap and the city going dark outside the window." }
+    {
+      "type": "narration",
+      "content": "He went quiet."
+    },
+    {
+      "type": "narration",
+      "content": "It happened gradually. He came home from work, ate, asked how she was, and came to bed."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy knew this version of him."
+    },
+    {
+      "type": "narration",
+      "content": "She had promised herself she would not let the door close."
+    },
+    {
+      "type": "narration",
+      "content": "She tried three times in the first week. Gentle. Direct. Once she simply sat beside him on the couch and turned the television off and said nothing — just waited. He sat with her for twenty minutes, quiet, and then said he was tired and went to bed."
+    },
+    {
+      "type": "narration",
+      "content": "She lay awake beside him and listened to him breathe and felt the distance between them that had nothing to do with the size of the bed."
+    },
+    {
+      "type": "narration",
+      "content": "On day nine she stopped being gentle."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Kit. I need you to come back."
+    },
+    {
+      "type": "narration",
+      "content": "He was at the editing table. He kept his eyes on the screen."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I'm right here."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "No you're not. You haven't been here in a week and a half and I need — I am asking you — to stop protecting me from whatever you're carrying and just bring it into the room."
+    },
+    {
+      "type": "narration",
+      "content": "A long silence."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I don't want to make it worse for you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "You going silent is making it worse for me. I lost something too, Kit. And I need my husband."
+    },
+    {
+      "type": "narration",
+      "content": "He turned from the screen. His jaw was tight."
+    },
+    {
+      "type": "narration",
+      "content": "She waited."
+    }
   ]
 }

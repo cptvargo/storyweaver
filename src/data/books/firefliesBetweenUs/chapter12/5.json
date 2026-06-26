@@ -4,17 +4,68 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Los Angeles in August was a different kind of heat than Georgia — drier, more insistent, the sun pressing down from a white sky instead of rising up out of the ground. Daisy stood at the window of their apartment on the fourth floor of a building in Silver Lake and looked out at the neighborhood below and thought: okay. This is the city. I can learn this." },
-    { "type": "narration", "content": "Their apartment was small. One bedroom, a kitchen that was mostly counter space, a living room that held a couch, Kit's editing setup, and one of those bookshelves that pretends it's also a room divider. Harold sat on the windowsill beside her plant." },
-    { "type": "narration", "content": "She had brought Harold. Kit had not said a word about this — just moved the bear to the windowsill without ceremony and gone back to setting up cables. That was the right answer." },
-    { "type": "narration", "content": "She had a contract editing job that paid enough, a manuscript she was three chapters into, and a husband who came home smelling like the studio and set his shoes by the door every night without being asked. The city was loud and strange and not Georgia, but it had him in it." },
-    { "type": "narration", "content": "Kit was working as a second editor on a documentary series — not his work, but a job in the industry. He came home tired, full of opinions about cuts he wasn't allowed to make, and did the dishes without negotiating about it." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "How was it today." },
-    { "type": "dialogue", "speaker": "Kit", "content": "They cut the scene I built the whole second act around." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Did you say anything." },
-    { "type": "dialogue", "speaker": "Kit", "content": "I said 'understood' and then I went to the bathroom and stood there for a minute." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "That's growth." },
-    { "type": "dialogue", "speaker": "Kit", "content": "That's survival." },
-    { "type": "narration", "content": "She handed him a fork. He sat at the counter beside her and ate while she read her manuscript aloud." }
+    {
+      "type": "narration",
+      "content": "The reception was at the Joneses' backyard — string lights, round tables, the smell of late June and catered barbecue that Mrs. Jones had spent three weeks negotiating over. Savannah cried through her maid of honor speech and then immediately denied it. Eli's toast was four minutes long, perfectly written, and ended with:"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "I've known Kit Jenkins since we were nine years old and I watched him fall for this woman in slow motion for the next fifteen years. The only person in Millhaven who didn't see it was him. So Daisy — thank you for being patient. And Kit — congratulations on finally catching up to the rest of us."
+    },
+    {
+      "type": "narration",
+      "content": "The yard laughed. Kit raised his glass."
+    },
+    {
+      "type": "narration",
+      "content": "Later, past nine, when the dancing had gone soft and the little kids were asleep on chairs, Kit found his mother at the edge of the lights. She had taken her heels off and was watching the yard."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "You okay?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "More than okay."
+    },
+    {
+      "type": "narration",
+      "content": "She looked at him."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit's Mom",
+      "content": "She's going to be the best thing that ever happened to you."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "She already is."
+    },
+    {
+      "type": "narration",
+      "content": "His mother nodded. Squeezed his hand once. Then she walked back toward the lights and asked Mr. Jones to dance, and he obliged, and Kit stood at the edge of the yard and watched his mother laugh."
+    },
+    {
+      "type": "narration",
+      "content": "Daisy appeared beside him. Took his arm."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "What are you thinking."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "That I want to remember exactly this."
+    },
+    {
+      "type": "narration",
+      "content": "She rested her head against his shoulder. The lights swayed in a soft wind coming off the field behind the yard. Somewhere out past the fence, a firefly blinked on and off and on."
+    }
   ]
 }

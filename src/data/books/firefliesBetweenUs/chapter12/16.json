@@ -4,23 +4,105 @@
   "chapterTitle": "The Field",
   "bookId": "firefliesBetweenUs",
   "blocks": [
-    { "type": "narration", "content": "Meilin's mother came to her daughter when the hall had found its voice again." },
-    { "type": "narration", "content": "She cupped her face in both hands. Said one thing." },
-    { "type": "dialogue", "speaker": "Meilin's Mother", "content": "你找到了一个好人。", "translation": "You found a good person." },
-    { "type": "narration", "content": "Meilin's composure — steady through the whole ceremony — came undone in one breath." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "I'm not going to make it." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Don't you dare." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "I'm trying." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Try harder." },
-    { "type": "dialogue", "speaker": "Savannah", "content": "I've known Eli for fifteen years." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I know. Me too." },
-    { "type": "narration", "content": "Meilin's mother turned to Eli." },
-    { "type": "dialogue", "speaker": "Meilin's Mother", "content": "Take care of my daughter." },
-    { "type": "dialogue", "speaker": "Eli", "content": "Every day. I promise." },
-    { "type": "narration", "content": "She nodded once. Touched his arm. Returned to her seat." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "Kit." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Yeah." },
-    { "type": "dialogue", "speaker": "Daisy", "content": "I need a minute." },
-    { "type": "dialogue", "speaker": "Kit", "content": "Take it." }
+    {
+      "type": "narration",
+      "content": "The venue was red. Not accent-red — red the way a decision is. Gold lanterns, double happiness symbols on every surface, chrysanthemums in vases Kit couldn't name the meaning of."
+    },
+    {
+      "type": "narration",
+      "content": "He stood at the entrance and felt Daisy squeeze his hand."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Kit. You're doing the face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "What face."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "The one where you're framing everything."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "I just want to remember it."
+    },
+    {
+      "type": "narration",
+      "content": "Savannah appeared in a borrowed qipao — a cousin's — and wore it like she'd been wearing it her whole life."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus",
+      "content": "You look incredible."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savannah",
+      "content": "I know."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Daisy",
+      "content": "Where did you even get that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Savannah",
+      "content": "Meilin's cousin. We're the same size. It was meant to be."
+    },
+    {
+      "type": "narration",
+      "content": "Then Eli came out. Navy tangzhuang, gold buttons."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus",
+      "content": "He looks good."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "Don't tell him that."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marcus",
+      "content": "Why not."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Kit",
+      "content": "He'll never stop talking about it."
+    },
+    {
+      "type": "narration",
+      "content": "Meilin crossed the room to him. She was in red — qipao, gold embroidery at the collar and cuffs, hair up. She reached up and adjusted his collar."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin",
+      "content": "你今天很好看。",
+      "translation": "You look very handsome today."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Eli",
+      "content": "You're going to make me forget everything I practiced."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Meilin",
+      "content": "Then forget it. Just be here."
+    },
+    {
+      "type": "narration",
+      "content": "He was."
+    }
   ]
 }
