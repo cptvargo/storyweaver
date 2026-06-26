@@ -22,25 +22,25 @@
   "description": "Millhaven, Georgia. Summer 2002. Kit Jenkins is twelve years old, reckless, and convinced that any plan worth having can be figured out along the way. Daisy May Jones has known him long enough to know he's right about that — and wrong about almost everything else. What starts as one long summer of bikes and thunderstorms and condemned water towers becomes the summer that everything quietly begins to change.",
   "shortDescription": "A nostalgic coming-of-age story about a small Southern town, a reckless boy, a girl who sees right through him, and the summer neither of them will forget.",
   "characterPortraits": {
-    "Kit Jenkins": [
+    "Kit": [
       { "from": 1, "to": 3, "image": "/kit_childhood.png" },
       { "from": 4, "to": 5, "image": "/kit_middle.png" },
       { "from": 6, "to": 8, "image": "/kit_highschool.png" },
       { "from": 9, "to": 12, "image": "/kit_adult.png" }
     ],
-    "Daisy May Jones": [
+    "Daisy": [
       { "from": 1, "to": 3, "image": "/daisy_childhood.png" },
       { "from": 4, "to": 5, "image": "/daisy_middle.png" },
       { "from": 6, "to": 8, "image": "/daisy_highschool.png" },
       { "from": 9, "to": 12, "image": "/daisy_adult.png" }
     ],
-    "Eli Turner": [
+    "Eli": [
       { "from": 1, "to": 3, "image": "/eli_childhood.png" },
       { "from": 4, "to": 5, "image": "/eli_middle.png" },
       { "from": 6, "to": 8, "image": "/eli_highschool.png" },
       { "from": 9, "to": 12, "image": "/eli_adult.png" }
     ],
-    "Savannah Brooks": [
+    "Savannah": [
       { "from": 1, "to": 3, "image": "/savannah_childhood.png" },
       { "from": 4, "to": 5, "image": "/savannah_middle.png" },
       { "from": 6, "to": 8, "image": "/savannah_highschool.png" },
