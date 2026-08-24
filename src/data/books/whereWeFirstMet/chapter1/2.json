@@ -4,12 +4,11 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "I eat half a banana over the sink before I run, because I run better with something in my stomach and I run worse if I think about it too hard. So I eat the banana before I'm fully awake and we never speak of it again." },
-    { "type": "narration", "content": "My mom thinks I should eat a real breakfast. My mom also thinks I should be taking at least one class somewhere, which, noted, I am getting there, but the banana is my compromise position and it works well enough." },
-    { "type": "narration", "content": "Shoes go on in a specific order. Left first, then right. Not superstition — just the order I've always done it in, and I see no reason to introduce chaos into a system that works. I lace them the way my dad taught me when I was seven. It's the only thing I still do the way my dad taught me. I don't think about that." },
-    { "type": "narration", "content": "Before I left I walked a slow loop through the apartment. Not because I forget things. I don't forget things. Just — I like to see it before I go. The shelf of paints. The brushes standing in their jars. The sketchbook open on the desk, pencil resting in the crease." },
-    { "type": "narration", "content": "My mom sees order. I see all the things I came back to yesterday. There's a difference." },
-    { "type": "narration", "content": "I locked the door. Headed down the stairs." },
+    { "type": "narration", "content": "I eat half a banana before I run. Not because I planned it that way — just because it's the thing that made sense one morning and then became the thing I do. My mom would call that a habit. I'd call it not wanting to think about breakfast before I'm fully awake." },
+    { "type": "narration", "content": "Shoes go on left first, then right. My dad showed me that when I was seven and I've done it the same way ever since. I don't know if there's a reason or if the reason is just that I was seven and that's how I learned. I stopped asking questions about it somewhere around fourteen." },
+    { "type": "narration", "content": "Before I left I walked through the apartment once. I do this every morning — not to check anything, I don't forget things — just to see it. The shelf of paints. The brushes in their jars. The sketchbook open on the desk with the pencil still in the crease from last night." },
+    { "type": "narration", "content": "I've thought about why I do that too. I think it's because I like knowing what I'm coming back to." },
+    { "type": "narration", "content": "I locked the door. Went down the stairs." },
     { "type": "narration", "content": "6:31." }
   ]
 }

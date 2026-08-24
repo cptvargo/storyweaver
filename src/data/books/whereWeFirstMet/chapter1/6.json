@@ -4,15 +4,15 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "Mr. Alvarez had my coffee on the counter before I was through the door." },
-    { "type": "narration", "content": "Two years. I've been coming here for two years and I still don't know how he does it. I've tried to catch him — varied my arrival time by minutes, come from the back way, once showed up seventeen minutes late on purpose — and every single time the cup is already there. Just sitting. Perfect temperature. He claims it's intuition. I think he watches for me through the window, but I haven't been able to prove it, and I respect the commitment to the bit." },
+    { "type": "narration", "content": "Mr. Alvarez had my coffee on the counter before I made it to the door." },
+    { "type": "narration", "content": "He's done this every morning for two years. I've never figured out how. I've tried varying my time, taking different streets, showing up seventeen minutes late once just to see — the cup is always there. He says it's intuition. I've stopped arguing with him about it." },
     { "type": "dialogue", "character": "Mr. Alvarez", "content": "You're late." },
-    { "type": "dialogue", "character": "Ethan", "content": "I was on time last week." },
-    { "type": "dialogue", "character": "Mr. Alvarez", "content": "Last week is a different week." },
-    { "type": "narration", "content": "I paid. He didn't move. I took my cup." },
-    { "type": "narration", "content": "The Copper Mug is not a beautiful coffee shop. The chairs don't match. The floor is the original floor from whenever this building was built, which means it creaks in five specific places I've mapped entirely by accident. The art on the walls is a rotating collection from local artists, which sounds generous and is, except that it means the wall behind my usual table has spent the last three weeks displaying a four-foot canvas of a horse in a business suit that I find deeply upsetting for reasons I can't fully articulate." },
-    { "type": "narration", "content": "My table is in the corner by the window. Not officially mine. Just — mine. The regulars know. I've never had to explain it." },
-    { "type": "narration", "content": "I pulled out my sketchbook. Set it on the table. Opened it to a blank page and tapped my pencil twice against the paper." },
-    { "type": "narration", "content": "Outside, the morning kept happening without me." }
+    { "type": "dialogue", "character": "Ethan", "content": "By three minutes." },
+    { "type": "dialogue", "character": "Mr. Alvarez", "content": "Three minutes is late." },
+    { "type": "narration", "content": "I paid. He slid the cup across. I took it." },
+    { "type": "narration", "content": "The Copper Mug isn't the kind of place anyone would design on purpose. The chairs don't match. The floor creaks in five specific spots I know by heart. The wall behind my usual table has a four-foot painting of a horse in a business suit that's been there three weeks and which I find troubling in ways I haven't fully worked out yet." },
+    { "type": "narration", "content": "My table is in the corner by the window. Nobody assigned it to me. It's just been mine long enough that it's mine now." },
+    { "type": "narration", "content": "I sat down, opened the sketchbook, and set a blank page in front of me. Picked up the pencil." },
+    { "type": "narration", "content": "Outside, the street was waking up without me." }
   ]
 }

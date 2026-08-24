@@ -4,19 +4,16 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "I don't draw faces from memory. Never have. Faces require something I'm not willing to give from imagination alone — some kind of presumption about a person I don't know well enough to make. I draw hands, posture, the way a body moves through space. The information you can collect in three seconds without anyone knowing you were paying attention." },
-    { "type": "narration", "content": "So what I had on the page was: a shoulder. The tilt of a head. A paper cup held low and easy, like she'd been carrying it long enough it had become part of her arm. The fall of her hair. And the dinosaur — which I had drawn in considerably more anatomical detail than the rest of the figure, which said something about where my attention had actually landed and which I was choosing not to examine." },
-    { "type": "narration", "content": "I looked at it for a moment." },
-    { "type": "narration", "content": "Then I looked up." },
-    { "type": "narration", "content": "Mr. Alvarez was wiping down the counter. Slowly. In the general direction of my table. He was not looking at me. He was very specifically and deliberately not looking at me in a way that meant he had been looking at me for at least a full minute." },
+    { "type": "narration", "content": "I don't draw faces from memory. It's not a rule I made — it's just something I've noticed about myself. Drawing someone's face without them there feels like a presumption. Like deciding something about a person before you know enough to decide anything." },
+    { "type": "narration", "content": "What I drew instead: a shoulder. The tilt of her head. The paper cup held low and loose at her side. The dinosaur tucked under her arm — that part I drew in more detail than anything else on the page, which I noticed and didn't stop." },
+    { "type": "narration", "content": "I looked at it for a moment. Then I looked up." },
+    { "type": "narration", "content": "Mr. Alvarez was wiping down the counter. Moving slowly, generally in the direction of my table. He wasn't looking at me. He was very deliberately not looking at me, which is a different thing." },
     { "type": "narration", "content": "I turned the sketchbook slightly away from him." },
-    { "type": "narration", "content": "He continued not looking." },
     { "type": "dialogue", "character": "Mr. Alvarez", "content": "More coffee?" },
-    { "type": "dialogue", "character": "Ethan", "content": "I still have coffee." },
-    { "type": "dialogue", "character": "Mr. Alvarez", "content": "You look like someone who needs more coffee." },
-    { "type": "narration", "content": "I looked at my cup. Half full. I did not need more coffee. I was, however, experiencing a specific social vulnerability I didn't know how to exit gracefully, and yes please was at least a change of subject." },
-    { "type": "dialogue", "character": "Ethan", "content": "Yes please." },
-    { "type": "narration", "content": "He smiled. He poured. He said nothing else." },
-    { "type": "narration", "content": "He did not have to." }
+    { "type": "dialogue", "character": "Ethan", "content": "I still have some." },
+    { "type": "dialogue", "character": "Mr. Alvarez", "content": "You look like someone who could use more." },
+    { "type": "narration", "content": "My cup was still half full. But I didn't have a clean way out of the moment, and yes please was at least a change of subject." },
+    { "type": "dialogue", "character": "Ethan", "content": "Sure. Yes. Thank you." },
+    { "type": "narration", "content": "He filled it. He didn't say anything else. He didn't need to." }
   ]
 }

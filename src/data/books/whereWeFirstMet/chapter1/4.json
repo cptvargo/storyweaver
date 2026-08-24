@@ -4,13 +4,12 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "The orange cat in the antique shop window has never acknowledged me." },
-    { "type": "narration", "content": "Not once. Not a flick of the ear. Not a slow blink. I've been running past that window for two years and the cat looks through me with the specific contempt of something that knows exactly how the power dynamic works. I've started finding it motivating. If that cat can be that completely unbothered by my existence, I can survive the second mile." },
-    { "type": "narration", "content": "The bookstore is still dark at this hour. Whoever owns it opens late and closes early, and I have never once seen them change the window display, which currently has three novels arranged around a ceramic owl that has definitely been there since before I moved to this neighborhood. I find it comforting. Some things stay." },
-    { "type": "narration", "content": "Mrs. Okafor was out with her dog at the corner of Bellamy, same as always. The dog — whose name I have never learned but whom I think of privately as Gerald — lifted his head as I passed. Mrs. Okafor did not look up from her phone. Gerald and I have an understanding." },
-    { "type": "narration", "content": "I'm freelance. Nineteen years old, running through a town I mostly like, trying to make enough from painting to justify the decision to paint full-time instead of the thing my mom keeps bringing up. I do not say the word. I just run." },
-    { "type": "narration", "content": "Last week I finished a commission for a guy who wanted his motorcycle floating in outer space. Pale blue background, stars pulled from a reference photo of the actual Milky Way, the bike dead center with the chrome catching fake starlight. He cried when he saw it. I charged him two hundred dollars, which was too little, but he seemed like he needed the cry more than I needed the difference." },
-    { "type": "narration", "content": "That's mostly what freelancing is. Noticing what people need and finding the version of it you can give them." },
-    { "type": "narration", "content": "The Copper Mug glowed at the end of the block." }
+    { "type": "narration", "content": "The orange cat in the antique shop window has never acknowledged me. Not once in two years. I pass that window every morning and every morning the cat looks through me like I'm not there, or like I am there and it simply doesn't matter." },
+    { "type": "narration", "content": "I find that easier to be around than most things." },
+    { "type": "narration", "content": "The bookstore two blocks down doesn't open until ten. The window display has a ceramic owl in it that I'm fairly certain has been there since before I moved to this neighborhood. Nobody changes it. I've stopped expecting them to." },
+    { "type": "narration", "content": "Mrs. Okafor was at the corner of Bellamy with her dog, same as every morning. The dog lifted his head when I passed. Mrs. Okafor was looking at her phone. I've never learned the dog's name, which is probably a thing I should fix." },
+    { "type": "narration", "content": "I'm nineteen and freelance, which sounds freer than it is. It means I paint what people ask me to paint and try to make enough from it to keep painting. Last week I finished a commission — a motorcycle floating in outer space, chrome catching light from imaginary stars — and the guy cried when he saw it. I charged him two hundred dollars. Probably should have charged more, but he cried, and I didn't have the heart." },
+    { "type": "narration", "content": "I don't know yet if being a painter means being the person who makes what people need, or if it means something else entirely. I've been thinking about it for three years and I'm not closer to an answer." },
+    { "type": "narration", "content": "The Copper Mug was at the end of the block, its windows lit up against the gray of the morning." }
   ]
 }

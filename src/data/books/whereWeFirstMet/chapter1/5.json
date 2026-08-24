@@ -4,18 +4,14 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "The bus hissed to the curb two buildings before The Copper Mug." },
-    { "type": "narration", "content": "I know the 7:40 by sound now — the specific exhale it makes when it stops, the way the doors open like something releasing pressure it's been holding all morning. I don't usually look. I've learned the cast by repetition — gray suit guy, grocery bag woman, the teenager who is always wearing headphones and has never once appeared to be fully conscious. There's no reason to look. It's always the same." },
+    { "type": "narration", "content": "The 7:40 bus stopped at the curb two buildings before The Copper Mug." },
+    { "type": "narration", "content": "I know its sound by now — the hydraulic exhale when it slows, the particular way the doors open. I don't usually look. I know the people who get off. The same ones, most mornings, doing the same thing." },
     { "type": "narration", "content": "I looked." },
-    { "type": "narration", "content": "Red hair." },
-    { "type": "narration", "content": "She stepped off the bus the way some people step into a room they've already decided to own — not dramatically, not like she was performing it, just like she'd made up her mind about the morning and the morning had agreed to cooperate. Paper cup in one hand. A silver bracelet on her wrist that caught the early light in a way I immediately wanted to study on a smaller canvas, intimate scale, the kind of thing that hangs somewhere private." },
-    { "type": "narration", "content": "I noted all of this in approximately three seconds." },
-    { "type": "narration", "content": "She laughed at something on her phone — a real one, the kind that escapes before a person can make it presentable — and turned toward the far end of the block. Tucked under her free arm was a stuffed dinosaur. Purple. She carried it like she'd been carrying it her whole life and had stopped thinking about it years ago." },
-    { "type": "narration", "content": "My shoe was not untied." },
-    { "type": "internalThought", "character": "Ethan", "content": "My shoe was completely fine." },
-    { "type": "narration", "content": "I crouched and retied it anyway, because I needed somewhere to look that wasn't her, and the sidewalk was the most neutral option available. I took my time. I am a thorough shoe-tier when the situation calls for it." },
-    { "type": "narration", "content": "By the time I stood up she was already crossing the street, the laugh still happening, the dinosaur still there." },
-    { "type": "narration", "content": "I stood there a moment longer than I needed to." },
-    { "type": "narration", "content": "Then I pushed open the door of The Copper Mug." }
+    { "type": "narration", "content": "She was the last one off. Red hair, paper cup, a silver bracelet that caught the morning light for just a second before she turned. She had a stuffed dinosaur tucked under one arm — purple, worn at the corners — the way you carry something you stopped thinking about a long time ago." },
+    { "type": "narration", "content": "She laughed at something on her phone. Not a polite laugh. The real kind, the kind that happens before you can decide whether to let it." },
+    { "type": "narration", "content": "My shoe was tied." },
+    { "type": "narration", "content": "I crouched and retied it anyway. I needed somewhere for my eyes to go and the sidewalk was the least complicated option. I took my time. When I stood up she was already crossing the street, still laughing, the dinosaur still under her arm." },
+    { "type": "narration", "content": "I stood there for a moment." },
+    { "type": "narration", "content": "Then I pushed open the door of The Copper Mug and went inside." }
   ]
 }

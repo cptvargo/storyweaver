@@ -4,11 +4,11 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "The thing about running that nobody tells you is the first four minutes are actively unpleasant. Your body asks several pointed questions — why are we doing this, where is breakfast, who decided this was okay — and you have to run through all of them before anything becomes manageable." },
-    { "type": "narration", "content": "By minute five my brain usually stops arguing and just starts looking." },
-    { "type": "narration", "content": "This is why I run. Not for the fitness, though my mom brings that up too, right after the class conversation. For the four minutes it takes to get my head to quiet down and just — look. At the street. At the light. At the way early morning does something specific to familiar things, like the regular world ran through a filter it can't quite hold past 9am." },
-    { "type": "narration", "content": "My block smells like bread by 6:30. The bakery on the corner runs their ovens through the night, and by the time I hit the sidewalk the whole street is warm in a way that has nothing to do with temperature. I've tried to paint it twice and failed both times. You can't really paint a smell, but the light that comes with it — low, golden, the way it hits the brick on the east face — is the most honest light I've seen, and I keep thinking eventually I'll find the right angle for it." },
-    { "type": "narration", "content": "I turned left at the corner. Picked up pace on the downhill." },
-    { "type": "narration", "content": "I've run this route so many times I could do it with my eyes closed. I won't, obviously. But I could." }
+    { "type": "narration", "content": "The first four minutes of running are bad. Your body asks questions your brain doesn't have answers for yet — why are we doing this, when does it stop, is this actually helping anything — and the only way through is just to keep going until the questions stop." },
+    { "type": "narration", "content": "Around minute five, something shifts. The noise gets quieter. And then I'm just looking." },
+    { "type": "narration", "content": "That's the part I run for. Not the distance, not the fitness, though I know those matter. Just the few minutes where my head stops talking and I can actually see things." },
+    { "type": "narration", "content": "The bakery on the corner runs their ovens overnight. By the time I hit the sidewalk the whole block is warm from it — not temperature warm, something else, the kind of warmth that's more about smell than air. I've tried to paint it twice. Both times I got the light right and lost everything else. There are things that don't translate and I'm still deciding if that bothers me." },
+    { "type": "narration", "content": "I turned left at the corner and picked up the pace on the downhill." },
+    { "type": "narration", "content": "I've run this route enough times that my legs know it without me. Which is the point, I think. Some things should just run themselves." }
   ]
 }

@@ -4,13 +4,12 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "I walk when I'm looking for something to paint. No destination, no plan — just moving until something stops me. Every time I've tried to plan a painting in advance, the planned version turns out worse than whatever I would have found if I'd just walked." },
-    { "type": "narration", "content": "My middle school art teacher called it wandering with intention. My mother calls it refusing to commit. They're both right." },
-    { "type": "narration", "content": "It was past nine and the town had done its morning transformation — the quiet version of itself replaced by the version with traffic and open storefronts and people who weren't just somewhere but actually somewhere. I kept to the back streets." },
-    { "type": "narration", "content": "There's an alley on Clement with a mural I've been circling for a month. Someone painted it years ago, festival project probably, and the color has gone thin in places, but the composition is still good — a figure reaching for something just out of frame, real ivy climbing the left border into painted ivy, the line between art and wall and art again going soft. I stop there most mornings. I've never set up there. It always feels like it's waiting for something I haven't figured out yet." },
-    { "type": "narration", "content": "I stopped now and looked at it." },
-    { "type": "narration", "content": "For no particular reason, my mind went back to the tilt of her head as she stepped off the bus. The way the silver bracelet caught the light." },
-    { "type": "internalThought", "character": "Ethan", "content": "I redirected. I looked at the mural. I thought about the mural. I'm a professional." },
+    { "type": "narration", "content": "I find painting spots by walking. No destination. Just moving until something stops me. Every time I've tried to plan it — this corner, that wall, that particular light — the result is worse than whatever I would have found if I'd just kept walking and paid attention." },
+    { "type": "narration", "content": "My art teacher in middle school called it wandering with intention. My mom calls it not being able to commit to things. They're probably both right." },
+    { "type": "narration", "content": "I took the back streets. The town was fully awake now — storefronts open, traffic steady, people moving with somewhere to be. I kept to the parts that still felt like morning." },
+    { "type": "narration", "content": "There's a mural in the alley on Clement that I've been thinking about for a month. Someone painted it years ago, and the color has thinned in places, but the structure underneath is still good — a figure reaching for something just outside the frame, real ivy grown up over the left edge into painted ivy, the border between them going soft. I stop there most mornings. I've never actually set up there. I keep feeling like it's waiting for something to happen first." },
+    { "type": "narration", "content": "I stopped. Looked at it for a while." },
+    { "type": "narration", "content": "Then I thought about the bracelet catching the light. And the way she'd turned without looking back." },
     { "type": "narration", "content": "I kept walking." }
   ]
 }

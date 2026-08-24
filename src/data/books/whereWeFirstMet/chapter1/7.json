@@ -4,12 +4,12 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "I've been keeping sketchbooks since I was twelve. Filled forty-three of them. My mom keeps the early ones in a bin in her closet, which I know because I found them when I was looking for my rain jacket and spent forty-five minutes on the floor reading my own handwriting from when I was fourteen. The drawings were bad. The observations in the margins were interesting. Even then, apparently, I was the kind of person who wrote notes to himself about the light." },
-    { "type": "narration", "content": "The way I work: loose shapes first. No commitment. The street, the buildings, the suggestion of the bakery awning. I don't start with detail because detail lies — it makes you think you understand something before you've actually looked at it. I start with what a thing feels like and work backward toward what it looks like." },
-    { "type": "narration", "content": "The street outside was doing that morning thing where everything looks slightly more itself than usual. The bookstore sign was exactly bookstore-sign blue. A woman with flowers was moving up the sidewalk — there's always a woman with flowers at this hour, different woman each time, always flowers — and the yellow she was carrying caught the east light in the exact way yellow does when the sun is still low enough to be honest." },
-    { "type": "narration", "content": "I drew the curb. The awning. The bus stop sign." },
-    { "type": "narration", "content": "My hand kept wanting to put her there. I redirected it twice. The third time I let it do what it wanted." },
-    { "type": "internalThought", "character": "Ethan", "content": "I told myself I was practicing figures. Which is true. Artists do practice figures. That is a real and legitimate thing." },
-    { "type": "narration", "content": "I told myself this with my whole chest." }
+    { "type": "narration", "content": "I've kept sketchbooks since I was twelve. Forty-three of them now. My mom has the early ones in a bin in her closet and I found them once looking for my rain jacket and spent forty minutes on the floor reading my own handwriting from when I was fourteen. The drawings were bad. The notes I'd written to myself in the margins were more interesting. Even then I was writing things down about light." },
+    { "type": "narration", "content": "The way I start a drawing: loose shapes first. No detail yet, just the feeling of the thing. The outline of the street, the suggestion of the awning, the rough geometry of the buildings. I don't go specific until I understand what I'm actually looking at. Detail too early is just guessing." },
+    { "type": "narration", "content": "The street outside was doing something good with the morning. The bakery awning, the bookstore sign, the woman with yellow flowers moving along the sidewalk. I drew all of it loose, just marks." },
+    { "type": "narration", "content": "Then the bus stop." },
+    { "type": "narration", "content": "My hand went there on its own. I redirected it once. Then again. The third time I let it go." },
+    { "type": "narration", "content": "I told myself I was practicing figures. Which is true — figure drawing is a real thing, a necessary thing. I told myself that clearly and directly." },
+    { "type": "narration", "content": "I kept going." }
   ]
 }
