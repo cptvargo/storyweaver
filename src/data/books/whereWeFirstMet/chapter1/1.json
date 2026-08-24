@@ -5,13 +5,13 @@
   "bookId": "whereWeFirstMet",
   "blocks": [
     { "type": "narration", "content": "ETHAN" },
-    { "type": "narration", "content": "My apartment has one window that faces east." },
-    { "type": "narration", "content": "6:15. The light gets there before the alarm does." },
-    { "type": "narration", "content": "I keep the space a certain way. Not because anyone asked me to — it just helps me think. Paints sorted by temperature on the shelf above my desk, warm left, cool right. Brushes standing handle-up in three mason jars, widest to narrowest. Canvases leaned against the wall in order of size. When I come back from a run, or a commission, or just a long day, I need to be able to see where everything is and know nothing moved." },
-    { "type": "narration", "content": "My mom came over last spring. She looked around carefully before she said anything — which meant she'd already taken it all in before she looked. She asked, in the specific tone of someone who means something else, if I was okay." },
-    { "type": "narration", "content": "I told her I was. She moved a brush on my desk while we were talking — just a couple inches, not on purpose — and I noticed it the moment she did. I didn't say anything." },
-    { "type": "narration", "content": "The sketchbook on the desk is the one exception. It's always open. The cover has pencil smudges and a coffee ring from last year that landed at an angle I found compositionally interesting and couldn't bring myself to wipe away. The pages inside are the only part of my life I don't try to keep orderly." },
+    { "type": "narration", "content": "My apartment faces east, so the light comes in before I'm ready for it. I've been here seven months and I still haven't fixed the blinds." },
+    { "type": "narration", "content": "I've thought about why that is. The honest answer is that fixing them would mean one less thing between me and having to be awake." },
+    { "type": "narration", "content": "6:15." },
+    { "type": "narration", "content": "I keep my space organized because I paint in it. That's the reason I give myself, anyway. The paints are sorted by temperature — warms on the left, cools on the right — and the brushes stand handle-up in mason jars, and the canvases lean against the far wall from tallest to shortest. My mom came over in April and stood in the doorway for a long moment before she asked if I was okay. I said I was. She moved one of my brushes two inches while we were talking, and I noticed the second she did it, and I didn't say anything." },
+    { "type": "narration", "content": "I'm not sure what that says about me." },
+    { "type": "narration", "content": "The sketchbook on the desk doesn't follow any of it. The cover has pencil smudges and a coffee ring I never cleaned because the shape of it was right — it landed at an angle that worked, and removing it felt like a decision I'd regret. The pages inside look like what the rest of the apartment doesn't: like something actually happens here." },
     { "type": "narration", "content": "I pulled on my running clothes. Drank half a glass of water at the sink." },
-    { "type": "narration", "content": "6:23." }
+    { "type": "narration", "content": "6:23. Same as yesterday." }
   ]
 }
