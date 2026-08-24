@@ -5,13 +5,13 @@
   "bookId": "whereWeFirstMet",
   "blocks": [
     { "type": "narration", "content": "ETHAN" },
-    { "type": "narration", "content": "My apartment has one window that faces east, which means I wake up every morning to direct sunlight in my face whether I want it or not. I do not want it. I have never once wanted it. The blinds are broken. I've known how to fix them for six months. I find this character-building." },
-    { "type": "narration", "content": "6:15. Same as always." },
-    { "type": "narration", "content": "I keep the bedroom the way I keep everything else — organized to the point where my mom came over last spring, looked around, and asked if I was okay. I told her I was fine. She moved a paintbrush three inches to the left while she was talking and I spent the rest of her visit trying not to look at it." },
-    { "type": "internalThought", "character": "Ethan", "content": "I'm fine." },
-    { "type": "narration", "content": "The paints are arranged by color family on the shelf above my desk. Warm tones left, cool tones right, neutrals in the middle. The brushes stand handle-up in three mason jars — wide, medium, detail. The canvases lean against the far wall in order of size, tallest to shortest, which is a thing that I do and which I have made my peace with." },
-    { "type": "narration", "content": "The sketchbook on the desk is the exception. It's always open. There are pencil marks on the cover and a coffee ring from sometime last year that I never wiped off because it landed at exactly the right angle and I couldn't bring myself to destroy the composition. The pages inside are the only part of my life that looks like what it actually is." },
-    { "type": "narration", "content": "I pulled on my running clothes. Drank half a glass of water over the sink. Did not look at the blinds." },
-    { "type": "narration", "content": "6:23. On schedule." }
+    { "type": "narration", "content": "My apartment has one window that faces east." },
+    { "type": "narration", "content": "6:15. The light gets there before the alarm does." },
+    { "type": "narration", "content": "I keep the space a certain way. Not because anyone asked me to — it just helps me think. Paints sorted by temperature on the shelf above my desk, warm left, cool right. Brushes standing handle-up in three mason jars, widest to narrowest. Canvases leaned against the wall in order of size. When I come back from a run, or a commission, or just a long day, I need to be able to see where everything is and know nothing moved." },
+    { "type": "narration", "content": "My mom came over last spring. She looked around carefully before she said anything — which meant she'd already taken it all in before she looked. She asked, in the specific tone of someone who means something else, if I was okay." },
+    { "type": "narration", "content": "I told her I was. She moved a brush on my desk while we were talking — just a couple inches, not on purpose — and I noticed it the moment she did. I didn't say anything." },
+    { "type": "narration", "content": "The sketchbook on the desk is the one exception. It's always open. The cover has pencil smudges and a coffee ring from last year that landed at an angle I found compositionally interesting and couldn't bring myself to wipe away. The pages inside are the only part of my life I don't try to keep orderly." },
+    { "type": "narration", "content": "I pulled on my running clothes. Drank half a glass of water at the sink." },
+    { "type": "narration", "content": "6:23." }
   ]
 }
