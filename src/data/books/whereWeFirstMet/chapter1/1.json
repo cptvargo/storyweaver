@@ -5,15 +5,13 @@
   "bookId": "whereWeFirstMet",
   "blocks": [
     { "type": "narration", "content": "ETHAN" },
-    { "type": "narration", "content": "I've been running this same route every morning for two years, which sounds like discipline but is really just that The Copper Mug is the only coffee place within jogging distance that gets the sugar ratio right. I know. I have a lot going on." },
-    { "type": "narration", "content": "Six-thirty run. Eight o'clock coffee. Corner table, two sugars. My mother calls this a concerning lack of spontaneity. I call it knowing what I like, which is probably exactly what an unspontaneous person would say." },
-    { "type": "narration", "content": "The orange cat in the antique shop window has never once acknowledged me. Not once. I've run past it approximately four hundred times. I've started taking it personally." },
-    { "type": "narration", "content": "The Copper Mug was glowing at the end of the block. I was two minutes out, pressing a hand into the stitch in my side, when the bus hissed to the curb." },
-    { "type": "narration", "content": "Gray suit. Grocery bags. Kid with headphones who I'm pretty sure was asleep standing up. Same cast every morning." },
-    { "type": "narration", "content": "Then she stepped off." },
-    { "type": "narration", "content": "I crouched and retied my shoe. My shoe was not untied. I just — I needed somewhere to look that wasn't her." },
-    { "type": "narration", "content": "By the time I stood up she was already crossing toward the arcade two blocks down, laughing at something on her phone the way you only laugh when you think nobody's watching. Paper cup. Silver bracelet catching the light. I noted all of this in approximately two seconds, which is maybe the most embarrassing sentence I have ever thought." },
-    { "type": "narration", "content": "I have a client who paid me two hundred dollars to paint his motorcycle floating in outer space. I'm telling you this so you understand what my life normally looks like. So you understand why four seconds of a stranger stepping off a bus registered the way it did." },
-    { "type": "narration", "content": "I started running before I could do anything else embarrassing." }
+    { "type": "narration", "content": "My apartment has one window that faces east, which means I wake up every morning to direct sunlight in my face whether I want it or not. I do not want it. I have never once wanted it. The blinds are broken. I've known how to fix them for six months. I find this character-building." },
+    { "type": "narration", "content": "6:15. Same as always." },
+    { "type": "narration", "content": "I keep the bedroom the way I keep everything else — organized to the point where my mom came over last spring, looked around, and asked if I was okay. I told her I was fine. She moved a paintbrush three inches to the left while she was talking and I spent the rest of her visit trying not to look at it." },
+    { "type": "internalThought", "character": "Ethan", "content": "I'm fine." },
+    { "type": "narration", "content": "The paints are arranged by color family on the shelf above my desk. Warm tones left, cool tones right, neutrals in the middle. The brushes stand handle-up in three mason jars — wide, medium, detail. The canvases lean against the far wall in order of size, tallest to shortest, which is a thing that I do and which I have made my peace with." },
+    { "type": "narration", "content": "The sketchbook on the desk is the exception. It's always open. There are pencil marks on the cover and a coffee ring from sometime last year that I never wiped off because it landed at exactly the right angle and I couldn't bring myself to destroy the composition. The pages inside are the only part of my life that looks like what it actually is." },
+    { "type": "narration", "content": "I pulled on my running clothes. Drank half a glass of water over the sink. Did not look at the blinds." },
+    { "type": "narration", "content": "6:23. On schedule." }
   ]
 }

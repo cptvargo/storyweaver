@@ -4,25 +4,11 @@
   "chapterTitle": "Passing Lines",
   "bookId": "whereWeFirstMet",
   "blocks": [
-    { "type": "narration", "content": "ETHAN" },
-    { "type": "narration", "content": "Mr. Alvarez had my coffee on the counter before the door finished closing behind me. I've been coming here long enough that I think of us as friends. He probably thinks of me as a reliable revenue stream. I've decided these aren't mutually exclusive." },
-    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "You are late." },
-    { "type": "dialogue", "speaker": "Ethan", "content": "You opened three minutes ago." },
-    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "Late." },
-    { "type": "narration", "content": "I paid. He gave me the coffee. This is our entire relationship and I find it deeply satisfying." },
-    { "type": "narration", "content": "Corner table. Sketchbook open. Pencil tapped twice against a blank page." },
-    { "type": "narration", "content": "Blank pages don't scare me. People do. These are related facts." },
-    { "type": "narration", "content": "The town was waking up outside the window. Delivery truck. Woman with flowers. Two kids outside the bakery in a serious dispute over pastry allocation. I started drawing without thinking too hard — curb, bookstore sign, bakery awning, people as movement before detail. That's usually when the good stuff happens." },
-    { "type": "narration", "content": "Then I saw her." },
-    { "type": "narration", "content": "Across the street, walking with another girl, both of them laughing, both carrying drinks. She had a purple stuffed dinosaur tucked under one arm like it was nothing. Like she won things from rigged machines every day." },
-    { "type": "narration", "content": "My pencil stopped." },
-    { "type": "narration", "content": "I looked down at my page." },
-    { "type": "narration", "content": "I had drawn her into the street scene. Not her face — just movement. The tilt of her shoulders. The loose fall of her hair. The dinosaur, which I had apparently rendered with enough anatomical detail to suggest I had been watching significantly longer than I thought." },
-    { "type": "narration", "content": "I flipped the page before Mr. Alvarez could see." },
-    { "type": "narration", "content": "He had absolutely already seen." },
-    { "type": "dialogue", "speaker": "Mr. Alvarez", "emotion": "smiles", "content": "Two sugars. Because bitterness should only exist in art." },
-    { "type": "dialogue", "speaker": "Ethan", "content": "You say that every time." },
-    { "type": "dialogue", "speaker": "Mr. Alvarez", "content": "It is true every time." },
-    { "type": "narration", "content": "I became very interested in my coffee." }
+    { "type": "narration", "content": "The thing about running that nobody tells you is the first four minutes are actively unpleasant. Your body asks several pointed questions — why are we doing this, where is breakfast, who decided this was okay — and you have to run through all of them before anything becomes manageable." },
+    { "type": "narration", "content": "By minute five my brain usually stops arguing and just starts looking." },
+    { "type": "narration", "content": "This is why I run. Not for the fitness, though my mom brings that up too, right after the class conversation. For the four minutes it takes to get my head to quiet down and just — look. At the street. At the light. At the way early morning does something specific to familiar things, like the regular world ran through a filter it can't quite hold past 9am." },
+    { "type": "narration", "content": "My block smells like bread by 6:30. The bakery on the corner runs their ovens through the night, and by the time I hit the sidewalk the whole street is warm in a way that has nothing to do with temperature. I've tried to paint it twice and failed both times. You can't really paint a smell, but the light that comes with it — low, golden, the way it hits the brick on the east face — is the most honest light I've seen, and I keep thinking eventually I'll find the right angle for it." },
+    { "type": "narration", "content": "I turned left at the corner. Picked up pace on the downhill." },
+    { "type": "narration", "content": "I've run this route so many times I could do it with my eyes closed. I won't, obviously. But I could." }
   ]
 }
